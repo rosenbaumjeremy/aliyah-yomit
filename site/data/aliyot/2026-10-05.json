@@ -165,6 +165,26 @@
         "quote": "שיח לדעתי הוא אילן הנטוע בידי אדם"
        }
       ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Chanina): the two verses speak of different things; here the plants are those meant for the settlement of the world, there (2:9) those of Gan Eden. R. Chiyya adds that both kinds did not sprout until rain fell on them.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 13:1",
+        "quote": "וכאן לישובו של עולם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Chiyya): both the plants here and those in Gan Eden did not sprout until rain fell on them.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 13:1",
+        "quote": "אלו ואלו לא צמחו עד שירדו עליהם גשמים"
+       }
+      ]
      }
     ],
     "why": "It decides whether the world waited for man's prayer and work before it could fully grow."
@@ -267,9 +287,69 @@
         "quote": "אין זאת יצירה שניה אלא היא הישנות הדברים"
        }
       ]
+     },
+     {
+      "text": "Rabbeinu Bahya: having mentioned man's creation in general on the sixth day, the Torah returns and spells out the matter of his creation in detail in this passage.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 2:7:1-3",
+        "quote": "חזר ופירש בפרשה זו ענין הבריאה בפרט"
+       }
+      ]
      }
     ],
     "why": "It governs how the two accounts of creation fit together: as a second event, or as the first told again with new detail."
+   },
+   {
+    "title": "Why does the Torah say man was formed with two formations?",
+    "pasuk": {
+     "text": "וייצר ה' אלהים את האדם עפר מן האדמה",
+     "ref": "Genesis 2:7",
+     "label": "Genesis 2:7"
+    },
+    "question": "The word \"vayyitzer\" is written with two yods, which Chazal read as two formations. What are the two, given that the second had not yet happened?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 2:7:1",
+      "era": "acharon",
+      "quote": "אף על גב שלא היה עדיין אותה היצירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah: one formation from the lower beings and one from the upper beings.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 14:3",
+        "quote": "יצירה מן התחתונים ויצירה מן העליונים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: one formation in this world and one for the World to Come.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 14:5",
+        "quote": "יצירה בעולם הזה ויצירה לעולם הבא"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: since man was created in potential for that future formation, he has two formations now.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 2:7:1",
+        "quote": "כיון שנברא האדם בכח על אותה יצירה שלעתיד"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the verse points to man's dual nature, or to a second life after this one."
    },
    {
     "title": "What is added when man becomes a \"living soul\"?",
@@ -415,9 +495,75 @@
         "quote": "עץ החיים מטבעו שהאוכל מן העץ עצמו חי לעולם"
        }
       ]
+     },
+     {
+      "text": "Rabbeinu Bahya: according to the plain sense the Tree of Knowledge gives those who eat from it will and free choice; before the sin man acted by pure intellect, and afterwards he gained choice between good and evil.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 2:9:1",
+        "quote": "עץ הדעת נותן באוכליו רצון ובחירה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Meir says the tree Adam and Chava ate from was wheat.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 15:7",
+        "quote": "רבי מאיר אומר חטים היו"
+       }
+      ]
      }
     ],
     "why": "It is the key to the whole story of the garden: whether the forbidden tree gave knowledge, desire, or free choice."
+   },
+   {
+    "title": "How can both trees be \"in the middle of the garden\"?",
+    "pasuk": {
+     "text": "ועץ החיים בתוך הגן",
+     "ref": "Genesis 2:9",
+     "label": "Genesis 2:9"
+    },
+    "question": "The Tree of Life is described as in the midst of the garden, and later the Tree of Knowledge is also said to be in the midst of the garden. How can two trees both be at the exact center?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 2:9:2",
+      "era": "acharon",
+      "quote": "ואין להקשות דכאן משמע שעץ החיים הוא בתוך הגן באמצע הגן"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 2:9:2-6",
+      "era": "rishon",
+      "quote": "ואי אפשר לשני אילנות להיות באמצע ממש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rabbeinu Bahya: below the two trees were joined as one, and above they separated, so both were truly in the center.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 2:9:2-6",
+        "quote": "כי חבורן אחד מלמטה והולכים ומתפרדים למעלה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the Midrash says the Tree of Life and the Tree of Knowledge share one root, and the root of both was in the middle of the garden.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 2:9:2",
+        "quote": "עץ החיים ועץ הדעת עיקר אחד להם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the two trees relate: two separate trees, or two branches of a single root."
    },
    {
     "title": "Why was it \"not good\" for man to be alone, if he was already made male and female?",
@@ -439,6 +585,12 @@
       "ref": "Ramban on Genesis 2:18",
       "era": "rishon",
       "quote": "איננו נראה שנברא האדם להיות יחיד בעולם ולא יוליד"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 2:18:1",
+      "era": "acharon",
+      "quote": "ולפיכך הוקשה להם מלת"
      }
     ],
     "answers": [
@@ -501,6 +653,46 @@
         "quote": "שיהיה האדם שרוי שעה אחת בלא אשה"
        }
       ]
+     },
+     {
+      "text": "Bereshit Rabbah: one without a wife lives without good, without help, without joy, without blessing and without atonement.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 17:2",
+        "quote": "שרוי בלא טובה בלא עזר בלא שמחה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: \"a helper opposite him\" – if he merits, a helper; if not, opposite him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 17:3",
+        "quote": "אם זכה עזר ואם לאו כנגדו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: it was not good for man to be in one body with two faces; it is good that the woman be separated from him and stand opposite him as a helper.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 2:18:1-5",
+        "quote": "לא טוב היות האדם בחבור אחד דו פרצופין"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: since man is not God, he must have a mate; unity is fitting only for the One God, so \"not good\" means that unity is not fitting for man by his own nature.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 2:18:1",
+        "quote": "ומאחר שהוא אינו אלוה, בהכרח שיהיה לו זוג"
+       }
+      ]
      }
     ],
     "why": "It frames marriage: as the continuation of the species, a partner in all of life, or a lesson in what is missing without one."
@@ -517,9 +709,12 @@
    "Ramban",
    "Shadal",
    "Sforno",
+   "Bereshit Rabbah",
    "Or HaChaim",
    "Chizkuni",
    "Radak",
+   "Rabbeinu Bahya",
+   "Gur Aryeh",
    "Ibn Ezra"
   ]
  },
@@ -670,6 +865,26 @@
         "quote": "שיח לדעתי הוא אילן הנטוע בידי אדם"
        }
       ]
+     },
+     {
+      "text": "בראשית רבה (רבי חנינא): שני הפסוקים מדברים בדברים שונים – כאן בצמחים של ישובו של עולם, ולהלן (ב, ט) בצמחי גן עדן; ורבי חייא מוסיף ששניהם לא צמחו עד שירדו עליהם גשמים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 13:1",
+        "quote": "וכאן לישובו של עולם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (רבי חייא): גם צמחי השדה כאן וגם צמחי גן עדן לא צמחו עד שירדו עליהם גשמים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 13:1",
+        "quote": "אלו ואלו לא צמחו עד שירדו עליהם גשמים"
+       }
+      ]
      }
     ],
     "why": "היא מכריעה אם העולם המתין לתפילת האדם ולעבודתו כדי לצמוח במלואו."
@@ -772,9 +987,69 @@
         "quote": "אין זאת יצירה שניה אלא היא הישנות הדברים"
        }
       ]
+     },
+     {
+      "text": "רבנו בחיי: אחר שהזכירה התורה בריאת האדם בכלל ביום הששי, חזרה ופירשה בפרשה זו את ענין הבריאה בפרט.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 2:7:1-3",
+        "quote": "חזר ופירש בפרשה זו ענין הבריאה בפרט"
+       }
+      ]
      }
     ],
     "why": "היא קובעת איך שני סיפורי הבריאה מתיישבים: כאירוע שני או כסיפור הראשון בפירוט נוסף."
+   },
+   {
+    "title": "מדוע נאמר שהאדם נוצר שתי יצירות?",
+    "pasuk": {
+     "text": "וייצר ה' אלהים את האדם עפר מן האדמה",
+     "ref": "Genesis 2:7",
+     "label": "בראשית ב, ז"
+    },
+    "question": "המילה \"וייצר\" נכתבת בשני יודי\"ן, וחז\"ל דרשו שתי יצירות. מהן שתי היצירות, והרי השנייה עדיין לא הייתה?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 2:7:1",
+      "era": "acharon",
+      "quote": "אף על גב שלא היה עדיין אותה היצירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה: יצירה אחת מן התחתונים ויצירה אחת מן העליונים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 14:3",
+        "quote": "יצירה מן התחתונים ויצירה מן העליונים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: יצירה אחת בעולם הזה ויצירה אחת לעולם הבא.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 14:5",
+        "quote": "יצירה בעולם הזה ויצירה לעולם הבא"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: מאחר שהאדם נברא בכוח לאותה יצירה עתידית, יש בו שתי יצירות כבר עכשיו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 2:7:1",
+        "quote": "כיון שנברא האדם בכח על אותה יצירה שלעתיד"
+       }
+      ]
+     }
+    ],
+    "why": "היא מבהירה אם הפסוק רומז לדו-הפרצופיות שבאדם או לחיים שאחרי החיים האלה."
    },
    {
     "title": "מה נוסף באדם כשנעשה \"נפש חיה\"?",
@@ -920,9 +1195,75 @@
         "quote": "עץ החיים מטבעו שהאוכל מן העץ עצמו חי לעולם"
        }
       ]
+     },
+     {
+      "text": "רבנו בחיי: על דרך הפשט עץ הדעת נותן באוכליו רצון ובחירה; לפני החטא פעל האדם מתוך שכל גמור, ואחרי האכילה קיבל בחירה לדעת טוב ורע.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 2:9:1",
+        "quote": "עץ הדעת נותן באוכליו רצון ובחירה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבי מאיר אומר שהעץ שאכלו ממנו אדם וחוה היו חטים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 15:7",
+        "quote": "רבי מאיר אומר חטים היו"
+       }
+      ]
      }
     ],
     "why": "זהו המפתח לכל סיפור הגן: האם העץ האסור העניק דעת, תאווה או בחירה חופשית."
+   },
+   {
+    "title": "איך שני העצים יכולים להיות \"בתוך הגן\"?",
+    "pasuk": {
+     "text": "ועץ החיים בתוך הגן",
+     "ref": "Genesis 2:9",
+     "label": "בראשית ב, ט"
+    },
+    "question": "עץ החיים מתואר כנמצא בתוך הגן, ובהמשך גם עץ הדעת נאמר שהוא בתוך הגן. איך ייתכן ששני עצים יהיו שניהם באמצע ממש?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 2:9:2",
+      "era": "acharon",
+      "quote": "ואין להקשות דכאן משמע שעץ החיים הוא בתוך הגן באמצע הגן"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 2:9:2-6",
+      "era": "rishon",
+      "quote": "ואי אפשר לשני אילנות להיות באמצע ממש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רבנו בחיי: למטה היו שני העצים מחוברים כאחד, ולמעלה נפרדו, ולכן שניהם היו באמצע הגן ממש.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 2:9:2-6",
+        "quote": "כי חבורן אחד מלמטה והולכים ומתפרדים למעלה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: במדרש אמרו שעץ החיים ועץ הדעת שורש אחד להם, ושורש שניהם היה באמצע הגן.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 2:9:2",
+        "quote": "עץ החיים ועץ הדעת עיקר אחד להם"
+       }
+      ]
+     }
+    ],
+    "why": "היא מבהירה את היחס בין שני העצים: שני עצים נפרדים, או שני ענפים משורש אחד."
    },
    {
     "title": "מדוע \"לא טוב היות האדם לבדו\" אם כבר נברא זכר ונקבה?",
@@ -944,6 +1285,12 @@
       "ref": "Ramban on Genesis 2:18",
       "era": "rishon",
       "quote": "איננו נראה שנברא האדם להיות יחיד בעולם ולא יוליד"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 2:18:1",
+      "era": "acharon",
+      "quote": "ולפיכך הוקשה להם מלת"
      }
     ],
     "answers": [
@@ -1006,6 +1353,46 @@
         "quote": "שיהיה האדם שרוי שעה אחת בלא אשה"
        }
       ]
+     },
+     {
+      "text": "בראשית רבה: מי שאין לו אשה שרוי בלא טובה, בלא עזר, בלא שמחה, בלא ברכה ובלא כפרה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 17:2",
+        "quote": "שרוי בלא טובה בלא עזר בלא שמחה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: \"עזר כנגדו\" – אם זכה, עזר; ואם לאו, כנגדו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 17:3",
+        "quote": "אם זכה עזר ואם לאו כנגדו"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: לא טוב היות האדם בחיבור אחד דו פרצופין, וטוב שתיפרד ממנו ותעמוד לנגדו כעזר.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 2:18:1-5",
+        "quote": "לא טוב היות האדם בחבור אחד דו פרצופין"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: מאחר שהאדם אינו אלוה, בהכרח שיהיה לו זוג; האחדות ראויה רק לקב\"ה היחיד, ולכן \"לא טוב\" פירושו שאין ראויה לאדם אחדות מצד עצמו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 2:18:1",
+        "quote": "ומאחר שהוא אינו אלוה, בהכרח שיהיה לו זוג"
+       }
+      ]
      }
     ],
     "why": "היא מסגרת את הנישואין: המשך המין, שותפות בכל החיים, או לימוד על מה שחסר בלעדיה."
@@ -1022,9 +1409,12 @@
    "רמב\"ן",
    "שד\"ל",
    "ספורנו",
+   "בראשית רבה",
    "אור החיים",
    "חזקוני",
    "רד\"ק",
+   "רבנו בחיי",
+   "גור אריה",
    "אבן עזרא"
   ]
  }
