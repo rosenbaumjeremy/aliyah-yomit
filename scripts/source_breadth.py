@@ -84,16 +84,24 @@ def main():
     ranges = sys.argv[2:] or [r["sefaria"] for r in brief.get("refs", [])]
     if not ranges and brief.get("range"):
         ranges = [brief["range"]]
+    # One work can be linked under several categories (Rabbeinu Bahya is
+    # "Commentary" on these verses and "Quoting Commentary" elsewhere); keep the
+    # Commentary or Midrash one when there is one.
+    rank = {"Commentary": 0, "Midrash": 1}
     category = {}
     for ref in ranges:
         for link in links(ref):
-            category.setdefault(link.get("index_title", ""), link.get("category", "Other"))
+            title, cat = link.get("index_title", ""), link.get("category", "Other")
+            if rank.get(cat, 9) < rank.get(category.get(title), 9) or title not in category:
+                category[title] = cat
 
     def work(ref):
         """(Sefaria category, index title) of a cited ref."""
         best = max((t for t in category if t and ref.startswith(t)), key=len, default="")
         if not best:
             return own_category(ref), ""
+        if not allowed(category[best], best):
+            return own_category(ref), best
         return category[best], best
 
     questions = brief["english"]["questions"]
