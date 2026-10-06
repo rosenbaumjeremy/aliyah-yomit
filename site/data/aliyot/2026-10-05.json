@@ -19,883 +19,543 @@
   "english": "24 Tishrei 5787"
  },
  "english": {
-  "summary": "The second aliyah (Genesis 2:4-2:19) opens a second, more intimate account of creation, now under the double name \"Hashem Elokim\". It describes how before rain and human labor no shrub had yet grown, how God formed man from the dust and breathed into him a living soul, and how He planted the garden of Eden with its rivers and its two special trees. It then records man's placement in the garden, the first prohibition (the Tree of Knowledge of good and evil) with its warning \"mot tamut\", God's observation that it is not good for man to be alone, and the formation of the animals and man's naming of them. Abarbanel counts some seventeen difficulties in this passage alone, and the questions below are drawn from the sharpest of them.",
+  "summary": "The second aliyah opens with a second account of creation, \"the generations of heaven and earth\": the earth is still without plants or rain, and God forms man from the dust and breathes life into him. God plants a garden in Eden with the tree of life and the tree of knowledge of good and evil, places man there to work it and guard it, and forbids the fruit of the tree of knowledge on pain of death. God then says it is not good for man to be alone, forms the animals and birds, and brings them to man, who names them.",
   "questions": [
    {
-    "title": "What are the \"toldot\" of heaven and earth, and why \"behibaram\"?",
+    "title": "Why had no rain fallen?",
     "pasuk": {
-     "text": "אֵלֶּה תוֹלְדוֹת הַשָּׁמַיִם וְהָאָרֶץ בְּהִבָּרְאָם",
-     "ref": "Genesis 2:4",
-     "label": "Genesis 2:4"
-    },
-    "question": "Abarbanel (question 1) finds the verse difficult in three ways: it is unclear what the \"toldot\" are; if they refer to the six days (as Rashi, Ibn Ezra and Ralbag say) there is no need for this information; and the phrase \"beyom asot\" refers only to the first day's work, not to the later days that produced the toldot.",
-    "asked_by": [
-     {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
-     }
-    ],
-    "answers": [
-     {
-      "text": "Rashi: \"eleh\" refers to the things spoken of above (the creation account just told).",
-      "sources": [
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 2:4:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Ramban: it begins to tell the generations of heaven and earth in rain and growth, as the heavens give dew and rain and the earth gives its produce; the word \"behibaram\" hints at the letter hei (\"behei baram\"), and the name Hashem Elokim now appears together.",
-      "sources": [
-       {
-        "name": "Ramban",
-        "ref": "Ramban on Genesis 2:4:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Sforno: the plants and animals were the toldot of heaven and earth in potential from the moment they were created, and only later emerged in actuality.",
-      "sources": [
-       {
-        "name": "Sforno",
-        "ref": "Sforno on Genesis 2:4:1"
-       }
-      ],
-      "synthesis": false
-     }
-    ],
-    "why": "It determines whether the second chapter is a restatement of the first, or a new account with a different focus."
-   },
-   {
-    "title": "If plants were created on day three, why were there no plants yet?",
-    "pasuk": {
-     "text": "וְכֹל שִׂיחַ הַשָּׂדֶה טֶרֶם יִהְיֶה בָאָרֶץ",
+     "text": "כי לא המטיר יהוה אלהים על הארץ ואדם אין לעבד את האדמה",
      "ref": "Genesis 2:5",
      "label": "Genesis 2:5"
     },
-    "question": "Abarbanel (questions 2-3) asks why the Torah tells us what did not yet exist, and how it can say that no plants grew when the third day's work already included vegetation. He also asks (question 4) why, if there was no man to work the ground, did the mist go up to water it?",
+    "question": "The verse says no shrub or plant had yet grown because God had not sent rain and there was no man to work the ground. Why had it not rained, and how does this fit the plants made on the third day?",
     "asked_by": [
      {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 2:5",
+      "era": "rishon",
+      "quote": "ומ\"ט לא המטיר"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: \"terem\" means \"not yet\"; the plants were created on day three but stood at the opening of the ground and did not emerge until man prayed for rain on day six.",
+      "text": "Rashi: there was no man to work the ground and appreciate the benefit of rain. When man came and knew the world needs it, he prayed and the rain fell.",
       "sources": [
        {
         "name": "Rashi",
-        "ref": "Rashi on Genesis 2:5:1"
-       },
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 2:5:2"
+        "ref": "Rashi on Genesis 2:5",
+        "quote": "לפי שאדם אין לעבוד את האדמה, ואין מכיר בטובתם של גשמים"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Ramban: according to the Rabbis plants stood at the ground's opening until day six; but his own plain reading is that the ground did bring forth plants on day three, and the verse is telling us that none were planted or sown and that growth depends on rising mist and human work. He notes the word \"sadeh\" means cultivated land.",
+      "text": "Ramban: on the plain reading, on the third day the earth did bring forth grass and fruit trees in their full stature. Here the verse tells what had not yet been planted or sown.",
       "sources": [
        {
         "name": "Ramban",
-        "ref": "Ramban on Genesis 2:5:1"
+        "ref": "Ramban on Genesis 2:5",
+        "quote": "ועל דעתי כפי הפשט כי בשלישי הוציאה הארץ העשב ועץ הפרי בקומתם וצביונם"
        }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Sforno: at creation they existed only in potential, not in actuality, so a shrub \"was not yet\" on the earth.",
-      "sources": [
-       {
-        "name": "Sforno",
-        "ref": "Sforno on Genesis 2:5:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Rashi on 2:6: the rising mist was for the creation of man, to soften the dust, as one adds water before kneading dough.",
-      "sources": [
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 2:6:1"
-       }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "It tests how to read the two accounts together, and what the relationship is between divine creation and human effort."
+    "why": "It ties the growth of the world to human work and prayer."
    },
    {
-    "title": "Why does the Torah retell the creation of man, and what is the \"double yod\" in \"vayitzer\"?",
+    "title": "Why is man's creation told again?",
     "pasuk": {
-     "text": "וַיִּיצֶר ה' אֱלֹהִים אֶת הָאָדָם עָפָר מִן הָאֲדָמָה",
+     "text": "וייצר יהוה אלהים את האדם עפר מן האדמה",
      "ref": "Genesis 2:7",
      "label": "Genesis 2:7"
     },
-    "question": "Abarbanel (questions 5-7) asks how the formation of man connects to the discussion of plants, why his creation is told a second time, and why the verse here omits the \"image of God\" that chapter one mentions. He also asks what advantage \"nefesh chayah\" gives man, since animals also have it.",
+    "question": "The Torah already wrote that God created man. Why does it recount the forming of man and the animals a second time?",
     "asked_by": [
      {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 2:8",
+      "era": "rishon",
+      "quote": "ואם תאמר, הרי כבר כתב ויברא את האדם"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: the two yods in \"vayitzer\" signal two formations, one for this world and one for the resurrection; an animal, which does not stand to be judged, has only one yod. On 2:8 Rashi adds the rule of kelal u'frat: the second telling is the detail of the first.",
+      "text": "Rashi: a general statement followed by an action is the detail of the first. The first account is the general statement, and the second gives the particulars.",
       "sources": [
        {
         "name": "Rashi",
-        "ref": "Rashi on Genesis 2:7:1"
-       },
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 2:8:1"
+        "ref": "Rashi on Genesis 2:8",
+        "quote": "כלל שלאחריו מעשה הוא פרטו של ראשון"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Rashi (2:7): man's dust was gathered from the whole earth, from all four directions, so that wherever he dies the earth will receive him for burial.",
+      "text": "Rashi (on the animals): the second account teaches that birds were made from the swamp mud, not from the water.",
       "sources": [
        {
         "name": "Rashi",
-        "ref": "Rashi on Genesis 2:7:2"
+        "ref": "Rashi on Genesis 2:19",
+        "quote": "אלא בא ופירש שהעופות נבראו מן הרקק"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Ramban: the phrase \"vayipach be'apav nishmat chayim\" hints at the soul's rank: the full divine name is used to teach that it did not come from the elements, nor from separate intellects, but is the spirit of God Himself.",
+      "text": "Sforno: God gave the animals the perfection of a sensing form.",
       "sources": [
        {
-        "name": "Ramban",
-        "ref": "Ramban on Genesis 2:7:1"
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 2:19",
+        "quote": "נתן להם שלמות צורה מרגשת"
        }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "It defines the nature of man: body from earth, soul from God."
+    "why": "It decides whether chapter 2 is a second story or the detail of chapter 1."
    },
    {
-    "title": "What are the Tree of Life and the Tree of Knowledge?",
+    "title": "Why two yods in \"vayyitzer\"?",
     "pasuk": {
-     "text": "וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע",
-     "ref": "Genesis 2:9",
-     "label": "Genesis 2:9"
+     "text": "וייצר יהוה אלהים את האדם",
+     "ref": "Genesis 2:7",
+     "label": "Genesis 2:7"
     },
-    "question": "Abarbanel (question 13) asks how a tree, itself perishable, could give eternal life, and how a plant lacking even sensation could grant knowledge, which man acquires by thought. Ramban notes that the verse places the Tree of Life \"in the middle\" and says nothing about where the Tree of Knowledge stood.",
+    "question": "The word for forming man is spelled with two yods, but the word for forming the animals has one. What does the extra yod show?",
     "asked_by": [
      {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
-     },
-     {
-      "name": "Ramban",
-      "ref": "Ramban on Genesis 2:9:1",
-      "era": "rishon"
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 2:7",
+      "era": "rishon",
+      "quote": "אבל בבהמה שאינה עומדת לדין לא נכתב ביצירתה שני יודי\"ן"
      }
     ],
     "answers": [
      {
-      "text": "Ramban: both stood in the middle, in one bed in the center of the garden. The Tree of Life gave long life to those who ate it. \"The commentators\" said the fruit of the Tree of Knowledge produced sexual desire, as shown by Adam and Eve covering themselves; Ramban rejects this, since the serpent said \"you will be like God\" and God later affirms that man became \"like one of us\".",
+      "text": "Rashi: two creations, one for this world and one for the revival of the dead. The beast, which does not stand for judgment, is not written with two yods.",
       "sources": [
        {
-        "name": "Ramban",
-        "ref": "Ramban on Genesis 2:9:1"
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 2:7",
+        "quote": "שתי יצירות, יצירה לעולם הזה ויצירה לתחיית המתים"
        }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Ramban's own view: before eating, man acted by nature as the heavenly bodies do; the fruit created will and choice, and \"da'at\" here means will, as in \"mah adam vateda'ehu\".",
-      "sources": [
-       {
-        "name": "Ramban",
-        "ref": "Ramban on Genesis 2:9:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Ibn Ezra (2:17): Adam was full of knowledge, shown by his naming of all animals; he lacked only knowledge in one matter, of good and evil.",
-      "sources": [
-       {
-        "name": "Ibn Ezra",
-        "ref": "Ibn Ezra on Genesis 2:17:1"
-       }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "It frames the nature of the first sin: knowledge, desire or free will."
+    "why": "It finds in a spelling a claim about resurrection and judgment."
    },
    {
-    "title": "Why does Eden need a worker and a guard?",
+    "title": "What work was there in Eden?",
     "pasuk": {
-     "text": "וַיִּקַּח ה' אֱלֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ",
+     "text": "ויקח יהוה אלהים את האדם וינחהו בגן עדן לעבדה ולשמרה",
      "ref": "Genesis 2:15",
      "label": "Genesis 2:15"
     },
-    "question": "Or HaChaim asks: the verse implies the garden needs a worker and guard, but \"the truth contradicts this\": from whom would it be guarded, thieves? And who worked it for five thousand five hundred years before? Abarbanel (question 12) adds that working the ground is not man's purpose in creation.",
+    "question": "The trees of Eden were made to live forever and needed no tending. Why then was man placed in the garden \"to work it and to guard it\"?",
     "asked_by": [
      {
-      "name": "Or HaChaim",
-      "ref": "Or HaChaim on Genesis 2:15:1",
-      "era": "acharon"
-     },
-     {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 2:8",
+      "era": "rishon",
+      "quote": "אם כן מה טעם וינחהו בגן עדן לעבדה ולשמרה"
      }
     ],
     "answers": [
      {
-      "text": "Or HaChaim: all that exists is a model of spiritual things: Eden today is the land of souls and needs spiritual work: Torah study is its rain, and mitzvot are its seeds.",
-      "sources": [
-       {
-        "name": "Or HaChaim",
-        "ref": "Or HaChaim on Genesis 2:15:2"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Sforno: the work is to serve the soul of life that God breathed into him.",
-      "sources": [
-       {
-        "name": "Sforno",
-        "ref": "Sforno on Genesis 2:15:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Rashi: God took him with pleasant words and persuaded him to enter.",
-      "sources": [
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 2:15:1"
-       }
-      ],
-      "synthesis": false
-     }
-    ],
-    "why": "It asks what man's job was before the sin."
-   },
-   {
-    "title": "Did Adam die on the day he ate? What was the \"mot tamut\"?",
-    "pasuk": {
-     "text": "כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת",
-     "ref": "Genesis 2:17",
-     "label": "Genesis 2:17"
-    },
-    "question": "Abarbanel (question 15): the warning implies that without the sin man would have been immortal, yet his body is composed of elements and thus naturally perishable; and the later curse says \"to dust you shall return\", which implies mortality was natural. Adam also did not die on that day.",
-    "asked_by": [
-     {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
-     }
-    ],
-    "answers": [
-     {
-      "text": "Ramban: \"on the day you eat\" means that at that time you become liable to death, like \"on the day you go out... you shall surely die\" (I Kings 2:42), not that you die immediately. According to the naturalists man was destined to die from creation; now God decreed he would die early for sin. According to the Rabbis, were it not for the sin he would never have died.",
+      "text": "Ramban: to work the soil of the garden, the beds he would make there, since the trees themselves need no work.",
       "sources": [
        {
         "name": "Ramban",
-        "ref": "Ramban on Genesis 2:17:2"
+        "ref": "Ramban on Genesis 2:8",
+        "quote": "וזה טעם לעבדה ולשמרה, לעבוד אדמת הגן הערוגות שיעשה שם"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Bekhor Shor: know that your end is to die, that you will not escape death at the end; it does not say he will die on that day.",
+      "text": "Ramban (citing the Sages): \"to work it and guard it\" means the sacrifices.",
       "sources": [
        {
-        "name": "Bekhor Shor",
-        "ref": "Bekhor Shor, Genesis 2:17:1"
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 2:8",
+        "quote": "לעבדה ולשמרה, אלו הקרבנות"
        }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "It clarifies whether death is natural to man or a punishment."
+    "why": "It asks what man's purpose was in paradise before the sin."
    },
    {
-    "title": "What is \"not good\" about man being alone, and what is \"ezer kenegdo\"?",
+    "title": "Why is it \"not good\" for man to be alone?",
     "pasuk": {
-     "text": "לֹא טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂה לּוֹ עֵזֶר כְּנֶגְדּוֹ",
+     "text": "לא טוב היות האדם לבדו",
      "ref": "Genesis 2:18",
      "label": "Genesis 2:18"
     },
-    "question": "Abarbanel (question 16): the verse says earlier that God created \"male and female\", so why was man alone? And if the woman was created out of necessity for the species, why is she called a \"helper\"?",
+    "question": "After each act of creation God saw that it was good. In what way was it not good for man to be alone?",
     "asked_by": [
      {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 2:18",
+      "era": "rishon",
+      "quote": "איננו נראה שנברא האדם להיות יחיד בעולם ולא יוליד"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: so that people would not say there are two authorities, God alone above and man alone below. And \"ezer kenegdo\": if he merits, a help; if not, against him, to fight.",
+      "text": "Rashi: so that people would not say there are two powers, the Holy One alone above and this one alone below, each without a partner.",
       "sources": [
        {
         "name": "Rashi",
-        "ref": "Rashi on Genesis 2:18:1"
-       },
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 2:18:2"
+        "ref": "Rashi on Genesis 2:18",
+        "quote": "שלא יאמרו שתי רשויות הן, הקב\"ה יחיד בעליונים ואין לו זוג"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Ramban: man was created two-faced, with a power of procreation, and God saw that the helper should stand opposite him; \"good\" in creation means survival, so being alone would not endure.",
+      "text": "Ramban: so that it should not be said of him that it was good for him to be alone, since he would not endure; in creation, \"good\" means lasting.",
       "sources": [
        {
         "name": "Ramban",
-        "ref": "Ramban on Genesis 2:18:1"
+        "ref": "Ramban on Genesis 2:18",
+        "quote": "וטעם לא טוב, שלא יאמר בו כי טוב בהיותו לבדו, שלא יתקיים כן"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Sforno: the intended goal of his image would not be attained if he had to occupy himself with his own life needs.",
+      "text": "Sforno: the purpose intended by his likeness and image would not be reached if he had to attend to his own needs.",
       "sources": [
        {
         "name": "Sforno",
-        "ref": "Sforno on Genesis 2:18:1"
+        "ref": "Sforno on Genesis 2:18",
+        "quote": "לא יושג טוב התכלית המכוון בדמותו ובצלמו"
        }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "Kli Yakar: wherever there is division there is no good (hence no \"ki tov\" on day two), so woman had to come from the same material as man.",
-      "sources": [
-       {
-        "name": "Kli Yakar",
-        "ref": "Kli Yakar on Genesis 2:18:1"
-       }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "It addresses the purpose of marriage: unity, help or companionship."
+    "why": "It teaches that man's completion is relational, whether for theology, survival or purpose."
    },
    {
-    "title": "Were the animals formed after man, contradicting chapter one?",
+    "title": "Is she a helper or an opposite?",
     "pasuk": {
-     "text": "וַיִּצֶר ה' אֱלֹהִים מִן הָאֲדָמָה כָּל חַיַּת הַשָּׂדֶה",
-     "ref": "Genesis 2:19",
-     "label": "Genesis 2:19"
+     "text": "אעשה לו עזר כנגדו",
+     "ref": "Genesis 2:18",
+     "label": "Genesis 2:18"
     },
-    "question": "Abarbanel (question 17) and Rashi note that chapter one already describes the creation of land animals before man, yet here they are formed and brought to Adam. Abarbanel also discusses whether Adam invented language or received it.",
+    "question": "\"A helper opposite him\" seems to say two things at once, a helper and one set against him. How are they one?",
     "asked_by": [
      {
-      "name": "Abarbanel",
-      "ref": "Abarbanel on Torah, Genesis 2:19",
-      "era": "rishon"
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 2:18",
+      "era": "rishon",
+      "quote": "זכה – עזר; לא זכה – כנגדו להלחם"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: this is the same formation as the earlier one; the verse comes to specify that birds were formed from the swamp, and that when they were formed God brought them to Adam the same day to be named.",
+      "text": "Rashi: if he merits, a helper; if he does not merit, opposed to him, to fight.",
       "sources": [
        {
         "name": "Rashi",
-        "ref": "Rashi on Genesis 2:19:1"
+        "ref": "Rashi on Genesis 2:18",
+        "quote": "זכה – עזר; לא זכה – כנגדו להלחם"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Sforno: God gave them perfection of sentient form, which the heavenly force alone did not suffice for without a seminal force.",
+      "text": "Sforno: a helper who is equal to him in image and likeness.",
       "sources": [
        {
         "name": "Sforno",
-        "ref": "Sforno on Genesis 2:19:1"
+        "ref": "Sforno on Genesis 2:18",
+        "quote": "עזר שיהיה כמו שוה לו בצלם ודמות"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "Abarbanel: God created the language and its structure and implanted its roots in Adam's soul, so Adam's naming was natural to the true nature of things.",
+      "text": "Ramban: God saw that it was good for the helper to stand opposite him, so that he sees her, parts from her and joins her as he wishes.",
       "sources": [
        {
-        "name": "Abarbanel",
-        "ref": "Abarbanel on Torah, Genesis 2:19"
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 2:18",
+        "quote": "ראה הקב\"ה כי טוב שיהיה העזר עומד לנגדו"
        }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "It touches on the harmony of the two accounts and the origin of language."
+    "why": "It reads a marriage as both support and equal standing."
    }
   ],
   "sources_consulted": [
-   "Abarbanel on Torah, Genesis 2:4, 2:5, 2:8, 2:18, 2:19",
-   "Rashi on Genesis 2:4-2:9, 2:15, 2:18, 2:19",
-   "Ramban on Genesis 2:4, 2:5, 2:7, 2:9, 2:17, 2:18, 2:19",
-   "Ibn Ezra on Genesis 2:4, 2:5, 2:7, 2:17, 2:19",
-   "Sforno on Genesis 2:4, 2:5, 2:15, 2:17, 2:18, 2:19",
-   "Or HaChaim on Genesis 2:15",
-   "Kli Yakar on Genesis 2:18",
-   "Bekhor Shor on Genesis 2:17",
-   "Radak on Genesis 2:17"
+   "Rashi",
+   "Ramban",
+   "Sforno"
   ]
  },
  "hebrew": {
-  "summary": "העלייה השנייה (בראשית ב, ד – ב, יט) פותחת בתיאור שני, אינטימי יותר, של הבריאה, בשם הכפול \"ה' אלהים\". היא מספרת שלפני הגשם ועבודת האדם עדיין לא צמח שיח, שה' יצר את האדם מעפר ונפח באפיו נשמת חיים, ונטע את גן עדן עם נהרותיו ושני עציו המיוחדים. אחר כך מסופר על הנחת האדם בגן, האיסור הראשון (עץ הדעת טוב ורע) עם האזהרה \"מות תמות\", דברי ה' \"לא טוב היות האדם לבדו\", ויצירת החיות וקריאת השמות בידי האדם. אברבנאל מונה כשבע עשרה שאלות בפרשה זו בלבד, והשאלות להלן נלקחו מן החריפות שבהן.",
+  "summary": "העלייה השנייה פותחת בתיאור שני של הבריאה, \"אלה תולדות השמים והארץ\": הארץ עדיין בלי צמחים וגשם, והקב\"ה יוצר את האדם מעפר ונופח בו נשמת חיים. הוא נוטע גן בעדן עם עץ החיים ועץ הדעת טוב ורע, מניח בו את האדם לעבדה ולשמרה, ואוסר עליו לאכול מעץ הדעת על עונש מוות. אחר כך אומר שלא טוב היות האדם לבדו, יוצר את החיות והעופות ומביאם אל האדם, והוא קורא להם שמות.",
   "questions": [
    {
-    "title": "מהן \"תולדות\" השמים והארץ, ומה פשר \"בהבראם\"?",
+    "title": "מדוע לא ירדו גשמים?",
     "pasuk": {
-     "text": "אֵלֶּה תוֹלְדוֹת הַשָּׁמַיִם וְהָאָרֶץ בְּהִבָּרְאָם",
-     "ref": "Genesis 2:4",
-     "label": "בראשית ב, ד"
-    },
-    "question": "אברבנאל (שאלה א') מקשה על הפסוק משלושה פנים: לא ידענו מהן התולדות; ואם הן ששת הימים (כדברי רש\"י, אבן עזרא והרלב\"ג) אין צורך בידיעה זו; וגם \"ביום עשות\" נאמר על מלאכת היום הראשון בלבד, לא על שאר הימים שהם התולדות.",
-    "asked_by": [
-     {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
-     }
-    ],
-    "answers": [
-     {
-      "text": "רש\"י: \"אלה\" – האמורים למעלה.",
-      "sources": [
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:4:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "רמב\"ן: מתחיל לספר תולדות השמים והארץ במטר ובצמיחה, שהשמים נותנים טל ומטר והארץ נותנת יבולה; \"בהבראם\" רומז ל\"בה' בראם\", ומכאן מופיע שם ה' אלהים יחד.",
-      "sources": [
-       {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:4:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "ספורנו: הצמחים ובעלי החיים היו תולדות השמים והארץ בכוח מעת שנבראו, ורק אחר כך יצאו לפועל.",
-      "sources": [
-       {
-        "name": "ספורנו",
-        "ref": "Sforno on Genesis 2:4:1"
-       }
-      ],
-      "synthesis": false
-     }
-    ],
-    "why": "היא קובעת אם הפרק השני חוזר על הראשון או מספר סיפור חדש בכיוון אחר."
-   },
-   {
-    "title": "אם הצמחים נבראו ביום שלישי, למה לא היה עדיין צמח?",
-    "pasuk": {
-     "text": "וְכֹל שִׂיחַ הַשָּׂדֶה טֶרֶם יִהְיֶה בָאָרֶץ",
+     "text": "כי לא המטיר יהוה אלהים על הארץ ואדם אין לעבד את האדמה",
      "ref": "Genesis 2:5",
      "label": "בראשית ב, ה"
     },
-    "question": "אברבנאל (שאלות ב'-ג') שואל למה הכתוב מודיע מה שלא היה, ואיך אפשר לומר שלא צמחו צמחים כשמלאכת היום השלישי כללה צמחים. ועוד (שאלה ד') – אם לא היה אדם לעבוד את האדמה, למה עלה האד להשקות אותה?",
+    "question": "הכתוב אומר שעדיין לא צמח שיח ועשב כי לא המטיר ה' ואדם אין לעבוד את האדמה. מדוע לא המטיר, ואיך הדבר מתיישב עם הצמחים שנבראו ביום השלישי?",
     "asked_by": [
      {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 2:5",
+      "era": "rishon",
+      "quote": "ומ\"ט לא המטיר"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: \"טרם\" – עדיין לא; הצמחים נבראו בשלישי אך עמדו על פתח הקרקע ולא יצאו עד שהתפלל האדם על הגשם ביום ששי.",
+      "text": "רש\"י: לפי שאדם אין לעבוד את האדמה ואין מכיר בטובתם של גשמים. כשבא אדם וידע שהם צורך לעולם, התפלל עליהם וירדו.",
       "sources": [
        {
         "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:5:1"
-       },
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:5:2"
+        "ref": "Rashi on Genesis 2:5",
+        "quote": "לפי שאדם אין לעבוד את האדמה, ואין מכיר בטובתם של גשמים"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "רמב\"ן: לדעת רבותינו עמדו על פתח הקרקע עד ששי; אך לפי פשוטו הוציאה הארץ צמחים בשלישי, והכתוב מספר שאין נוטע וזורע, וכי הצמיחה תלויה בעליית האד ובעבודת האדם. הוא מציין ש\"שדה\" הוא מקום מעובד.",
+      "text": "רמב\"ן: על דעתי כפי הפשט, בשלישי הוציאה הארץ את העשב ועץ הפרי בקומתם וצביונם, ועכשיו מספר הכתוב שאין נוטע וזורע מהם.",
       "sources": [
        {
         "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:5:1"
+        "ref": "Ramban on Genesis 2:5",
+        "quote": "ועל דעתי כפי הפשט כי בשלישי הוציאה הארץ העשב ועץ הפרי בקומתם וצביונם"
        }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "ספורנו: בעת הבריאה היו בכוח ולא בפועל, ולכן \"עדיין לא היה\" שיח בארץ.",
-      "sources": [
-       {
-        "name": "ספורנו",
-        "ref": "Sforno on Genesis 2:5:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "רש\"י על ב, ו: האד העלה את התהום להשקות את העפר לשרות, כדי שיברא האדם, כמי שנותן מים ואחר כך לש את העיסה.",
-      "sources": [
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:6:1"
-       }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "היא בוחנת איך לקרוא יחד את שני התיאורים, ומה היחס בין בריאה אלהית לעמל אנושי."
+    "why": "השאלה קושרת את צמיחת העולם לעבודת האדם ולתפילתו."
    },
    {
-    "title": "למה התורה חוזרת ומספרת על יצירת האדם, ומה פשר שני היו\"דין ב\"וייצר\"?",
+    "title": "מדוע חוזרת התורה על יצירת האדם?",
     "pasuk": {
-     "text": "וַיִּיצֶר ה' אֱלֹהִים אֶת הָאָדָם עָפָר מִן הָאֲדָמָה",
+     "text": "וייצר יהוה אלהים את האדם עפר מן האדמה",
      "ref": "Genesis 2:7",
      "label": "בראשית ב, ז"
     },
-    "question": "אברבנאל (שאלות ה'-ז') שואל מה הקשר בין יצירת האדם לענין הצמחים, למה סיפור בריאתו נשנה, ולמה כאן לא נאמר \"בצלם אלהים\" כבפרק א'. ועוד – איזה יתרון יש באדם ב\"נפש חיה\", והרי גם בהמה נקראת כך.",
+    "question": "התורה כבר כתבה שהקב\"ה ברא את האדם. מדוע היא חוזרת ומספרת פעם נוספת על יצירת האדם והחיות?",
     "asked_by": [
      {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 2:8",
+      "era": "rishon",
+      "quote": "ואם תאמר, הרי כבר כתב ויברא את האדם"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: שתי יצירות – יצירה לעולם הזה ויצירה לתחיית המתים; בבהמה, שאינה עומדת לדין, לא נכתבו שני יו\"דין. ועל ב, ח מוסיף רש\"י את הכלל \"כלל ופרט\": הסיפור השני הוא פרטו של הראשון.",
+      "text": "רש\"י: כלל שלאחריו מעשה הוא פרטו של ראשון. הפרשה הראשונה היא הכלל והשנייה מפרטת.",
       "sources": [
        {
         "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:7:1"
-       },
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:8:1"
+        "ref": "Rashi on Genesis 2:8",
+        "quote": "כלל שלאחריו מעשה הוא פרטו של ראשון"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "רש\"י (ב, ז): צבר עפרו מכל האדמה מארבע רוחות, שכל מקום שימות שם תקלטנו לקבורה.",
+      "text": "רש\"י (על החיות): בא ופירש שהעופות נבראו מן הרקק.",
       "sources": [
        {
         "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:7:2"
+        "ref": "Rashi on Genesis 2:19",
+        "quote": "אלא בא ופירש שהעופות נבראו מן הרקק"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "רמב\"ן: \"ויפח באפיו נשמת חיים\" רומז למעלת הנפש: הוזכר שם מלא, להודיע שלא באה מן היסודות, וגם לא בהשתלשלות מן השכלים הנבדלים, אלא היא רוח השם הגדול.",
+      "text": "ספורנו: נתן להם שלמות צורה מרגשת.",
       "sources": [
        {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:7:1"
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 2:19",
+        "quote": "נתן להם שלמות צורה מרגשת"
        }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "היא מגדירה את מהות האדם: גוף מן הארץ ונשמה מאת ה'."
+    "why": "זה קובע אם פרק ב הוא סיפור שני או פירוט של פרק א."
    },
    {
-    "title": "מהם עץ החיים ועץ הדעת?",
+    "title": "מדוע שני יודי\"ן ב\"וייצר\"?",
     "pasuk": {
-     "text": "וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע",
-     "ref": "Genesis 2:9",
-     "label": "בראשית ב, ט"
+     "text": "וייצר יהוה אלהים את האדם",
+     "ref": "Genesis 2:7",
+     "label": "בראשית ב, ז"
     },
-    "question": "אברבנאל (שאלה י\"ג) שואל איך עץ, שהוא עצמו נפסד, יתן חיי נצח, ואיך צמח חסר הרגש יתן דעת, שהאדם רוכש במחשבה ועיון. והרמב\"ן מציין שהכתוב מציין \"בתוך הגן\" רק לעץ החיים ושותק על מקומו של עץ הדעת.",
+    "question": "המילה ליצירת האדם נכתבת בשני יודי\"ן, ואילו ביצירת הבהמה יש יו\"ד אחת. מה מראה היו\"ד הנוספת?",
     "asked_by": [
      {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
-     },
-     {
-      "name": "רמב\"ן",
-      "ref": "Ramban on Genesis 2:9:1",
-      "era": "rishon"
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 2:7",
+      "era": "rishon",
+      "quote": "אבל בבהמה שאינה עומדת לדין לא נכתב ביצירתה שני יודי\"ן"
      }
     ],
     "answers": [
      {
-      "text": "רמב\"ן: שניהם עמדו באמצע, בערוגה אחת באמצע הגן. עץ החיים נתן חיים ארוכים לאוכליו. \"המפרשים\" אמרו שפרי עץ הדעת הוליד תאוות משגל, ולכן כיסו מערומיהם; הרמב\"ן דוחה זאת, כי הנחש אמר \"והייתם כאלהים\" וה' אומר אחר כך \"היה כאחד ממנו\".",
+      "text": "רש\"י: שתי יצירות, יצירה לעולם הזה ויצירה לתחיית המתים. אבל בבהמה שאינה עומדת לדין לא נכתבו שני יודי\"ן.",
       "sources": [
        {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:9:1"
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 2:7",
+        "quote": "שתי יצירות, יצירה לעולם הזה ויצירה לתחיית המתים"
        }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "דעת הרמב\"ן עצמו: קודם האכילה פעל האדם בטבעו כמו גרמי השמים; הפרי הוליד רצון ובחירה, ו\"דעת\" כאן היא רצון, כמו \"מה אדם ותדעהו\".",
-      "sources": [
-       {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:9:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "אבן עזרא (ב, יז): אדם היה מלא דעת, ראיה – קריאת השמות לכל הבהמות; חסר לו רק דעת טוב ורע בדבר אחד.",
-      "sources": [
-       {
-        "name": "אבן עזרא",
-        "ref": "Ibn Ezra on Genesis 2:17:1"
-       }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "היא מציבה את מהות החטא הראשון: דעת, תאווה או בחירה חופשית."
+    "why": "הדרשה מוצאת באות כתובה רמז לתחיית המתים ולדין."
    },
    {
-    "title": "למה צריך הגן עובד ושומר?",
+    "title": "איזו עבודה הייתה בגן עדן?",
     "pasuk": {
-     "text": "וַיִּקַּח ה' אֱלֹהִים אֶת הָאָדָם וַיַּנִּחֵהוּ בְגַן עֵדֶן לְעָבְדָהּ וּלְשָׁמְרָהּ",
+     "text": "ויקח יהוה אלהים את האדם וינחהו בגן עדן לעבדה ולשמרה",
      "ref": "Genesis 2:15",
      "label": "בראשית ב, טו"
     },
-    "question": "אור החיים שואל: משמעות הכתוב שהגן צריך עובד ושומר, אך \"האמת יכחיש זה\" – ממי ישמרוה, מגנבים? ומי עבדה חמשת אלפים וחמש מאות שנה? ואברבנאל (שאלה י\"ב) מוסיף שעבודת האדמה אינה תכלית בריאתו.",
+    "question": "אילני גן עדן נבראו להתקיים לעולם ולא נזקקו לעבודה. מדוע אפוא הניחו הקב\"ה בגן \"לעבדה ולשמרה\"?",
     "asked_by": [
      {
-      "name": "אור החיים",
-      "ref": "Or HaChaim on Genesis 2:15:1",
-      "era": "acharon"
-     },
-     {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 2:8",
+      "era": "rishon",
+      "quote": "אם כן מה טעם וינחהו בגן עדן לעבדה ולשמרה"
      }
     ],
     "answers": [
      {
-      "text": "אור החיים: כל הוויה היא דוגמה לרוחניות; גן עדן היום הוא אדמת הנפשות וצריך עבודה רוחנית – עסק התורה הוא הגשם, והמצוות הן הזרעים.",
-      "sources": [
-       {
-        "name": "אור החיים",
-        "ref": "Or HaChaim on Genesis 2:15:2"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "ספורנו: \"לעבדה\" – לעבוד את נשמת החיים שנפח בו.",
-      "sources": [
-       {
-        "name": "ספורנו",
-        "ref": "Sforno on Genesis 2:15:1"
-       }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "רש\"י: לקחו בדברים נאים ופיתהו להיכנס.",
-      "sources": [
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:15:1"
-       }
-      ],
-      "synthesis": false
-     }
-    ],
-    "why": "היא שואלת מה היה תפקיד האדם לפני החטא."
-   },
-   {
-    "title": "האם מת אדם ביום שאכל? מהו \"מות תמות\"?",
-    "pasuk": {
-     "text": "כִּי בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת",
-     "ref": "Genesis 2:17",
-     "label": "בראשית ב, יז"
-    },
-    "question": "אברבנאל (שאלה ט\"ו): האזהרה מורה שאלמלא חטא היה האדם נצחי, אך גופו מורכב מיסודות ונפסד בטבעו; ובקללה נאמר \"אל עפר תשוב\", המורה שהמיתה טבעית. ועוד – אדם לא מת באותו יום.",
-    "asked_by": [
-     {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
-     }
-    ],
-    "answers": [
-     {
-      "text": "רמב\"ן: \"ביום אכלך\" – בעת שתאכל תהיה בן מוות, כמו \"ביום צאתך והלכת... מות תמות\" (מלכים א ב, מב), ואין הכוונה שימות מיד. לפי אנשי הטבע היה האדם מעותד למיתה מתחילת היצירה, ועתה נגזר שימות מוקדם בחטאו; ולדעת רבותינו אלמלא חטא לא מת לעולם.",
+      "text": "רמב\"ן: לעבוד את אדמת הגן, הערוגות שיעשה שם, שכן האילנות עצמם אינם צריכים עבודה.",
       "sources": [
        {
         "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:17:2"
+        "ref": "Ramban on Genesis 2:8",
+        "quote": "וזה טעם לעבדה ולשמרה, לעבוד אדמת הגן הערוגות שיעשה שם"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "בכור שור: דע כי סופך למות, שלא תנצל מן המיתה לעת קץ, ולא אמר שבאותו יום ימות.",
+      "text": "רמב\"ן (בשם חז\"ל): \"לעבדה ולשמרה\", אלו הקרבנות.",
       "sources": [
        {
-        "name": "בכור שור",
-        "ref": "Bekhor Shor, Genesis 2:17:1"
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 2:8",
+        "quote": "לעבדה ולשמרה, אלו הקרבנות"
        }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "היא מבהירה אם המוות טבעי לאדם או עונש."
+    "why": "השאלה מבררת מה היה תפקיד האדם בגן לפני החטא."
    },
    {
-    "title": "מה \"לא טוב\" בהיות האדם לבדו, ומהו \"עזר כנגדו\"?",
+    "title": "מדוע \"לא טוב\" היות האדם לבדו?",
     "pasuk": {
-     "text": "לֹא טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ אֶעֱשֶׂה לּוֹ עֵזֶר כְּנֶגְדּוֹ",
+     "text": "לא טוב היות האדם לבדו",
      "ref": "Genesis 2:18",
      "label": "בראשית ב, יח"
     },
-    "question": "אברבנאל (שאלה ט\"ז): הרי כבר נאמר \"זכר ונקבה בראם\", אז למה היה האדם לבדו? ואם האישה נבראה מהכרח המין, למה נקראה \"עזר\"?",
+    "question": "אחרי כל מעשה בריאה ראה הקב\"ה כי טוב. במה לא היה טוב שהאדם יהיה לבדו?",
     "asked_by": [
      {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:4",
-      "era": "rishon"
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 2:18",
+      "era": "rishon",
+      "quote": "איננו נראה שנברא האדם להיות יחיד בעולם ולא יוליד"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: שלא יאמרו שתי רשויות הן – הקב\"ה יחיד בעליונים ואין לו זוג, וזה יחיד בתחתונים. ו\"עזר כנגדו\" – זכה, עזר; לא זכה, כנגדו להילחם.",
+      "text": "רש\"י: שלא יאמרו שתי רשויות הן, הקב\"ה יחיד בעליונים ואין לו זוג, וזה יחיד בתחתונים.",
       "sources": [
        {
         "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:18:1"
-       },
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:18:2"
+        "ref": "Rashi on Genesis 2:18",
+        "quote": "שלא יאמרו שתי רשויות הן, הקב\"ה יחיד בעליונים ואין לו זוג"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "רמב\"ן: דו פרצופין נבראו, ורצה ה' שהעזר יעמוד לנגדו; \"טוב\" במעשה בראשית הוא הקיום, ובהיותו לבדו לא יתקיים.",
+      "text": "רמב\"ן: וטעם \"לא טוב\", שלא יאמר בו כי טוב בהיותו לבדו, שלא יתקיים כן. במעשה בראשית \"טוב\" הוא הקיום.",
       "sources": [
        {
         "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 2:18:1"
+        "ref": "Ramban on Genesis 2:18",
+        "quote": "וטעם לא טוב, שלא יאמר בו כי טוב בהיותו לבדו, שלא יתקיים כן"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "ספורנו: לא יושג הטוב התכליתי המכוון בדמותו ובצלמו אם יצטרך להתעסק בעצמו בצורכי חייו.",
+      "text": "ספורנו: לא יושג טוב התכלית המכוון בדמותו ובצלמו.",
       "sources": [
        {
         "name": "ספורנו",
-        "ref": "Sforno on Genesis 2:18:1"
+        "ref": "Sforno on Genesis 2:18",
+        "quote": "לא יושג טוב התכלית המכוון בדמותו ובצלמו"
        }
-      ],
-      "synthesis": false
-     },
-     {
-      "text": "כלי יקר: בכל מקום שיש שינוי ומחלוקת אין הטוב מצוי (ולכן לא נאמר \"כי טוב\" בשני), ולכן האישה נבראה מאותו חומר.",
-      "sources": [
-       {
-        "name": "כלי יקר",
-        "ref": "Kli Yakar on Genesis 2:18:1"
-       }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "היא עוסקת בתכלית הנישואין: אחדות, עזרה או חברות."
+    "why": "היא מלמדת שהשלמות האנושית היא יחסית, בין באמונה, בקיום או בייעוד."
    },
    {
-    "title": "האם החיות נוצרו אחרי האדם, בניגוד לפרק א'?",
+    "title": "האם היא עזר או נגד?",
     "pasuk": {
-     "text": "וַיִּצֶר ה' אֱלֹהִים מִן הָאֲדָמָה כָּל חַיַּת הַשָּׂדֶה",
-     "ref": "Genesis 2:19",
-     "label": "בראשית ב, יט"
+     "text": "אעשה לו עזר כנגדו",
+     "ref": "Genesis 2:18",
+     "label": "בראשית ב, יח"
     },
-    "question": "אברבנאל (שאלה י\"ז) ורש\"י מציינים שבפרק א' כבר נבראו חיות הארץ לפני האדם, וכאן הן נוצרות ומובאות אליו. אברבנאל דן גם אם האדם המציא את הלשון או קיבלה.",
+    "question": "\"עזר כנגדו\" נראה כאומר שני דברים: עזר, ובו בזמן מי שעומד מולו. כיצד הם אחד?",
     "asked_by": [
      {
-      "name": "אברבנאל",
-      "ref": "Abarbanel on Torah, Genesis 2:19",
-      "era": "rishon"
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 2:18",
+      "era": "rishon",
+      "quote": "זכה – עזר; לא זכה – כנגדו להלחם"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: זו היצירה הנזכרת למעלה; בא לפרש שהעופות נבראו מן הרקק, ולמדך שבשעת יצירתן הביאן אל האדם באותו יום לקרוא להם שם.",
+      "text": "רש\"י: זכה – עזר; לא זכה – כנגדו להלחם.",
       "sources": [
        {
         "name": "רש\"י",
-        "ref": "Rashi on Genesis 2:19:1"
+        "ref": "Rashi on Genesis 2:18",
+        "quote": "זכה – עזר; לא זכה – כנגדו להלחם"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "ספורנו: נתן להם שלמות צורה מרגשת, שלכך לא הספיק אז הכוח השמימי בלי כוח זרעי.",
+      "text": "ספורנו: עזר שיהיה כמו שוה לו בצלם ודמות.",
       "sources": [
        {
         "name": "ספורנו",
-        "ref": "Sforno on Genesis 2:19:1"
+        "ref": "Sforno on Genesis 2:18",
+        "quote": "עזר שיהיה כמו שוה לו בצלם ודמות"
        }
-      ],
-      "synthesis": false
+      ]
      },
      {
-      "text": "אברבנאל: ה' ברא את הלשון וקבע סידורה, והטביע בנפש האדם את שורשי הלשון, ולכן קריאת השמות הייתה טבעית לאמת הדברים.",
+      "text": "רמב\"ן: ראה הקב\"ה כי טוב שיהיה העזר עומד לנגדו, והוא יראנו ויפרד ממנו ויתחבר אליו כפי רצונו.",
       "sources": [
        {
-        "name": "אברבנאל",
-        "ref": "Abarbanel on Torah, Genesis 2:19"
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 2:18",
+        "quote": "ראה הקב\"ה כי טוב שיהיה העזר עומד לנגדו"
        }
-      ],
-      "synthesis": false
+      ]
      }
     ],
-    "why": "היא נוגעת בהתאמה בין שני התיאורים ובמקור הלשון."
+    "why": "היא קוראת את הנישואין כתמיכה וגם כעמידה שווה."
    }
   ],
   "sources_consulted": [
-   "אברבנאל על בראשית ב, ד; ב, ה; ב, ח; ב, יח; ב, יט",
-   "רש\"י על בראשית ב, ד–ב, ט; ב, טו; ב, יח; ב, יט",
-   "רמב\"ן על בראשית ב, ד; ב, ה; ב, ז; ב, ט; ב, יז; ב, יח; ב, יט",
-   "אבן עזרא על בראשית ב, ד; ב, ה; ב, ז; ב, יז; ב, יט",
-   "ספורנו על בראשית ב, ד; ב, ה; ב, טו; ב, יז; ב, יח; ב, יט",
-   "אור החיים על בראשית ב, טו",
-   "כלי יקר על בראשית ב, יח",
-   "בכור שור על בראשית ב, יז",
-   "רד\"ק על בראשית ב, יז"
+   "רש\"י",
+   "רמב\"ן",
+   "ספורנו"
   ]
  }
 }
