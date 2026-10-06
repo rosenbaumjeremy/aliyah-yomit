@@ -19,7 +19,7 @@
   "english": "23 Tishrei 5787"
  },
  "english": {
-  "summary": "The first aliyah describes God's creation of heaven and earth: light on the first day, the sky on the second, land, seas and plants on the third, the sun, moon and stars on the fourth, sea creatures and birds on the fifth, and land animals and then man on the sixth, in God's image and given rule over the creatures. God declares the work very good, finishes it, and blesses and sanctifies the seventh day, on which He rested.",
+  "summary": "The Torah opens with God creating heaven and earth. The earth is formless and dark, and God creates light and divides it from the darkness, calling them day and night. On the second day He makes a firmament between the waters; on the third, the seas, land and plants; on the fourth, the sun, moon and stars; on the fifth, creatures of water and sky; and on the sixth, land animals and man, male and female, in His image. On the seventh day God finishes His work, rests, and blesses and sanctifies the day.",
   "questions": [
    {
     "title": "Why does the Torah open with creation?",
@@ -28,7 +28,7 @@
      "ref": "Genesis 1:1",
      "label": "Genesis 1:1"
     },
-    "question": "If the Torah is a book of mitzvos, it should have begun with the first commandment given to Israel, \"This month shall be for you\". Why does it begin with Bereshit?",
+    "question": "If the Torah is a book of mitzvos, why does it not begin with the first commandment given to Israel, \"This month shall be for you\", instead of with creation?",
     "asked_by": [
      {
       "name": "Rashi",
@@ -45,7 +45,7 @@
     ],
     "answers": [
      {
-      "text": "Rashi (R. Yitzchak): so that when the nations call Israel robbers for taking the land of the seven nations, Israel can answer that the whole earth belongs to the Holy One, who created it and gives it to whom He sees fit.",
+      "text": "Rashi (in the name of R. Yitzchak): so that when the nations call Israel robbers for taking the land of the seven nations, Israel can answer that the whole earth belongs to the Holy One, who created it and gives it to whom He sees fit.",
       "sources": [
        {
         "name": "Rashi",
@@ -55,7 +55,7 @@
       ]
      },
      {
-      "text": "Ramban objects that belief in creation is the root of faith, so the opening is clearly needed. He answers that the account of creation is a deep secret that cannot be understood from the verses alone.",
+      "text": "Ramban objects that belief in creation is the root of faith, so the opening is clearly needed; the answer is that the account of creation is a deep secret, known only by tradition, and the Torah writes it in a concealed way.",
       "sources": [
        {
         "name": "Ramban",
@@ -63,89 +63,132 @@
         "quote": "והתשובה, מפני שמעשה בראשית – סוד עמוק"
        }
       ]
+     },
+     {
+      "text": "Midrash Tanchuma Buber: the opening word itself is the lesson; \"Bereshit\" points to Israel, who are called \"reshit\", so the world was created for their sake.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Bereshit 3:1",
+        "quote": "בזכות ישראל נברא העולם"
+       }
+      ]
      }
     ],
-    "why": "It decides what the Torah's opening verses are for: a foundation of faith, a claim to the land, or a hidden teaching."
+    "why": "It decides what the opening verses are for: a foundation of faith, a claim to the land, or a hidden teaching."
    },
    {
-    "title": "Does the verse give the order of creation?",
+    "title": "Why does creation begin with a bet and not an alef?",
     "pasuk": {
-     "text": "בראשית ברא אלהים את השמים ואת הארץ",
+     "text": "בראשית ברא אלהים",
      "ref": "Genesis 1:1",
      "label": "Genesis 1:1"
     },
-    "question": "If the verse meant to say that heaven and earth were created first, it would have written \"in the first\" (barishonah). Yet the water is already there in the next verse, so the opening cannot be a strict order of creation. How should \"Bereshit bara\" be read?",
+    "question": "The first word of the Torah begins with the second letter. Why was the world created with a bet, and not with the alef that begins the alphabet?",
     "asked_by": [
      {
-      "name": "Rashi",
-      "ref": "Rashi on Genesis 1:1",
-      "era": "rishon",
-      "quote": "שאם בא להורות כך, היה לו לכתוב בראשונה ברא את השמים"
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 1:10",
+      "era": "chazal",
+      "quote": "למה נברא העולם בב"
+     },
+     {
+      "name": "Midrash Tanchuma",
+      "ref": "Midrash Tanchuma, Bereshit 5:1",
+      "era": "chazal",
+      "quote": "למה פתח בבריתו של עולם בבי\"ת ולא באל\"ף"
+     },
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 1:1",
+      "era": "acharon",
+      "quote": "קשה הלא מצינו כמה תיבות שמתחילין בבי\"ת והם לשון קללה"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: the verse is not teaching the order of creation. \"Bereshit\" is in the construct form, as in other verses, and means \"in the beginning of God's creating\".",
+      "text": "Bereshit Rabbah (R. Yonah in the name of R. Levi): the bet is closed on all sides and open only in front; so too you may not ask what is above, below, before or behind, only from the day the world was created onward.",
       "sources": [
        {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 1:1",
-        "quote": "ולא בא המקרא להורות סדר הבריאה לומר שאלו קדמו"
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 1:10",
+        "quote": "מה ב' זה סתום מכל צדדיו ופתוח מלפניו"
        }
       ]
      },
      {
-      "text": "Rashi adds proof that the verse does not give the order: the water is mentioned before the earth, so the Torah teaches nothing about what came first and what came later.",
+      "text": "Midrash Tanchuma: the alef is the letter of \"arur\" (cursed) and the bet of \"baruch\" (blessed); if the world endures even though people anger their Maker while created with a language of blessing, how much more so had it been created with a language of curse.",
       "sources": [
        {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 1:1",
-        "quote": "הא למדת, שקדמו המים לארץ"
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Bereshit 5:1",
+        "quote": "לפי שהאל\"ף לשון ארור ובי\"ת לשון ברוך"
+       }
+      ]
+     },
+     {
+      "text": "Torah Temimah doubts the plain meaning, since many words begin with a bet and mean curse, and many with an alef mean blessing; he reads the midrash as explaining why the Torah does not open with \"Elokim bara\", which would have begun with an alef.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 1:1",
+        "quote": "וכנגד זה מצינו כמה תיבות שמתחילין באל\"ף והן לשון ברכה"
        }
       ]
      }
     ],
-    "why": "It frames how the whole first chapter is read: as a sequence, or as a summary of what God made."
+    "why": "It shows how Chazal read even the shape of a single letter as a lesson, and how a later commentator pushes back on that reading."
    },
    {
-    "title": "Why \"one day\" and not \"first day\"?",
+    "title": "Why \"one day\" and not \"the first day\"?",
     "pasuk": {
      "text": "ויהי ערב ויהי בקר יום אחד",
      "ref": "Genesis 1:5",
      "label": "Genesis 1:5"
     },
-    "question": "Every other day is numbered second, third, fourth. Why does the first day say \"one day\" (yom echad) instead of \"first day\"?",
+    "question": "Every other day is counted in order, second, third, fourth. Why does the first day say \"yom echad\" (one day) and not \"yom rishon\" (first day)?",
     "asked_by": [
      {
       "name": "Rashi",
       "ref": "Rashi on Genesis 1:5",
       "era": "rishon",
-      "quote": "לפי סדר לשון הפרשה היה לו לכתוב יום ראשון"
+      "quote": "היה לו לכתוב יום ראשון"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 1:5",
+      "era": "acharon",
+      "quote": "מה שלא נאמר יום ראשון"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: because the Holy One was alone in His world, and the angels were not created until the second day.",
+      "text": "Rashi: because the Holy One was alone in His world; the angels were not created until the second day, as Bereshit Rabbah explains.",
       "sources": [
        {
         "name": "Rashi",
         "ref": "Rashi on Genesis 1:5",
         "quote": "לפי שהיה הקב\"ה יחיד בעולמו, שלא נבראו המלאכים עד יום שני"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 3:8",
+        "quote": "שבו היה הקדוש ברוך הוא יחידי"
        }
       ]
      },
      {
-      "text": "Ramban: on the plain reading, \"first\" cannot be said when there is no second yet. \"One\" does not imply another.",
+      "text": "Radak (who cites Ibn Ezra): there is no \"first\" without a \"second\", and the second had not yet been made; \"one\" is the sign of a beginning that no beginning precedes.",
       "sources": [
        {
-        "name": "Ramban",
-        "ref": "Ramban on Genesis 1:5",
-        "quote": "ועל דרך הפשט לא יתכן לומר יום ראשון בעבור שעדין לא נעשה השני"
+        "name": "Radak",
+        "ref": "Radak on Genesis 1:5",
+        "quote": "לפי שאין ראשון בלי שני, ועדיין לא נעשה השני"
        }
       ]
      },
      {
-      "text": "Ibn Ezra: the meaning of \"one day\" is the motion of the sphere.",
+      "text": "Ibn Ezra: \"one day\" refers to the turning of the heavenly sphere, a full cycle; if the evening and morning were together one day, there would be no reason to say \"second day\".",
       "sources": [
        {
         "name": "Ibn Ezra",
@@ -153,69 +196,199 @@
         "quote": "וטעם יום אחד הוא על תנועת הגלגל"
        }
       ]
-     }
-    ],
-    "why": "It shows how the Torah's choice of a single word is read for theology, grammar or astronomy."
-   },
-   {
-    "title": "Why did God need to name the light?",
-    "pasuk": {
-     "text": "ויקרא אלהים לאור יום",
-     "ref": "Genesis 1:5",
-     "label": "Genesis 1:5"
-    },
-    "question": "On the plain reading, why did God have to call the light \"day\" at the moment He made it?",
-    "asked_by": [
+     },
      {
-      "name": "Rashbam",
-      "ref": "Rashbam on Genesis 1:5",
-      "era": "rishon",
-      "quote": "תמה על עצמך לפי הפשט, למה הוצרך הקב\"ה לקרוא לאור בשעת יצירתו 'יום'"
-     }
-    ],
-    "answers": [
-     {
-      "text": "Rashbam: wherever Scripture speaks of day and night, it means the light and darkness made on the first day, and God calls them that everywhere.",
+      "text": "Kli Yakar rejects Rashi's reading, since angels are not mentioned here at all; he says evening and morning, though opposites, are one day because one God created both, against those who say opposites cannot come from one source.",
       "sources": [
        {
-        "name": "Rashbam",
-        "ref": "Rashbam on Genesis 1:5",
-        "quote": "הוא האור והחשך שנברא ביום ראשון, קורא אותו הקב\"ה בכל מקום 'יום ולילה'"
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 1:5",
+        "quote": "כי אל אחד ברא לשניהם"
        }
       ]
      },
      {
-      "text": "Ramban: the \"calling\" here is the fixing of the limit that separates them once they took on their form.",
+      "text": "Shadal does not accept Ramban's answer, because the second day began as soon as the first ended; he explains \"yom echad\" as a full day, evening and morning following each other.",
       "sources": [
        {
-        "name": "Ramban",
-        "ref": "Ramban on Genesis 1:5",
-        "quote": "היא ההבדלה המוגבלת בהם כשלבשו צורתם"
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 1:5",
+        "quote": "יום שלם, הערב והבקר זה אחר זה הם יום אחד"
        }
       ]
      }
     ],
-    "why": "It asks what naming means before there is a human to name anything."
+    "why": "Whether the day is called \"one\" for loneliness, for a beginning, or for the unity of opposites changes how the first day is understood."
    },
    {
-    "title": "Who is the \"us\" in \"Let us make man\"?",
+    "title": "Why is \"it was good\" missing on the second day?",
     "pasuk": {
-     "text": "נעשה אדם בצלמנו כדמותנו",
-     "ref": "Genesis 1:26",
-     "label": "Genesis 1:26"
+     "text": "ויהי ערב ויהי בקר יום שני",
+     "ref": "Genesis 1:8",
+     "label": "Genesis 1:8"
     },
-    "question": "God speaks of Himself in the plural, \"Let us make man in our image\". Who is included, and does this give the heretics an opening?",
+    "question": "On every other day of creation the Torah says \"God saw that it was good\". Why is it not said on the second day?",
     "asked_by": [
      {
       "name": "Rashi",
-      "ref": "Rashi on Genesis 1:26",
+      "ref": "Rashi on Genesis 1:7",
       "era": "rishon",
-      "quote": "ויש מקום למינים לרדת"
+      "quote": "ומפני מה לא נאמר כי טוב ביום שני"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 4:6",
+      "era": "chazal",
+      "quote": "למה אין כתיב בשני כי טוב"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: the heretics have room to object, but the verse still teaches humility: the great one consults and takes leave from the lesser.",
+      "text": "Rashi: the work of the waters was not finished until the third day, and something unfinished is not yet in its fullness and goodness; so on the third day \"good\" is said twice.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:7",
+        "quote": "לפי שלא היה נגמר מלאכת המים עד יום שלישי"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Yochanan in the name of R. Yose ben Chalafta): because Gehinnom was created on that day.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 4:6",
+        "quote": "שבו נבראת גיהנם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Chanina): because division was created on that day, as it says \"let it divide between water and water\".",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 4:6",
+        "quote": "שבו נבראת מחלקת"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether the second day lacked something of its own, or whether it carries a shadow of judgment and division."
+   },
+   {
+    "title": "Why \"and it was so\" after \"and God made\"?",
+    "pasuk": {
+     "text": "ויעש אלהים את הרקיע",
+     "ref": "Genesis 1:7",
+     "label": "Genesis 1:7"
+    },
+    "question": "God said \"let there be a firmament\", and the verse then says \"God made the firmament\" and only afterwards \"and it was so\". Every other day says \"it was so\" right after the command. Why is the act of making needed here?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 1:7",
+      "era": "rishon",
+      "quote": "ולמה הוסיף ויהי כן"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 1:7",
+      "era": "acharon",
+      "quote": "מקרא זה לא היה צריך לאמרו"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 1:7",
+      "era": "acharon",
+      "quote": "זה המקרא אומר פרשוני"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: \"and it was so\" teaches that it remained so always, all the days of the world; he rejects Ibn Ezra's reading and also cites Bereshit Rabbah, where Ben Zoma shook the world over this verse.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 1:7",
+        "quote": "שהיה כן תמיד כל ימי עולם"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: \"and it was so\" is joined to what follows: when it was so, He called the firmament heaven.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 1:7",
+        "quote": "ויהי כן דבק עם הבא אחריו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it teaches that from then on it stayed as it was that day and never returned to its earlier state.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 1:7",
+        "quote": "שלא חזר עוד למה שהיה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: three works were done on the firmament, its creation on the first day, its stretching out, and the arrangement of its form, so the verse repeats \"made\".",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 1:7",
+        "quote": "שלשה מלאכות נעשו ברקיע"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: this is one of the verses over which Ben Zoma shook the world, since the heavens were made by a single utterance.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 4:6",
+        "quote": "זה אחד מן המקראות שהרעיש בן זומא את העולם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what \"making\" means in creation: finishing a thing that was only commanded, or fixing it forever."
+   },
+   {
+    "title": "Who is the \"us\" in \"let us make man\"?",
+    "pasuk": {
+     "text": "ויאמר אלהים נעשה אדם בצלמנו כדמותנו",
+     "ref": "Genesis 1:26",
+     "label": "Genesis 1:26"
+    },
+    "question": "Why does God speak in the plural, \"let us make man in our image\", when He is One and made everything else by a single command? To whom is He speaking?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 8:8",
+      "era": "chazal",
+      "quote": "מה אתה נותן פתחון פה למינים"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 1:26",
+      "era": "rishon",
+      "quote": "ומה שאמר נעשה בלשון רבים"
+     },
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 1:26",
+      "era": "rishon",
+      "quote": "ויש מקום למינים לרדות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: He consulted the angels, to teach humility, that the greater should take leave from the lesser; and the answer to the heretics is written beside it, \"and God created man\", not \"created them\".",
       "sources": [
        {
         "name": "Rashi",
@@ -225,99 +398,163 @@
       ]
      },
      {
-      "text": "Ramban: He said \"let us make\" meaning Himself and the earth, which brings forth the body, while He gives the spirit.",
+      "text": "Bereshit Rabbah (R. Chanina): He consulted the ministering angels and told them that righteous people would come from man.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 8:4",
+        "quote": "נמלך במלאכי השרת ואמר להן נעשה אדם"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: \"I and the earth\", as the earth brought forth the animals, so the earth brings forth the body of man, while God gives the spirit; he found this plain meaning in R. Yosef Kimchi.",
       "sources": [
        {
         "name": "Ramban",
         "ref": "Ramban on Genesis 1:26",
-        "quote": "אמר באדם נעשה, כלומר אני והארץ הנזכרת נעשה אדם"
+        "quote": "אני והארץ הנזכרת נעשה אדם"
        }
       ]
      },
      {
-      "text": "Ibn Ezra: afterwards God said to the angels, \"Let us make man, we will busy ourselves with him\".",
+      "text": "Radak: his father explained that it refers to the elements, from whose power the creatures came forth, by God's will; alternatively it is said toward the angels.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 1:26",
+        "quote": "כנגד היסודות אמר שמכחם יצאו הנבראים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the plants and animals were brought out by the earth and water, and then God said to the angels, \"let us make man\", we will occupy ourselves with him, not the water and earth.",
       "sources": [
        {
         "name": "Ibn Ezra",
         "ref": "Ibn Ezra on Genesis 1:26",
-        "quote": "ואח\"כ אמר השם למלאכים, נעשה אדם, אנחנו נתעסק בו"
+        "quote": "אמר השם למלאכים, נעשה אדם, אנחנו נתעסק בו"
        }
       ]
      },
      {
-      "text": "Sforno: He then gave power to His heavenly retinue to bestow the image on the prepared subject.",
+      "text": "Sforno: at that point God gave power to His heavenly retinue to bestow the divine image on the prepared substance.",
       "sources": [
        {
         "name": "Sforno",
         "ref": "Sforno on Genesis 1:26",
-        "quote": "נתן אז כח בפמליא שלו להשפיע את הצלם בנושא המוכן לו"
+        "quote": "נתן אז כח בפמליא שלו להשפיע את הצלם"
        }
       ]
      }
     ],
-    "why": "It touches God's unity, the human role in creation, and the dignity of man."
+    "why": "It touches the oneness of God and the dignity of man, and decides whether man was made with partners or only with a consultation."
    },
    {
-    "title": "How did God finish on the seventh day?",
+    "title": "How can the seventh day be when God \"completed\" His work?",
     "pasuk": {
      "text": "ויכל אלהים ביום השביעי מלאכתו אשר עשה",
      "ref": "Genesis 2:2",
      "label": "Genesis 2:2"
     },
-    "question": "The work of creation ended with the sixth day. How can the verse say God finished His work \"on the seventh day\"?",
+    "question": "If the work was finished on the sixth day, why does the verse say God completed it \"on the seventh day\"? It sounds as if He still worked on Shabbat.",
     "asked_by": [
      {
-      "name": "Rashi",
-      "ref": "Rashi on Genesis 2:2",
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 2:2",
+      "era": "acharon",
+      "quote": "משמע כי ביום השביעי עשה מלאכה וכלה אותה"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 2:2",
       "era": "rishon",
-      "quote": "מה היה העולם חסר"
+      "quote": "י\"א כי הימים נבראים"
      }
     ],
     "answers": [
      {
-      "text": "Rashi (R. Shimon): God knows His times and moments exactly and entered the seventh day by a hair's breadth, so it looks as if He finished in it.",
+      "text": "Rashi (R. Shimon): a person who does not know his times must add from the weekday to the holy; the Holy One knows His moments, entered it like the breadth of a hair, and it seems as if He finished on that day.",
       "sources": [
        {
         "name": "Rashi",
         "ref": "Rashi on Genesis 2:2",
-        "quote": "הקב\"ה שיודע עתיו ורגעיו, נכנס בו כחוט השערה, ונראה כאילו כלה בו ביום"
+        "quote": "הקב\"ה שיודע עתיו ורגעיו, נכנס בו כחוט השערה"
        }
       ]
      },
      {
-      "text": "Rashi (another view): what did the world still lack? Rest. When Shabbat came, rest came, and the work was finished.",
+      "text": "Rashi (another view): what did the world still lack? Rest. Shabbat came, rest came, and the work was complete.",
       "sources": [
        {
         "name": "Rashi",
         "ref": "Rashi on Genesis 2:2",
-        "quote": "באת שבת באת מנוחה, כלתה ונגמרה המלאכה"
+        "quote": "מה היה העולם חסר? מנוחה, באת שבת באת מנוחה"
        }
       ]
      },
      {
-      "text": "Ibn Ezra: some say the letter bet here means \"before\".",
+      "text": "Ibn Ezra: the letter bet here means \"before\", as in \"on the first day you shall remove leaven\"; \"completed\" means He did no more work.",
       "sources": [
        {
         "name": "Ibn Ezra",
         "ref": "Ibn Ezra on Genesis 2:2",
-        "quote": "וי\"א כי יש בי\"ת שטעמו קודם"
+        "quote": "יש בי\"ת שטעמו קודם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: at the very beginning of the seventh day, the indivisible instant that begins the future time and is no part of it.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 2:2",
+        "quote": "בתחלת היום השביעי, שהוא הרגע בלתי מתחלק"
+       }
+      ]
+     },
+     {
+      "text": "Radak: when the seventh day came, all the work was complete and nothing remained to be done, so the work was finished by then.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 2:2",
+        "quote": "כשהיה היום השביעי נשלם כל מלאכתו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: like a person who finishes building his house, God rejoiced on the day His world was completed and made it a day of festivity and blessing.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 2:2",
+        "quote": "כמו מי שגומר בנין ביתו"
        }
       ]
      }
     ],
-    "why": "It gives the meaning of Shabbat: either a moment of precision or the last element of creation itself."
+    "why": "It defines what completion means and what Shabbat is: an addition of rest, or the exact moment the work ends."
    }
   ],
   "sources_consulted": [
    "Rashi",
    "Ramban",
+   "Midrash Tanchuma Buber",
+   "Bereshit Rabbah",
+   "Midrash Tanchuma",
+   "Torah Temimah",
+   "Kli Yakar",
+   "Radak",
    "Ibn Ezra",
-   "Rashbam",
+   "Shadal",
+   "Or HaChaim",
+   "Haamek Davar",
    "Sforno"
   ]
  },
  "hebrew": {
-  "summary": "העלייה הראשונה מתארת את בריאת השמים והארץ: אור ביום הראשון, רקיע בשני, יבשה, ימים ועשב בשלישי, מאורות ברביעי, דגים ועופות בחמישי וחיות ואחר כך האדם בשישי, בצלם אלהים ובממשלה על הברואים. הקב\"ה רואה שהכול טוב מאוד, מכלה את המלאכה, ומברך ומקדש את היום השביעי ושובת בו.",
+  "summary": "התורה נפתחת בבריאת השמים והארץ. הארץ תהו ובהו וחושך, והקב\"ה בורא את האור ומבדיל בינו לבין החושך וקורא להם יום ולילה. ביום השני הוא עושה רקיע בין המים, ביום השלישי ימים, יבשה ועשב, ברביעי המאורות, בחמישי דגים ועופות, ובשישי בהמות וחיות ואדם, זכר ונקבה, בצלמו. ביום השביעי כלה אלהים את מלאכתו, שבת, וברך וקידש את היום.",
   "questions": [
    {
     "title": "מדוע פותחת התורה במעשה בראשית?",
@@ -326,7 +563,7 @@
      "ref": "Genesis 1:1",
      "label": "בראשית א, א"
     },
-    "question": "אם התורה היא ספר מצוות, היה לה להתחיל ב\"החדש הזה לכם\", המצווה הראשונה שנצטוו בה ישראל. מדוע פתחה ב\"בראשית\"?",
+    "question": "אם התורה היא ספר מצוות, מדוע אינה מתחילה במצווה הראשונה שנצטוו בה ישראל, \"החדש הזה לכם\", אלא במעשה בראשית?",
     "asked_by": [
      {
       "name": "רש\"י",
@@ -343,7 +580,7 @@
     ],
     "answers": [
      {
-      "text": "רש\"י (ר' יצחק): כדי שאם יאמרו אומות העולם לישראל ליסטים אתם, שכבשתם ארצות שבעה גויים, יענו להם שכל הארץ של הקב\"ה היא, הוא בראה ונתנה לאשר ישר בעיניו.",
+      "text": "רש\"י (בשם ר' יצחק): כדי שאם יאמרו אומות העולם לישראל ליסטים אתם שכבשתם ארצות שבעה גויים, יענו שכל הארץ של הקב\"ה היא, הוא בראה ונתנה לאשר ישר בעיניו.",
       "sources": [
        {
         "name": "רש\"י",
@@ -353,7 +590,7 @@
       ]
      },
      {
-      "text": "הרמב\"ן מקשה שהאמונה בבריאה היא שורש האמונה, ולכן יש צורך גדול בפתיחה זו. ותשובתו שמעשה בראשית הוא סוד עמוק שאינו מובן מן המקראות עצמם.",
+      "text": "הרמב\"ן מקשה שהאמונה בבריאה היא שורש האמונה ולכן יש צורך בפתיחה; ותשובתו שמעשה בראשית סוד עמוק, שאינו מובן מן המקראות ונמסר בקבלה, ולכן סתם הכתוב.",
       "sources": [
        {
         "name": "רמב\"ן",
@@ -361,49 +598,81 @@
         "quote": "והתשובה, מפני שמעשה בראשית – סוד עמוק"
        }
       ]
+     },
+     {
+      "text": "מדרש תנחומא בובר: המילה הפותחת עצמה היא הלימוד; \"בראשית\" רומז לישראל שנקראו ראשית, ובזכותם נברא העולם.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא בובר",
+        "ref": "Midrash Tanchuma Buber, Bereshit 3:1",
+        "quote": "בזכות ישראל נברא העולם"
+       }
+      ]
      }
     ],
-    "why": "השאלה קובעת למה נועדו פסוקי הפתיחה: יסוד האמונה, זכות על הארץ, או תורה נסתרת."
+    "why": "היא קובעת למה נועדו הפסוקים הפותחים: יסוד באמונה, זכות על הארץ או תורה נסתרת."
    },
    {
-    "title": "האם הפסוק מלמד את סדר הבריאה?",
+    "title": "מדוע נברא העולם באות בי\"ת ולא באל\"ף?",
     "pasuk": {
-     "text": "בראשית ברא אלהים את השמים ואת הארץ",
+     "text": "בראשית ברא אלהים",
      "ref": "Genesis 1:1",
      "label": "בראשית א, א"
     },
-    "question": "אילו בא הפסוק להורות שהשמים והארץ נבראו תחילה, היה לו לכתוב \"בראשונה ברא\". והרי המים כבר מוזכרים בפסוק הבא, ולכן אין בפתיחה סדר בריאה מדויק. כיצד יש לקרוא \"בראשית ברא\"?",
+    "question": "המילה הראשונה בתורה מתחילה באות השנייה. מדוע נברא העולם בבי\"ת ולא באל\"ף שפותחת את האלפבית?",
     "asked_by": [
      {
-      "name": "רש\"י",
-      "ref": "Rashi on Genesis 1:1",
-      "era": "rishon",
-      "quote": "שאם בא להורות כך, היה לו לכתוב בראשונה ברא את השמים"
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 1:10",
+      "era": "chazal",
+      "quote": "למה נברא העולם בב"
+     },
+     {
+      "name": "מדרש תנחומא",
+      "ref": "Midrash Tanchuma, Bereshit 5:1",
+      "era": "chazal",
+      "quote": "למה פתח בבריתו של עולם בבי\"ת ולא באל\"ף"
+     },
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 1:1",
+      "era": "acharon",
+      "quote": "קשה הלא מצינו כמה תיבות שמתחילין בבי\"ת והם לשון קללה"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: אין הכתוב בא להורות סדר הבריאה. \"בראשית\" הוא בסמיכות, כמו בפסוקים אחרים, ופירושו \"בראשית ברוא אלהים\".",
+      "text": "בראשית רבה (ר' יונה בשם ר' לוי): הבי\"ת סתומה מכל צדדיה ופתוחה מלפניה, כך אין לך רשות לשאול מה למעלה, מה למטה, מה לפנים ומה לאחור, אלא מיום שנברא העולם ואילך.",
       "sources": [
        {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 1:1",
-        "quote": "ולא בא המקרא להורות סדר הבריאה לומר שאלו קדמו"
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 1:10",
+        "quote": "מה ב' זה סתום מכל צדדיו ופתוח מלפניו"
        }
       ]
      },
      {
-      "text": "רש\"י מוסיף ראיה שאין כאן סדר: המים נזכרים לפני הארץ, ואם כן המקרא לא לימד דבר על המוקדם והמאוחר.",
+      "text": "מדרש תנחומא: האל\"ף לשון ארור והבי\"ת לשון ברוך; ואם כשנברא בלשון ברוך בני אדם מכעיסים ליוצרם, בלשון ארור על אחת כמה וכמה.",
       "sources": [
        {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 1:1",
-        "quote": "הא למדת, שקדמו המים לארץ"
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Bereshit 5:1",
+        "quote": "לפי שהאל\"ף לשון ארור ובי\"ת לשון ברוך"
+       }
+      ]
+     },
+     {
+      "text": "התורה תמימה מקשה על פשט המאמר, שהרי יש תיבות רבות המתחילות בבי\"ת ופירושן קללה ותיבות באל\"ף ופירושן ברכה; ולדעתו המדרש בא להסביר למה לא נפתחה התורה ב\"אלהים ברא\", שהיה מתחיל באל\"ף.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 1:1",
+        "quote": "וכנגד זה מצינו כמה תיבות שמתחילין באל\"ף והן לשון ברכה"
        }
       ]
      }
     ],
-    "why": "זה קובע איך קוראים את כל הפרק: כרצף של בריאה או כסיכום של מה שברא הקב\"ה."
+    "why": "היא מראה איך קראו חז\"ל גם בצורת אות אחת לימוד, וכיצד אחד האחרונים חולק על הקריאה."
    },
    {
     "title": "מדוע \"יום אחד\" ולא \"יום ראשון\"?",
@@ -412,38 +681,49 @@
      "ref": "Genesis 1:5",
      "label": "בראשית א, ה"
     },
-    "question": "בשאר הימים כתוב שני, שלישי, רביעי. מדוע ביום הראשון כתוב \"יום אחד\" ולא \"יום ראשון\"?",
+    "question": "כל שאר הימים נמנים בסדר: שני, שלישי, רביעי. מדוע היום הראשון נאמר \"יום אחד\" ולא \"יום ראשון\"?",
     "asked_by": [
      {
       "name": "רש\"י",
       "ref": "Rashi on Genesis 1:5",
       "era": "rishon",
-      "quote": "לפי סדר לשון הפרשה היה לו לכתוב יום ראשון"
+      "quote": "היה לו לכתוב יום ראשון"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 1:5",
+      "era": "acharon",
+      "quote": "מה שלא נאמר יום ראשון"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: מפני שהיה הקב\"ה יחיד בעולמו, שלא נבראו המלאכים עד יום שני.",
+      "text": "רש\"י: לפי שהיה הקב\"ה יחיד בעולמו, ולא נבראו המלאכים עד יום שני, כמפורש בבראשית רבה.",
       "sources": [
        {
         "name": "רש\"י",
         "ref": "Rashi on Genesis 1:5",
         "quote": "לפי שהיה הקב\"ה יחיד בעולמו, שלא נבראו המלאכים עד יום שני"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 3:8",
+        "quote": "שבו היה הקדוש ברוך הוא יחידי"
        }
       ]
      },
      {
-      "text": "הרמב\"ן: על דרך הפשט לא יתכן לומר \"ראשון\" כשעדיין לא נעשה השני, ו\"אחד\" אינו מורה על שני.",
+      "text": "רד\"ק (המביא את אבן עזרא): אין ראשון בלי שני ועדיין לא נעשה השני; \"אחד\" הוא סימן להתחלה שאין התחלה קודמת לה.",
       "sources": [
        {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 1:5",
-        "quote": "ועל דרך הפשט לא יתכן לומר יום ראשון בעבור שעדין לא נעשה השני"
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 1:5",
+        "quote": "לפי שאין ראשון בלי שני, ועדיין לא נעשה השני"
        }
       ]
      },
      {
-      "text": "אבן עזרא: טעם \"יום אחד\" הוא על תנועת הגלגל.",
+      "text": "אבן עזרא: \"יום אחד\" הוא על תנועת הגלגל; ואילו היה הערב והבקר יום אחד, מה טעם \"יום שני\".",
       "sources": [
        {
         "name": "אבן עזרא",
@@ -451,69 +731,199 @@
         "quote": "וטעם יום אחד הוא על תנועת הגלגל"
        }
       ]
-     }
-    ],
-    "why": "מראה כיצד מילה בודדת בתורה נדרשת לעניין אמוני, דקדוקי או אסטרונומי."
-   },
-   {
-    "title": "מדוע היה צריך הקב\"ה לקרוא שם לאור?",
-    "pasuk": {
-     "text": "ויקרא אלהים לאור יום",
-     "ref": "Genesis 1:5",
-     "label": "בראשית א, ה"
-    },
-    "question": "לפי הפשט, מדוע הוצרך הקב\"ה לקרוא לאור \"יום\" בשעת יצירתו?",
-    "asked_by": [
+     },
      {
-      "name": "רשב\"ם",
-      "ref": "Rashbam on Genesis 1:5",
-      "era": "rishon",
-      "quote": "תמה על עצמך לפי הפשט, למה הוצרך הקב\"ה לקרוא לאור בשעת יצירתו 'יום'"
-     }
-    ],
-    "answers": [
-     {
-      "text": "רשב\"ם: בכל מקום שמדובר בתורה על יום ולילה הכוונה לאור והחושך שנבראו ביום הראשון, וכך קורא להם הקב\"ה בכל מקום.",
+      "text": "הכלי יקר דוחה את פירוש רש\"י, שהרי מלאכים לא נזכרו כאן; לדעתו ערב ובוקר, אף שהם הפכים, הם יום אחד כי אל אחד ברא לשניהם, נגד המינים שאמרו שמהתחלה אחת לא יוצאים שני הפכים.",
       "sources": [
        {
-        "name": "רשב\"ם",
-        "ref": "Rashbam on Genesis 1:5",
-        "quote": "הוא האור והחשך שנברא ביום ראשון, קורא אותו הקב\"ה בכל מקום 'יום ולילה'"
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 1:5",
+        "quote": "כי אל אחד ברא לשניהם"
        }
       ]
      },
      {
-      "text": "רמב\"ן: ה\"קריאה\" כאן היא ההבדלה המוגבלת שבהם כשלבשו צורתם.",
+      "text": "שד\"ל אינו מקבל את תירוץ הרמב\"ן, שהרי מיד בסוף היום הראשון התחיל השני; לדעתו \"יום אחד\" הוא יום שלם, הערב והבוקר זה אחר זה.",
       "sources": [
        {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 1:5",
-        "quote": "היא ההבדלה המוגבלת בהם כשלבשו צורתם"
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 1:5",
+        "quote": "יום שלם, הערב והבקר זה אחר זה הם יום אחד"
        }
       ]
      }
     ],
-    "why": "השאלה מבררת מהי קריאת שם כשעדיין אין אדם שיקרא שמות."
+    "why": "האם נקרא \"אחד\" בגלל יחידותו של הקב\"ה, בגלל ההתחלה או בגלל אחדות ההפכים משנה את הבנת היום הראשון."
    },
    {
-    "title": "מי הם ה\"אנחנו\" ב\"נעשה אדם\"?",
+    "title": "מדוע לא נאמר \"כי טוב\" ביום שני?",
     "pasuk": {
-     "text": "נעשה אדם בצלמנו כדמותנו",
-     "ref": "Genesis 1:26",
-     "label": "בראשית א, כו"
+     "text": "ויהי ערב ויהי בקר יום שני",
+     "ref": "Genesis 1:8",
+     "label": "בראשית א, ח"
     },
-    "question": "הקב\"ה מדבר על עצמו בלשון רבים: \"נעשה אדם בצלמנו\". מי נכלל, והאם יש בכך פתח למינים?",
+    "question": "בכל שאר ימי הבריאה נאמר \"וירא אלהים כי טוב\". מדוע לא נאמר הדבר ביום שני?",
     "asked_by": [
      {
       "name": "רש\"י",
-      "ref": "Rashi on Genesis 1:26",
+      "ref": "Rashi on Genesis 1:7",
       "era": "rishon",
-      "quote": "ויש מקום למינים לרדת"
+      "quote": "ומפני מה לא נאמר כי טוב ביום שני"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 4:6",
+      "era": "chazal",
+      "quote": "למה אין כתיב בשני כי טוב"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: יש מקום למינים לרדת, אך הכתוב לא נמנע מללמד דרך ארץ ומידת ענווה, שהגדול נמלך ונוטל רשות מן הקטן.",
+      "text": "רש\"י: מלאכת המים לא נגמרה עד יום שלישי, ודבר שלא נגמר אינו במלואו וטובו; ולכן ביום שלישי נאמר \"כי טוב\" פעמיים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:7",
+        "quote": "לפי שלא היה נגמר מלאכת המים עד יום שלישי"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' יוחנן בשם ר' יוסי בן חלפתא): לפי שבו נבראה גיהנם.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 4:6",
+        "quote": "שבו נבראת גיהנם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' חנינא): לפי שבו נבראת מחלוקת, שנאמר \"ויהי מבדיל בין מים למים\".",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 4:6",
+        "quote": "שבו נבראת מחלקת"
+       }
+      ]
+     }
+    ],
+    "why": "היא שואלת אם חסר ליום שני דבר משלו, או שיש בו צל של דין ומחלוקת."
+   },
+   {
+    "title": "מדוע \"ויהי כן\" אחרי \"ויעש אלהים\"?",
+    "pasuk": {
+     "text": "ויעש אלהים את הרקיע",
+     "ref": "Genesis 1:7",
+     "label": "בראשית א, ז"
+    },
+    "question": "נאמר \"יהי רקיע\", ואחר כך \"ויעש אלהים את הרקיע\" ורק אחריו \"ויהי כן\", בשונה משאר הימים שבהם \"ויהי כן\" בא מיד אחרי הציווי. מדוע נזכרת כאן העשייה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 1:7",
+      "era": "rishon",
+      "quote": "ולמה הוסיף ויהי כן"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 1:7",
+      "era": "acharon",
+      "quote": "מקרא זה לא היה צריך לאמרו"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 1:7",
+      "era": "acharon",
+      "quote": "זה המקרא אומר פרשוני"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: \"ויהי כן\" בא לומר שהיה כן תמיד כל ימי עולם; הוא דוחה את פירוש אבן עזרא ומביא את בראשית רבה, שבן זומא הרעיש את העולם בפסוק זה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 1:7",
+        "quote": "שהיה כן תמיד כל ימי עולם"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"ויהי כן\" דבק עם הבא אחריו: כאשר היה כן, קראו שמים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 1:7",
+        "quote": "ויהי כן דבק עם הבא אחריו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: בא להודיע שמכאן ואילך נשאר כמו שהיה אותו היום ולא חזר למה שהיה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 1:7",
+        "quote": "שלא חזר עוד למה שהיה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: שלוש מלאכות נעשו ברקיע: בריאתו ביום הראשון, נטייתו, וסדר תיקונו, ולכן חזר הכתוב ואמר \"ויעש\".",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 1:7",
+        "quote": "שלשה מלאכות נעשו ברקיע"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: זה אחד מן המקראות שהרעיש בן זומא את העולם, שהרי השמים נעשו במאמר.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 4:6",
+        "quote": "זה אחד מן המקראות שהרעיש בן זומא את העולם"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה מה פירוש \"עשייה\" במעשה בראשית: השלמת דבר שנצטווה בלבד, או קביעתו לעולם."
+   },
+   {
+    "title": "מי הם \"נעשה\" ב\"נעשה אדם\"?",
+    "pasuk": {
+     "text": "ויאמר אלהים נעשה אדם בצלמנו כדמותנו",
+     "ref": "Genesis 1:26",
+     "label": "בראשית א, כו"
+    },
+    "question": "מדוע מדבר הקב\"ה בלשון רבים, \"נעשה אדם בצלמנו\", והוא אחד וכל שאר הבריאה נבראה במאמר? אל מי הוא מדבר?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 8:8",
+      "era": "chazal",
+      "quote": "מה אתה נותן פתחון פה למינים"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 1:26",
+      "era": "rishon",
+      "quote": "ומה שאמר נעשה בלשון רבים"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 1:26",
+      "era": "rishon",
+      "quote": "ויש מקום למינים לרדות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נמלך במלאכים, ללמד ענווה, שיהא הגדול נמלך ונוטל רשות מן הקטן; ותשובת המינים כתובה בצידו: \"ויברא\" ולא \"ויבראו\".",
       "sources": [
        {
         "name": "רש\"י",
@@ -523,22 +933,42 @@
       ]
      },
      {
-      "text": "רמב\"ן: אמר \"נעשה\", כלומר אני והארץ, שהארץ מוציאה את הגוף והוא יתברך נותן את הרוח.",
+      "text": "בראשית רבה (ר' חנינא): נמלך במלאכי השרת ואמר להם שצדיקים עומדים ממנו.",
       "sources": [
        {
-        "name": "רמב\"ן",
-        "ref": "Ramban on Genesis 1:26",
-        "quote": "אמר באדם נעשה, כלומר אני והארץ הנזכרת נעשה אדם"
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 8:4",
+        "quote": "נמלך במלאכי השרת ואמר להן נעשה אדם"
        }
       ]
      },
      {
-      "text": "אבן עזרא: אחר כך אמר השם למלאכים \"נעשה אדם, אנחנו נתעסק בו\".",
+      "text": "רמב\"ן: \"אני והארץ\", כשם שהארץ הוציאה את הבהמה כך תוציא את גוף האדם, והקב\"ה נותן את הרוח; פשט זה מצא אצל ר' יוסף קמחי.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 1:26",
+        "quote": "אני והארץ הנזכרת נעשה אדם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אביו פירש שזה כנגד היסודות, שמכוחם יצאו הנבראים ברצון האל; ואפשר שנאמר כנגד המלאכים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 1:26",
+        "quote": "כנגד היסודות אמר שמכחם יצאו הנבראים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הצמחים והחיות הוצאו על ידי הארץ והמים, ואחר כך אמר השם למלאכים \"נעשה אדם\", אנחנו נתעסק בו ולא המים והארץ.",
       "sources": [
        {
         "name": "אבן עזרא",
         "ref": "Ibn Ezra on Genesis 1:26",
-        "quote": "ואח\"כ אמר השם למלאכים, נעשה אדם, אנחנו נתעסק בו"
+        "quote": "אמר השם למלאכים, נעשה אדם, אנחנו נתעסק בו"
        }
       ]
      },
@@ -548,69 +978,113 @@
        {
         "name": "ספורנו",
         "ref": "Sforno on Genesis 1:26",
-        "quote": "נתן אז כח בפמליא שלו להשפיע את הצלם בנושא המוכן לו"
+        "quote": "נתן אז כח בפמליא שלו להשפיע את הצלם"
        }
       ]
      }
     ],
-    "why": "השאלה נוגעת ליחוד ה', לחלקם של הנבראים בבריאה ולכבוד האדם."
+    "why": "היא נוגעת ביחוד ה' ובכבוד האדם, ומכריעה אם נברא האדם בשותפות או רק בהיוועצות."
    },
    {
-    "title": "איך כילה הקב\"ה ביום השביעי?",
+    "title": "איך כלה הקב\"ה ביום השביעי?",
     "pasuk": {
      "text": "ויכל אלהים ביום השביעי מלאכתו אשר עשה",
      "ref": "Genesis 2:2",
      "label": "בראשית ב, ב"
     },
-    "question": "מלאכת הבריאה נסתיימה ביום השישי. כיצד אומר הכתוב \"ויכל אלהים ביום השביעי מלאכתו\"?",
+    "question": "אם המלאכה נגמרה ביום השישי, מדוע כתוב שהקב\"ה כילה אותה \"ביום השביעי\"? נשמע כאילו עדיין עשה מלאכה בשבת.",
     "asked_by": [
      {
-      "name": "רש\"י",
-      "ref": "Rashi on Genesis 2:2",
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 2:2",
+      "era": "acharon",
+      "quote": "משמע כי ביום השביעי עשה מלאכה וכלה אותה"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 2:2",
       "era": "rishon",
-      "quote": "מה היה העולם חסר"
+      "quote": "י\"א כי הימים נבראים"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י (ר' שמעון): הקב\"ה שיודע עתיו ורגעיו נכנס בו כחוט השערה, ונראה כאילו כלה בו ביום.",
+      "text": "רש\"י (ר' שמעון): בשר ודם שאינו יודע עתיו ורגעיו צריך להוסיף מחול על הקודש; הקב\"ה שיודע עתיו ורגעיו נכנס בו כחוט השערה ונראה כאילו כלה בו ביום.",
       "sources": [
        {
         "name": "רש\"י",
         "ref": "Rashi on Genesis 2:2",
-        "quote": "הקב\"ה שיודע עתיו ורגעיו, נכנס בו כחוט השערה, ונראה כאילו כלה בו ביום"
+        "quote": "הקב\"ה שיודע עתיו ורגעיו, נכנס בו כחוט השערה"
        }
       ]
      },
      {
-      "text": "רש\"י (דבר אחר): מה היה העולם חסר? מנוחה. באת שבת באת מנוחה, כלתה ונגמרה המלאכה.",
+      "text": "רש\"י (דבר אחר): מה היה העולם חסר? מנוחה; באה שבת, באה מנוחה, כלתה ונגמרה המלאכה.",
       "sources": [
        {
         "name": "רש\"י",
         "ref": "Rashi on Genesis 2:2",
-        "quote": "באת שבת באת מנוחה, כלתה ונגמרה המלאכה"
+        "quote": "מה היה העולם חסר? מנוחה, באת שבת באת מנוחה"
        }
       ]
      },
      {
-      "text": "אבן עזרא: יש אומרים שהבי\"ת כאן פירושה \"קודם\".",
+      "text": "אבן עזרא: יש בי\"ת שטעמו \"קודם\", כמו \"אך ביום הראשון תשביתו שאור\"; ו\"ויכל\" פירושו שלא עשה עוד מלאכה.",
       "sources": [
        {
         "name": "אבן עזרא",
         "ref": "Ibn Ezra on Genesis 2:2",
-        "quote": "וי\"א כי יש בי\"ת שטעמו קודם"
+        "quote": "יש בי\"ת שטעמו קודם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בתחילת היום השביעי, הוא הרגע בלתי מתחלק שהוא ראשית לזמן העתיד ואינו חלק ממנו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 2:2",
+        "quote": "בתחלת היום השביעי, שהוא הרגע בלתי מתחלק"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: כשהיה היום השביעי נשלמה כל מלאכתו ולא נשאר דבר לעשות, ואם כן בו ביום כלתה המלאכה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 2:2",
+        "quote": "כשהיה היום השביעי נשלם כל מלאכתו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: כמי שגומר בנין ביתו, שמח הקב\"ה ביום שכלה עולמו ועשה אותו יום טובה וברכה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 2:2",
+        "quote": "כמו מי שגומר בנין ביתו"
        }
       ]
      }
     ],
-    "why": "זה מגדיר את משמעות השבת: רגע של דיוק, או המרכיב האחרון של הבריאה עצמה."
+    "why": "היא מגדירה מהי השלמה ומהי שבת: תוספת מנוחה או הרגע המדויק שבו מסתיימת המלאכה."
    }
   ],
   "sources_consulted": [
    "רש\"י",
    "רמב\"ן",
+   "מדרש תנחומא בובר",
+   "בראשית רבה",
+   "מדרש תנחומא",
+   "תורה תמימה",
+   "כלי יקר",
+   "רד\"ק",
    "אבן עזרא",
-   "רשב\"ם",
+   "שד\"ל",
+   "אור החיים",
+   "העמק דבר",
    "ספורנו"
   ]
  }
