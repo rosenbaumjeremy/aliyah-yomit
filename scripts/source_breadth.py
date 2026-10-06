@@ -21,20 +21,26 @@ MAX_SHARE = 0.4        # share of all citations any one work may take
 MIN_MIDRASH = 1        # citations from Midrash
 
 # Only mefarshim and midrashim. "Quoting Commentary" counts only when it is a
-# commentary on a book of Tanach (e.g. "Ramban on Deuteronomy").
+# commentary on a book of Tanach (e.g. "Ramban on Deuteronomy", "Rabbeinu Bahya,
+# Bereshit"); Torah books may carry their Hebrew names.
 TANAKH = [b.replace("_", " ") for b in """Torah Genesis Exodus Leviticus
 Numbers Deuteronomy Joshua Judges I_Samuel II_Samuel I_Kings II_Kings Isaiah
 Jeremiah Ezekiel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah
 Haggai Zechariah Malachi Psalms Proverbs Job Song_of_Songs Ruth Lamentations
-Ecclesiastes Esther Daniel Ezra Nehemiah I_Chronicles II_Chronicles""".split()]
+Ecclesiastes Esther Daniel Ezra Nehemiah I_Chronicles II_Chronicles
+Bereshit Bereishit Shemot Vayikra Bamidbar Devarim""".split()]
 
 
 def allowed(category, title):
     if category in ("Commentary", "Midrash"):
         return True
-    if category == "Quoting Commentary" and " on " in title:
-        book = title.split(" on ", 1)[1]
-        return any(book == b or book.startswith(b + ",") for b in TANAKH)
+    if category == "Quoting Commentary":
+        # "Ramban on Deuteronomy", "Gur Aryeh on Bereishit", "Rabbeinu Bahya, Bereshit"
+        for sep in (" on ", ", "):
+            if sep in title:
+                book = title.split(sep, 1)[1]
+                if any(book == b or book.startswith(b + ",") for b in TANAKH):
+                    return True
     return False
 
 
