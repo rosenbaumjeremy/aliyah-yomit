@@ -173,6 +173,14 @@ function readingsFor(parasha) {
 
 /* ---------- brief ---------- */
 
+/** The source's own words, as quoted in the brief (and checked against Sefaria). */
+function sourceQuote(text) {
+  const quote = node("q", "srcquote", text);
+  quote.dir = "rtl";
+  quote.lang = "he";
+  return quote;
+}
+
 function briefBody(record) {
   const brief = record[state.lang] || record.english || record.hebrew;
   const wrap = node("div", "brief");
@@ -205,6 +213,7 @@ function briefBody(record) {
         if (who.era) asked.append(` (${t()[who.era] || who.era})`);
       });
       item.appendChild(asked);
+      for (const who of q.asked_by) if (who.quote) item.appendChild(sourceQuote(who.quote));
     }
 
     if (q.answers && q.answers.length) {
@@ -216,6 +225,7 @@ function briefBody(record) {
         for (const source of answer.sources || []) {
           li.append(" ");
           li.appendChild(source.ref ? sefariaLink(source.name, source.ref) : node("span", null, source.name));
+          if (source.quote) li.appendChild(sourceQuote(source.quote));
         }
         answers.appendChild(li);
       }

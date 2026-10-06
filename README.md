@@ -48,3 +48,11 @@ The brief's shape (`english` and `hebrew` are the same structure):
 ```sh
 python -m http.server 8129 --directory site
 ```
+
+## Grounding
+
+The routine follows [ROUTINE.md](ROUTINE.md). Every pasuk, asker and answer in a
+brief carries the exact words it quotes from a linked Sefaria ref, and
+`scripts/verify_brief.py` downloads each ref and removes anything whose quote
+is not there before the brief is emailed or published. The site shows those
+quotes under each source.
