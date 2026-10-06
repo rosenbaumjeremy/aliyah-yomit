@@ -57,6 +57,26 @@ def links(ref):
     return []
 
 
+def own_category(ref):
+    """Category of a ref that is not among the studied text's links, from
+    Sefaria's own index: "Commentary" only for commentaries on Tanach."""
+    url = ("https://www.sefaria.org/api/v3/texts/"
+           + urllib.parse.quote(ref.replace(" ", "_"), safe="_.:,-"))
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(url, timeout=60) as response:
+                data = json.load(response)
+            break
+        except Exception:
+            time.sleep(3)
+    else:
+        return "Other"
+    primary, cats = data.get("primary_category") or "Other", data.get("categories") or []
+    if primary == "Commentary" and cats[:1] != ["Tanakh"]:
+        return f"Commentary on {cats[0] if cats else 'other works'}"
+    return primary
+
+
 def main():
     with open(sys.argv[1], encoding="utf-8") as f:
         brief = json.load(f)
@@ -72,7 +92,9 @@ def main():
     def work(ref):
         """(Sefaria category, index title) of a cited ref."""
         best = max((t for t in category if t and ref.startswith(t)), key=len, default="")
-        return category.get(best, "Other"), best
+        if not best:
+            return own_category(ref), ""
+        return category[best], best
 
     questions = brief["english"]["questions"]
     cites, asks, cats = collections.Counter(), collections.Counter(), collections.Counter()
