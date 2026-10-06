@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers project (Workers Builds): pushing to main deploys.
+  // Static site with no server-side logic - site/ is the finished output.
+  "name": "aliyah-yomit",
+  "compatibility_date": "2026-10-06",
+  "assets": {
+    "directory": "./site"
+  }
+}
