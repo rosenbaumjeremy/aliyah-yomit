@@ -30,6 +30,7 @@ const UI = {
     consulted: "מקורות שנבדקו",
     rishon: "ראשון",
     acharon: "אחרון",
+    chazal: "חז״ל",
     aliyot: ["ראשון", "שני", "שלישי", "רביעי", "חמישי", "שישי", "שביעי"],
   },
   english: {
@@ -57,6 +58,7 @@ const UI = {
     consulted: "Sources consulted",
     rishon: "Rishon",
     acharon: "Acharon",
+    chazal: "Chazal",
     aliyot: ["Rishon", "Sheni", "Shlishi", "Revi'i", "Chamishi", "Shishi", "Shevi'i"],
   },
 };

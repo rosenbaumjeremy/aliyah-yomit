@@ -110,7 +110,7 @@ Quotes: copy them from the Sefaria text you fetched, at least three words in
 a row (two excerpts may be joined with "…", each at least two words, in the
 order they appear). `pasuk.text` must come from the verse in `pasuk.ref`, and
 `ref` must name a single verse or range that contains it — not a neighbouring
-verse. `era` is `rishon` or `acharon`. Plain text only: no Markdown, no HTML.
+verse. `era` is `rishon`, `acharon`, or `chazal` (midrash). Plain text only: no Markdown, no HTML.
 Do not write answers that no source gives.
 
 ## Step 5 – verify
