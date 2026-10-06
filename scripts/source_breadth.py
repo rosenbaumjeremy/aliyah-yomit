@@ -1,11 +1,11 @@
-"""Report how widely a verified brief draws on Sefaria, and fail if it leans
-on too few sources.
+"""Report which sources a verified brief draws on, and fail if it leans on too
+few of them or cites anything other than mefarshim and midrashim.
 
     python3 scripts/source_breadth.py <brief.json> [<Sefaria range> ...]
 
 Run it after verify_brief.py. Each cited ref is matched to its Sefaria
 category through the links of the studied text (the ranges given, else the
-brief's "refs" or "range"). Exit 1 means the brief needs more voices (see
+brief's "refs" or "range"). Exit 1 means the brief needs fixing (see
 ROUTINE.md step 5). The same file is used by tanach-summaries and aliyah-yomit.
 """
 import collections
@@ -18,7 +18,24 @@ import urllib.request
 MIN_WORKS = 8          # distinct works cited, askers and answers together
 MAX_ASKS = 3           # questions any one work may be the (sole) asker of
 MAX_SHARE = 0.4        # share of all citations any one work may take
-MIN_OTHER_CATS = 2     # categories besides Commentary (Talmud, Midrash, Thought…)
+MIN_MIDRASH = 1        # citations from Midrash
+
+# Only mefarshim and midrashim. "Quoting Commentary" counts only when it is a
+# commentary on a book of Tanach (e.g. "Ramban on Deuteronomy").
+TANAKH = [b.replace("_", " ") for b in """Torah Genesis Exodus Leviticus
+Numbers Deuteronomy Joshua Judges I_Samuel II_Samuel I_Kings II_Kings Isaiah
+Jeremiah Ezekiel Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah
+Haggai Zechariah Malachi Psalms Proverbs Job Song_of_Songs Ruth Lamentations
+Ecclesiastes Esther Daniel Ezra Nehemiah I_Chronicles II_Chronicles""".split()]
+
+
+def allowed(category, title):
+    if category in ("Commentary", "Midrash"):
+        return True
+    if category == "Quoting Commentary" and " on " in title:
+        book = title.split(" on ", 1)[1]
+        return any(book == b or book.startswith(b + ",") for b in TANAKH)
+    return False
 
 
 def links(ref):
@@ -46,25 +63,30 @@ def main():
         for link in links(ref):
             category.setdefault(link.get("index_title", ""), link.get("category", "Other"))
 
-    def cat(ref):
+    def work(ref):
+        """(Sefaria category, index title) of a cited ref."""
         best = max((t for t in category if t and ref.startswith(t)), key=len, default="")
-        return category.get(best, "Other")
+        return category.get(best, "Other"), best
 
     questions = brief["english"]["questions"]
     cites, asks, cats = collections.Counter(), collections.Counter(), collections.Counter()
+    outside = []
     for q in questions:
         askers = {a["name"] for a in q["asked_by"]}
         if len(askers) == 1:
             asks.update(askers)
         for who in q["asked_by"] + [s for a in q["answers"] for s in a["sources"]]:
             cites[who["name"]] += 1
-            cats[cat(who["ref"])] += 1
+            cat, title = work(who["ref"])
+            cats[cat] += 1
+            if not allowed(cat, title):
+                outside.append(f"{who['ref']} ({cat})")
 
     total = sum(cites.values()) or 1
     print("works:", ", ".join(f"{n} ({c})" for n, c in cites.most_common()))
     print("categories:", ", ".join(f"{n} ({c})" for n, c in cats.most_common()))
 
-    problems = []
+    problems = [f"not a mefaresh or midrash: {o}" for o in outside]
     if len(cites) < MIN_WORKS:
         problems.append(f"only {len(cites)} distinct works cited (need {MIN_WORKS})")
     for name, n in asks.items():
@@ -73,9 +95,8 @@ def main():
     for name, n in cites.items():
         if n / total > MAX_SHARE:
             problems.append(f"{name} has {n} of {total} citations (max {MAX_SHARE:.0%})")
-    other = [c for c in cats if c not in ("Commentary", "Reference")]
-    if len(other) < MIN_OTHER_CATS:
-        problems.append(f"only {len(other)} categories besides Commentary (need {MIN_OTHER_CATS})")
+    if cats["Midrash"] < MIN_MIDRASH:
+        problems.append(f"only {cats['Midrash']} Midrash citations (need {MIN_MIDRASH})")
 
     print("\n".join(problems) or "source breadth ok")
     sys.exit(1 if problems else 0)

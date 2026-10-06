@@ -48,30 +48,28 @@ linked source (category, collectiveTitle, index_title, ref, anchorRef). Retry
 transient 504s. Ignore category "Reference". Print a count of links per
 category and collectiveTitle first, so you see everything Sefaria has.
 
-**Cast a wide net.** Rashi, Ramban and Ibn Ezra are the obvious first stop, but
-a brief built only from them is not acceptable. Read across all of these, as
-far as Sefaria has them for the aliyah:
+**Read only מפרשים and מדרשים** – nothing else (no Talmud, Targum, halakha,
+machshava, musar, chasidut or kabbalah). Within that, cast a wide net: Rashi,
+Ramban and Ibn Ezra are the obvious first stop, but a brief built only from
+them is not acceptable. As far as Sefaria has them for the aliyah:
 
-- **Commentary** – every mefaresh present, not just the first few: Rashi,
-  Ramban, Ibn Ezra, Rashbam, Sforno, Chizkuni, Bekhor Shor, Rabbeinu Bahya,
-  Radak, Abarbanel, Alshich, Tur HaAroch, Ohr HaChaim, Kli Yakar, Gur Aryeh,
-  Mizrachi, Siftei Chakhamim, Haamek Davar, Malbim, Meshech Chochmah, Rav
-  Hirsch, HaKtav VeHaKabalah, Torah Temimah, Chatam Sofer, Tzror HaMor,
-  Akeidat Yitzchak, Shadal, and others.
-- **Talmud** (Bavli and Yerushalmi), **Midrash** (Rabbah, Tanchuma, Mekhilta,
-  Sifra, Sifrei, Pirkei DeRabbi Eliezer, Yalkut Shimoni…) and **Targum**
-  (Onkelos, Yonatan) – questions Chazal raise or answer on these pesukim.
-- **Halakhah** – Rambam, Sefer HaChinukh, Shulchan Arukh, where the pesukim
-  carry mitzvot.
-- **Jewish Thought, Musar, Chasidut, Kabbalah** – Moreh Nevuchim, Kuzari,
-  Maharal, Shelah, Kedushat Levi, Sefat Emet, Shem MiShmuel, Me'or Einayim,
-  Zohar – when they ask or answer something about the pasuk itself.
+- **מפרשים** (category "Commentary") – every mefaresh present, not just the
+  first few: Rashi, Ramban, Ibn Ezra, Rashbam, Sforno, Chizkuni, Bekhor Shor,
+  Rabbeinu Bahya, Radak, Abarbanel, Alshich, Tur HaAroch, Ohr HaChaim, Kli
+  Yakar, Gur Aryeh, Mizrachi, Siftei Chakhamim, Haamek Davar, Malbim, Meshech
+  Chochmah, Rav Hirsch, HaKtav VeHaKabalah, Torah Temimah, Chatam Sofer, Tzror
+  HaMor, Shadal, and others. Also category "Quoting Commentary", but only
+  commentaries on a book of Tanach that discuss these pesukim (e.g. Ramban on
+  another sefer, Radak on Nach) – not commentaries on Talmud or other works.
+- **מדרשים** (category "Midrash") – Bereshit/Shemot/… Rabbah, Tanchuma,
+  Mekhilta, Sifra, Sifrei, Pirkei DeRabbi Eliezer, Yalkut Shimoni, Lekach Tov,
+  Sekhel Tov… – questions Chazal raise or answer on these pesukim.
 
 Fetch the actual text of each one you use
 (`https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.3.1?version=hebrew`;
 the link's `ref` field gives the exact title, e.g. "Abarbanel on Torah, Genesis 1:1",
 "Alshekh on Torah, Genesis 1:1"). Read at least 30 passages from at least 10
-different works across at least 4 categories before choosing questions.
+different works, including midrashim, before choosing questions.
 Abarbanel and Alshich open sections with numbered שאלות — read those. Look for
 קשה, יש לשאול, צריך עיון, תימה, למה, מדוע, ואם תאמר, הקשה, לכאורה, צ"ע.
 When one mefaresh asks a question, look for whether others, Chazal or a later
@@ -84,7 +82,7 @@ ones several mefarshim raise, or that drive a machlokes), in pasuk order. Spread
 them across sources: no single work may be the only asker of more than 3
 questions, and wherever another source answers differently, give that answer
 too (a question with two or three answers from different works is the goal).
-Include both rishonim and acharonim, and Chazal where they speak. Write
+Include both rishonim and acharonim, and the midrash where it speaks. Write
 `/tmp/brief.json` with python `json.dump(..., ensure_ascii=False)`:
 
 ```
@@ -132,10 +130,11 @@ Then check breadth, passing the aliyah's `range` from step 1:
 python3 scripts/source_breadth.py /tmp/brief.json "<range, e.g. Genesis 2:20-3:21>"
 ```
 
-It lists the works and Sefaria categories cited and exits 1 if fewer than 8
-distinct works, one work is the only asker of more than 3 questions, one work
-holds more than 40% of citations, or fewer than 2 categories besides
-Commentary appear. On exit 1, go back to step 3, read the sources you have not
+It lists the works and Sefaria categories cited and exits 1 if anything cited
+is not a mefaresh or midrash, fewer than 8 distinct works are cited, one work
+is the only asker of more than 3 questions, one work holds more than 40% of
+citations, or no midrash is cited. Remove any source it names as not a
+mefaresh or midrash. On exit 1, go back to step 3, read the sources you have not
 used yet, add or replace questions and answers, and run both checks again. If a
 second full pass still fails because Sefaria truly has little on this aliyah,
 continue, and say so in the final line. Never edit the file after the checks
