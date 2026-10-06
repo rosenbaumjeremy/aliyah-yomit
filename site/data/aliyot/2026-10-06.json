@@ -19,67 +19,109 @@
   "english": "25 Tishrei 5787"
  },
  "english": {
-  "summary": "The third aliyah begins with no suitable helper found among the animals. God puts the man to sleep, builds a woman from his side, and the man names her woman, since she was taken from man. The two are naked and not ashamed. The serpent, the most cunning of the beasts, speaks to the woman, who eats from the forbidden tree and gives some to her husband, and their eyes open. They hide, God questions the man, the woman and the serpent, and pronounces consequences for each, with the serpent cursed, the woman given pain, and the ground cursed because of the man. The man names his wife Chavah, and God makes them garments of skin and clothes them.",
+  "summary": "Adam names the animals but finds no fitting helper, so God casts a deep sleep on him, builds a woman from his side and brings her to him; he calls her bone of his bones, and the two are naked and unashamed. The cunning snake asks the woman whether God really forbade every tree; she says they may not eat or touch the tree in the middle, and the snake says they will not die but become like God. She eats and gives to Adam, their eyes open, they know they are naked and sew fig leaves, and they hide from God in the garden. God calls \"Where are you?\"; the man blames the woman, the woman the snake. God curses the snake, tells the woman of pain and rule, tells Adam that the ground is cursed and he will return to dust, and Adam names his wife Chava. God makes garments of skin and clothes them.",
   "questions": [
    {
-    "title": "Why does the serpent appear here?",
+    "title": "Why was woman taken from man's side while he slept?",
+    "pasuk": {
+     "text": "ויפל ה' אלהים תרדמה על האדם ויישן ויקח אחת מצלעתיו",
+     "ref": "Genesis 2:21",
+     "label": "Genesis 2:21"
+    },
+    "question": "Why was the woman not created from the earth like the animals, but from the man's side, and why did God cast a deep sleep on him first?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 2:21",
+      "era": "acharon",
+      "quote": "למה נבראה חוה מצלעותיו ולא נבראה כשאר בע\"ח. ולמה הפיל עליו תרדמה"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 2:21",
+      "era": "chazal",
+      "quote": "מפני מה אלהיכם הפיל תרדמה על האדם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he slept so that he would not see the piece of flesh from which she was made and find her repulsive.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 2:21",
+        "quote": "שלא יראה חתיכת הבשר שממנו נבראת ותתבזה עליו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the deep sleep was so that he would not feel the pain when one of his ribs was taken.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 2:21",
+        "quote": "כדי שלא ירגיש הכאב בקחתו אחת מצלעתיו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: according to the plain meaning, the Holy One had pity on the first man and cast a sleep on him so as not to hurt him.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 2:21",
+        "quote": "חס הקב\"ה על אדם הראשון שלא להכאיבו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: had she been created from the earth she would have been proud against him; she was taken from the middle of the body, not from the head lest she be proud, nor from the feet lest she be despised.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 2:21",
+        "quote": "שאם בראה מן האדמה היתה מתגאה עליו"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what the manner of the woman's creation says about her relation to man: equal partner, protected, or a source of pride."
+   },
+   {
+    "title": "Why does the Torah stress that the snake was cunning, and how did it speak?",
     "pasuk": {
      "text": "והנחש היה ערום מכל חית השדה",
      "ref": "Genesis 3:1",
      "label": "Genesis 3:1"
     },
-    "question": "What does the verse about the serpent have to do with the end of chapter 2? The Torah could have gone straight from the man and woman being naked to God making them garments.",
+    "question": "Why does the Torah tell us that the snake was cunning, how could a snake speak, and what was it after?",
     "asked_by": [
      {
-      "name": "Rashi",
-      "ref": "Rashi on Genesis 3:1",
+      "name": "Radak",
+      "ref": "Radak on Genesis 3:1",
       "era": "rishon",
-      "quote": "מה ענין זה לכאן"
+      "quote": "יש לשאול על ענין אמירת הנחש לאשה איך היה"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 3:1",
+      "era": "acharon",
+      "quote": "צריך לדעת לאיזה סבה הודיענו הכתוב כי הנחש היה ערום"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: it teaches from what scheme the serpent pounced on them. It saw them naked and engaged in marital relations in public view, and it desired her.",
-      "sources": [
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 3:1",
-        "quote": "למדך מאיזו עצה קפץ הנחש עליהם, ראה אותם ערומים ועוסקים בתשמיש לעין כל ונתאוה לה"
-       }
-      ]
-     }
-    ],
-    "why": "It connects the temptation to the state of the first couple instead of treating it as a new story."
-   },
-   {
-    "title": "Was it a real talking serpent?",
-    "pasuk": {
-     "text": "והנחש היה ערום מכל חית השדה אשר עשה יהוה אלהים",
-     "ref": "Genesis 3:1",
-     "label": "Genesis 3:1"
-    },
-    "question": "How can a serpent speak and reason, and why is it cursed if it was only an animal? Was it a real animal, an angel, or something else?",
-    "asked_by": [
-     {
-      "name": "Ibn Ezra",
-      "ref": "Ibn Ezra on Genesis 3:1",
-      "era": "rishon",
-      "quote": "ורבים השתבשו לחקור למה היה קולל הנחש, ואם היתה לו דעת שלמה"
-     }
-    ],
-    "answers": [
-     {
-      "text": "Ibn Ezra: the straight view is that the words are as they sound. The serpent spoke and walked upright. Others say it was Satan, or that an angel spoke through it, and he rejects both.",
+      "text": "Ibn Ezra: some say the woman understood the language of the animals; others say the snake was Satan, but the end of the passage shows it was a real snake that was cursed.",
       "sources": [
        {
         "name": "Ibn Ezra",
         "ref": "Ibn Ezra on Genesis 3:1",
-        "quote": "והישר בעיני שהם הדברים כמשמעם, והנחש היה מדבר, והיה הולך בקומה זקופה"
+        "quote": "י\"א כי האשה היתה מבינה ויודעת לשון החיות"
        }
       ]
      },
      {
-      "text": "Sforno: the serpent is Satan, which is the evil inclination. The Torah calls it a serpent because it resembles one, of little benefit and great harm.",
+      "text": "Sforno: the snake is Satan, the evil inclination, which does the most harm while being the least seen.",
       "sources": [
        {
         "name": "Sforno",
@@ -87,30 +129,156 @@
         "quote": "הוא שטן הוא יצר הרע"
        }
       ]
+     },
+     {
+      "text": "Shadal: Don Yitzchak (Abarbanel) said the snake did not speak at all; the woman saw it eat and not die, and was moved to eat herself.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 3:1",
+        "quote": "כי הנחש לא דיבר, אלא האשה ראתה אותו שאכל ולא מת"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar, on Rashi's midrashic reason: the snake envied them when it saw them together and desired the woman; he finds this surprising, since every creature desires its own kind.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 3:1",
+        "quote": "פירש\"י בשם מ\"ר שנתקנא בהם במה שראה אותם מזדווגים יחד ונתאוה לה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Chava did not know whether the snake meant well, so that they be like God, or intended that Adam die so that he could take Chava.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 3:1",
+        "quote": "שמא כוונתו כדי שימות אדם וישא הוא את חוה"
+       }
+      ]
+     },
+     {
+      "text": "Malbim, citing Ibn Ezra: before the curse the snake walked on legs and could speak, and had affection for the woman, so it is no wonder that Chazal say it desired her.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 3:1",
+        "quote": "שהנחש קודם הקללה היה הולך על רגליו והיה מדבר"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: the snake is the same snake that is in the world, cunning as it still is.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "הנחש הזה שהוא בעולם היה ערום כמו שהוא עדיין"
+       }
+      ]
      }
     ],
-    "why": "It decides whether the sin was a failure against an outside tempter or an inner pull."
+    "why": "It decides whether the first sin begins with an outside tempter, with a symbol of the evil inclination, or with the woman's own view."
    },
    {
-    "title": "Why did the woman add \"nor touch it\"?",
+    "title": "How did the snake know God's command, and what does \"af ki\" mean?",
     "pasuk": {
-     "text": "ולא תגעו בו",
+     "text": "אף כי אמר אלהים לא תאכלו מכל עץ הגן",
+     "ref": "Genesis 3:1",
+     "label": "Genesis 3:1"
+    },
+    "question": "What does the snake mean by \"af ki amar Elokim\", and how did it know that God had forbidden the tree at all?",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 3:1",
+      "era": "chazal",
+      "quote": "שאילה מאין היה יודע הנחש כי אמר אלהים לא תאכלו"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 3:1",
+      "era": "acharon",
+      "quote": "נראים דבריו כדברי הוללות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Midrash Lekach Tov: the snake heard that they were commanded; God gave the command in front of the snake, so that they would be punished only after a warning.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "תשובה כי שמע הנחש שנצטוו"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: it is a question of astonishment, as Rashi, Ramban and others say: \"Did God really say you may not eat of the garden's trees?\"",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 3:1",
+        "quote": "הוא דרך שאלה ותמיהה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: \"af\" shows that the snake said other things as well, ending with an a fortiori argument that He forbade the fruit of every tree.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 3:1",
+        "quote": "וטעם אף כי יורה כי דבר דברים אחרים"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: since she could not eat from the Tree of Knowledge, it would be in her eyes as if she could eat from no tree of the garden, since all were nothing beside it.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 3:1",
+        "quote": "כיון שלא השיגה לאכול מעץ הדעת יהיה הדבר בעיניה כאלו אינה אוכלת מכל עץ הגן"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: three began with \"af\" and did not succeed: the snake, the chief baker, and Haman.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "שלשה פתחו באף ולא הצליחו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the snake began: by twisting a command into a question, and by turning a single prohibition into a total one."
+   },
+   {
+    "title": "Where does \"do not touch it\" come from?",
+    "pasuk": {
+     "text": "אמר אלהים לא תאכלו ממנו ולא תגעו בו פן תמתון",
      "ref": "Genesis 3:3",
      "label": "Genesis 3:3"
     },
-    "question": "God forbade only eating from the tree. The woman tells the serpent that God also said \"you shall not touch it\". Why does she add to the command?",
+    "question": "God forbade only eating from the tree. Where did the woman get \"and you shall not touch it\", and if she added it herself, how could she be misled?",
     "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 3:1",
+      "era": "acharon",
+      "quote": "אם האשה הוסיפה מדעתה צווי לא תגעו"
+     },
      {
       "name": "Rashi",
       "ref": "Rashi on Genesis 3:3",
       "era": "rishon",
-      "quote": "הוסיפה על הציווי"
-     },
-     {
-      "name": "Ibn Ezra",
-      "ref": "Ibn Ezra on Genesis 3:1",
-      "era": "rishon",
-      "quote": "גם האשה הוסיפה על מצות השם"
+      "quote": "הוסיפה על הצווי"
      }
     ],
     "answers": [
@@ -125,107 +293,53 @@
       ]
      },
      {
-      "text": "Ibn Ezra: she added to God's command, as the wife of Manoach added \"until the day of his death\".",
+      "text": "Ibn Ezra: the woman added to God's command, as Manoach's wife added \"until the day of his death\".",
       "sources": [
        {
         "name": "Ibn Ezra",
         "ref": "Ibn Ezra on Genesis 3:1",
-        "quote": "וכן הוסיפה אשת מנוח עד יום מותו"
-       }
-      ]
-     }
-    ],
-    "why": "It warns that adding a fence of one's own can lead to the downfall of the original command."
-   },
-   {
-    "title": "What did they know about being naked?",
-    "pasuk": {
-     "text": "ותפקחנה עיני שניהם וידעו כי עירמם הם",
-     "ref": "Genesis 3:7",
-     "label": "Genesis 3:7"
-    },
-    "question": "Even a blind man knows when he is naked. What new thing did they come to know when \"they knew that they were naked\"?",
-    "asked_by": [
-     {
-      "name": "Rashi",
-      "ref": "Rashi on Genesis 3:7",
-      "era": "rishon",
-      "quote": "אף הסומא יודע כשהוא ערום"
-     }
-    ],
-    "answers": [
-     {
-      "text": "Rashi: they had one commandment in their hands and were stripped of it.",
-      "sources": [
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 3:7",
-        "quote": "מצוה אחת היתה בידם ונתערטלו הימנה"
+        "quote": "גם האשה הוסיפה על מצות השם"
        }
       ]
      },
      {
-      "text": "Ibn Ezra: the tree of knowledge brings on sexual desire, and therefore the man and his wife covered their nakedness.",
+      "text": "Midrash Lekach Tov: God did not say \"do not touch\" to Adam, but He commanded Chava so, to be stricter with her and keep her far from sin; the snake pushed her against the tree, she did not die, and was persuaded.",
       "sources": [
        {
-        "name": "Ibn Ezra",
-        "ref": "Ibn Ezra on Genesis 3:6",
-        "quote": "והוא יוליד תאות המשגל, וע\"כ כסו האדם ואשתו ערותם"
-       }
-      ]
-     }
-    ],
-    "why": "It asks whether the first sin brought new knowledge or exposed what they had lost."
-   },
-   {
-    "title": "What was the tree of knowledge?",
-    "pasuk": {
-     "text": "ויתפרו עלה תאנה",
-     "ref": "Genesis 3:7",
-     "label": "Genesis 3:7"
-    },
-    "question": "Why does the Torah not name the tree they ate from? Was it the fig tree whose leaf they sewed?",
-    "asked_by": [
-     {
-      "name": "Rashi",
-      "ref": "Rashi on Genesis 3:7",
-      "era": "rishon",
-      "quote": "ומפני מה לא נתפרסם העץ"
-     }
-    ],
-    "answers": [
-     {
-      "text": "Rashi: it was the fig tree, and the tree is not named because the Holy One does not wish to shame any creature, so that people would not say this is the one through which the world was struck.",
-      "sources": [
-       {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 3:7",
-        "quote": "שאין הקב\"ה חפץ להונות בריה"
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "הוא צוה לחוה לא תגע בו, להחמיר עליה להרחיקה מן העבירה"
        }
       ]
      },
      {
-      "text": "Ibn Ezra: if the tree were a fig, Scripture would have said they sewed a leaf of the tree of knowledge. He holds that there were two special trees in the garden, found nowhere else on earth, and one was the tree of knowledge.",
+      "text": "Or HaChaim: Chava was not commanded by the Creator Himself but through Adam, so she could be misled.",
       "sources": [
        {
-        "name": "Ibn Ezra",
-        "ref": "Ibn Ezra on Genesis 3:6",
-        "quote": "והנכון בעיני ששני עצים הם בתוך גן עדן"
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 3:1",
+        "quote": "חוה לא נצטוית מפי הבורא אלא מפי אדם"
        }
       ]
      }
     ],
-    "why": "It shows how much the Torah's silence can teach."
+    "why": "It asks who is responsible for a fence around the law, and whether a fence added by people can itself lead to failure."
    },
    {
     "title": "Why does God ask \"Where are you?\"",
     "pasuk": {
-     "text": "ויקרא יהוה אלהים אל האדם ויאמר לו איכה",
+     "text": "ויקרא ה' אלהים אל האדם ויאמר לו איכה",
      "ref": "Genesis 3:9",
      "label": "Genesis 3:9"
     },
-    "question": "God knows where man is. Why does He ask \"Where are you?\"",
+    "question": "Nothing is hidden from God. Why does He ask Adam \"Where are you?\"",
     "asked_by": [
+     {
+      "name": "Saadia Gaon",
+      "ref": "Saadia Gaon on Genesis 3:9",
+      "era": "rishon",
+      "quote": "ויאמר לו איכה, אין זה בדרך שאלה"
+     },
      {
       "name": "Rashi",
       "ref": "Rashi on Genesis 3:9",
@@ -235,117 +349,362 @@
     ],
     "answers": [
      {
-      "text": "Rashi: God knew where he was, but asked in order to enter into conversation with him, so that he would not be too alarmed to answer if God punished him suddenly. So too with Cain and with Balaam.",
+      "text": "Rashi: He knew where he was, but wanted to enter into conversation, so that Adam would not be frightened into answering if He punished him suddenly.",
       "sources": [
        {
         "name": "Rashi",
         "ref": "Rashi on Genesis 3:9",
-        "quote": "ליכנס עמו בדברים, שלא יהא נבהל להשיב אם יענישהו פתאום"
+        "quote": "אלא לכנס עמו בדברים, שלא יהא נבהל להשיב"
+       }
+      ]
+     },
+     {
+      "text": "Saadia Gaon: nothing is hidden from Him; He said it so that Adam would confess, and confession is the opening to repentance.",
+      "sources": [
+       {
+        "name": "Saadia Gaon",
+        "ref": "Saadia Gaon on Genesis 3:9",
+        "quote": "כדי שיודה והודאתו היא פתח לתשובה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: \"ayeka\" is an opening of speech, like \"where is Hevel your brother\".",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 3:9",
+        "quote": "טעם איכה פתחון הדברים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: it means, \"why are you not seen in the garden as before, now that you are hidden?\"",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 3:9",
+        "quote": "שאינך נראה בגן כמאז"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: it asks about his level: see where you are, and how you fell from your standing.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 3:9",
+        "quote": "ראה איה אתה איך נפלת ממדרגתך"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: how did this happen to you, how was your mind turned?",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:9",
+        "quote": "איך היה לך. איך נטה דעתך"
        }
       ]
      }
     ],
-    "why": "It models how a judge draws out a confession instead of springing a verdict."
+    "why": "It shows how God confronts a sinner: with a question that leaves room for confession rather than with a verdict."
    },
    {
-    "title": "Why was the serpent not questioned?",
+    "title": "Is Adam ungrateful when he blames the woman?",
     "pasuk": {
-     "text": "ויאמר יהוה אלהים אל הנחש כי עשית זאת ארור אתה",
-     "ref": "Genesis 3:14",
-     "label": "Genesis 3:14"
+     "text": "האשה אשר נתתה עמדי הוא נתנה לי מן העץ ואכל",
+     "ref": "Genesis 3:12",
+     "label": "Genesis 3:12"
     },
-    "question": "God questioned the man and the woman before judging them, but He cursed the serpent without asking it anything. Why?",
+    "question": "Adam answers, \"The woman whom You gave to be with me, she gave me of the tree and I ate.\" Is this an excuse, a blame of God Himself, or a confession?",
     "asked_by": [
      {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 3:12",
+      "era": "acharon",
+      "quote": "צריך לדעת מה מענה בלשונו בתשובת האשה"
+     },
+     {
       "name": "Rashi",
-      "ref": "Rashi on Genesis 3:14",
+      "ref": "Rashi on Genesis 3:12",
       "era": "rishon",
-      "quote": "שאלו שאלו למה עשית זאת"
+      "quote": "כאן כפר בטובה"
      }
     ],
     "answers": [
      {
-      "text": "Rashi: from here, we do not argue in favor of an enticer. Had God asked it why it did this, it could have answered that it was the Master's word against the student's, and whose word does one obey?",
+      "text": "Midrash Lekach Tov: he was found ungrateful, for it was not enough that he was given a helper, but he complains, \"the woman You gave to be with me\".",
       "sources": [
        {
-        "name": "Rashi",
-        "ref": "Rashi on Genesis 3:14",
-        "quote": "מכאן שאין מהפכים בזכותו של מסית"
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:12",
+        "quote": "נמצא כפוי טובה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: You caused this, by giving me a woman who persuaded me to eat from it.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 3:12",
+        "quote": "אתה גרמת לי שנתת לי אשה כזאת שהסיתה אותי לאכול ממנו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the woman whom You gave me for help, I thought that whatever she told me would be for my help.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 3:12",
+        "quote": "והייתי חושב שכל אשר תאמר אלי יהיה לי לעזר"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Adam meant that he knew nothing; the woman brought the food to him prepared and he ate, and he was not obliged to question what was served him.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 3:12",
+        "quote": "כי אם האשה הביאה לפניו המזמן ואכל"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: \"and I ate\" is also a confession, like \"I have sinned\"; he excused himself, that he did not eat willfully, but still admitted that he ate.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 3:12",
+        "quote": "כך התנצל אדם שלא אכל בשאט נפש חלילה אבל מ\"מ הרי חטאתי ואכל"
        }
       ]
      }
     ],
-    "why": "It sets a rule about one who leads others into sin: he gets no defense."
+    "why": "It judges Adam's first response to sin: as ingratitude toward God, or as a partial confession."
+   },
+   {
+    "title": "What were the \"garments of skin\"?",
+    "pasuk": {
+     "text": "ויעש ה' אלהים לאדם ולאשתו כתנות עור וילבשם",
+     "ref": "Genesis 3:21",
+     "label": "Genesis 3:21"
+    },
+    "question": "What were the garments God made for Adam and his wife, and how were they made, before animals had been skinned?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 3:21",
+      "era": "rishon",
+      "quote": "אין לשאול איך עשה האל הכתנות האלה"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 3:21",
+      "era": "rishon",
+      "quote": "אין לנו לבקש בזאת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: some midrashim say they were smooth as a fingernail, stuck to their skin; others say they were made of rabbit wool, soft and warm.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 3:21",
+        "quote": "חלקים כצפורן היו מדבקים על עורן"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: \"garments for the skin of their flesh\", for no animal had yet been skinned, and so Onkelos translated.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 3:21",
+        "quote": "כתנות לעור בשרם שעדיין לא נפשטה בהמה"
+       }
+      ]
+     },
+     {
+      "text": "Saadia Gaon: God did not create clothes from nothing, but taught them to make clothes, showing them cotton and flax and awakening the thought of covering themselves.",
+      "sources": [
+       {
+        "name": "Saadia Gaon",
+        "ref": "Saadia Gaon on Genesis 3:21",
+        "quote": "אין זה שברא להם בגד, יש מאין"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: they were linen garments, made for them by His word, something next to the skin.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 3:21",
+        "quote": "כלי פשתן נהיו להם בדברו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: God made them without any effort by man, as will be in the future, when the land of Israel will bring forth ready garments.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 3:21",
+        "quote": "בלתי השתדלות אדם"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: God put understanding in their hearts to make garments of skin, for now the skill of craft began to shine in man.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 3:21",
+        "quote": "וה' נתן בינה בלבם לעשות כתנות עור"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: God dressed them, not that they dressed themselves, so that they would not come to exposure while dressing.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 3:21",
+        "quote": "כדי שלא יבואו לידי גלוי ערוה"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what clothing means after the sin: a gift of nature, of human skill, or of God's own care."
    }
   ],
   "sources_consulted": [
+   "Malbim",
+   "Midrash Lekach Tov",
    "Rashi",
+   "Radak",
+   "Chizkuni",
+   "Or HaChaim",
    "Ibn Ezra",
-   "Sforno"
+   "Sforno",
+   "Shadal",
+   "Haamek Davar",
+   "Kli Yakar",
+   "Saadia Gaon",
+   "Ramban",
+   "Bekhor Shor"
   ]
  },
  "hebrew": {
-  "summary": "העלייה השלישית פותחת בכך שלא נמצא עזר לאדם בין החיות. הקב\"ה מפיל עליו תרדמה, בונה אשה מצלעו, והאדם קורא לה אשה כי מאיש לוקחה. שניהם ערומים ולא יתבוששו. הנחש, הערום מכל חית השדה, מדבר אל האשה, והיא אוכלת מהעץ האסור ונותנת גם לאישה, ועיניהם נפקחות. הם מתחבאים, הקב\"ה חוקר את האדם, האשה והנחש, וגוזר על כל אחד מהם, והנחש נארר, האשה מקבלת צער והאדמה נארה בעבור האדם. האדם קורא לאשתו חוה, והקב\"ה עושה להם כתנות עור ומלבישם.",
+  "summary": "האדם קורא שמות לבהמות אך לא מוצא עזר כנגדו, והקב\"ה מפיל עליו תרדמה, בונה אישה מצלעו ומביאה אליו; הוא קורא לה עצם מעצמיו, והם ערומים ואינם מתבוששים. הנחש הערום שואל את האישה אם אמר אלהים לא תאכלו מכל עץ הגן; היא עונה שאסור לאכול או לגעת בעץ שבתוך הגן, והנחש אומר שלא תמותו אלא תהיו כאלהים. היא אוכלת ונותנת לאדם, נפקחות עיניהם, הם יודעים שהם ערומים, תופרים עלי תאנה ומתחבאים מפני ה'. הקב\"ה קורא \"איכה\"; האדם מאשים את האישה והאישה את הנחש. הקב\"ה מקלל את הנחש, מודיע לאישה על העיצבון והמשילות, ולאדם שהאדמה ארורה ושאל עפר ישוב, והאדם קורא לאשתו חוה. הקב\"ה עושה להם כתנות עור ומלבישם.",
   "questions": [
    {
-    "title": "מדוע מופיע הנחש כאן?",
+    "title": "מדוע נבראה האישה מצלעו של האדם בעודו ישן?",
+    "pasuk": {
+     "text": "ויפל ה' אלהים תרדמה על האדם ויישן ויקח אחת מצלעתיו",
+     "ref": "Genesis 2:21",
+     "label": "בראשית ב, כא"
+    },
+    "question": "מדוע לא נבראה האישה מן האדמה כמו הבהמות אלא מצלעו של האדם, ומדוע הפיל עליו הקב\"ה קודם תרדמה?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 2:21",
+      "era": "acharon",
+      "quote": "למה נבראה חוה מצלעותיו ולא נבראה כשאר בע\"ח. ולמה הפיל עליו תרדמה"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 2:21",
+      "era": "chazal",
+      "quote": "מפני מה אלהיכם הפיל תרדמה על האדם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ויישן, כדי שלא יראה את חתיכת הבשר שממנה נבראה ותתבזה עליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 2:21",
+        "quote": "שלא יראה חתיכת הבשר שממנו נבראת ותתבזה עליו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: התרדמה הייתה כדי שלא ירגיש הכאב בקחתו אחת מצלעותיו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 2:21",
+        "quote": "כדי שלא ירגיש הכאב בקחתו אחת מצלעתיו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לפי הפשט חס הקב\"ה על אדם הראשון שלא להכאיבו, ולכן הפיל עליו תרדמה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 2:21",
+        "quote": "חס הקב\"ה על אדם הראשון שלא להכאיבו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: אילו נבראה מן האדמה הייתה מתגאה עליו; ולכן נלקחה מאמצע הגוף, לא מן הראש שלא תתגאה ולא מן הרגלים שלא תתמאס.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 2:21",
+        "quote": "שאם בראה מן האדמה היתה מתגאה עליו"
+       }
+      ]
+     }
+    ],
+    "why": "היא שואלת מה אומרת דרך בריאת האישה על יחסה לאיש: שותפה שווה, מוגנת או מקור לגאווה."
+   },
+   {
+    "title": "מדוע מדגישה התורה שהנחש היה ערום, ואיך דיבר?",
     "pasuk": {
      "text": "והנחש היה ערום מכל חית השדה",
      "ref": "Genesis 3:1",
      "label": "בראשית ג, א"
     },
-    "question": "מה ענין פסוק הנחש לכאן? היה אפשר לעבור מעירומם של האדם ואשתו ישר אל מה שעשה להם הקב\"ה כתנות עור.",
+    "question": "מדוע מספרת התורה שהנחש היה ערום, איך יכול נחש לדבר, ומה רצה?",
     "asked_by": [
      {
-      "name": "רש\"י",
-      "ref": "Rashi on Genesis 3:1",
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 3:1",
       "era": "rishon",
-      "quote": "מה ענין זה לכאן"
+      "quote": "יש לשאול על ענין אמירת הנחש לאשה איך היה"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 3:1",
+      "era": "acharon",
+      "quote": "צריך לדעת לאיזה סבה הודיענו הכתוב כי הנחש היה ערום"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: למדך מאיזו עצה קפץ הנחש עליהם. ראה אותם ערומים ועוסקים בתשמיש לעין כל ונתאוה לה.",
-      "sources": [
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 3:1",
-        "quote": "למדך מאיזו עצה קפץ הנחש עליהם, ראה אותם ערומים ועוסקים בתשמיש לעין כל ונתאוה לה"
-       }
-      ]
-     }
-    ],
-    "why": "היא קושרת את הפיתוי למצבם של הזוג הראשון ולא רואה בו סיפור חדש."
-   },
-   {
-    "title": "האם היה זה נחש ממשי מדבר?",
-    "pasuk": {
-     "text": "והנחש היה ערום מכל חית השדה אשר עשה יהוה אלהים",
-     "ref": "Genesis 3:1",
-     "label": "בראשית ג, א"
-    },
-    "question": "איך יכול נחש לדבר ולהבין, ולמה הוא נקלל אם היה רק בעל חיים? האם היה בעל חיים ממשי, מלאך או דבר אחר?",
-    "asked_by": [
-     {
-      "name": "אבן עזרא",
-      "ref": "Ibn Ezra on Genesis 3:1",
-      "era": "rishon",
-      "quote": "ורבים השתבשו לחקור למה היה קולל הנחש, ואם היתה לו דעת שלמה"
-     }
-    ],
-    "answers": [
-     {
-      "text": "אבן עזרא: הישר בעיניו שהדברים כמשמעם. הנחש היה מדבר והיה הולך בקומה זקופה. הוא דוחה את הדעה שהיה שטן או שמלאך דיבר בשבילו.",
+      "text": "אבן עזרא: יש אומרים שהאישה הייתה מבינה את לשון החיות, ואחרים אמרו שהוא שטן, אך סוף הפרשה מוכיח שהוא נחש ממש.",
       "sources": [
        {
         "name": "אבן עזרא",
         "ref": "Ibn Ezra on Genesis 3:1",
-        "quote": "והישר בעיני שהם הדברים כמשמעם, והנחש היה מדבר, והיה הולך בקומה זקופה"
+        "quote": "י\"א כי האשה היתה מבינה ויודעת לשון החיות"
        }
       ]
      },
      {
-      "text": "ספורנו: הנחש הוא שטן הוא יצר הרע. התורה קוראת לו נחש מפני שהוא דומה לנחש, תועלתו מעטה וניזקו רב.",
+      "text": "ספורנו: הנחש הוא השטן, הוא יצר הרע, רב ההיזק במיעוט היותו נראה.",
       "sources": [
        {
         "name": "ספורנו",
@@ -353,35 +712,161 @@
         "quote": "הוא שטן הוא יצר הרע"
        }
       ]
-     }
-    ],
-    "why": "השאלה קובעת אם החטא היה כישלון מול מפתה חיצוני או משיכה פנימית."
-   },
-   {
-    "title": "מדוע הוסיפה האשה \"ולא תגעו בו\"?",
-    "pasuk": {
-     "text": "ולא תגעו בו",
-     "ref": "Genesis 3:3",
-     "label": "בראשית ג, ג"
-    },
-    "question": "הקב\"ה אסר רק לאכול מן העץ. האשה אומרת לנחש שנאמר גם \"ולא תגעו בו\". מדוע היא מוסיפה על הציווי?",
-    "asked_by": [
-     {
-      "name": "רש\"י",
-      "ref": "Rashi on Genesis 3:3",
-      "era": "rishon",
-      "quote": "הוסיפה על הציווי"
      },
      {
-      "name": "אבן עזרא",
-      "ref": "Ibn Ezra on Genesis 3:1",
-      "era": "rishon",
-      "quote": "גם האשה הוסיפה על מצות השם"
+      "text": "שד\"ל: דון יצחק (אברבנאל) אמר שהנחש לא דיבר, אלא האישה ראתה אותו אוכל ולא מת והתעוררה לאכול.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 3:1",
+        "quote": "כי הנחש לא דיבר, אלא האשה ראתה אותו שאכל ולא מת"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר, על טעם רש\"י מן המדרש: הנחש נתקנא בהם ונתאווה לאישה; והוא תמה על כך, שהרי כל בריה מתאווה למינה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 3:1",
+        "quote": "פירש\"י בשם מ\"ר שנתקנא בהם במה שראה אותם מזדווגים יחד ונתאוה לה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: חוה הייתה מסופקת אם כוונת הנחש לטובתם, שיהיו כאלהים, או שכוונתו שימות אדם וישא הוא את חוה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 3:1",
+        "quote": "שמא כוונתו כדי שימות אדם וישא הוא את חוה"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם, בשם אבן עזרא: הנחש קודם הקללה היה הולך על רגליו והיה מדבר, ולכן אין זה מוזר שחז\"ל אמרו שנתאווה לאישה.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 3:1",
+        "quote": "שהנחש קודם הקללה היה הולך על רגליו והיה מדבר"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: הנחש הזה שבעולם היה ערום כמו שהוא עדיין.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "הנחש הזה שהוא בעולם היה ערום כמו שהוא עדיין"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת אם החטא הראשון התחיל ממפתה חיצוני, מסמל של יצר הרע או מהשקפת האישה עצמה."
+   },
+   {
+    "title": "איך ידע הנחש את הציווי, ומה פירוש \"אף כי\"?",
+    "pasuk": {
+     "text": "אף כי אמר אלהים לא תאכלו מכל עץ הגן",
+     "ref": "Genesis 3:1",
+     "label": "בראשית ג, א"
+    },
+    "question": "מה כוונת הנחש ב\"אף כי אמר אלהים\", ואיך ידע שהקב\"ה אסר את העץ?",
+    "asked_by": [
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 3:1",
+      "era": "chazal",
+      "quote": "שאילה מאין היה יודע הנחש כי אמר אלהים לא תאכלו"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 3:1",
+      "era": "acharon",
+      "quote": "נראים דבריו כדברי הוללות"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: הוסיפה על הציווי, לפיכך באה לידי גרעון, שנאמר \"אל תוסף על דבריו\".",
+      "text": "מדרש לקח טוב: הנחש שמע שנצטוו, והקב\"ה ציווה אותם בפני הנחש כדי שיוכל להעניש אחר כך, שאין עונש אלא אחר אזהרה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "תשובה כי שמע הנחש שנצטוו"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: זו שאלה של תמיהה, כדעת רש\"י, הרמב\"ן ואחרים: האם אמר אלהים לא תאכלו מכל עץ הגן?",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 3:1",
+        "quote": "הוא דרך שאלה ותמיהה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"אף\" מורה שהנחש דבר דברים אחרים, וסיים בקל וחומר שאמר לכם לא תאכלו פרי כל עץ.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 3:1",
+        "quote": "וטעם אף כי יורה כי דבר דברים אחרים"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: כיוון שלא השיגה לאכול מעץ הדעת יהיה הדבר בעיניה כאילו אינה אוכלת מכל עץ הגן, שכולם כאין נגדו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 3:1",
+        "quote": "כיון שלא השיגה לאכול מעץ הדעת יהיה הדבר בעיניה כאלו אינה אוכלת מכל עץ הגן"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: שלושה פתחו ב\"אף\" ולא הצליחו: הנחש, שר האופים והמן.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "שלשה פתחו באף ולא הצליחו"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איך התחיל הנחש: בהפיכת ציווי לשאלה ובהפיכת איסור אחד לאיסור כולל."
+   },
+   {
+    "title": "מנין \"ולא תגעו בו\"?",
+    "pasuk": {
+     "text": "אמר אלהים לא תאכלו ממנו ולא תגעו בו פן תמתון",
+     "ref": "Genesis 3:3",
+     "label": "בראשית ג, ג"
+    },
+    "question": "הקב\"ה אסר רק לאכול מן העץ. מנין לאישה \"ולא תגעו בו\", ואם הוסיפה מדעתה, איך נתפתתה?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 3:1",
+      "era": "acharon",
+      "quote": "אם האשה הוסיפה מדעתה צווי לא תגעו"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 3:3",
+      "era": "rishon",
+      "quote": "הוסיפה על הצווי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הוסיפה על הצווי, ולכן באה לידי גרעון, שנאמר \"אל תוסף על דבריו\".",
       "sources": [
        {
         "name": "רש\"י",
@@ -391,107 +876,53 @@
       ]
      },
      {
-      "text": "אבן עזרא: האשה הוסיפה על מצות ה', וכן הוסיפה אשת מנוח \"עד יום מותו\".",
+      "text": "אבן עזרא: האישה הוסיפה על מצוות השם, וכן הוסיפה אשת מנוח \"עד יום מותו\".",
       "sources": [
        {
         "name": "אבן עזרא",
         "ref": "Ibn Ezra on Genesis 3:1",
-        "quote": "וכן הוסיפה אשת מנוח עד יום מותו"
-       }
-      ]
-     }
-    ],
-    "why": "היא מזהירה שהוספת סייג מעצמנו עלולה להביא לקריסת הציווי המקורי."
-   },
-   {
-    "title": "מה למדו על עירומם?",
-    "pasuk": {
-     "text": "ותפקחנה עיני שניהם וידעו כי עירמם הם",
-     "ref": "Genesis 3:7",
-     "label": "בראשית ג, ז"
-    },
-    "question": "אפילו הסומא יודע כשהוא ערום. מה חדש ידעו כאשר \"וידעו כי עירומם הם\"?",
-    "asked_by": [
-     {
-      "name": "רש\"י",
-      "ref": "Rashi on Genesis 3:7",
-      "era": "rishon",
-      "quote": "אף הסומא יודע כשהוא ערום"
-     }
-    ],
-    "answers": [
-     {
-      "text": "רש\"י: מצוה אחת היתה בידם ונתערטלו הימנה.",
-      "sources": [
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 3:7",
-        "quote": "מצוה אחת היתה בידם ונתערטלו הימנה"
+        "quote": "גם האשה הוסיפה על מצות השם"
        }
       ]
      },
      {
-      "text": "אבן עזרא: עץ הדעת מוליד תאוות המשגל, ולכן כסו האדם ואשתו את ערוותם.",
+      "text": "מדרש לקח טוב: הקב\"ה לא אמר לאדם \"לא תגע בו\", אך צוה לחוה כך, להחמיר עליה להרחיקה מן העבירה; הנחש דחף אותה אל האילן, והיא לא מתה ונתפתתה.",
       "sources": [
        {
-        "name": "אבן עזרא",
-        "ref": "Ibn Ezra on Genesis 3:6",
-        "quote": "והוא יוליד תאות המשגל, וע\"כ כסו האדם ואשתו ערותם"
-       }
-      ]
-     }
-    ],
-    "why": "היא שואלת אם החטא הראשון הביא ידיעה חדשה או חשף מה שאבד להם."
-   },
-   {
-    "title": "מהו עץ הדעת?",
-    "pasuk": {
-     "text": "ויתפרו עלה תאנה",
-     "ref": "Genesis 3:7",
-     "label": "בראשית ג, ז"
-    },
-    "question": "מדוע לא נקבה התורה את שם העץ שאכלו ממנו? האם היה זה עץ התאנה שעלהו תפרו?",
-    "asked_by": [
-     {
-      "name": "רש\"י",
-      "ref": "Rashi on Genesis 3:7",
-      "era": "rishon",
-      "quote": "ומפני מה לא נתפרסם העץ"
-     }
-    ],
-    "answers": [
-     {
-      "text": "רש\"י: זהו עץ התאנה, ולא נתפרסם העץ מפני שאין הקב\"ה חפץ להונות בריה, שלא יכלימוה ויאמרו זהו שלקה העולם על ידו.",
-      "sources": [
-       {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 3:7",
-        "quote": "שאין הקב\"ה חפץ להונות בריה"
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:1",
+        "quote": "הוא צוה לחוה לא תגע בו, להחמיר עליה להרחיקה מן העבירה"
        }
       ]
      },
      {
-      "text": "אבן עזרא: אילו היה עץ תאנה היה הכתוב אומר ויתפרו עלה עץ הדעת. לדעתו, והנכון בעיניו, ששני עצים הם בתוך גן עדן, ואינם במקום אחר, והאחד הוא עץ הדעת.",
+      "text": "אור החיים: חוה לא נצטוותה מפי הבורא אלא מפי אדם, ולכן יכלה להיפתות.",
       "sources": [
        {
-        "name": "אבן עזרא",
-        "ref": "Ibn Ezra on Genesis 3:6",
-        "quote": "והנכון בעיני ששני עצים הם בתוך גן עדן"
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 3:1",
+        "quote": "חוה לא נצטוית מפי הבורא אלא מפי אדם"
        }
       ]
      }
     ],
-    "why": "היא מראה כמה אפשר ללמוד משתיקת התורה."
+    "why": "היא שואלת מי אחראי לסייג שסביב המצווה, והאם סייג שהוסיפו בני אדם יכול להביא לכישלון."
    },
    {
     "title": "מדוע שואל הקב\"ה \"איכה\"?",
     "pasuk": {
-     "text": "ויקרא יהוה אלהים אל האדם ויאמר לו איכה",
+     "text": "ויקרא ה' אלהים אל האדם ויאמר לו איכה",
      "ref": "Genesis 3:9",
      "label": "בראשית ג, ט"
     },
-    "question": "הקב\"ה יודע היכן האדם. מדוע הוא שואל \"איכה\"?",
+    "question": "דבר אינו נעלם מהקב\"ה. מדוע הוא שואל את האדם \"איכה\"?",
     "asked_by": [
+     {
+      "name": "רס\"ג",
+      "ref": "Saadia Gaon on Genesis 3:9",
+      "era": "rishon",
+      "quote": "ויאמר לו איכה, אין זה בדרך שאלה"
+     },
      {
       "name": "רש\"י",
       "ref": "Rashi on Genesis 3:9",
@@ -501,53 +932,256 @@
     ],
     "answers": [
      {
-      "text": "רש\"י: יודע היה היכן הוא, אלא ליכנס עמו בדברים, שלא יהא נבהל להשיב אם יענישהו פתאום. וכן בקין ובבלעם.",
+      "text": "רש\"י: הוא ידע היכן הוא, אלא ליכנס עמו בדברים, שלא יהיה נבהל להשיב אם יעניש אותו פתאום.",
       "sources": [
        {
         "name": "רש\"י",
         "ref": "Rashi on Genesis 3:9",
-        "quote": "ליכנס עמו בדברים, שלא יהא נבהל להשיב אם יענישהו פתאום"
+        "quote": "אלא לכנס עמו בדברים, שלא יהא נבהל להשיב"
+       }
+      ]
+     },
+     {
+      "text": "רס\"ג: אין דבר נעלם ממנו, אלא אמר כך כדי שיודה, והודאתו היא פתח לתשובה.",
+      "sources": [
+       {
+        "name": "רס\"ג",
+        "ref": "Saadia Gaon on Genesis 3:9",
+        "quote": "כדי שיודה והודאתו היא פתח לתשובה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"איכה\" הוא פתחון הדברים, כמו \"אי הבל אחיך\".",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 3:9",
+        "quote": "טעם איכה פתחון הדברים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: פירושו, מדוע אינך נראה בגן כמאז, שנחבאת עתה ולא עשית כן מקודם?",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 3:9",
+        "quote": "שאינך נראה בגן כמאז"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: זו שאלה על המדרגה: ראה איה אתה, איך נפלת ממדרגתך.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 3:9",
+        "quote": "ראה איה אתה איך נפלת ממדרגתך"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: איך היה לך, איך נטה דעתך.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:9",
+        "quote": "איך היה לך. איך נטה דעתך"
        }
       ]
      }
     ],
-    "why": "היא מלמדת איך שופט מוציא וידוי ואינו מפתיע בגזר דין."
+    "why": "היא מראה איך הקב\"ה פונה לחוטא: בשאלה שמשאירה מקום להודאה ולא בגזר דין."
    },
    {
-    "title": "מדוע לא נשאל הנחש?",
+    "title": "האם האדם כפוי טובה כשהוא מאשים את האישה?",
     "pasuk": {
-     "text": "ויאמר יהוה אלהים אל הנחש כי עשית זאת ארור אתה",
-     "ref": "Genesis 3:14",
-     "label": "בראשית ג, יד"
+     "text": "האשה אשר נתתה עמדי הוא נתנה לי מן העץ ואכל",
+     "ref": "Genesis 3:12",
+     "label": "בראשית ג, יב"
     },
-    "question": "הקב\"ה חקר את האדם ואת האשה לפני שדן אותם, אך קילל את הנחש בלי לשאול אותו דבר. מדוע?",
+    "question": "האדם עונה: \"האשה אשר נתתה עמדי הוא נתנה לי מן העץ ואכל\". האם זו תירוץ, האשמה של הקב\"ה עצמו או הודאה?",
     "asked_by": [
      {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 3:12",
+      "era": "acharon",
+      "quote": "צריך לדעת מה מענה בלשונו בתשובת האשה"
+     },
+     {
       "name": "רש\"י",
-      "ref": "Rashi on Genesis 3:14",
+      "ref": "Rashi on Genesis 3:12",
       "era": "rishon",
-      "quote": "שאלו שאלו למה עשית זאת"
+      "quote": "כאן כפר בטובה"
      }
     ],
     "answers": [
      {
-      "text": "רש\"י: מכאן שאין מהפכים בזכותו של מסית. שאלו שאלו למה עשית זאת, היה לו להשיב דברי הרב ודברי התלמיד דברי מי שומעין.",
+      "text": "מדרש לקח טוב: נמצא כפוי טובה, שלא די שניתן לו עזר כנגדו אלא מתרעם ואומר \"האשה אשר נתתה עמדי\".",
       "sources": [
        {
-        "name": "רש\"י",
-        "ref": "Rashi on Genesis 3:14",
-        "quote": "מכאן שאין מהפכים בזכותו של מסית"
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:12",
+        "quote": "נמצא כפוי טובה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אתה גרמת לי שנתת לי אשה כזאת שהסיתה אותי לאכול ממנו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 3:12",
+        "quote": "אתה גרמת לי שנתת לי אשה כזאת שהסיתה אותי לאכול ממנו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: האשה שנתת לי לעזר, והייתי חושב שכל אשר תאמר אלי יהיה לי לעזר.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 3:12",
+        "quote": "והייתי חושב שכל אשר תאמר אלי יהיה לי לעזר"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: כוונת האדם שלא ידע דבר, אלא האישה הביאה לפניו את המזומן ואכל, ואינו חייב לשאול על המוגש לפניו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 3:12",
+        "quote": "כי אם האשה הביאה לפניו המזמן ואכל"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: \"ואכל\" הוא גם וידוי, כאומר \"חטאתי שאכלתי\"; הוא התנצל שלא אכל בשאט נפש, אך הודה שאכל.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 3:12",
+        "quote": "כך התנצל אדם שלא אכל בשאט נפש חלילה אבל מ\"מ הרי חטאתי ואכל"
        }
       ]
      }
     ],
-    "why": "היא קובעת כלל בדין המסית: אין לו סנגוריה."
+    "why": "היא שופטת את תגובתו הראשונה של האדם לחטא: כפיות טובה כלפי הקב\"ה או וידוי חלקי."
+   },
+   {
+    "title": "מהן \"כתנות עור\"?",
+    "pasuk": {
+     "text": "ויעש ה' אלהים לאדם ולאשתו כתנות עור וילבשם",
+     "ref": "Genesis 3:21",
+     "label": "בראשית ג, כא"
+    },
+    "question": "מהן הכתנות שעשה הקב\"ה לאדם ולאשתו, ואיך נעשו לפני שנפשטה בהמה?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 3:21",
+      "era": "rishon",
+      "quote": "אין לשאול איך עשה האל הכתנות האלה"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 3:21",
+      "era": "rishon",
+      "quote": "אין לנו לבקש בזאת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: יש דברי אגדה האומרים חלקים כצפורן היו מדובקים על עורם, ויש אומרים שהם מצמר הארנבים, שהוא רך וחם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 3:21",
+        "quote": "חלקים כצפורן היו מדבקים על עורן"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: \"כתנות לעור בשרם\", שעדיין לא נפשטה בהמה, וכן תרגם אונקלוס.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 3:21",
+        "quote": "כתנות לעור בשרם שעדיין לא נפשטה בהמה"
+       }
+      ]
+     },
+     {
+      "text": "רס\"ג: לא ברא להם בגד יש מאין, אלא גרם להם לעשות לעצמם בגד, הראה להם את הכותנה והפשתן ועורר בהם את המחשבה להתכסות.",
+      "sources": [
+       {
+        "name": "רס\"ג",
+        "ref": "Saadia Gaon on Genesis 3:21",
+        "quote": "אין זה שברא להם בגד, יש מאין"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: כלי פשתן נעשו להם בדיבורו, דבר הסמוך לעור.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 3:21",
+        "quote": "כלי פשתן נהיו להם בדברו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: עשה אותם בלתי השתדלות אדם, כעניין לעתיד שהארץ תוציא כלי מילת.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 3:21",
+        "quote": "בלתי השתדלות אדם"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: ה' נתן בינה בלבם לעשות כתנות עור, שכבר התנוצץ בו השכל המלאכותי והתחיל לעסוק באומנות.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 3:21",
+        "quote": "וה' נתן בינה בלבם לעשות כתנות עור"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הקב\"ה הלבישם, ולא שילבשו בעצמם, כדי שלא יבואו לידי גילוי ערווה בשעה שילבשו עצמן.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 3:21",
+        "quote": "כדי שלא יבואו לידי גלוי ערוה"
+       }
+      ]
+     }
+    ],
+    "why": "היא שואלת מה פירוש הלבוש אחרי החטא: מתנה מן הטבע, מכישרון האדם או מטיפולו של הקב\"ה."
    }
   ],
   "sources_consulted": [
+   "מלבי\"ם",
+   "מדרש לקח טוב",
    "רש\"י",
+   "רד\"ק",
+   "חזקוני",
+   "אור החיים",
    "אבן עזרא",
-   "ספורנו"
+   "ספורנו",
+   "שד\"ל",
+   "העמק דבר",
+   "כלי יקר",
+   "רס\"ג",
+   "רמב\"ן",
+   "בכור שור"
   ]
  }
 }
