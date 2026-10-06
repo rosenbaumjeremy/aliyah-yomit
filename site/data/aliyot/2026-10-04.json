@@ -1,0 +1,911 @@
+{
+ "date": "2026-10-04",
+ "reading": {
+  "en": "Bereshit",
+  "he": "בראשית",
+  "ref": "Genesis 1:1-6:8",
+  "slugs": [
+   "bereshit"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 1:1-2:3",
+ "hebrew_date": {
+  "hebrew": "כ״ג בְּתִשְׁרֵי תשפ״ז",
+  "english": "23 Tishrei 5787"
+ },
+ "english": {
+  "summary": "The first aliyah covers the whole account of creation, from \"In the beginning\" through the seventh day (Genesis 1:1-2:3). It narrates the creation of heaven and earth, the six days of formation (light, firmament, seas and vegetation, luminaries, sea and air creatures, land animals and man), and God's rest, blessing and sanctification of the seventh day. Because it is so compact and so foundational, the commentators ask about its very first word, its order of events, its unusual wording (\"one day\", \"let us make\") and the meaning of Shabbat.",
+  "questions": [
+   {
+    "title": "Why does the Torah begin with creation at all?",
+    "pasuk": {
+     "text": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
+     "ref": "Genesis 1:1",
+     "label": "Genesis 1:1"
+    },
+    "question": "Rashi, citing R. Yitzchak, asks \"lo hayah tzarikh lehatchil et haTorah ela me'HaChodesh hazeh lakhem\": a book of law should open with the first commandment given to Israel (Exodus 12:2). Ramban in turn objects to R. Yitzchak's premise (\"yesh lishol bah\"): beginning with creation is a great necessity, as it is the root of faith.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 1:1:1",
+      "era": "rishon"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 1:1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: so that if the nations call Israel robbers for conquering the seven nations' lands, Israel can answer that the whole earth belongs to God, who gave it and took it as He willed.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Ramban: creation is the root of faith, yet the account of creation is a deep secret that cannot be understood from the verses and is learned only by tradition. The Torah nonetheless recounts creation, Eden, the flood and the dispersion, to show that God removes sinful nations and gives lands to those who keep His laws.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Mizrachi: even though all narratives in the Torah serve a purpose, the essence of the Torah is its commandments, which is why R. Yitzchak's comment starts from \"HaChodesh hazeh\".",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It frames what the Torah is for: law, a justification of Israel's claim to the Land, or the foundation of faith in a Creator."
+   },
+   {
+    "title": "Is \"Bereshit\" the beginning of a sequence, or a sentence on its own?",
+    "pasuk": {
+     "text": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ",
+     "ref": "Genesis 1:1",
+     "label": "Genesis 1:1"
+    },
+    "question": "Rashi, Ibn Ezra and (as Abarbanel reports) Ralbag read the word as a construct: \"when God began to create...\", with the earth already tohu vavohu. Abarbanel objects (\"ein ha-perush ha-zeh bikhlalo nakhon etzli\"): the verse would then never state that heaven and earth were created, and it would describe the earth, water and darkness before mentioning any creation. He also asks, if heaven and earth are created first, what remains to be created afterwards? Rashbam likewise argues against reading \"Bereshit\" as \"at first\", since the verse does not say \"bareishona\".",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 1:1",
+      "era": "rishon"
+     },
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 1:1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the verse does not teach the order of creation; every \"reishit\" in Scripture is bound to the next word (as in \"bereshit mamlekhet Yehoyakim\"), so it means \"in the beginning of God's creating\". Ibn Ezra agrees that it is a construct, citing \"tehillat diber Hashem beHoshea\".",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:1:2"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Abarbanel: the verse states the primary fact of creation of the world ex nihilo; he sets out ten questions on the passage, beginning with this one, and reads the verse as an actual first act of creation.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Sforno: \"bereshit\" means the first indivisible moment of time, before which there was no time.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It decides whether Scripture itself teaches creation from nothing and whether the Torah gives an order of creation."
+   },
+   {
+    "title": "Why \"yom echad\" and not \"yom rishon\"?",
+    "pasuk": {
+     "text": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד",
+     "ref": "Genesis 1:5",
+     "label": "Genesis 1:5"
+    },
+    "question": "Rashi: \"lefi seder lashon haparashah hayah lo likhtov yom rishon\": the following days are written second, third, fourth, so why is the first called \"one\"?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 1:5:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: because God was alone in His world, since the angels were not created until the second day (per Bereshit Rabbah).",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:5:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Abarbanel (his second question, why the creation of angels is not mentioned) records a rabbinic view that angels were created on the first day, together with light, which Scripture uses as a figure for spiritual beings. This stands against Rashi's statement that they came on day two.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 1:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It touches on whether angels existed at creation, and on God's uniqueness in the act of creating."
+   },
+   {
+    "title": "What was the light of day one, and how were there days before the luminaries?",
+    "pasuk": {
+     "text": "יְהִי אוֹר ... יְהִי מְאֹרֹת",
+     "ref": "Genesis 1:3",
+     "label": "Genesis 1:3"
+    },
+    "question": "Abarbanel asks (question 5) what the light actually was, and (question 9) how the first three days, with evening and morning, were measured before the luminaries were made on the fourth day. Rashi to 1:14 addresses the same tension.",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the luminaries were created on the first day, but only on the fourth day did God command them to be set in the firmament; each created thing was fixed on the day decreed for it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:14:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Abarbanel reports the Moreh's answer that the luminaries were created on day one and the sphere turned, giving the first days their measure. He then rejects other attempted answers (a partial measure of time from other motions) as unsatisfactory.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Rashi on 1:4 also offers an aggadic reading that the light was set aside for the righteous in the future, alongside the plain reading that God fixed the boundaries of day and night.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:4:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It is the classic problem of how to read the \"days\" of creation and what \"light\" means before the sun."
+   },
+   {
+    "title": "Why does the verb change from speaking to \"making\" the firmament?",
+    "pasuk": {
+     "text": "וַיַּעַשׂ אֱלֹהִים אֶת הָרָקִיעַ",
+     "ref": "Genesis 1:7",
+     "label": "Genesis 1:7"
+    },
+    "question": "Abarbanel (question 6) asks why, for light, the verse says neither \"vaya'as\" nor \"vayehi khen\", while for the firmament and luminaries it does. The commentators explain that \"asiyah\" means fixing or setting in order, not creation.",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"asiyah\" here means setting something in order on its stand, like \"ve'asetah et tziporneha\".",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:7:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Ramban: in every place \"asiyah\" is the repair of a thing in its proper form; Bekhor Shor also says asiyah is not creation but improvement, as in \"vaya'as Betzalel\".",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 1:7:1"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 1:7:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It underlies the distinction between creation ex nihilo (bara) and forming from existing matter (asah), which Ramban applies to man."
+   },
+   {
+    "title": "Why \"na'aseh adam\" in the plural?",
+    "pasuk": {
+     "text": "נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ",
+     "ref": "Genesis 1:26",
+     "label": "Genesis 1:26"
+    },
+    "question": "Who is God addressing? Rashi notes that the plural gives \"makom laminim laredet\" (an opening for heretics), yet the Torah still teaches humility. Ibn Ezra opens by rejecting one reading as \"chasar lev\".",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 1:26:1",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 1:26:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: God consulted His heavenly court to teach humility, as a great person takes permission from a lesser one; the heretics' answer is written beside it: \"vayivra\", not \"vayivre'u\".",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:26:1"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 1:26:2"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Ramban: it means God and the earth: the earth brings forth the body as it did for animals, and God breathes in the spirit, so man resembles both the lower and upper worlds. Rabbeinu Bahya quotes this.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 1:26:1"
+       },
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 1:26:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Ibn Ezra: Saadia Gaon explains it as the royal plural; he lists other readings and rejects some.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 1:26:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Sforno: God gave power to His retinue to impart the image to the prepared subject. Rashbam: God was speaking to His angels. Or HaChaim: man was not created by command as the animals were; God Himself says He will make him.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 1:26:1"
+       },
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 1:26:1"
+       },
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 1:26:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It touches on God's unity, humility, and the special origin of man."
+   },
+   {
+    "title": "In what sense did God \"complete\" the work on the seventh day?",
+    "pasuk": {
+     "text": "וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי",
+     "ref": "Genesis 2:2",
+     "label": "Genesis 2:2"
+    },
+    "question": "If the work was finished on the sixth day and God rested on the seventh, why does the verse say he finished (\"vaychal\") on the seventh? Rashi and Ibn Ezra both address this.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 2:2:1",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 2:2:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi (R. Shimon): a human, who does not know his times, must add from the weekday onto the holy; God knows His moments exactly and entered the day like a hair's breadth, so it looks as if He completed on it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 2:2:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Rashi (another view): the world lacked rest; when Shabbat came, rest came and the work was completed.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 2:2:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Ibn Ezra dismisses the view that completion occurred through creating the seventh day as \"tafel\", and notes the view that the prefix bet means \"before\", on the grounds that cessation is not itself an act.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 2:2:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It shapes how we understand Shabbat: as a part of creation or the act of ceasing."
+   },
+   {
+    "title": "What was the blessing and sanctification of Shabbat?",
+    "pasuk": {
+     "text": "וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ",
+     "ref": "Genesis 2:3",
+     "label": "Genesis 2:3"
+    },
+    "question": "Ramban surveys different explanations of what the blessing and sanctification of the day actually consist of.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 2:3:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: He blessed it with the manna (a double portion on Friday) and sanctified it with the manna (none falling on Shabbat); the verse is written about the future.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 2:3:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Saadia Gaon (as cited by Ramban): the blessing and sanctity are for those who keep Shabbat.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 2:3:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "Ibn Ezra (as cited by Ramban): the blessing is an increase of good - strength in bodies and intellect in souls - and the sanctification is that no work was done. Ramban himself: the blessing is the source of all blessings and an extra soul on Shabbat.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 2:3:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "It defines the nature of Shabbat: a historical event, a promise for Israel, or a cosmic reality."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi on Genesis 1:1, 1:2, 1:4, 1:5, 1:6, 1:7, 1:8, 1:14, 1:26, 1:31, 2:2, 2:3",
+   "Ramban on Genesis 1:1, 1:3, 1:5, 1:6, 1:7, 1:26, 2:3",
+   "Ibn Ezra on Genesis 1:1, 1:2, 1:3, 1:14, 1:26, 2:2",
+   "Rashbam on Genesis 1:1, 1:26",
+   "Sforno on Genesis 1:1, 1:26",
+   "Chizkuni on Genesis 1:1",
+   "Abarbanel on Torah, Genesis 1:1",
+   "Mizrachi on Genesis 1:1",
+   "Siftei Chakhamim on Genesis 1:1",
+   "Or HaChaim on Genesis 1:26",
+   "Rabbeinu Bahya on Bereshit 1:26",
+   "Bekhor Shor on Genesis 1:7"
+  ]
+ },
+ "hebrew": {
+  "summary": "העלייה הראשונה כוללת את כל מעשה בראשית, מ\"בראשית\" ועד יום השביעי (בראשית א, א – ב, ג). היא מתארת את בריאת השמים והארץ, ששת ימי היצירה (אור, רקיע, ימים וצמחים, מאורות, דגים ועופות, בהמות ואדם), ואת שביתת ה' מן המלאכה, ברכתו וקידושו של יום השביעי. משום שהפרשה תמציתית כל כך ויסודית כל כך, המפרשים שואלים על מילתה הראשונה, על סדר המעשים, על לשונות חריגים (\"יום אחד\", \"נעשה אדם\") ועל משמעות השבת.",
+  "questions": [
+   {
+    "title": "למה התורה פותחת בבריאת העולם?",
+    "pasuk": {
+     "text": "בְּרֵאשִׁית בָּרָא אֱלֹהִים",
+     "ref": "Genesis 1:1",
+     "label": "בראשית א, א"
+    },
+    "question": "רש\"י, בשם רבי יצחק, שואל: \"לא היה צריך להתחיל את התורה אלא מהחודש הזה לכם\" – ספר חוקים היה צריך לפתוח במצווה הראשונה שנצטוו בה ישראל (שמות יב, ב). והרמב\"ן מקשה על הנחת רבי יצחק (\"ויש לשאול בה\"): צורך גדול הוא להתחיל ב\"בראשית ברא אלהים\", כי הוא שורש האמונה.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 1:1:1",
+      "era": "rishon"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 1:1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שאם יאמרו אומות העולם לישראל \"לסטים אתם\" שכבשתם ארצות שבעה גויים, יאמרו להם: כל הארץ של הקב\"ה היא, הוא נתנה לאשר ישר בעיניו, ברצונו נתנה להם וברצונו נטלה מהם ונתנה לנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "רמב\"ן: הבריאה היא שורש האמונה, אך מעשה בראשית הוא סוד עמוק שאינו מובן מן המקראות ונודע רק מפי הקבלה. ובכל זאת התורה מספרת את הבריאה, גן עדן, המבול והפלגה, כדי להראות שה' מגרש עמים חוטאים ונותן את הארץ לשומרי חוקיו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "מזרחי: אף שכל הסיפורים שבתורה לצורך, עיקר התורה הוא מצוותיה, ולכן דברי רבי יצחק מתחילים מ\"החודש הזה\".",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "השאלה קובעת מה תכלית התורה: חוק, הצדקת זכותם של ישראל בארץ, או יסוד האמונה בבורא."
+   },
+   {
+    "title": "האם \"בראשית\" פותח רצף, או משפט העומד בפני עצמו?",
+    "pasuk": {
+     "text": "בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ",
+     "ref": "Genesis 1:1",
+     "label": "בראשית א, א"
+    },
+    "question": "רש\"י ואבן עזרא (ובעקבותיהם, כפי שמביא אברבנאל, הרלב\"ג) מפרשים את המילה כסמיכות: \"בראשית ברוא אלהים\" והארץ כבר הייתה תהו ובהו. אברבנאל מקשה (\"ואין הפירוש הזה בכללו נכון אצלי\"): לפי זה לא נזכרה בבירור בריאת השמים והארץ, וייאמר שהארץ הייתה תהו ובהו לפני שנזכר שנבראה. ועוד שואל: אם בראשונה נברא הכול, מה נברא אחר כך? גם הרשב\"ם מתנגד לפירוש \"בראשונה\", שהרי לא כתוב כאן \"בראשונה\" אלא \"בראשית\".",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 1:1",
+      "era": "rishon"
+     },
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 1:1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אין המקרא בא להורות סדר הבריאה; אין \"ראשית\" במקרא שאינו דבוק למילה שאחריו (כמו \"בראשית ממלכת יהויקים\"), ולכן הפירוש \"בראשית ברוא\". אבן עזרא מסכים שהוא סמוך, ומביא \"תחלת דבר ה' בהושע\".",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:1:2"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "אברבנאל: הפסוק מודיע את עיקר הבריאה, יש מאין, וכפי שהוא מונה עשר שאלות בפרשה ומפרש את הפסוק כמעשה בריאה ראשון ממש.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "ספורנו: \"בראשית\" – בתחילת הזמן, הוא רגע ראשון בלתי מתחלק שלא היה זמן קודם לו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 1:1:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "היא קובעת אם המקרא עצמו מלמד בריאה יש מאין, ואם התורה נותנת סדר לבריאה."
+   },
+   {
+    "title": "למה \"יום אחד\" ולא \"יום ראשון\"?",
+    "pasuk": {
+     "text": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד",
+     "ref": "Genesis 1:5",
+     "label": "בראשית א, ה"
+    },
+    "question": "רש\"י: \"לפי סדר לשון הפרשה היה לו לכתוב יום ראשון\", כמו בשאר הימים – שני, שלישי, רביעי – למה כתב \"אחד\"?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 1:5:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לפי שהיה הקב\"ה יחיד בעולמו, שלא נבראו המלאכים עד יום שני (כמפורש בבראשית רבה).",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:5:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "אברבנאל (בשאלתו השנייה, למה לא נזכרה בריאת המלאכים) מביא דעה בדברי חז\"ל שהמלאכים נבראו ביום הראשון עם האור, שהתורה משלה אליו את הרוחניים. זה מנוגד לדברי רש\"י שנבראו ביום שני.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 1:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "היא נוגעת בשאלה אם המלאכים היו בבריאת העולם, וביחידותו של הבורא."
+   },
+   {
+    "title": "מהו האור של יום ראשון, וכיצד היו ימים לפני המאורות?",
+    "pasuk": {
+     "text": "יְהִי אוֹר ... יְהִי מְאֹרֹת",
+     "ref": "Genesis 1:3",
+     "label": "בראשית א, ג"
+    },
+    "question": "אברבנאל שואל (שאלה ה') מהו האור, ו(שאלה ט') כיצד נמדדו שלושת הימים הראשונים, עם ערב ובוקר, לפני שנבראו המאורות ביום הרביעי. רש\"י על א, יד נותן מענה לאותו קושי.",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מיום ראשון נבראו המאורות, וביום רביעי ציווה עליהם להיתלות ברקיע; כל דבר נקבע ביום שנגזר עליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:14:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "אברבנאל מביא את תשובת הרמב\"ם (המורה) שהמאורות נבראו ביום ראשון והגלגל נע, ובכך נמדדו הימים הראשונים; ואת התשובות האחרות (זמן בלתי שלם מתנועות אחרות) הוא דוחה.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 1:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "רש\"י על א, ד מביא גם דרשת אגדה שהאור נגנז לצדיקים לעתיד לבוא, ולפי פשוטו – ה' קבע תחום ליום ותחום ללילה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:4:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "זו הבעיה הקלאסית בהבנת \"ימי\" הבריאה ומשמעות \"אור\" לפני השמש."
+   },
+   {
+    "title": "למה לשון \"ויעש\" ברקיע?",
+    "pasuk": {
+     "text": "וַיַּעַשׂ אֱלֹהִים אֶת הָרָקִיעַ",
+     "ref": "Genesis 1:7",
+     "label": "בראשית א, ז"
+    },
+    "question": "אברבנאל (שאלה ו') שואל למה באור לא נאמר \"ויעש\" ו\"ויהי כן\", ואילו ברקיע ובמאורות נאמר. המפרשים מסבירים שלשון \"עשייה\" היא תיקון וסידור, לא בריאה.",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 1:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"תקנו על עמדו, והיא עשייתו\", כמו \"ועשתה את צפרניה\".",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:7:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "רמב\"ן: לשון עשייה בכל מקום – תיקון הדבר על מתכונתו. ובכור שור: עשייה אינה לשון בריאה אלא תיקון, כמו \"ויעש בצלאל\".",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 1:7:1"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 1:7:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "היא עומדת ביסוד ההבדל בין בריאה יש מאין (ברא) ליצירה מחומר קיים (עשה), שהרמב\"ן מיישם באדם."
+   },
+   {
+    "title": "למה \"נעשה אדם\" בלשון רבים?",
+    "pasuk": {
+     "text": "נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ",
+     "ref": "Genesis 1:26",
+     "label": "בראשית א, כו"
+    },
+    "question": "עם מי מדבר הקב\"ה? רש\"י מציין שיש כאן \"מקום למינים לרדת\", ובכל זאת לא נמנע הכתוב מללמד ענווה. אבן עזרא פותח בדחיית פירוש אחד כ\"חסר לב\".",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 1:26:1",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 1:26:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נמלך בפמליא של מעלה ללמד ענווה, שהגדול נוטל רשות מן הקטן; ותשובת המינים כתובה בצדה: \"ויברא\", ולא \"ויבראו\".",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:26:1"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 1:26:2"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "רמב\"ן: \"אני והארץ\" – הארץ תוציא את הגוף כמו בבהמה, והקב\"ה נותן את הרוח, ולכן האדם דומה לעליונים ולתחתונים. רבינו בחיי מביא דברים אלה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 1:26:1"
+       },
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 1:26:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "אבן עזרא: רס\"ג מפרש שזה לשון רבים של מלכות; והוא מביא פירושים אחרים ודוחה חלקם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 1:26:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "ספורנו: נתן כוח בפמליא שלו להשפיע את הצלם בנושא המוכן. רשב\"ם: למלאכיו. אור החיים: האדם לא נברא כשאר הבריות במאמר, אלא ה' הבורא אומר שהוא יעשה את האדם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 1:26:1"
+       },
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 1:26:1"
+       },
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 1:26:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "היא נוגעת ביחוד ה', בענווה, ובמוצאו המיוחד של האדם."
+   },
+   {
+    "title": "באיזה מובן \"כילה\" ה' את המלאכה ביום השביעי?",
+    "pasuk": {
+     "text": "וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי",
+     "ref": "Genesis 2:2",
+     "label": "בראשית ב, ב"
+    },
+    "question": "אם המלאכה נגמרה בששי והשביתה בשביעי, למה נאמר \"ויכל\" ביום השביעי? רש\"י ואבן עזרא מתייחסים לכך.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 2:2:1",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 2:2:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י (ר' שמעון): בשר ודם שאינו יודע עיתיו ורגעיו צריך להוסיף מחול על הקודש; הקב\"ה שיודע עיתיו ורגעיו נכנס בו כחוט השערה, ונראה כאילו כילה בו ביום.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 2:2:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "רש\"י (דבר אחר): מה היה העולם חסר? מנוחה; באת שבת באת מנוחה, כלתה ונגמרה המלאכה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 2:2:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "אבן עזרא: את הדעה שהכילוי היה בבריאת היום השביעי הוא מכנה \"תפל\", ומזכיר דעה שהבי\"ת פירושה \"קודם\", כי השביתה אינה בעצמה מעשה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 2:2:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "היא מעצבת את הבנת השבת: חלק מן הבריאה או עצם ההפסקה."
+   },
+   {
+    "title": "מהו הברכה והקידוש של השבת?",
+    "pasuk": {
+     "text": "וַיְבָרֶךְ אֱלֹהִים אֶת יוֹם הַשְּׁבִיעִי וַיְקַדֵּשׁ אֹתוֹ",
+     "ref": "Genesis 2:3",
+     "label": "בראשית ב, ג"
+    },
+    "question": "הרמב\"ן סוקר הסברים שונים במה בדיוק מורכבים הברכה והקידוש של היום.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 2:3:1",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ברכו במן (לחם משנה בשישי) וקידשו במן (שלא ירד בשבת); והמקרא כתוב על העתיד.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 2:3:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "רס\"ג (כפי שמביא הרמב\"ן): הברכה והקידוש הם על השומרים, שיהיו מבורכים ומקודשים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 2:3:1"
+       }
+      ],
+      "synthesis": false
+     },
+     {
+      "text": "אבן עזרא (כפי שמביא הרמב\"ן): הברכה היא תוספת טוב – כוח בגופים ושכל בנשמה – והקידוש שלא עשה בו מלאכה. והרמב\"ן עצמו: הברכה היא מעין הברכות, יסוד עולם, ובשבת נפש יתרה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 2:3:1"
+       }
+      ],
+      "synthesis": false
+     }
+    ],
+    "why": "היא מגדירה את מהות השבת: אירוע היסטורי, הבטחה לישראל, או מציאות קוסמית."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י על בראשית א, א; א, ב; א, ד; א, ה; א, ו; א, ז; א, ח; א, יד; א, כו; א, לא; ב, ב; ב, ג",
+   "רמב\"ן על בראשית א, א; א, ג; א, ה; א, ו; א, ז; א, כו; ב, ג",
+   "אבן עזרא על בראשית א, א; א, ב; א, ג; א, יד; א, כו; ב, ב",
+   "רשב\"ם על בראשית א, א; א, כו",
+   "ספורנו על בראשית א, א; א, כו",
+   "חזקוני על בראשית א, א",
+   "אברבנאל על בראשית א, א",
+   "מזרחי על בראשית א, א",
+   "שפתי חכמים על בראשית א, א",
+   "אור החיים על בראשית א, כו",
+   "רבינו בחיי על בראשית א, כו",
+   "בכור שור על בראשית א, ז"
+  ]
+ }
+}
