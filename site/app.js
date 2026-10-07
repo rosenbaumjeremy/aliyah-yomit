@@ -32,6 +32,10 @@ const UI = {
     acharon: "אחרון",
     chazal: "חז״ל",
     aliyot: ["ראשון", "שני", "שלישי", "רביעי", "חמישי", "שישי", "שביעי"],
+    views: { summaries: "סיכומי העליות", questions: "שאלות ותשובות", all: "סיכומים ושאלות" },
+    wholeParasha: "כל הפרשה",
+    noneYet: "עדיין לא פורסמו עליות בפרשה זו.",
+    missing: (names) => `טרם פורסמו: ${names}`,
   },
   english: {
     dir: "ltr",
@@ -60,6 +64,10 @@ const UI = {
     acharon: "Acharon",
     chazal: "Chazal",
     aliyot: ["Rishon", "Sheni", "Shlishi", "Revi'i", "Chamishi", "Shishi", "Shevi'i"],
+    views: { summaries: "Aliyah summaries", questions: "Questions & answers", all: "Summaries & questions" },
+    wholeParasha: "Whole parasha",
+    noneYet: "No aliyot of this parasha have been published yet.",
+    missing: (names) => `Not yet published: ${names}`,
   },
 };
 
@@ -72,6 +80,7 @@ const state = {
   parasha: null,      // slug of the parasha being viewed
   reading: null,      // which reading's tabs are active (its slugs joined)
   aliyah: null,       // 1..7
+  view: null,         // whole-parasha view: "summaries" | "questions" | "all"
   briefs: new Map(),  // date -> fetch promise
 };
 
@@ -183,10 +192,11 @@ function sourceQuote(text) {
   return quote;
 }
 
-function briefBody(record) {
+function briefBody(record, { summary = true, questions = true } = {}) {
   const brief = record[state.lang] || record.english || record.hebrew;
   const wrap = node("div", "brief");
-  if (brief.summary) wrap.appendChild(node("p", "briefSummary", brief.summary));
+  if (summary && brief.summary) wrap.appendChild(node("p", "briefSummary", brief.summary));
+  if (!questions) return wrap;
 
   const list = node("ol", "qlist");
   for (const q of brief.questions || []) {
@@ -282,6 +292,41 @@ function renderBrief(reading) {
   }).catch(() => { slot.textContent = t().loadFailed; });
 }
 
+/** The whole parasha at once: every published aliyah of the reading, in order,
+    each under its own heading, showing its summary, its questions, or both. */
+function renderWhole(reading) {
+  const host = el("brief");
+  host.innerHTML = "";
+  const parts = { summaries: { questions: false }, questions: { summary: false }, all: {} }[state.view];
+  const published = [], missing = [];
+  for (let n = 1; n <= 7; n++) {
+    if (reading.days.has(n)) published.push(n);
+    else if (reading.aliyot[n - 1]) missing.push(t().aliyot[n - 1]);
+  }
+  const card = node("article", "briefcard whole");
+  card.appendChild(node("h3", null, `${t().views[state.view]} — ${t().wholeParasha}`));
+  host.appendChild(card);
+  if (!published.length) { card.appendChild(node("p", "empty", t().noneYet)); return; }
+  if (missing.length) card.appendChild(node("p", "meta", t().missing(missing.join(", "))));
+
+  const lang = state.lang;
+  const wanted = `${state.parasha}|${reading.key}|${state.view}`;
+  for (const n of published) {
+    const day = reading.days.get(n);
+    const section = node("section", "aliyahPart");
+    const heading = node("h4", "aliyahHead", `${t().aliyot[n - 1]} — `);
+    heading.appendChild(sefariaLink(rangeLabel(day.range), day.range));
+    section.appendChild(heading);
+    const slot = node("div", "empty", t().loading);
+    section.appendChild(slot);
+    card.appendChild(section);
+    loadBrief(day.file || day.date).then((record) => {
+      if (state.lang !== lang || `${state.parasha}|${state.reading}|${state.view}` !== wanted) return;
+      slot.replaceWith(briefBody(record, parts));
+    }).catch(() => { slot.textContent = t().loadFailed; });
+  }
+}
+
 /* ---------- views ---------- */
 
 function renderLatest() {
@@ -365,9 +410,20 @@ function renderParasha() {
       tabs.appendChild(tab);
     }
     block.appendChild(tabs);
+    const views = node("div", "views");
+    for (const view of ["summaries", "questions", "all"]) {
+      const button = node("button", "viewbtn", t().views[view]);
+      button.type = "button";
+      button.classList.toggle("on", reading.key === state.reading && state.view === view);
+      button.onclick = () => go(parasha.slug, reading.key, null, view);
+      views.appendChild(button);
+    }
+    block.appendChild(views);
     host.appendChild(block);
   }
-  renderBrief(readings.find((r) => r.key === state.reading));
+  const active = readings.find((r) => r.key === state.reading);
+  if (state.view) renderWhole(active);
+  else renderBrief(active);
 }
 
 function render() {
@@ -394,15 +450,17 @@ function writeHash() {
   if (state.parasha) params.set("p", state.parasha);
   if (state.reading && state.reading !== state.parasha) params.set("r", state.reading);
   if (state.aliyah) params.set("a", state.aliyah);
+  if (state.view) params.set("v", state.view);
   selfWrite = `#${params}`;
   history.replaceState(null, "", selfWrite);
 }
 
-function go(parasha, reading, aliyah) {
+function go(parasha, reading, aliyah, view = null) {
   const moved = parasha !== state.parasha;
   state.parasha = parasha;
   state.reading = reading;
   state.aliyah = aliyah;
+  state.view = view;
   writeHash();
   render();
   if (moved) window.scrollTo(0, 0);
@@ -414,6 +472,8 @@ function readHash() {
   state.parasha = findParasha(params.get("p")) ? params.get("p") : null;
   state.reading = params.get("r") || state.parasha;
   state.aliyah = Number(params.get("a")) || null;
+  state.view = ["summaries", "questions", "all"].includes(params.get("v")) ? params.get("v") : null;
+  if (state.view) state.aliyah = null;
   render();
 }
 
