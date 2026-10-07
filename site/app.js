@@ -266,7 +266,7 @@ function renderBrief(reading) {
   card.appendChild(slot);
   const lang = state.lang;
   const wanted = `${state.parasha}|${reading.key}|${state.aliyah}`;
-  loadBrief(day.date).then((record) => {
+  loadBrief(day.file || day.date).then((record) => {
     if (state.lang !== lang || `${state.parasha}|${state.reading}|${state.aliyah}` !== wanted) return;
     const meta = node("p", "meta");
     meta.append(sefariaLink(t().sefaria, record.range));

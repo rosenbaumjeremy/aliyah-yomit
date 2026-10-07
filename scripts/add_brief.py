@@ -1,6 +1,6 @@
 """Work out a day's aliyah, and file that day's brief into the site.
 
-    python3 scripts/add_brief.py --info YYYY-MM-DD
+    python3 scripts/add_brief.py --info YYYY-MM-DD [--aliyah N]
         Print the day's reading as JSON: parasha (Israel schedule), aliyah
         number and name, Sefaria range, maftir with Shevi'i. The daily routine
         uses this so it researches exactly what the site will file it under.
@@ -8,6 +8,10 @@
     python3 scripts/add_brief.py brief.json
         brief.json = {"date", "hebrew_date", "english": {...}, "hebrew": {...}}
         Writes site/data/aliyot/<date>.json and adds it to index.json.
+
+A catch-up for an aliyah the schedule skipped gives --aliyah N (and "aliyah": N
+in brief.json): that aliyah of the date's week, filed as <date>-<N>.json so it
+sits beside the date's regular brief.
 
 Shabbat is Rishon through Friday Shevi'i: on Shabbat the coming week's
 parasha starts (the one read the following Shabbat, as at Mincha), and it is
@@ -61,9 +65,9 @@ def span(ref):
     return start, end
 
 
-def info(date_text):
+def info(date_text, aliyah=None):
     day = datetime.date.fromisoformat(date_text)
-    aliyah = (day.weekday() - 5) % 7 + 1  # Shabbat -> 1, Sunday -> 2 ... Friday -> 7
+    aliyah = aliyah or (day.weekday() - 5) % 7 + 1  # Shabbat -> 1, Sunday -> 2 ... Friday -> 7
     # the parasha read on the next Shabbat after today; a Yom Tov Shabbat has none, so look ahead
     entry, note = None, None
     shabbat = day + datetime.timedelta((5 - day.weekday()) % 7 or 7)
@@ -99,7 +103,8 @@ def info(date_text):
 
 def add(brief_path):
     brief = json.loads(Path(brief_path).read_text(encoding="utf-8"))
-    day = info(brief["date"])
+    day = info(brief["date"], brief.get("aliyah"))
+    key = f"{day['date']}-{day['aliyah']}" if brief.get("aliyah") else day["date"]
     record = {**day, "hebrew_date": brief["hebrew_date"],
               "english": brief["english"], "hebrew": brief["hebrew"]}
     for lang in ("english", "hebrew"):
@@ -108,15 +113,17 @@ def add(brief_path):
 
     folder = DATA / "aliyot"
     folder.mkdir(exist_ok=True)
-    (folder / f"{day['date']}.json").write_text(
+    (folder / f"{key}.json").write_text(
         json.dumps(record, ensure_ascii=False, indent=1), encoding="utf-8")
 
     index_path = folder / "index.json"
     index = json.loads(index_path.read_text(encoding="utf-8")) if index_path.exists() else {"days": []}
     entry = {k: day[k] for k in ("date", "reading", "aliyah", "range")}
+    if key != day["date"]:
+        entry["file"] = key
     # one brief per reading + aliyah: next year's run replaces this year's in the index
     index["days"] = [d for d in index["days"]
-                     if d["date"] != day["date"]
+                     if d.get("file", d["date"]) != key
                      and not (d["reading"]["slugs"] == day["reading"]["slugs"] and d["aliyah"] == day["aliyah"])]
     index["days"].append(entry)
     index["days"].sort(key=lambda d: d["date"])
@@ -125,8 +132,9 @@ def add(brief_path):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) == 3 and sys.argv[1] == "--info":
-        print(json.dumps(info(sys.argv[2]), ensure_ascii=False, indent=1))
+    if len(sys.argv) in (3, 5) and sys.argv[1] == "--info":
+        aliyah = int(sys.argv[4]) if len(sys.argv) == 5 and sys.argv[3] == "--aliyah" else None
+        print(json.dumps(info(sys.argv[2], aliyah), ensure_ascii=False, indent=1))
     elif len(sys.argv) == 2:
         add(sys.argv[1])
     else:
