@@ -1,0 +1,1165 @@
+{
+ "date": "2026-10-07",
+ "reading": {
+  "en": "Bereshit",
+  "he": "בראשית",
+  "ref": "Genesis 1:1-6:8",
+  "slugs": [
+   "bereshit"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 3:22-4:18",
+ "hebrew_date": {
+  "hebrew": "כ״ו בְּתִשְׁרֵי תשפ״ז",
+  "english": "26 Tishrei 5787"
+ },
+ "english": {
+  "summary": "God says the man has become \"like one of us, knowing good and evil\" and fears he may take also from the tree of life and live forever, so He sends him out of the Garden of Eden to work the ground he was taken from, and posts the keruvim and the whirling flaming sword to guard the way to the tree of life. Adam knows Chavah; she bears Kayin and says she has acquired a man with the Lord, then bears Hevel. Hevel is a shepherd and Kayin a tiller of the ground; each brings an offering, and Hevel's is accepted while Kayin's is not. God asks Kayin why he is angry and tells him that sin crouches at the door but he can rule over it; Kayin kills Hevel in the field. God asks where Hevel is and Kayin answers \"Am I my brother's keeper?\" God curses him from the ground and makes him a wanderer; Kayin says his iniquity is too great to bear, and God sets a sign for him. Kayin goes out from God's presence, dwells in the land of Nod, and builds a city named after his son Chanokh, whose descendants are listed down to Irad and Mechuyael.",
+  "questions": [
+   {
+    "title": "\"Like one of us\" – what is the man's likeness?",
+    "pasuk": {
+     "text": "הן האדם היה כאחד ממנו לדעת טוב ורע",
+     "ref": "Genesis 3:22",
+     "label": "Genesis 3:22"
+    },
+    "question": "What does God mean when He says the man has become \"like one of us, knowing good and evil\"? Who is \"us,\" and in what way is a man who has just sinned like the One who is unique above?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 3:22:2",
+      "era": "acharon",
+      "quote": "איך יצדק לדמותו לאלהים לצד שיודע טוב ורע"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 3:22:2",
+      "era": "acharon",
+      "quote": "לא הבינותי כוונתו שאם נאמר שהטוב והרע הם דרכי הצניעות"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 3:22:2",
+      "era": "acharon",
+      "quote": "הקשה הרא\"ם דאם טוב ורע האמור כאן היא דרכי הצניעות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the man is unique below as God is unique above – his uniqueness being that he knows good and evil, which an animal does not.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 3:22:1",
+        "quote": "הרי הוא יחיד בתחתונים כמו שאני יחיד בעליונים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: God included Himself with the angels, as in \"in our image, after our likeness.\"",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 3:22:1",
+        "quote": "שתף עצמו יתברך עם המלאכים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (Rabbi Akiva): the man is like God in that God set before him two ways, the way of life and the way of death, and he chose the way of death.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 21:5",
+        "quote": "שנתן לו המקום לפניו שני דרכים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: he is no longer attached to God in a way that needs no self-oversight; he is now \"like one of us\" – knowing good and evil for himself.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 3:22:2",
+        "quote": "לדעת טוב ורע לעצמו"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what the first sin changed in man: that he now chooses between good and evil on his own."
+   },
+   {
+    "title": "Why guard the tree of life against the man?",
+    "pasuk": {
+     "text": "ועתה פן ישלח ידו ולקח גם מעץ החיים ואכל וחי לעולם",
+     "ref": "Genesis 3:22",
+     "label": "Genesis 3:22"
+    },
+    "question": "Why does God fear that the man will take from the tree of life and live forever? How could the one who was sentenced to die live forever, and why is that a danger at all?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 3:22:3",
+      "era": "rishon",
+      "quote": "וא\"ת הלא כתיב לעיל כי ביום אכלך ממנו מות תמות"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 3:22:3",
+      "era": "acharon",
+      "quote": "דאם לא כן למה היה מקפיד אם יחיה לעולם"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 3:22:1",
+      "era": "acharon",
+      "quote": "למה לא חש האל לצוות להאדם על עץ החיים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: once he lives forever he is liable to lead people astray after him, to say that he too is a god.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 3:22:2",
+        "quote": "הרי הוא קרוב להטעות הבריות אחריו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: God wanted His decree of death to stand; eating from the tree would have cancelled it.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 3:22:1",
+        "quote": "רצה הקב\"ה שתתקיים גזרתו במיתת האדם"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the tree of life was a life-giving medicine for one who ate of the tree of knowledge – \"you shall surely die\" means he is regarded as dead.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 3:22:3",
+        "quote": "עץ החיים היה סם חיים ורפואה לאוכל מעץ הדעת"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (Rabbi Abba bar Kahana): the word \"ve'atah\" (now) teaches that the Holy One opened for him a door of repentance.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 21:6",
+        "quote": "שפתח לו הקדוש ברוך הוא פתח של תשובה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the exile from Eden is bound up with the decree of death, and with a path back through repentance."
+   },
+   {
+    "title": "\"I have acquired a man with the Lord\" – what did Chavah mean?",
+    "pasuk": {
+     "text": "קניתי איש את יהוה",
+     "ref": "Genesis 4:1",
+     "label": "Genesis 4:1"
+    },
+    "question": "What does Chavah mean by \"I have acquired a man with the Lord,\" why is the naming credited to her and not to Adam, and why is no reason given for the name Hevel?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 4:1:3",
+      "era": "acharon",
+      "quote": "אם באה להודות על טבע הבריאה הי' לה לומר את אלהים"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 4:1:1-3",
+      "era": "acharon",
+      "quote": "ולמה לא אמר טעם קריאת שם הבל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"et\" means \"with\" – when He made me and my husband He alone made us, but in this one we are partners with Him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:1:3",
+        "quote": "בזה שותפים אנו עמו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: seeing that he would not live forever in his own body, the man needed to keep the species alive, so she said \"I have acquired a man.\"",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 4:1:1",
+        "quote": "הוצרך הוא להחיות המין על כן אמרה קניתי איש"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: it means \"with the help of the Lord and His kindness.\"",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 4:1:2",
+        "quote": "בעזרת ה' ובחסדו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: until now man was made from earth and Chavah from man; from now on, in our image and likeness – therefore \"I have acquired a man.\"",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 4:1:4",
+        "quote": "ומכאן ואילך בצלמנו כדמותנו"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: she saw his likeness – that he was not from the lower beings but from the upper ones.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 21:2",
+        "quote": "שלא היה מן התחתונים אלא מן העליונים"
+       }
+      ]
+     }
+    ],
+    "why": "The first birth is read as thanks, as partnership with God, or as an illusion of Chavah's – each reading colours how we see Kayin."
+   },
+   {
+    "title": "Does \"se'et\" mean forgiveness, uplift or a gift?",
+    "pasuk": {
+     "text": "הלא אם תיטיב שאת ואם לא תיטיב לפתח חטאת רובץ",
+     "ref": "Genesis 4:7",
+     "label": "Genesis 4:7"
+    },
+    "question": "What does God promise Kayin with \"se'et,\" and does \"if you do not do well\" belong to the same sentence? Why does He ask Kayin \"why are you angry\" when there is a way to repair?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 4:6:1",
+      "era": "acharon",
+      "quote": "קשה אמרו למה חרה"
+     },
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 4:7:1",
+      "era": "acharon",
+      "quote": "זה א' מן המקראות שאין להם הכרע גשיש לנטותם למעלה ולמטה"
+     },
+     {
+      "name": "Midrash Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Shemot 17:9:6",
+      "era": "chazal",
+      "quote": "שאי אתה יכול להכריע התיבה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: \"se'et\" means atonement and forgiveness, as in \"who bears iniquity.\"",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:7:1",
+        "quote": "שאת פירוש כפרה וסליחה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: \"se'et\" is lifting of the face, set against \"why has your face fallen.\"",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 4:7:1",
+        "quote": "שאת פנים כי כתוב בתחלה ויפלו פניו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the height of rank and eminence lies ready before you, prepared to be yours.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 4:7:2",
+        "quote": "רום המעלה וההתנשא רובץ לפניך"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: \"se'et\" is a gift – improve your offering and bring another that will be accepted.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 4:7:1",
+        "quote": "שאת לשון דורון"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: \"if you do well, se'et\" – a blessing; \"if you do not do well, se'et\" – a curse.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 4:7:1",
+        "quote": "הלא אם תטב שאת ברכה"
+       }
+      ]
+     }
+    ],
+    "why": "The ambiguity decides whether God offers Kayin forgiveness, advancement or a warning – and so how free his choice was."
+   },
+   {
+    "title": "What did Kayin say to Hevel?",
+    "pasuk": {
+     "text": "ויאמר קין אל הבל אחיו ויהי בהיותם בשדה ויקם קין אל הבל אחיו ויהרגהו",
+     "ref": "Genesis 4:8",
+     "label": "Genesis 4:8"
+    },
+    "question": "The verse says \"Kayin said to Hevel his brother\" but never says what he said. What was said, and what led to the killing in the field?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 4:8:1",
+      "era": "acharon",
+      "quote": "שלא מפרש בקרא מה היא האמירה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 4:8:1",
+      "era": "acharon",
+      "quote": "לא נתפרש במקרא מה אמר לו"
+     },
+     {
+      "name": "Ralbag",
+      "ref": "Ralbag Beur HaMilot on Torah, Genesis 4:8:1",
+      "era": "rishon",
+      "quote": "לא פורש מה אמר לו"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 4:8:1",
+      "era": "acharon",
+      "quote": "לא נזכר מה אמר לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he entered into a quarrel and contention with him in order to find a pretext to kill him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:8:1",
+        "quote": "נכנס עמו בדברי ריב ומצה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: he told him all the rebukes that God had rebuked him with.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 4:8:1",
+        "quote": "שאמר לו כל התוכחות שהוכיחו השם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: he spoke deceitfully – \"this is what the Holy One told me and we were reconciled\" – so Hevel stopped guarding himself.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 4:8:1",
+        "quote": "כך וכך אמר לי הק' ונתפייסנו יחד"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: \"There is no judgment, no judge and no other world\" – and because of this he killed him.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 4:8:1",
+        "quote": "אין דין ואין דיין ואין עולם אחר"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: they said \"let us divide the world\" – one took the land and the other the movables – and each claimed what the other held.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 22:7",
+        "quote": "בואו ונחלוק את העולם"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer (Rabbi Tzadok): jealousy over the accepted offering and over Hevel's twin sister – \"I will kill Hevel my brother and take his wife.\"",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 21:7",
+        "quote": "אני אהרג את הבל אחי ואקח את אשתו"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the world's first murder against three motives: property, theology and rivalry."
+   },
+   {
+    "title": "Is \"my iniquity is too great to bear\" a confession or a protest?",
+    "pasuk": {
+     "text": "גדול עוני מנשוא",
+     "ref": "Genesis 4:13",
+     "label": "Genesis 4:13"
+    },
+    "question": "When Kayin says \"gadol avoni mi-neso,\" is he confessing that his sin is beyond forgiveness, protesting that his punishment is too heavy, or asking in astonishment whether his sin alone cannot be borne?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 4:13:1",
+      "era": "acharon",
+      "quote": "בלשון תמיהה ולא בלשון הודאה"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 4:13:1",
+      "era": "rishon",
+      "quote": "ד\"א גדול עוני מנשוא בתמיה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi (from Bereshit Rabbah): a question of astonishment – You bear the upper and lower beings, and my sin You cannot bear?",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:13:1",
+        "quote": "אתה טוען עליונים ותחתונים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the correct plain meaning is that it is a confession – his sin is too great to be forgiven.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 4:13:1",
+        "quote": "והנכון בפשט שהוא וידוי"
+       }
+      ]
+     },
+     {
+      "text": "Radak: \"avoni\" means his punishment – \"my punishment is too great to bear\" – not repentance.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:13:1",
+        "quote": "גדול ענשי מלסבול אותו"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: this statement was counted to him as repentance.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 21:10",
+        "quote": "ונחשב לו הדבר הזה כתשובה"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: \"Is my sin greater than the forgiveness that is with You? No – Your mercies are many.\"",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 4:13:1",
+        "quote": "וכי גדול עוני יותר מהסליחה שעמך"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether the first murderer ever repented."
+   },
+   {
+    "title": "Whom did Kayin fear – \"whoever finds me will kill me\"?",
+    "pasuk": {
+     "text": "והיה כל מוצאי יהרגני",
+     "ref": "Genesis 4:14",
+     "label": "Genesis 4:14"
+    },
+    "question": "Who was there to kill Kayin, when the world held only his parents and family? And what protection did God give him?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 4:15:3",
+      "era": "rishon",
+      "quote": "אבל בני אדם עדיין לא היו שיירא מהם"
+     },
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 4:15:1",
+      "era": "rishon",
+      "quote": "לפי שהיה קין דואג שיהרג"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Shadal: \"whoever finds me\" refers to the wild animals.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 4:14:3",
+        "quote": "והכוונה על החיות"
+       }
+      ]
+     },
+     {
+      "text": "Radak: since You removed Your providence from me, anyone who finds me will kill me.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:14:2",
+        "quote": "כל מי שימצאני יהרגני אחרי שסלקת השגחתך ממני"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (Rabbi Yehudah): the animals, beasts and birds gathered to demand Hevel's blood, and God answered \"whoever kills Kayin shall be avenged.\"",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 22:12",
+        "quote": "נתכנסו בהמה חיה ועוף לתבוע דמו של הבל"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: his punishment would be much greater than You decreed.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 4:14:1",
+        "quote": "ויהיה העונש גדול מאד ממה שגזרת"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Sages and mefarshim read a world before human society as already dangerous."
+   }
+  ],
+  "sources_consulted": [
+   "Or HaChaim",
+   "Mizrachi",
+   "Gur Aryeh",
+   "Rashi",
+   "Radak",
+   "Bereshit Rabbah",
+   "Haamek Davar",
+   "Chizkuni",
+   "Ramban",
+   "Malbim",
+   "Ibn Ezra",
+   "Shadal",
+   "Midrash Lekach Tov",
+   "Pirkei DeRabbi Eliezer",
+   "Torah Temimah",
+   "Midrash Sekhel Tov",
+   "Sforno",
+   "Siftei Chakhamim",
+   "Kli Yakar",
+   "Ralbag",
+   "Bekhor Shor",
+   "Tzror HaMor",
+   "Da'at Zekenim"
+  ]
+ },
+ "hebrew": {
+  "summary": "הקב\"ה אומר שהאדם היה \"כאחד ממנו לדעת טוב ורע\" ושמא ישלח ידו ויקח גם מעץ החיים ויחיה לעולם, ולכן שולח אותו מגן עדן לעבוד את האדמה אשר לוקח משם, ומשכין מקדם לגן עדן את הכרובים ואת להט החרב המתהפכת לשמור את דרך עץ החיים. האדם ידע את חוה, והיא יולדת את קין ואומרת \"קניתי איש את ה'\", ואחר כך את הבל. הבל רועה צאן וקין עובד אדמה, כל אחד מביא מנחה, ומנחת הבל נשעית ומנחת קין לא. הקב\"ה שואל את קין למה חרה לו ואומר לו שלפתח חטאת רובץ ושהוא יכול למשול בו, וקין הורג את הבל בשדה. הקב\"ה שואל אי הבל אחיך וקין משיב \"השומר אחי אנכי\", ואז מקלל אותו מן האדמה והופך אותו לנע ונד. קין אומר שעונו גדול מנשוא, והקב\"ה שם לו אות. קין יוצא מלפני ה', יושב בארץ נוד ובונה עיר על שם בנו חנוך, ומנו תולדותיו עד עירד ומחויאל.",
+  "questions": [
+   {
+    "title": "״כאחד ממנו״ – במה דומה האדם?",
+    "pasuk": {
+     "text": "הן האדם היה כאחד ממנו לדעת טוב ורע",
+     "ref": "Genesis 3:22",
+     "label": "בראשית ג, כב"
+    },
+    "question": "מה כוונת הקב\"ה באמרו שהאדם הפך \"כאחד ממנו לדעת טוב ורע\"? מיהו ה\"ממנו\", ובמה דומה אדם שזה עתה חטא ליחיד שבעליונים?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 3:22:2",
+      "era": "acharon",
+      "quote": "איך יצדק לדמותו לאלהים לצד שיודע טוב ורע"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 3:22:2",
+      "era": "acharon",
+      "quote": "לא הבינותי כוונתו שאם נאמר שהטוב והרע הם דרכי הצניעות"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 3:22:2",
+      "era": "acharon",
+      "quote": "הקשה הרא\"ם דאם טוב ורע האמור כאן היא דרכי הצניעות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: האדם יחיד בתחתונים כשם שהקב\"ה יחיד בעליונים, ויחידותו היא שהוא יודע טוב ורע, מה שאין כן בבהמה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 3:22:1",
+        "quote": "הרי הוא יחיד בתחתונים כמו שאני יחיד בעליונים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הקב\"ה שיתף עצמו עם המלאכים, כמו שנאמר \"בצלמנו כדמותנו\".",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 3:22:1",
+        "quote": "שתף עצמו יתברך עם המלאכים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (רבי עקיבא): האדם דומה לקב\"ה בכך שהקב\"ה נתן לפניו שתי דרכים, דרך החיים ודרך המות, והוא בחר בדרך המות.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 21:5",
+        "quote": "שנתן לו המקום לפניו שני דרכים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: האדם אינו דבוק עוד בקב\"ה באופן שאינו משגיח על עצמו, אלא הוא \"כאחד ממנו לדעת טוב ורע\" לעצמו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 3:22:2",
+        "quote": "לדעת טוב ורע לעצמו"
+       }
+      ]
+     }
+    ],
+    "why": "היא שואלת מה שינה החטא הראשון באדם: שמעתה הוא בוחר בעצמו בין טוב לרע."
+   },
+   {
+    "title": "מדוע לשמור על עץ החיים מפני האדם?",
+    "pasuk": {
+     "text": "ועתה פן ישלח ידו ולקח גם מעץ החיים ואכל וחי לעולם",
+     "ref": "Genesis 3:22",
+     "label": "בראשית ג, כב"
+    },
+    "question": "מדוע חושש הקב\"ה שהאדם יקח מעץ החיים ויחיה לעולם? איך יוכל מי שנגזרה עליו מיתה לחיות לעולם, ומדוע זה סכנה?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 3:22:3",
+      "era": "rishon",
+      "quote": "וא\"ת הלא כתיב לעיל כי ביום אכלך ממנו מות תמות"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 3:22:3",
+      "era": "acharon",
+      "quote": "דאם לא כן למה היה מקפיד אם יחיה לעולם"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 3:22:1",
+      "era": "acharon",
+      "quote": "למה לא חש האל לצוות להאדם על עץ החיים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: משיחיה לעולם הרי הוא קרוב להטעות הבריות אחריו ולומר אף הוא אלוה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 3:22:2",
+        "quote": "הרי הוא קרוב להטעות הבריות אחריו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הקב\"ה רצה שתתקיים גזרתו במיתת האדם, ואם יאכל מעץ החיים תבטל הגזרה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 3:22:1",
+        "quote": "רצה הקב\"ה שתתקיים גזרתו במיתת האדם"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: עץ החיים היה סם חיים ורפואה לאוכל מעץ הדעת, ו\"מות תמות\" פירושו שיחשב כמת.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 3:22:3",
+        "quote": "עץ החיים היה סם חיים ורפואה לאוכל מעץ הדעת"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (רבי אבא בר כהנא): מלמד שפתח לו הקב\"ה פתח של תשובה, שנאמר \"ועתה\".",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 21:6",
+        "quote": "שפתח לו הקדוש ברוך הוא פתח של תשובה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה שהגירוש מגן עדן קשור לגזרת המיתה ולדרך החזרה בתשובה."
+   },
+   {
+    "title": "״קניתי איש את ה׳״ – מה כוונת חוה?",
+    "pasuk": {
+     "text": "קניתי איש את יהוה",
+     "ref": "Genesis 4:1",
+     "label": "בראשית ד, א"
+    },
+    "question": "מה כוונת חוה באמרה \"קניתי איש את ה'\", מדוע השם נתלה בה ולא באדם, ומדוע לא נאמר טעם לשם הבל?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 4:1:3",
+      "era": "acharon",
+      "quote": "אם באה להודות על טבע הבריאה הי' לה לומר את אלהים"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 4:1:1-3",
+      "era": "acharon",
+      "quote": "ולמה לא אמר טעם קריאת שם הבל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"את\" כמו \"עם\" – כשברא אותי ואת אישי הוא לבדו בראנו, אבל בזה שותפים אנו עמו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:1:3",
+        "quote": "בזה שותפים אנו עמו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: כשראה האדם שלא יחיה בגופו לעולם הוצרך להחיות את המין, ועל כן אמרה \"קניתי איש\".",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 4:1:1",
+        "quote": "הוצרך הוא להחיות המין על כן אמרה קניתי איש"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: בעזרת ה' ובחסדו.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 4:1:2",
+        "quote": "בעזרת ה' ובחסדו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: לשעבר נברא אדם מאדמה וחוה מן האדם, ומכאן ואילך בצלמנו כדמותנו, ולכך נאמר \"קניתי איש את ה'\".",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 4:1:4",
+        "quote": "ומכאן ואילך בצלמנו כדמותנו"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: ראתה את דמותו, שלא היה מן התחתונים אלא מן העליונים.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 21:2",
+        "quote": "שלא היה מן התחתונים אלא מן העליונים"
+       }
+      ]
+     }
+    ],
+    "why": "הלידה הראשונה נקראת כהודיה, כשותפות עם הקב\"ה, או כטעות של חוה – וכל קריאה צובעת את דמותו של קין."
+   },
+   {
+    "title": "\"שאת\" – סליחה, הגבהה או דורון?",
+    "pasuk": {
+     "text": "הלא אם תיטיב שאת ואם לא תיטיב לפתח חטאת רובץ",
+     "ref": "Genesis 4:7",
+     "label": "בראשית ד, ז"
+    },
+    "question": "מה מבטיח הקב\"ה לקין במילה \"שאת\", והאם \"ואם לא תיטיב\" שייך לאותו משפט? ומדוע שואל \"למה חרה לך\" כשיש דרך לתקן?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 4:6:1",
+      "era": "acharon",
+      "quote": "קשה אמרו למה חרה"
+     },
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 4:7:1",
+      "era": "acharon",
+      "quote": "זה א' מן המקראות שאין להם הכרע גשיש לנטותם למעלה ולמטה"
+     },
+     {
+      "name": "מדרש שכל טוב",
+      "ref": "Midrash Sekhel Tov, Shemot 17:9:6",
+      "era": "chazal",
+      "quote": "שאי אתה יכול להכריע התיבה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: \"שאת\" פירושו כפרה וסליחה, כמו \"נושא עון\".",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:7:1",
+        "quote": "שאת פירוש כפרה וסליחה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"שאת\" היא נשיאת פנים, כנגד \"למה נפלו פניך\".",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 4:7:1",
+        "quote": "שאת פנים כי כתוב בתחלה ויפלו פניו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: רום המעלה וההתנשא רובץ לפניך ומוכן שיהיה לך.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 4:7:2",
+        "quote": "רום המעלה וההתנשא רובץ לפניך"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: \"שאת\" לשון דורון – אם תיטיב הדורון ותביא אחר מתקבל, מוטב.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 4:7:1",
+        "quote": "שאת לשון דורון"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: \"אם תיטיב שאת\" – ברכה, \"ואם לא תיטיב שאת\" – קללה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 4:7:1",
+        "quote": "הלא אם תטב שאת ברכה"
+       }
+      ]
+     }
+    ],
+    "why": "המשמעות קובעת אם הקב\"ה מציע לקין סליחה, התנשאות או אזהרה – ובכך עד כמה הייתה בחירתו חופשית."
+   },
+   {
+    "title": "מה אמר קין להבל?",
+    "pasuk": {
+     "text": "ויאמר קין אל הבל אחיו ויהי בהיותם בשדה ויקם קין אל הבל אחיו ויהרגהו",
+     "ref": "Genesis 4:8",
+     "label": "בראשית ד, ח"
+    },
+    "question": "הכתוב אומר \"ויאמר קין אל הבל אחיו\" ואינו מפרש מה אמר. מה נאמר, ומה הביא להריגה בשדה?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 4:8:1",
+      "era": "acharon",
+      "quote": "שלא מפרש בקרא מה היא האמירה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 4:8:1",
+      "era": "acharon",
+      "quote": "לא נתפרש במקרא מה אמר לו"
+     },
+     {
+      "name": "רלב\"ג",
+      "ref": "Ralbag Beur HaMilot on Torah, Genesis 4:8:1",
+      "era": "rishon",
+      "quote": "לא פורש מה אמר לו"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 4:8:1",
+      "era": "acharon",
+      "quote": "לא נזכר מה אמר לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נכנס עמו בדברי ריב ומצה להתעולל עליו להורגו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:8:1",
+        "quote": "נכנס עמו בדברי ריב ומצה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: אמר לו כל התוכחות שהוכיחו השם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 4:8:1",
+        "quote": "שאמר לו כל התוכחות שהוכיחו השם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: בערמה אמר לו \"כך וכך אמר לי הקב\"ה ונתפייסנו\", וחשב הבל שנתפייס ולא נשמר ממנו עוד.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 4:8:1",
+        "quote": "כך וכך אמר לי הק' ונתפייסנו יחד"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: \"אין דין ואין דיין ואין עולם אחר\" – ומתוך כך הרגו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 4:8:1",
+        "quote": "אין דין ואין דיין ואין עולם אחר"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אמרו \"בואו ונחלוק את העולם\", אחד נטל את הקרקעות ואחד את המטלטלין, וכל אחד תבע את שביד חברו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 22:7",
+        "quote": "בואו ונחלוק את העולם"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר (רבי צדוק): קנאה על המנחה ועל תאומתו של הבל – \"אני אהרוג את הבל אחי ואקח את אשתו\".",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 21:7",
+        "quote": "אני אהרג את הבל אחי ואקח את אשתו"
+       }
+      ]
+     }
+    ],
+    "why": "היא מעמידה את הרצח הראשון מול שלושה מניעים: רכוש, אמונה וקנאה."
+   },
+   {
+    "title": "״גדול עוני מנשוא״ – וידוי או טענה?",
+    "pasuk": {
+     "text": "גדול עוני מנשוא",
+     "ref": "Genesis 4:13",
+     "label": "בראשית ד, יג"
+    },
+    "question": "כשקין אומר \"גדול עוני מנשוא\", האם הוא מתוודה שחטאו גדול מסליחה, או טוען שעונשו כבד מדי, או שואל בתמיהה אם עוונו בלבד אי אפשר לשאת?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 4:13:1",
+      "era": "acharon",
+      "quote": "בלשון תמיהה ולא בלשון הודאה"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 4:13:1",
+      "era": "rishon",
+      "quote": "ד\"א גדול עוני מנשוא בתמיה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י (מבראשית רבה): בתמיהה – אתה טוען עליונים ותחתונים, ועוני אי אפשר לטעון?",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:13:1",
+        "quote": "אתה טוען עליונים ותחתונים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הנכון בפשט שהוא וידוי – גדול עוני מסלוח.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 4:13:1",
+        "quote": "והנכון בפשט שהוא וידוי"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: \"עוני\" הוא עונשו – \"גדול ענשי מלסבול אותו\" – ואין זה תשובה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:13:1",
+        "quote": "גדול ענשי מלסבול אותו"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: הדבר הזה נחשב לו כתשובה.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 21:10",
+        "quote": "ונחשב לו הדבר הזה כתשובה"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: וכי גדול עוני יותר מהסליחה שעמך? לא – רחמיך וסליחותיך מרובים.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 4:13:1",
+        "quote": "וכי גדול עוני יותר מהסליחה שעמך"
+       }
+      ]
+     }
+    ],
+    "why": "היא שואלת אם הרוצח הראשון חזר בתשובה אי פעם."
+   },
+   {
+    "title": "ממי חשש קין – ״כל מוצאי יהרגני״?",
+    "pasuk": {
+     "text": "והיה כל מוצאי יהרגני",
+     "ref": "Genesis 4:14",
+     "label": "בראשית ד, יד"
+    },
+    "question": "מי היה שם להרוג את קין, כשבעולם היו רק הוריו ובני משפחתו? ואיזו הגנה נתן לו הקב\"ה?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 4:15:3",
+      "era": "rishon",
+      "quote": "אבל בני אדם עדיין לא היו שיירא מהם"
+     },
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 4:15:1",
+      "era": "rishon",
+      "quote": "לפי שהיה קין דואג שיהרג"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שד\"ל: \"כל מוצאי יהרגני\" – הכוונה על החיות.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 4:14:3",
+        "quote": "והכוונה על החיות"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אחרי שסילקת השגחתך ממני, כל מי שימצאני יהרגני.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:14:2",
+        "quote": "כל מי שימצאני יהרגני אחרי שסלקת השגחתך ממני"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (רבי יהודה): נתכנסו בהמה חיה ועוף לתבוע דמו של הבל, והשיב להם \"כל הורג קין יהרג\".",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 22:12",
+        "quote": "נתכנסו בהמה חיה ועוף לתבוע דמו של הבל"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: יהיה העונש גדול מאוד ממה שגזרת.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 4:14:1",
+        "quote": "ויהיה העונש גדול מאד ממה שגזרת"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה כיצד קראו חז\"ל והמפרשים עולם שקדם לחברה אנושית כמסוכן כבר."
+   }
+  ],
+  "sources_consulted": [
+   "אור החיים",
+   "מזרחי",
+   "גור אריה",
+   "רש\"י",
+   "רד\"ק",
+   "בראשית רבה",
+   "העמק דבר",
+   "חזקוני",
+   "רמב\"ן",
+   "מלבי\"ם",
+   "אבן עזרא",
+   "שד\"ל",
+   "מדרש לקח טוב",
+   "פרקי דרבי אליעזר",
+   "תורה תמימה",
+   "מדרש שכל טוב",
+   "ספורנו",
+   "שפתי חכמים",
+   "כלי יקר",
+   "רלב\"ג",
+   "בכור שור",
+   "צרור המור",
+   "דעת זקנים"
+  ]
+ }
+}
