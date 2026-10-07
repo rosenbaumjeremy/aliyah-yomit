@@ -2,14 +2,16 @@
 
     python3 scripts/add_brief.py --info YYYY-MM-DD
         Print the day's reading as JSON: parasha (Israel schedule), aliyah
-        number and name, Sefaria range, maftir on Shabbat. The daily routine
+        number and name, Sefaria range, maftir with Shevi'i. The daily routine
         uses this so it researches exactly what the site will file it under.
 
     python3 scripts/add_brief.py brief.json
         brief.json = {"date", "hebrew_date", "english": {...}, "hebrew": {...}}
         Writes site/data/aliyot/<date>.json and adds it to index.json.
 
-Sunday is Rishon through Shabbat Shevi'i. A week whose Shabbat is a Yom Tov
+Shabbat is Rishon through Friday Shevi'i: on Shabbat the coming week's
+parasha starts (the one read the following Shabbat, as at Mincha), and it is
+finished on the Friday before it is read. A week whose Shabbat is a Yom Tov
 has no "Parashat Hashavua" entry with aliyot, so the next regular parasha
 (found by looking ahead in the calendar) is used, and flagged as such.
 """
@@ -61,10 +63,10 @@ def span(ref):
 
 def info(date_text):
     day = datetime.date.fromisoformat(date_text)
-    aliyah = (day.weekday() + 1) % 7 + 1  # Sunday -> 1 ... Shabbat -> 7
-    # the parasha read this coming Shabbat; a Yom Tov Shabbat has none, so look ahead
+    aliyah = (day.weekday() - 5) % 7 + 1  # Shabbat -> 1, Sunday -> 2 ... Friday -> 7
+    # the parasha read on the next Shabbat after today; a Yom Tov Shabbat has none, so look ahead
     entry, note = None, None
-    shabbat = day + datetime.timedelta((5 - day.weekday()) % 7)
+    shabbat = day + datetime.timedelta((5 - day.weekday()) % 7 or 7)
     for offset in range(0, 21, 7):
         entry = parasha_entry(shabbat + datetime.timedelta(offset))
         if entry:

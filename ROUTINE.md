@@ -30,8 +30,8 @@ print "Off-hour scheduled firing – skipping" and stop. Any other hour, continu
 
 1. Date: `TZ=Asia/Jerusalem date +%Y-%m-%d` (or the backfill date).
 2. `python3 scripts/add_brief.py --info <date>` prints the reading (parasha
-   en/he, whole ref, slugs), the aliyah (Sunday = Rishon … Shabbat = Shevi'i),
-   its Sefaria `range`, `maftir` on Shabbat, and a `note` when this week's
+   en/he, whole ref, slugs), the aliyah (Shabbat = Rishon … Friday = Shevi'i),
+   its Sefaria `range`, `maftir` with Shevi'i, and a `note` when this week's
    Shabbat has a special reading so the next regular parasha is used. Study
    exactly that `range`; the site files the brief under it.
 3. Hebrew date: `curl -s "https://www.hebcal.com/converter?cfg=json&date=YYYY-MM-DD&g2h=1"`
@@ -148,7 +148,7 @@ rosenbaum.jeremy@gmail.com with the Gmail connector:
 - Subject: `Daily Aliyah: <Parasha> – <Aliyah name> (<range>) – <date>`
 - HTML body (inline styles only): title with parasha (Hebrew / English), aliyah,
   weekday, Hebrew and Gregorian date; the range with its Sefaria link (and
-  maftir on Shabbat); the summary; each question with its pasuk, the question,
+  maftir with Shevi'i); the summary; each question with its pasuk, the question,
   who asks it with their quote, the answers each with their source and quote,
   and why it matters; then "Sources consulted". Hebrew in
   `<span dir="rtl" lang="he">`; every ref a link to

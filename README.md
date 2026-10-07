@@ -10,7 +10,7 @@ Linked from the לימוד יומי home page (`../home-site`).
 
 The "Daily Aliyah" cloud routine runs at 06:00 Israel time. It asks
 `scripts/add_brief.py --info <date>` which parasha and aliyah fall on that day
-(Sunday = Rishon … Shabbat = Shevi'i, from Sefaria's Israel calendar), reads the
+(Shabbat = Rishon … Friday = Shevi'i, from Sefaria's Israel calendar), reads the
 text and mefarshim on Sefaria, emails the brief, and files it here with
 `scripts/add_brief.py brief.json`, then commits and pushes. Cloudflare deploys
 on push.
