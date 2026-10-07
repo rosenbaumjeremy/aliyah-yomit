@@ -1,0 +1,943 @@
+{
+ "date": "2026-10-07",
+ "reading": {
+  "en": "Bereshit",
+  "he": "בראשית",
+  "ref": "Genesis 1:1-6:8",
+  "slugs": [
+   "bereshit"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 4:19-4:22",
+ "hebrew_date": {
+  "hebrew": "כ״ו בְּתִשְׁרֵי תשפ״ז",
+  "english": "26 Tishrei 5787"
+ },
+ "english": {
+  "summary": "Lemech, seventh from Cain, takes two wives, Adah and Zillah. Adah bears Jabal, ancestor of those who dwell in tents and keep herds, and Jubal, ancestor of all who play the lyre and the pipe. Zillah bears Tubal-cain, who forged all implements of copper and iron, and his sister is Naamah.",
+  "questions": [
+   {
+    "title": "Why tell us about Lemech's wives?",
+    "pasuk": {
+     "text": "ויּקּח לוֹ למך שׁתּי נָשׁים",
+     "ref": "Genesis 4:19",
+     "label": "Genesis 4:19"
+    },
+    "question": "Why does the Torah spell out Lemech's two wives and their children?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 4:19:1",
+      "era": "rishon",
+      "quote": "לֹא הָיָה לוֹ לְפָרֵשׁ כָּל זֶה, אֶלָּא לְלַמְּדֵנוּ מִסּוֹף הָעִנְיָן"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 4:19:1",
+      "era": "acharon",
+      "quote": "לא היה לו לפרש כל זה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says the passage teaches the end of the story: God kept His promise that Cain would be avenged sevenfold, since Lemech, the seventh generation, killed Cain.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:19:1",
+        "quote": "שֶׁקִּיֵּם הַקָּבָּ\"ה הַבְטָחָתוֹ שֶׁאָמַר שִׁבְעָתַיִם יֻקַּם קָיִן"
+       }
+      ]
+     },
+     {
+      "text": "The Gur Aryeh, reading the Midrash that Lemech killed no one, says the passage shows how great Cain's punishment was: Lemech's wives separated from him out of fear of it.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 4:19:1",
+        "quote": "נכתב איך היה גדול עונש קין עד שהיו נשי למך פורשין ממנו בשביל יראת העונש"
+       }
+      ]
+     },
+     {
+      "text": "The Kli Yakar says it teaches that marriage for the sake of continuing the species produces fitting children, while marriage for pleasure alone produces destructive ones.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 4:19:1",
+        "quote": "כַּאֲשֶׁר יִהְיֶה הַזִּוּוּג כַּהֹגֶן לְקִיּוּם הַמִּין לְבַד, אָז יִוָּלְדוּ לָהֶם בָּנִים הֲגוּנִים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why a seemingly irrelevant family detail sits in the Torah."
+   },
+   {
+    "title": "Why two wives?",
+    "pasuk": {
+     "text": "ויקח לו למך שתי נשים",
+     "ref": "Genesis 4:19",
+     "label": "Genesis 4:19"
+    },
+    "question": "Why does the verse say Lemech took two wives, rather than simply wives?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 4:19:2",
+      "era": "acharon",
+      "quote": "דאם לא כן \"שתי\" למה לי"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 4:19:1",
+      "era": "acharon",
+      "quote": "ויקח למך מיבעי אלא משום דבדורות הללו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: this was the way of the generation of the Flood: one wife for procreation and one for pleasure.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:19:2",
+        "quote": "אַחַת לִפְרִיָּה וּרְבִיָּה וְאַחַת לְתַשְׁמִישׁ"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah gives the same custom and describes how the two wives were treated, one sitting like a living widow, the other adorned.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:2",
+        "quote": "אַחַת לִפְרִיָּה וּרְבִיָּה וְאַחַת לְתַשְׁמִישׁ"
+       }
+      ]
+     },
+     {
+      "text": "The Radak says Lemech was the first to take two wives, so they quarrelled and he had to rebuke them.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:19:1",
+        "quote": "וְהוּא הֵחֵל וְלָקַח לוֹ שְׁתֵּי נָשִׁים, לְפִיכָךְ הָיוּ מִתְקוֹטְטוֹת"
+       }
+      ]
+     },
+     {
+      "text": "The Haamek Davar says Lemech took wives to help him in the ways of the world, and their names reflect two kinds of help.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 4:19:1",
+        "quote": "למך לקח לו היינו להיות לעזרו בהליכות העולם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Chazal and the mefarshim saw as new in Lemech's household."
+   },
+   {
+    "title": "How did Tzillah conceive?",
+    "pasuk": {
+     "text": "וצלה גם הוא ילדה את תובל קין",
+     "ref": "Genesis 4:22",
+     "label": "Genesis 4:22"
+    },
+    "question": "If Tzillah was the wife taken for pleasure and given the sterility potion, how did she bear a son?",
+    "asked_by": [
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 4:19:1",
+      "era": "rishon",
+      "quote": "וקשיא לי, דהא כתיב"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 4:19:2",
+      "era": "acharon",
+      "quote": "ואם תאמר אחר שלקח צילה לתשמיש איך נתעברה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: the word \"also\" tells us that even the one chosen for pleasure bore, and the sterility potion did not help her.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 4:22:1",
+        "quote": "ולא הועילו לה העקרים שהשקוה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: she bore against his will, because God wished to bring forth offspring from her.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 4:22:1",
+        "quote": "יָלְדָה גַּם הִיא עַל כָּרְחוֹ, כִּי רָצָה הַשֵּׁם יִתְבָּרַךְ לְהוֹצִיא מִמֶּנָּה זֶרַע"
+       }
+      ]
+     },
+     {
+      "text": "The Malbim says it did not help: Tzillah bore and nature overcame the drug.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 4:19:1-2",
+        "quote": "לא הועיל כי צלה ילדה וטבעה גבר על הסם"
+       }
+      ]
+     },
+     {
+      "text": "The Haamek Davar says Lemech himself did not follow his desire to take pleasure with a wife without her also bearing.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 4:22:1",
+        "quote": "אבל למך עצמו לא היה הולך אחרי שרירות לבו להתענג באשה מבלי תלד"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether the 'one for pleasure' reading fits the verse."
+   },
+   {
+    "title": "Why list the trades of Lemech's sons?",
+    "pasuk": {
+     "text": "הוא היה אבי כל תפש כנור ועוגב",
+     "ref": "Genesis 4:21",
+     "label": "Genesis 4:21"
+    },
+    "question": "The whole family was lost in the Flood, so why does the Torah record their crafts?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 4:19:1-2",
+      "era": "acharon",
+      "quote": "מה רצה בספור זה מנשי למך ומבניו וממלאכתם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Shadal says these men were worshipped as gods in their day, and the Torah tells us they were men and who their father was.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 4:20:1",
+        "quote": "שהיו האנשים האלה בימים ההם נעבדים כאלהים"
+       }
+      ]
+     },
+     {
+      "text": "The Chizkuni says the earth was cursed because of their ancestor, so they left farming and took up other crafts.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 4:22:1",
+        "quote": "מה שמנה הכתוב אומנות של בני קין בשביל שנתקללה האדמה בשביל זקנם"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: the decree on Cain applied to all his descendants, who no longer succeeded at working the land and took up other crafts.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 4:22:1",
+        "quote": "כך היתה גזרה על כל תולדותיו, ולא הצליחו עוד בעבודת האדמה"
+       }
+      ]
+     },
+     {
+      "text": "The Malbim says through Lemech's sons trade and the crafts began.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 4:20:1",
+        "quote": "שע\"י בני למך נתחדש המסחר והמלאכות"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why the Torah records a line that did not survive the Flood."
+   },
+   {
+    "title": "What did Yaval invent?",
+    "pasuk": {
+     "text": "הוא היה אבי יושב אהל ומקנה",
+     "ref": "Genesis 4:20",
+     "label": "Genesis 4:20"
+    },
+    "question": "What exactly was Yaval the first to do, as 'father of those who dwell in tents and herds'?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 4:20:1",
+      "era": "rishon",
+      "quote": "הוּא הָיָה הָרִאשׁוֹן לְרוֹעֵי בְהֵמוֹת בַּמִּדְבָּרוֹת"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 4:20:1",
+      "era": "rishon",
+      "quote": "אֲבִי רוֹצֵה לוֹמַר קַדְמוֹן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi's plain reading: he was the first to herd animals in the wilderness, moving his tent from place to place.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:20:1",
+        "quote": "הוּא הָיָה הָרִאשׁוֹן לְרוֹעֵי בְהֵמוֹת בַּמִּדְבָּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Rashi's midrashic reading: he built houses for idolatry.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:20:1",
+        "quote": "וּמִדְרַשׁ אַגָּדָה בּוֹנֶה בָתִּים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: people had once provoked God in secret, and now they did so openly.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:3",
+        "quote": "חָזְרוּ לִהְיוֹת מַקְנִין אוֹתוֹ בְּפַרְהֶסְיָא"
+       }
+      ]
+     },
+     {
+      "text": "The Radak says he was the first to take his livestock far into the wilderness, where earlier people kept them near their towns.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:20:1",
+        "quote": "הִרְחִיק לִנְהֹג מִקְנֵהוּ בַּמִּדְבָּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "The Kli Yakar says this was the craft of righteous Hevel and of Moshe and David after him.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 4:19:1",
+        "quote": "כִּי זֶה הָיָה אֻמָּנוּתוֹ שֶׁל הֶבֶל הַצַּדִּיק"
+       }
+      ]
+     }
+    ],
+    "why": "The same word can describe a shepherd's life or the start of idolatry."
+   },
+   {
+    "title": "Why 'Tuval-Cain'?",
+    "pasuk": {
+     "text": "את תובל קין לטש כל חרש נחשת וברזל",
+     "ref": "Genesis 4:22",
+     "label": "Genesis 4:22"
+    },
+    "question": "Why is Tzillah's son called Tuval-Cain, with two names?",
+    "asked_by": [
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 4:22:1",
+      "era": "chazal",
+      "quote": "למה נקרא שמו תובל קין"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 4:22:1",
+      "era": "rishon",
+      "quote": "וְקָרְאָה אוֹתוֹ בִּשְׁנֵי שֵׁמוֹת תּוּבַל קַיִן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Tuval refined and prepared Cain's craft, making weapons for murderers.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:22:1",
+        "quote": "תִּבֵּל וְהִתְקִין אֻמָּנוּתוֹ שֶׁל קַיִן לַעֲשׂוֹת כְּלֵי זַיִן לָרוֹצְחִים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Cain killed but had nothing to kill with; this one sharpened every tool of copper and iron.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:3",
+        "quote": "קַיִן הָרַג וְלֹא הָיָה לוֹ בַּמֶּה לַהֲרֹג"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: all of Cain's deeds would be led to death.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 4:22:1",
+        "quote": "שכל מעשה קין יובלו למיתה"
+       }
+      ]
+     },
+     {
+      "text": "The Radak suggests she first called him Tuval, and Cain died then, so she added Cain's name in his memory.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:22:1",
+        "quote": "אֶפְשָׁר כִּי כְּשֶׁיָּלְדָה אוֹתוֹ קָרְאָה תּוּבַל וּמֵת קַיִן"
+       }
+      ]
+     }
+    ],
+    "why": "It bears on what the Torah wants us to learn from Cain's line."
+   },
+   {
+    "title": "Who was Naamah?",
+    "pasuk": {
+     "text": "ואחות תובל קין נעמה",
+     "ref": "Genesis 4:22",
+     "label": "Genesis 4:22"
+    },
+    "question": "Why does the verse mention Naamah, the sister of Tuval-Cain, and who was she?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 4:22:2",
+      "era": "rishon",
+      "quote": "אֵין בָּזֶה טַעַם לְהַזְכִּירָהּ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: she was Noach's wife.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:22:3",
+        "quote": "הִיא אִשְׁתּוֹ שֶׁל נֹחַ"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the Rabbis say it was another Naamah, who beat a drum for idol worship.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:3",
+        "quote": "נַעֲמָה אַחֶרֶת הָיְתָה, וְלָמָּה הָיוּ קוֹרִין אוֹתָהּ נַעֲמָה, שֶׁהָיְתָה מַנְעֶמֶת בְּתֹף לַעֲבוֹדַת כּוֹכָבִים"
+       }
+      ]
+     },
+     {
+      "text": "The Ramban explains the first view: she was righteous and bore righteous children, so a trace of Cain remained in the world.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 4:22:2",
+        "quote": "כִּי הָיְתָה צַדֶּקֶת וְהוֹלִידָה צַדִּיקִים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the same name can mean a righteous woman or one tied to idolatry."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Mizrachi",
+   "Gur Aryeh",
+   "Kli Yakar",
+   "Haamek Davar",
+   "Bereshit Rabbah",
+   "Radak",
+   "Da'at Zekenim",
+   "Chizkuni",
+   "Rabbeinu Bahya",
+   "Malbim",
+   "Shadal",
+   "Midrash Aggadah",
+   "Ramban"
+  ]
+ },
+ "hebrew": {
+  "summary": "למך, הדור השביעי מקין, לוקח שתי נשים, עדה וצלה. עדה יולדת את יבל, אבי יושב אוהל ומקנה, ואת יובל, אבי כל תופש כנור ועוגב. צלה יולדת את תובל קין, לוטש כל חורש נחושת וברזל, ואחותו נעמה.",
+  "questions": [
+   {
+    "title": "למה מספרת התורה על נשי למך?",
+    "pasuk": {
+     "text": "ויּקּח לוֹ למך שׁתּי נָשׁים",
+     "ref": "Genesis 4:19",
+     "label": "בראשית ד, יט"
+    },
+    "question": "מדוע מפרטת התורה את שתי נשי למך ואת ילדיהן?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 4:19:1",
+      "era": "rishon",
+      "quote": "לֹא הָיָה לוֹ לְפָרֵשׁ כָּל זֶה, אֶלָּא לְלַמְּדֵנוּ מִסּוֹף הָעִנְיָן"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 4:19:1",
+      "era": "acharon",
+      "quote": "לא היה לו לפרש כל זה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כדי ללמדנו מסוף הענין שהקב\"ה קיים הבטחתו שבעתיים יוקם קין, שלמך הדור השביעי הרג את קין.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:19:1",
+        "quote": "שֶׁקִּיֵּם הַקָּבָּ\"ה הַבְטָחָתוֹ שֶׁאָמַר שִׁבְעָתַיִם יֻקַּם קָיִן"
+       }
+      ]
+     },
+     {
+      "text": "הגור אריה, לפי המדרש שלמך לא הרג כלום: נכתב כדי להראות כמה גדול היה עונש קין, עד שנשי למך פרשו ממנו מיראת העונש.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 4:19:1",
+        "quote": "נכתב איך היה גדול עונש קין עד שהיו נשי למך פורשין ממנו בשביל יראת העונש"
+       }
+      ]
+     },
+     {
+      "text": "הכלי יקר: ללמד שזיווג כהוגן לקיום המין מוליד בנים הגונים, ואילו זיווג לשם תאווה מוליד בנים משחיתים.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 4:19:1",
+        "quote": "כַּאֲשֶׁר יִהְיֶה הַזִּוּוּג כַּהֹגֶן לְקִיּוּם הַמִּין לְבַד, אָז יִוָּלְדוּ לָהֶם בָּנִים הֲגוּנִים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע פרט משפחתי שנראה לא נחוץ נכתב בתורה."
+   },
+   {
+    "title": "למה שתי נשים?",
+    "pasuk": {
+     "text": "ויקח לו למך שתי נשים",
+     "ref": "Genesis 4:19",
+     "label": "בראשית ד, יט"
+    },
+    "question": "מדוע נאמר שלמך לקח שתי נשים ולא סתם נשים?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 4:19:2",
+      "era": "acharon",
+      "quote": "דאם לא כן \"שתי\" למה לי"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 4:19:1",
+      "era": "acharon",
+      "quote": "ויקח למך מיבעי אלא משום דבדורות הללו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כך היה דרכם של דור המבול, אחת לפריה ורביה ואחת לתשמיש.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:19:2",
+        "quote": "אַחַת לִפְרִיָּה וּרְבִיָּה וְאַחַת לְתַשְׁמִישׁ"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה מביא את אותו מנהג ומתאר את יחס הבעל לשתיהן: אחת יושבת כאלמנה בחייה והשנייה מקושטת.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:2",
+        "quote": "אַחַת לִפְרִיָּה וּרְבִיָּה וְאַחַת לְתַשְׁמִישׁ"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק: למך הוא שהחל לקחת שתי נשים, ולכן היו מתקוטטות וצרות זו לזו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:19:1",
+        "quote": "וְהוּא הֵחֵל וְלָקַח לוֹ שְׁתֵּי נָשִׁים, לְפִיכָךְ הָיוּ מִתְקוֹטְטוֹת"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: למך לקח נשים כדי להיות לעזרו בהליכות העולם, ושמותיהן מורים על שני אופני עזר.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 4:19:1",
+        "quote": "למך לקח לו היינו להיות לעזרו בהליכות העולם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מה ראו חז\"ל והמפרשים כחידוש בביתו של למך."
+   },
+   {
+    "title": "איך הרתה צלה?",
+    "pasuk": {
+     "text": "וצלה גם הוא ילדה את תובל קין",
+     "ref": "Genesis 4:22",
+     "label": "בראשית ד, כב"
+    },
+    "question": "אם צלה היא שנלקחה לתשמיש והושקתה כוס עקרין, איך ילדה בן?",
+    "asked_by": [
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 4:19:1",
+      "era": "rishon",
+      "quote": "וקשיא לי, דהא כתיב"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 4:19:2",
+      "era": "acharon",
+      "quote": "ואם תאמר אחר שלקח צילה לתשמיש איך נתעברה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: המילה \"גם\" באה לומר שאף זו שנבחרה לתשמיש ילדה, ולא הועילו לה העקרים.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 4:22:1",
+        "quote": "ולא הועילו לה העקרים שהשקוה"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: ילדה על כרחו, כי רצה השם יתברך להוציא ממנה זרע.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 4:22:1",
+        "quote": "יָלְדָה גַּם הִיא עַל כָּרְחוֹ, כִּי רָצָה הַשֵּׁם יִתְבָּרַךְ לְהוֹצִיא מִמֶּנָּה זֶרַע"
+       }
+      ]
+     },
+     {
+      "text": "המלבי\"ם: לא הועיל, כי צלה ילדה וטבעה גבר על הסם.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 4:19:1-2",
+        "quote": "לא הועיל כי צלה ילדה וטבעה גבר על הסם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: למך עצמו לא הלך אחרי שרירות לבו להתענג באשה מבלי שתלד גם כן.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 4:22:1",
+        "quote": "אבל למך עצמו לא היה הולך אחרי שרירות לבו להתענג באשה מבלי תלד"
+       }
+      ]
+     }
+    ],
+    "why": "בוחן אם פירוש 'אחת לתשמיש' מתיישב עם הפסוק."
+   },
+   {
+    "title": "למה נמנו אומנויות בני למך?",
+    "pasuk": {
+     "text": "הוא היה אבי כל תפש כנור ועוגב",
+     "ref": "Genesis 4:21",
+     "label": "בראשית ד, כא"
+    },
+    "question": "כל המשפחה אבדה במבול, מדוע אפוא נרשמו אומנויותיהם?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 4:19:1-2",
+      "era": "acharon",
+      "quote": "מה רצה בספור זה מנשי למך ומבניו וממלאכתם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שד\"ל: אנשים אלה היו נעבדים כאלהים בימים ההם, והתורה מודיעה כי אנשים היו ומי אביהם.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 4:20:1",
+        "quote": "שהיו האנשים האלה בימים ההם נעבדים כאלהים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: האדמה נתקללה בשביל זקנם, ולכן הניחו את עבודת האדמה ותפשו אומנויות אחרות.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 4:22:1",
+        "quote": "מה שמנה הכתוב אומנות של בני קין בשביל שנתקללה האדמה בשביל זקנם"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: כשם שהיתה גזרה על קין כך היתה גזרה על כל תולדותיו, ולא הצליחו בעבודת האדמה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 4:22:1",
+        "quote": "כך היתה גזרה על כל תולדותיו, ולא הצליחו עוד בעבודת האדמה"
+       }
+      ]
+     },
+     {
+      "text": "המלבי\"ם: על ידי בני למך נתחדש המסחר והמלאכות.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 4:20:1",
+        "quote": "שע\"י בני למך נתחדש המסחר והמלאכות"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר מדוע התורה מתעדת שושלת שלא שרדה את המבול."
+   },
+   {
+    "title": "מה חידש יבל?",
+    "pasuk": {
+     "text": "הוא היה אבי יושב אהל ומקנה",
+     "ref": "Genesis 4:20",
+     "label": "בראשית ד, כ"
+    },
+    "question": "מה בדיוק היה יבל הראשון לעשות, כ'אבי יושב אוהל ומקנה'?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 4:20:1",
+      "era": "rishon",
+      "quote": "הוּא הָיָה הָרִאשׁוֹן לְרוֹעֵי בְהֵמוֹת בַּמִּדְבָּרוֹת"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 4:20:1",
+      "era": "rishon",
+      "quote": "אֲבִי רוֹצֵה לוֹמַר קַדְמוֹן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י, פשט: הוא הראשון לרועי בהמות במדברות, יושב אוהלים חודש כאן וחודש כאן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:20:1",
+        "quote": "הוּא הָיָה הָרִאשׁוֹן לְרוֹעֵי בְהֵמוֹת בַּמִּדְבָּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י, מדרש אגדה: בונה בתים לעבודה זרה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:20:1",
+        "quote": "וּמִדְרַשׁ אַגָּדָה בּוֹנֶה בָתִּים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: לשעבר היו מקנין להקב\"ה במטמוניות, וחזרו להקנות אותו בפרהסיא.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:3",
+        "quote": "חָזְרוּ לִהְיוֹת מַקְנִין אוֹתוֹ בְּפַרְהֶסְיָא"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק: הוא הראשון שהרחיק לנהוג מקנהו במדברות, והראשונים רעו סמוך לעירם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:20:1",
+        "quote": "הִרְחִיק לִנְהֹג מִקְנֵהוּ בַּמִּדְבָּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: זו היתה אומנותו של הבל הצדיק ושל משה ודוד אחריו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 4:19:1",
+        "quote": "כִּי זֶה הָיָה אֻמָּנוּתוֹ שֶׁל הֶבֶל הַצַּדִּיק"
+       }
+      ]
+     }
+    ],
+    "why": "אותו פסוק יכול לתאר חיי רועה או את תחילת העבודה זרה."
+   },
+   {
+    "title": "למה 'תובל קין'?",
+    "pasuk": {
+     "text": "את תובל קין לטש כל חרש נחשת וברזל",
+     "ref": "Genesis 4:22",
+     "label": "בראשית ד, כב"
+    },
+    "question": "מדוע בנה של צלה נקרא תובל קין, בשני שמות?",
+    "asked_by": [
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 4:22:1",
+      "era": "chazal",
+      "quote": "למה נקרא שמו תובל קין"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 4:22:1",
+      "era": "rishon",
+      "quote": "וְקָרְאָה אוֹתוֹ בִּשְׁנֵי שֵׁמוֹת תּוּבַל קַיִן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: תובל תיבל והתקין אומנותו של קין לעשות כלי זיין לרוצחים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:22:1",
+        "quote": "תִּבֵּל וְהִתְקִין אֻמָּנוּתוֹ שֶׁל קַיִן לַעֲשׂוֹת כְּלֵי זַיִן לָרוֹצְחִים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: קין הרג ולא היה לו במה להרוג, אבל זה לטש כל חרש נחשת וברזל.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:3",
+        "quote": "קַיִן הָרַג וְלֹא הָיָה לוֹ בַּמֶּה לַהֲרֹג"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: שכל מעשה קין יובלו למיתה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 4:22:1",
+        "quote": "שכל מעשה קין יובלו למיתה"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק: אפשר שקראה תובל וקין מת באותה עת, וחיברה לו שמו לזכר קין.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:22:1",
+        "quote": "אֶפְשָׁר כִּי כְּשֶׁיָּלְדָה אוֹתוֹ קָרְאָה תּוּבַל וּמֵת קַיִן"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע למה שהתורה רוצה ללמדנו משושלת קין."
+   },
+   {
+    "title": "מי היתה נעמה?",
+    "pasuk": {
+     "text": "ואחות תובל קין נעמה",
+     "ref": "Genesis 4:22",
+     "label": "בראשית ד, כב"
+    },
+    "question": "מדוע הפסוק מזכיר את נעמה אחות תובל קין, ומי היתה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 4:22:2",
+      "era": "rishon",
+      "quote": "אֵין בָּזֶה טַעַם לְהַזְכִּירָהּ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: היא אשתו של נח.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:22:3",
+        "quote": "הִיא אִשְׁתּוֹ שֶׁל נֹחַ"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבנן אמרי נעמה אחרת היתה, שהיתה מנעמת בתוף לעבודת כוכבים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:3",
+        "quote": "נַעֲמָה אַחֶרֶת הָיְתָה, וְלָמָּה הָיוּ קוֹרִין אוֹתָהּ נַעֲמָה, שֶׁהָיְתָה מַנְעֶמֶת בְּתֹף לַעֲבוֹדַת כּוֹכָבִים"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן מבאר את הדעה הראשונה: היתה צדקת והולידה צדיקים, ולכן נשאר לקין זכר בעולם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 4:22:2",
+        "quote": "כִּי הָיְתָה צַדֶּקֶת וְהוֹלִידָה צַדִּיקִים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שאותו שם יכול לציין צדקת או אחת הקשורה לעבודה זרה."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "מזרחי",
+   "גור אריה",
+   "כלי יקר",
+   "העמק דבר",
+   "בראשית רבה",
+   "רד\"ק",
+   "דעת זקנים",
+   "חזקוני",
+   "רבנו בחיי",
+   "מלבי\"ם",
+   "שד\"ל",
+   "מדרש אגדה",
+   "רמב\"ן"
+  ]
+ }
+}
