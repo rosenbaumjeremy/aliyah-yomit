@@ -1,6 +1,6 @@
 # Daily Aliyah routine
 
-Instructions for the cloud routine that runs every morning at 06:00 Israel time.
+Instructions for the cloud routine that runs every morning at 03:00 Israel time.
 It researches the day's aliyah of the weekly parasha (Eretz Yisrael schedule) on
 Sefaria, emails the user a brief of the questions of the Rishonim and
 Achronim, and publishes it to this site.
@@ -22,8 +22,8 @@ sources you did not open.
 
 ## Step 0 – time guard (daily only)
 
-The schedule fires at 03:00 and 04:00 UTC so one firing lands at 06:00 in
-Israel year-round. Run `TZ=Asia/Jerusalem date +%H`; if it is `05` or `07`,
+The schedule fires at 00:00 and 01:00 UTC so one firing lands at 03:00 in
+Israel year-round. Run `TZ=Asia/Jerusalem date +%H`; if it is `02` or `04`,
 print "Off-hour scheduled firing – skipping" and stop. Any other hour, continue.
 
 ## Step 1 – the day's aliyah
