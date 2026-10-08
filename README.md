@@ -11,7 +11,7 @@ Linked from the לימוד יומי home page (`../home-site`).
 The "Daily Aliyah" cloud routine runs at 06:00 Israel time. It asks
 `scripts/add_brief.py --info <date>` which parasha and aliyah fall on that day
 (Shabbat = Rishon … Friday = Shevi'i, from Sefaria's Israel calendar), reads the
-text and mefarshim on Sefaria, emails the brief, and files it here with
+text and mefarshim on Sefaria, and files the brief here with
 `scripts/add_brief.py brief.json`, then commits and pushes. Cloudflare deploys
 on push.
 
@@ -54,5 +54,5 @@ python -m http.server 8129 --directory site
 The routine follows [ROUTINE.md](ROUTINE.md). Every pasuk, asker and answer in a
 brief carries the exact words it quotes from a linked Sefaria ref, and
 `scripts/verify_brief.py` downloads each ref and removes anything whose quote
-is not there before the brief is emailed or published. The site shows those
+is not there before the brief is published. The site shows those
 quotes under each source.
