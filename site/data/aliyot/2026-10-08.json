@@ -1,0 +1,1129 @@
+{
+ "date": "2026-10-08",
+ "reading": {
+  "en": "Bereshit",
+  "he": "בראשית",
+  "ref": "Genesis 1:1-6:8",
+  "slugs": [
+   "bereshit"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 4:23-5:24",
+ "hebrew_date": {
+  "hebrew": "כ״ז בְּתִשְׁרֵי תשפ״ז",
+  "english": "27 Tishrei 5787"
+ },
+ "english": {
+  "summary": "Lemech speaks to his wives Adah and Zillah and says he has killed a man and a youth, and that if Cain is avenged sevenfold he will be avenged seventy-sevenfold. Adam again has a son, Seth, whose son Enosh is born, and then people begin to call on the name of God. The Torah then opens the book of Adam's generations, recalling that God made humankind in His likeness. It counts the generations from Adam to Enoch with their ages, and ends with Enoch, who walked with God and was no more, for God took him.",
+  "questions": [
+   {
+    "title": "Why did Lemech's wives refuse him?",
+    "pasuk": {
+     "text": "כִּ֣י אִ֤ישׁ הָרַ֙גְתִּי֙ לְפִצְעִ֔י",
+     "ref": "Genesis 4:23",
+     "label": "Genesis 4:23"
+    },
+    "question": "Lemech tells Adah and Zillah, 'I have killed a man for wounding me, a youth for bruising me.' Did he really kill someone, and why does he need to say this to his wives at all?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 4:23:2",
+      "quote": "וְכִי אִישׁ אֲשֶׁר הָרַגְתִּי לְפִצְעִי הוּא נֶהֱרַג",
+      "era": "rishon"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 4:23:1",
+      "quote": "למה אינכן שומעות לי וכי איש הרגתי לפצעי בתמיה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi and the Tanchuma: the wives were refusing him because he had killed Cain and Tuval-Cain.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:23:1",
+        "quote": "שֶׁהָיוּ פּוֹרְשׁוֹת מִמֶּנּוּ מִתַּשְׁמִישׁ, לְפִי שֶׁהָרַג אֶת קַיִן וְאֶת תּוּבַל קַיִן"
+       },
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Bereshit 11:4",
+        "quote": "הָרַגְתָּ אֶת קַיִן זְקֵנֵנוּ וְתוּבַל קַיִן בְּנֵנוּ, לֹא נַעֲלֶה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: he asked them for marital relations and they refused because the Flood was coming the next day.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:4",
+        "quote": "תְּבָעָן לְתַשְׁמִישׁ, אָמְרוּ לוֹ לְמָחָר הַמַּבּוּל בָּא"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: they feared bearing children who would be the seventh generation from Cain.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 4:23:1",
+        "quote": "כי עדה וצלה נמנעו כי פחדו להוליד בנים"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: the wives were quarrelling and jealous of each other.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 4:23:1",
+        "quote": "והיו מתקוטטות ומתקנאות זו בזו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the Torah's few words about Lemech hide a dispute over whether to have children on the eve of the Flood."
+   },
+   {
+    "title": "What is Lemech's 'seventy-seven'?",
+    "pasuk": {
+     "text": "כִּ֥י שִׁבְעָתַ֖יִם יֻקַּם־קָ֑יִן וְלֶ֖מֶךְ שִׁבְעִ֥ים וְשִׁבְעָֽה׃",
+     "ref": "Genesis 4:24",
+     "label": "Genesis 4:24"
+    },
+    "question": "Cain is avenged sevenfold and Lemech seventy-sevenfold. What does 'sevenfold' mean, and on what reasoning does Lemech reach seventy-seven?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 4:23:1",
+      "quote": "כִּי לֹא תֵּאָמֵר הַמִּלָּה הַזֹּאת עַל הַשִּׁבְעָה הַנִּפְרָדִים",
+      "era": "rishon"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 4:24:1",
+      "quote": "ואפשר יצא לו החשבון הזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Cain killed deliberately and was given seven generations; Lemech killed unintentionally and so deserves many more sevens.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:24:1",
+        "quote": "אֲנִי שֶׁהָרַגְתִּי שׁוֹגֵג לֹא כָּל שֶׁכֵּן שֶׁיִּתָּלֶה לִי שְׁבִיעִיּוֹת הַרְבֵּה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it refers to the one who kills Cain, who is punished sevenfold.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 4:23:1",
+        "quote": "שֶׁאָמַר הַשֵּׁם לָכֵן כָּל אֲשֶׁר יַהֲרֹג אֶת קַיִן שִׁבְעָתַיִם יֻקַּם מִמֶּנּוּ"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: he reckoned ten times for a deliberate over an unintentional killer.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 4:24:1",
+        "quote": "ועלה בדעתו כי עשר ידות למזיד על השוגג"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Cain killed and was given seven generations; Lemech did not kill, so it is only right that he too be given time.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:4",
+        "quote": "קַיִן הָרַג וְנִתְלָה לוֹ שִׁבְעָה דּוֹרוֹת, וַאֲנִי שֶׁלֹא הָרַגְתִּי אֵינוֹ דִין שֶׁיִּתְלֶה לִי עַל זֶה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the verse speaks of Lemech's own judgment or of the punishment of Cain's killer."
+   },
+   {
+    "title": "Why did Adam wait 130 years, and what is 'again'?",
+    "pasuk": {
+     "text": "וַיֵּ֨דַע אָדָ֥ם עוֹד֙ אֶת־אִשְׁתּ֔וֹ",
+     "ref": "Genesis 4:25",
+     "label": "Genesis 4:25"
+    },
+    "question": "'Adam knew his wife again.' What does 'again' add, and what kept Adam from having children until he was 130?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 4:25:1",
+      "quote": "וּמַהוּ עוֹד, לְלַמֵּד",
+      "era": "rishon"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 5:1:1-2",
+      "quote": "מה היתה מניעת הזרע עד הזמן ההוא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi and Bereshit Rabbah: 'again' teaches that his desire grew stronger.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:25:1",
+        "quote": "שֶׁנִּתּוֹסְפָה לוֹ תַאֲוָה עַל תַּאֲוָתוֹ"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:5",
+        "quote": "נִתּוֹסַף לוֹ תַּאֲוָה עַל תַּאֲוָתוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah and Tanchuma: Lemech's wives rebuked him for separating from Eve, and he then returned to have children.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:4",
+        "quote": "כֵּיוָן שֶׁשָּׁמַע כֵּן נִזְקָק לְהַעֲמִיד תּוֹלָדוֹת"
+       },
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Bereshit 11:4",
+        "quote": "אַתָּה פָּרַשְׁתָּ מִמִּטָּתְךָ מֵאָה וּשְׁלֹשִים שָׁנָה וְאַתָּה מְלַמֵּד אוֹתָנוּ"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: he separated because of the sin, and returned out of loneliness after Cain and Abel were gone.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 4:25",
+        "quote": "והנה סבת הפרשו ממנה אפשר שהיה מפני כי חטאו כבר ראה שאשתו הרגתו…הוצרך להתחבר לאשתו מפני שכולו וגלמודו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni and Bereshit Rabbah: during those years spirits were born from him, not children in his image.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 5:3:1",
+        "quote": "כל שלשים ומאת שנה שהיה פרוש מאשתו והרוחות מתחממות ממנו"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 24:6",
+        "quote": "כָּל מֵאָה וּשְׁלשִׁים שָׁנָה שֶׁפֵּרְשָׁה חַוָּה מֵאָדָם הָיוּ רוּחוֹת הַזְּכָרִים מִתְחַמְּמִים מִמֶּנָּהּ"
+       }
+      ]
+     }
+    ],
+    "why": "It tells why the world's continuation rests on Seth rather than on Adam's earlier children."
+   },
+   {
+    "title": "Did people begin to call on God, or to profane Him?",
+    "pasuk": {
+     "text": "אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם",
+     "ref": "Genesis 4:26",
+     "label": "Genesis 4:26"
+    },
+    "question": "'Then it was begun to call on the name of God.' Does 'hukhal' mean 'began' or 'was profaned', and was this a high point or a low point?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 4:26:2",
+      "quote": "יֵשׁ מְפָרְשִׁים הוּחַל לְשׁוֹן חִלּוּל, וְיֵשׁ מְפָרְשִׁים לְשׁוֹן תְּחִלָּה",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 4:26:1",
+      "quote": "ואילו היה מחילול היה השם סמוך אל המלה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: a language of profanity, calling people and idols by God's name.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 4:26:1",
+        "quote": "לְשׁוֹן חֻלִּין, לִקְרֹא אֶת שְׁמוֹת הָאָדָם וְאֶת שְׁמוֹת הָעֲצַבִּים בִּשְׁמוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah and Lekach Tov: a language of rebellion.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:7",
+        "quote": "בִּשְׁלשָׁה מְקוֹמוֹת נֶאֱמַר בַּלָּשׁוֹן הַזֶּה לְשׁוֹן מֶרֶד"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 4:26:1",
+        "quote": "לשון מרד. וכן הוא אומר הוא החל להיות גבור בארץ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the righteous of the generation began to teach the public God's name, to counter the idolaters.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 4:26:1",
+        "quote": "אָז הִתְחִילוּ צַדִּיקֵי הַדּוֹר לִדְרוֹשׁ לָרַבִּים אֶת שֵׁם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: people began to pray to Him in their distress.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 4:26:2",
+        "quote": "כְּלוֹמַר לְהִתְפַּלֵּל אֵלָיו בְּעֵת צָרָתָם וּלְהַסְפִּיק צָרְכֵיהֶם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: people began naming themselves with God's name.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 4:26:1",
+        "quote": "שהיו משתפים שם שמים בשמם"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the starting point of idolatry or of prayer in the generation of Enosh."
+   },
+   {
+    "title": "Why is Seth 'in his likeness, in his image' and not Cain?",
+    "pasuk": {
+     "text": "וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ",
+     "ref": "Genesis 5:3",
+     "label": "Genesis 5:3"
+    },
+    "question": "Of Seth the Torah says that Adam begot him 'in his likeness, in his image'. Why is this said, and why not of Cain and Abel?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 5:3:1",
+      "quote": "ומה טעם להזכיר ויולד בדמותו כצלמו",
+      "era": "rishon"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 5:3:1",
+      "quote": "וְלֹא אָמַר זֶה בְּקַיִן וְהֶבֶל",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: Adam was elevated in God's likeness, and Seth, the foundation of the world, shared this.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 5:3:1",
+        "quote": "שֶׁאַף תּוֹלְדוֹתָיו הָיוּ כֵן בְּאוֹתוֹ הַדְּמוּת הַמְּעֻלָּה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: Cain's and Abel's names were erased in the Flood.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 5:3:1",
+        "quote": "בעבור שנמחה שם הבל גם קין במבול"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Seth was a tzaddik from the first.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 5:3:1",
+        "quote": "שֶׁהָיָה צַדִּיק מִן הָרִאשׁוֹנִים, כִּי גַּם הֶבֶל לֹא הִקְרִיב עַד שֶׁקְּדָמוֹ קַיִן"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Seth was far from the evil side of Adam's earlier children.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 5:3:1",
+        "quote": "וּבֵן זֶה הָיָה מְרֻחָק מִבְּחִינַת הָרַע"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: it refers to the intellect, in which Seth resembled his father.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 5:3",
+        "quote": "ובחכמתו ותבונתו נתדמה לאביו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: up to here in the image and likeness; from here on the generations were corrupted.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 23:6",
+        "quote": "עַד כָּאן בְּצֶלֶם וּבִדְמוּת, מִכָּאן וָאֵילָךְ נִתְקַלְקְלוּ הַדּוֹרוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what 'the image of God' meant in the generations after Adam."
+   },
+   {
+    "title": "What happened to Enoch: death, ascension, or righteousness?",
+    "pasuk": {
+     "text": "וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃",
+     "ref": "Genesis 5:24",
+     "label": "Genesis 5:24"
+    },
+    "question": "'Enoch walked with God; then he was no more, for God took him.' Did he die, ascend, or was he removed because he might have turned wicked?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 25:1",
+      "quote": "אֵין אָנוּ מוֹצְאִין מִיתָה לַחֲנוֹךְ",
+      "era": "chazal"
+     },
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 5:24:1",
+      "quote": "והיה סבור שברשעו מת בחצי ימיו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi and Bereshit Rabbah: he was righteous but easily swayed to wickedness, so God took him early.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 5:24:1",
+        "quote": "צַדִּיק הָיָה וְקַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 25:1",
+        "quote": "חֲנוֹךְ חָנֵף הָיָה, פְּעָמִים צַדִּיק פְּעָמִים רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: he died.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 5:24:1",
+        "quote": "כי לקח אותו אלהים. מת וכן"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Yose says he is no longer in this world.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 25:1",
+        "quote": "וְאֵינֶנּוּ בָּעוֹלָם הַזֶּה כִּי לָקַח אֹתוֹ אֱלֹהִים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: God took his soul and raised it to the upper realms.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 5:24:1",
+        "quote": "לָקַח נַפְשׁוֹ וְהֶעֱלָה אוֹתָהּ אֶל הָעֶלְיוֹנִים"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: he was wholly pious and God removed him from the wicked.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 5:24:1",
+        "quote": "ויתהלך חנוך שחסיד גמור היה…וסילק אותו מבין הרשעים ההמה"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: he secluded himself in love of God until he ascended.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 5:24:1",
+        "quote": "היה מתבודד ומשקיע עצמו…עד שהגיע לעלות לרקיע"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Enoch is a model of righteousness or a warning."
+   },
+   {
+    "title": "What is the 'book' of Adam's generations?",
+    "pasuk": {
+     "text": "בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים",
+     "ref": "Genesis 5:1",
+     "label": "Genesis 5:1"
+    },
+    "question": "'This is the book of the generations of Adam.' Why 'book', and why does it repeat the creation of Adam?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 5:1:1-2",
+      "quote": "הנה אומרו זה ספר הוא מיותר",
+      "era": "acharon"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 5:1:1",
+      "quote": "צָרִיךְ לָדַעַת כַּוָּנַת אָמְרוֹ ״זֶה סֵפֶר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it is the counting of Adam's generations; there are many midrashim.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 5:1:1",
+        "quote": "זוֹ הִיא סְפִירַת תּוֹלְדוֹת אָדָם, וּמִדְרְשֵׁי אַגָּדָה יֵשׁ רַבִּים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it alludes to the whole Torah as the book of Adam's generations.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 5:1:1",
+        "quote": "וּלְפִי דַּעְתִּי יִרְמֹז לְכָל הַתּוֹרָה, כִּי כָל הַתּוֹרָה כֻּלָּהּ סֵפֶר תּוֹלְדוֹת אָדָם"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the book records the perfection in which Adam was created, from which later generations declined.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 5:1:1",
+        "quote": "וְלִי נִרְאֶה שֶׁסֵּפֶר זֶה קָאֵי עַל מַה שֶּׁנֶּאֱמַר…הָיָה שָׁלֵם בַּיְּצִירָה בְּכָל הַמַּעֲלוֹת הָאֱנוֹשִׁיּוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the frame of the genealogy: record of Adam's decline or of the whole Torah."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Chizkuni",
+   "Midrash Tanchuma",
+   "Bereshit Rabbah",
+   "Ibn Ezra",
+   "Bekhor Shor",
+   "Ramban",
+   "Alshekh",
+   "Abarbanel",
+   "Radak",
+   "Midrash Lekach Tov",
+   "Sforno",
+   "Or HaChaim",
+   "Haamek Davar",
+   "Kli Yakar"
+  ]
+ },
+ "hebrew": {
+  "summary": "למך אומר לנשיו עדה וצלה שהרג איש וילד, ושאם קין יוקם שבעתיים הוא יוקם שבעים ושבעה. אדם מוליד שוב בן, שת, ולשת נולד אנוש, ואז הוחל לקרא בשם ה'. אחר כך נפתח ספר תולדות אדם, ונזכר שאלהים ברא את האדם בדמותו. נמנים הדורות מאדם עד חנוך עם שנות חייהם, והפרשה מסתיימת בחנוך שהתהלך את האלהים ואיננו כי לקח אותו אלהים.",
+  "questions": [
+   {
+    "title": "מדוע נמנעו נשי למך ממנו?",
+    "pasuk": {
+     "text": "כִּ֣י אִ֤ישׁ הָרַ֙גְתִּי֙ לְפִצְעִ֔י",
+     "ref": "Genesis 4:23",
+     "label": "בראשית ד, כג"
+    },
+    "question": "למך אומר לעדה וצלה: 'כי איש הרגתי לפצעי וילד לחבורתי'. האם באמת הרג, ולמה הוא צריך לומר זאת לנשיו?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 4:23:2",
+      "quote": "וְכִי אִישׁ אֲשֶׁר הָרַגְתִּי לְפִצְעִי הוּא נֶהֱרַג",
+      "era": "rishon"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 4:23:1",
+      "quote": "למה אינכן שומעות לי וכי איש הרגתי לפצעי בתמיה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י ותנחומא: נשיו פרשו ממנו משום שהרג את קין ואת תובל קין.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:23:1",
+        "quote": "שֶׁהָיוּ פּוֹרְשׁוֹת מִמֶּנּוּ מִתַּשְׁמִישׁ, לְפִי שֶׁהָרַג אֶת קַיִן וְאֶת תּוּבַל קַיִן"
+       },
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Bereshit 11:4",
+        "quote": "הָרַגְתָּ אֶת קַיִן זְקֵנֵנוּ וְתוּבַל קַיִן בְּנֵנוּ, לֹא נַעֲלֶה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: תבע אותן והן סירבו מפני המבול הבא למחר.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:4",
+        "quote": "תְּבָעָן לְתַשְׁמִישׁ, אָמְרוּ לוֹ לְמָחָר הַמַּבּוּל בָּא"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: פחדו להוליד בנים שיהיו שביעיים לקין.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 4:23:1",
+        "quote": "כי עדה וצלה נמנעו כי פחדו להוליד בנים"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: הנשים התקוטטו והתקנאו זו בזו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 4:23:1",
+        "quote": "והיו מתקוטטות ומתקנאות זו בזו"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מראה שבדברי למך הספורים מסתתר ויכוח אם להוליד ילדים בערב המבול."
+   },
+   {
+    "title": "מהו 'שבעים ושבעה' של למך?",
+    "pasuk": {
+     "text": "כִּ֥י שִׁבְעָתַ֖יִם יֻקַּם־קָ֑יִן וְלֶ֖מֶךְ שִׁבְעִ֥ים וְשִׁבְעָֽה׃",
+     "ref": "Genesis 4:24",
+     "label": "בראשית ד, כד"
+    },
+    "question": "כי שבעתים יקם קין ולמך שבעים ושבעה – מהו 'שבעתים', ומה החשבון שממנו מגיע למך לשבעים ושבעה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 4:23:1",
+      "quote": "כִּי לֹא תֵּאָמֵר הַמִּלָּה הַזֹּאת עַל הַשִּׁבְעָה הַנִּפְרָדִים",
+      "era": "rishon"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 4:24:1",
+      "quote": "ואפשר יצא לו החשבון הזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: קין שהרג במזיד נתלה לו שבעה דורות, ולמך ששגג – קל וחומר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:24:1",
+        "quote": "אֲנִי שֶׁהָרַגְתִּי שׁוֹגֵג לֹא כָּל שֶׁכֵּן שֶׁיִּתָּלֶה לִי שְׁבִיעִיּוֹת הַרְבֵּה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הכוונה להורג את קין, שייענש שבעתיים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 4:23:1",
+        "quote": "שֶׁאָמַר הַשֵּׁם לָכֵן כָּל אֲשֶׁר יַהֲרֹג אֶת קַיִן שִׁבְעָתַיִם יֻקַּם מִמֶּנּוּ"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: חשב עשר פעמים למזיד על השוגג.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 4:24:1",
+        "quote": "ועלה בדעתו כי עשר ידות למזיד על השוגג"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: קין הרג ונתלה לו, ואני שלא הרגתי – מן הדין שיתלה לי.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:4",
+        "quote": "קַיִן הָרַג וְנִתְלָה לוֹ שִׁבְעָה דּוֹרוֹת, וַאֲנִי שֶׁלֹא הָרַגְתִּי אֵינוֹ דִין שֶׁיִּתְלֶה לִי עַל זֶה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם הפסוק עוסק בדינו של למך או בעונש הורג קין."
+   },
+   {
+    "title": "מדוע המתין אדם מאה ושלושים שנה, ומהו 'עוד'?",
+    "pasuk": {
+     "text": "וַיֵּ֨דַע אָדָ֥ם עוֹד֙ אֶת־אִשְׁתּ֔וֹ",
+     "ref": "Genesis 4:25",
+     "label": "בראשית ד, כה"
+    },
+    "question": "'וידע אדם עוד את אשתו' – מה מוסיף 'עוד', ומה מנע מאדם להוליד עד גיל מאה ושלושים?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 4:25:1",
+      "quote": "וּמַהוּ עוֹד, לְלַמֵּד",
+      "era": "rishon"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 5:1:1-2",
+      "quote": "מה היתה מניעת הזרע עד הזמן ההוא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י ובראשית רבה: 'עוד' – נתוספה לו תאוה על תאוותו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:25:1",
+        "quote": "שֶׁנִּתּוֹסְפָה לוֹ תַאֲוָה עַל תַּאֲוָתוֹ"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:5",
+        "quote": "נִתּוֹסַף לוֹ תַּאֲוָה עַל תַּאֲוָתוֹ"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה ותנחומא: נשי למך הוכיחוהו על פרישתו, וחזר להוליד.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:4",
+        "quote": "כֵּיוָן שֶׁשָּׁמַע כֵּן נִזְקָק לְהַעֲמִיד תּוֹלָדוֹת"
+       },
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Bereshit 11:4",
+        "quote": "אַתָּה פָּרַשְׁתָּ מִמִּטָּתְךָ מֵאָה וּשְׁלֹשִים שָׁנָה וְאַתָּה מְלַמֵּד אוֹתָנוּ"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: פרש בגלל החטא, וחזר מפני בדידותו אחרי שנעלמו קין והבל.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 4:25",
+        "quote": "והנה סבת הפרשו ממנה אפשר שהיה מפני כי חטאו כבר ראה שאשתו הרגתו…הוצרך להתחבר לאשתו מפני שכולו וגלמודו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני ובראשית רבה: באותן שנים נולדו ממנו רוחות ולא בדמותו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 5:3:1",
+        "quote": "כל שלשים ומאת שנה שהיה פרוש מאשתו והרוחות מתחממות ממנו"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 24:6",
+        "quote": "כָּל מֵאָה וּשְׁלשִׁים שָׁנָה שֶׁפֵּרְשָׁה חַוָּה מֵאָדָם הָיוּ רוּחוֹת הַזְּכָרִים מִתְחַמְּמִים מִמֶּנָּהּ"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר מדוע המשך העולם נשען על שת."
+   },
+   {
+    "title": "האם התחילו לקרוא בשם ה' או חללו אותו?",
+    "pasuk": {
+     "text": "אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם",
+     "ref": "Genesis 4:26",
+     "label": "בראשית ד, כו"
+    },
+    "question": "'אז הוחל לקרא בשם' – האם 'הוחל' מלשון התחלה או מלשון חילול, והאם זו עלייה או ירידה?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 4:26:2",
+      "quote": "יֵשׁ מְפָרְשִׁים הוּחַל לְשׁוֹן חִלּוּל, וְיֵשׁ מְפָרְשִׁים לְשׁוֹן תְּחִלָּה",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 4:26:1",
+      "quote": "ואילו היה מחילול היה השם סמוך אל המלה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לשון חילול, לקרוא לבני אדם ולעצבים בשם הקדוש.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 4:26:1",
+        "quote": "לְשׁוֹן חֻלִּין, לִקְרֹא אֶת שְׁמוֹת הָאָדָם וְאֶת שְׁמוֹת הָעֲצַבִּים בִּשְׁמוֹ"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה ולקח טוב: לשון מרד.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:7",
+        "quote": "בִּשְׁלשָׁה מְקוֹמוֹת נֶאֱמַר בַּלָּשׁוֹן הַזֶּה לְשׁוֹן מֶרֶד"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 4:26:1",
+        "quote": "לשון מרד. וכן הוא אומר הוא החל להיות גבור בארץ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: צדיקי הדור התחילו לדרוש לרבים את שם ה' נגד עובדי האלילים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 4:26:1",
+        "quote": "אָז הִתְחִילוּ צַדִּיקֵי הַדּוֹר לִדְרוֹשׁ לָרַבִּים אֶת שֵׁם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: התחילו להתפלל אליו בעת צרתם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 4:26:2",
+        "quote": "כְּלוֹמַר לְהִתְפַּלֵּל אֵלָיו בְּעֵת צָרָתָם וּלְהַסְפִּיק צָרְכֵיהֶם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: התחילו לשתף את שם שמים בשמותיהם.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 4:26:1",
+        "quote": "שהיו משתפים שם שמים בשמם"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם בדור אנוש החלה עבודה זרה או תפילה."
+   },
+   {
+    "title": "מדוע נאמר 'בדמותו כצלמו' על שת ולא על קין?",
+    "pasuk": {
+     "text": "וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ",
+     "ref": "Genesis 5:3",
+     "label": "בראשית ה, ג"
+    },
+    "question": "על שת נאמר 'ויולד בדמותו כצלמו'. מה הטעם לכך, ומדוע לא נאמר על קין והבל?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 5:3:1",
+      "quote": "ומה טעם להזכיר ויולד בדמותו כצלמו",
+      "era": "rishon"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 5:3:1",
+      "quote": "וְלֹא אָמַר זֶה בְּקַיִן וְהֶבֶל",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אדם נתעלה בדמות אלהים, ושת, ממנו הושתת העולם, היה כמותו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 5:3:1",
+        "quote": "שֶׁאַף תּוֹלְדוֹתָיו הָיוּ כֵן בְּאוֹתוֹ הַדְּמוּת הַמְּעֻלָּה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: שם הבל וקין נמחה במבול.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 5:3:1",
+        "quote": "בעבור שנמחה שם הבל גם קין במבול"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: שת היה צדיק מן הראשונים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 5:3:1",
+        "quote": "שֶׁהָיָה צַדִּיק מִן הָרִאשׁוֹנִים, כִּי גַּם הֶבֶל לֹא הִקְרִיב עַד שֶׁקְּדָמוֹ קַיִן"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: שת היה רחוק מצד הרע של קין והבל.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 5:3:1",
+        "quote": "וּבֵן זֶה הָיָה מְרֻחָק מִבְּחִינַת הָרַע"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: הכוונה לשכל, שבו דמה שת לאביו.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 5:3",
+        "quote": "ובחכמתו ותבונתו נתדמה לאביו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: עד כאן בצלם ובדמות, ומכאן ואילך נתקלקלו הדורות.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 23:6",
+        "quote": "עַד כָּאן בְּצֶלֶם וּבִדְמוּת, מִכָּאן וָאֵילָךְ נִתְקַלְקְלוּ הַדּוֹרוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל מה משמעות 'צלם אלהים' בדורות שאחרי אדם."
+   },
+   {
+    "title": "מה אירע לחנוך – מיתה, עלייה או צדקות?",
+    "pasuk": {
+     "text": "וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃",
+     "ref": "Genesis 5:24",
+     "label": "בראשית ה, כד"
+    },
+    "question": "'ויתהלך חנוך את האלהים ואיננו כי לקח אותו אלהים' – האם מת, עלה, או נלקח כדי שלא יחטא?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 25:1",
+      "quote": "אֵין אָנוּ מוֹצְאִין מִיתָה לַחֲנוֹךְ",
+      "era": "chazal"
+     },
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 5:24:1",
+      "quote": "והיה סבור שברשעו מת בחצי ימיו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י ובראשית רבה: צדיק וקל בדעתו לשוב להרשיע, ולכן סילקו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 5:24:1",
+        "quote": "צַדִּיק הָיָה וְקַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 25:1",
+        "quote": "חֲנוֹךְ חָנֵף הָיָה, פְּעָמִים צַדִּיק פְּעָמִים רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: מת.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 5:24:1",
+        "quote": "כי לקח אותו אלהים. מת וכן"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבי יוסי – איננו בעולם הזה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 25:1",
+        "quote": "וְאֵינֶנּוּ בָּעוֹלָם הַזֶּה כִּי לָקַח אֹתוֹ אֱלֹהִים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: לקח נפשו והעלה אותה אל העליונים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 5:24:1",
+        "quote": "לָקַח נַפְשׁוֹ וְהֶעֱלָה אוֹתָהּ אֶל הָעֶלְיוֹנִים"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: חסיד גמור, וסילקו מבין הרשעים.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 5:24:1",
+        "quote": "ויתהלך חנוך שחסיד גמור היה…וסילק אותו מבין הרשעים ההמה"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: התבודד באהבת ה' עד שעלה לרקיע.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 5:24:1",
+        "quote": "היה מתבודד ומשקיע עצמו…עד שהגיע לעלות לרקיע"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם חנוך הוא מופת לצדקות או אזהרה."
+   },
+   {
+    "title": "מהו 'הספר' של תולדות אדם?",
+    "pasuk": {
+     "text": "בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים",
+     "ref": "Genesis 5:1",
+     "label": "בראשית ה, א"
+    },
+    "question": "'זה ספר תולדות אדם' – מדוע 'ספר', ולמה חוזר הפסוק על בריאת אדם?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 5:1:1-2",
+      "quote": "הנה אומרו זה ספר הוא מיותר",
+      "era": "acharon"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 5:1:1",
+      "quote": "צָרִיךְ לָדַעַת כַּוָּנַת אָמְרוֹ ״זֶה סֵפֶר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ספירת תולדות אדם, ומדרשי אגדה יש רבים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 5:1:1",
+        "quote": "זוֹ הִיא סְפִירַת תּוֹלְדוֹת אָדָם, וּמִדְרְשֵׁי אַגָּדָה יֵשׁ רַבִּים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: רומז לכל התורה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 5:1:1",
+        "quote": "וּלְפִי דַּעְתִּי יִרְמֹז לְכָל הַתּוֹרָה, כִּי כָל הַתּוֹרָה כֻּלָּהּ סֵפֶר תּוֹלְדוֹת אָדָם"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: הספר מתעד את שלמות אדם, שממנה ירדו הדורות.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 5:1:1",
+        "quote": "וְלִי נִרְאֶה שֶׁסֵּפֶר זֶה קָאֵי עַל מַה שֶּׁנֶּאֱמַר…הָיָה שָׁלֵם בַּיְּצִירָה בְּכָל הַמַּעֲלוֹת הָאֱנוֹשִׁיּוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את מסגרת הספירה."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "חזקוני",
+   "מדרש תנחומא",
+   "בראשית רבה",
+   "אבן עזרא",
+   "בכור שור",
+   "רמב\"ן",
+   "אלשיך",
+   "אברבנאל",
+   "רד\"ק",
+   "מדרש לקח טוב",
+   "ספורנו",
+   "אור החיים",
+   "העמק דבר",
+   "כלי יקר"
+  ]
+ }
+}
