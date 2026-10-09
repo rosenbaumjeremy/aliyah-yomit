@@ -1,0 +1,1394 @@
+{
+ "date": "2026-10-09",
+ "reading": {
+  "en": "Bereshit",
+  "he": "בראשית",
+  "ref": "Genesis 1:1-6:8",
+  "slugs": [
+   "bereshit"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 5:25-6:8",
+ "maftir": "Genesis 6:5-6:8",
+ "hebrew_date": {
+  "hebrew": "כ״ח בְּתִשְׁרֵי תשפ״ז",
+  "english": "28 Tishrei 5787"
+ },
+ "english": {
+  "summary": "The seventh aliyah (with the maftir, Genesis 6:5-8) completes the genealogy from Methuselah and Lamech to Noah, whose father names him saying he will bring relief from the toil of the cursed soil, and who fathers Shem, Ham and Japheth at 500. As humankind multiplies, the 'divine beings' take wives from the human women, God limits man's days to 120 years, and the Nephilim appear on earth. God sees that man's every plan is only evil all day, regrets having made humankind and is grieved, and resolves to blot out humans and animals; but Noah finds favor with God.",
+  "questions": [
+   {
+    "title": "Why is Noah's name explained with a word that does not match it?",
+    "pasuk": {
+     "text": "ויקרא את שמו נח לאמר זה ינחמנו ממעשנו",
+     "ref": "Genesis 5:29",
+     "label": "Genesis 5:29"
+    },
+    "question": "Lamech names his son Noah, saying 'zeh yenachamenu' – 'this one will comfort us'. But Noah (נח) means rest, not comfort (נחם). Why is the name explained with a different root?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 5:29:1",
+      "quote": "ואם לא תפרשהו כך אין טעם הלשון נופל על השם",
+      "era": "rishon"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 5:29:1",
+      "quote": "לא היה לו לומר אלא נח זה יניחנו או נחמן זה ינחמנו",
+      "era": "rishon"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 25:2",
+      "quote": "לא הוה צריך קרא למימר אלא נח זה יניחנו",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: before Noah the world had no plows; he prepared them, so the earth that gave thorns to the sown wheat rested in his days. Midrash Aggadah likewise says people used to plow only with their fingers.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 5:29:1",
+        "quote": "עד שלא בא נח לא היה להם כלי מחרשה והוא הכין להם"
+       },
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 5:29:1",
+        "quote": "שלא היו חורשים כי אם באצבעותיהם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Shimon ben Lakish): before Noah arose the waters kept rising and flooding the dead in their graves; once Noah arose, they rested.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 25:2",
+        "quote": "עד שלא עמד נח היו המים עולים ומציפים אותם בתוך קבריהם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: rest from trouble is itself comfort, the two are close in meaning, and Hebrew does not distinguish so finely in giving names. Ibn Ezra: the Hebrews keep the meaning, not the exact words.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 5:29:1",
+        "quote": "המנוח מן הצרה הוא הנחמה וקרובים הם בענין"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 5:29:1",
+        "quote": "כי העברים ישמרו הטעמים ולא המלות"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: 'nacham' means a reversal of thought, so Lamech meant that now people would rest from their futile pursuits.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 5:29:1",
+        "quote": "שמעתה ננוח בין ממעשנו שאנו עוסקים בפעולות הבל וריק"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Lamech hoped Noah would repair of Adam's curse."
+   },
+   {
+    "title": "Who are the 'bnei Elohim'?",
+    "pasuk": {
+     "text": "ויראו בני האלהים את בנות האדם",
+     "ref": "Genesis 6:2",
+     "label": "Genesis 6:2"
+    },
+    "question": "The verse says the 'sons of Elohim' saw the daughters of man and took wives. Who are these 'sons of God', and why are they called that?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "ומי הם בני האלהים שנשאו את בנות האדם",
+      "era": "acharon"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 26:5",
+      "quote": "ולמה קורא אותן בני האלהים",
+      "era": "chazal"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 6:2:1",
+      "quote": "ולמה קרי אותם בני אלהים",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the sons of princes and judges.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:2:1",
+        "quote": "בני השרים והשופטים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Shimon bar Yochai called them 'sons of judges' and cursed anyone who calls them sons of gods.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 26:5",
+        "quote": "קרא להון בני דינייא"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the straightforward reading is that they knew the Most High; he also brings the view that they were the sons of Seth, against the daughters of Cain's family.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:2:1",
+        "quote": "והישר בעיני להיות בני האלהים היודעים דעת עליון"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Chanina and R. Shimon ben Lakish): they are called so because they lived long without suffering.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 26:5",
+        "quote": "שהרבו ימים בלא צער ובלא יסורין"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: men of Seth's line, men of stature absorbed in godliness.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 6:2:1",
+        "quote": "אנשים שהיו מזרע שת וכדומה אנשי מעלה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: judges – and some say actual angels.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 6:2:1",
+        "quote": "ויש אומרים מלאכים ממש"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the generation's sin was one of society's leaders, of the righteous line, or of the heavens."
+   },
+   {
+    "title": "What exactly was wrong with what they did?",
+    "pasuk": {
+     "text": "ויקחו להם נשים מכל אשר בחרו",
+     "ref": "Genesis 6:2",
+     "label": "Genesis 6:2"
+    },
+    "question": "The Torah does not state what was forbidden in taking these wives, yet the Flood follows. What was the sin?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:2:2",
+      "quote": "אבל לא הזכיר הכתוב האיסור בהם בפירוש",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the punishment was only for the violence, which is a matter of reason that needs no Torah. Radak and Bekhor Shor: they took whomever they chose by force from the weak.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:2:2",
+        "quote": "ולא נגזר עליהם העונש רק על החמס"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:2:2",
+        "quote": "היו עושקים ולוקחים איזה שהם בוחרים מכל הנשים"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 6:3:3",
+        "quote": "בכח וביד חזקה היו גוזלים להם בנותיהם ונשיהם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Yehoshua ben Levi): God is patient about everything except immorality, and right after this verse comes 'I will blot out man'. Kli Yakar: they sinned through immorality, a desire that is never satisfied.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 26:5",
+        "quote": "על הכל הקדוש ברוך הוא מאריך אפו חוץ מן הזנות"
+       },
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 6:5:1",
+        "quote": "לפי שחטאו בזנות"
+       }
+      ]
+     }
+    ],
+    "why": "It names what finally tipped the generation from patience to judgment."
+   },
+   {
+    "title": "What does 'lo yadon ruchi' mean, and why 'beshagam hu basar'?",
+    "pasuk": {
+     "text": "לא ידון רוחי באדם לעולם בשגם הוא בשר",
+     "ref": "Genesis 6:3",
+     "label": "Genesis 6:3"
+    },
+    "question": "God says 'My spirit shall not abide/judge in man forever, since he is flesh'. If man was always flesh and mortal, why is that now a reason?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:3:1",
+      "quote": "ואין בפירוש הזה טעם או ריח",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: although he is flesh he still does not submit to Me – how much more if he were fire or something hard.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:3:3",
+        "quote": "שהוא בשר ואף על פי כן אינו נכנע לפני"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: they are lowly and flesh, and yet they rob and plunder, so I will certainly destroy them.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 6:3:1",
+        "quote": "הם פחותים וגרועים ובשר ואף על פי כן הם גוזלים וחומסים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: because of this violence, and also because man is flesh and reaches a time and then declines.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:3:2",
+        "quote": "ועוד בעבור שהאדם בשר והוא יגיע עד עת ויחסר"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: man is flesh like all flesh that creeps on the earth, and unfit to have the spirit of God within him.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:3:1",
+        "quote": "שגם האדם הוא בשר ככל בשר הרומש על הארץ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: God should not forever face a claim that man deserves mercy because he is flesh that leads to sin.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:3:1",
+        "quote": "ראוי גם כן לרחם עליו בשביל שגם כן הוא בשר משיא לחטוא"
+       }
+      ]
+     },
+     {
+      "text": "Radak: I will give them 120 years; if they repent, well, and if not I will wipe them out.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:3:1",
+        "quote": "אאריך להם מאה ועשרים שנה אם יחזרו בתשובה"
+       }
+      ]
+     }
+    ],
+    "why": "It reveals whether flesh is an accusation or a defense in God's judgment of man."
+   },
+   {
+    "title": "Do the 120 years mean man's lifespan or the time until the Flood?",
+    "pasuk": {
+     "text": "והיו ימיו מאה ועשרים שנה",
+     "ref": "Genesis 6:3",
+     "label": "Genesis 6:3"
+    },
+    "question": "If the 120 years were the countdown to the Flood, Noah had Japheth only 100 years before it. If they mean man's lifespan, people lived far longer afterwards. What are the 120 years?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 6:3:4",
+      "quote": "ואם תאמר משנולד יפת עד המבול אינו אלא מאה שנה",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 6:3:3",
+      "quote": "שזה קצב כל האדם ואם מצאנו יותר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the decree was issued twenty years before Noah had children.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:3:4",
+        "quote": "כבר היתה הגזרה גזורה עשרים שנה קודם שהוליד נח תולדות"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the decree came when Noah was 480 years old.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:1:1",
+        "quote": "נח בן ד' מאות ושמונים שנה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it is a time limit, like 'forty days more' in Jonah – not the number of years of life.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:3:3",
+        "quote": "שנתן קץ לאדם כטעם עוד ארבעים יום"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: Noah delayed having children out of fear of the Flood.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 6:1:1",
+        "quote": "שנח איחר כ\"כ להעמיד תולדות שהיה ירא מפני המבול"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: from then on, human life was to be 120 years, shortened so that people would fear death and repent.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 6:3:1",
+        "quote": "מעתה יהיו ימי חיי האדם ק\"כ שנה"
+       }
+      ]
+     }
+    ],
+    "why": "It sets how long the generation had to repent."
+   },
+   {
+    "title": "Who were the Nephilim, and what is 'vegam acharei chen'?",
+    "pasuk": {
+     "text": "הנפלים היו בארץ בימים ההם וגם אחרי כן",
+     "ref": "Genesis 6:4",
+     "label": "Genesis 6:4"
+    },
+    "question": "The Nephilim 'were on the earth in those days, and also afterward'. Who were they, and what does 'afterward' mean?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "והנפילים שהיו אז שהוא חידה סתומה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they fell and made the world fall; 'afterward' means that even after seeing the generation of Enosh flooded, they did not submit.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:4:1",
+        "quote": "על שם שנפלו והפילו את העולם"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:4:3",
+        "quote": "לא נכנע דור המבול ללמוד מהם"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: 'afterward' means after the Flood.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:4:2",
+        "quote": "וטעם אחרי כן אחר המבול"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: God set them a time for repentance, and afterward they did not repent at all.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:4:1",
+        "quote": "וגם אחרי כן שלא שבו כלל"
+       }
+      ]
+     },
+     {
+      "text": "Ramban and Ibn Ezra: they were called Nephilim because the heart of the viewer falls from fear of them.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:4:1",
+        "quote": "שיפול לב אדם עליו מפחדם"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:4:1",
+        "quote": "שיפול לב הרואה אותם"
+       }
+      ]
+     }
+    ],
+    "why": "It tells whether this sin is of the pre-Flood world only or survived it."
+   },
+   {
+    "title": "How can God regret?",
+    "pasuk": {
+     "text": "וינחם יהוה כי עשה את האדם בארץ ויתעצב אל לבו",
+     "ref": "Genesis 6:6",
+     "label": "Genesis 6:6"
+    },
+    "question": "'God regretted that He made man and was grieved in His heart.' Does God not foresee the future? How does regret apply to Him?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 27:4",
+      "quote": "אין אתם אומרים שהקדוש ברוך הוא רואה את הנולד",
+      "era": "chazal"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "שלא יצדק התנחמות רק אם נתחדש איזה דבר שלא היה תחלה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra, Ramban and Radak: the Torah speaks in the language of men.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:6:1",
+        "quote": "דברה תורה כלשון בני אדם"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:6:1",
+        "quote": "דברה תורה כלשון בני אדם"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:6:1",
+        "quote": "דברה תורה בלשון בני אדם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi (from Bereshit Rabbah): He knew they would sin but did not refrain from creating them, for the sake of the righteous who would descend from them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:6:3",
+        "quote": "לא נמנע מלבראן בשביל הצדיקים העתידים לעמוד מהם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the nechamah was that He created man below – for had he been from above he would have rebelled the upper beings. Or: His thought turned from mercy to judgment.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:6:1",
+        "quote": "שבראו בתחתונים שאלו היה מן העליונים היה ממרידן"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:6:2",
+        "quote": "נהפכה מחשבתו של מקום ממדת רחמים למדת הדין"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: regret comes for three reasons; the one said of God is the sinner's transgression of the vow.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 6:6:1",
+        "quote": "וינחם ה' על שלשה דברים הנחמה באה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the matter of this regret is a very deep one, and he chooses not to elaborate.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 6:6:1",
+        "quote": "הוא דרוש עמוק עמוק"
+       }
+      ]
+     }
+    ],
+    "why": "It is the Torah's central difficulty about God's knowledge and response to human choice."
+   },
+   {
+    "title": "Why were the animals destroyed?",
+    "pasuk": {
+     "text": "מאדם עד בהמה עד רמש ועד עוף השמים",
+     "ref": "Genesis 6:7",
+     "label": "Genesis 6:7"
+    },
+    "question": "Man sinned – why were the animals, creeping things and birds blotted out too?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 6:7:2",
+      "quote": "ולמה נמחו הבהמות והחיות והרמש והעופות",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak and Rashi: they were all created for man, and without man there is no need for them.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:7:2",
+        "quote": "לפי שכלם נבראו בשביל האדם"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:7:2",
+        "quote": "הכל נברא בשביל אדם וכיון שהוא כלה מה צורך באלו"
+       }
+      ]
+     },
+     {
+      "text": "Rashi (from Bereshit Rabbah): they too corrupted their ways.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:7:2",
+        "quote": "אף הם השחיתו דרכם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the fate of creation is bound to man."
+   },
+   {
+    "title": "Why does Noah need 'chen' if he was righteous?",
+    "pasuk": {
+     "text": "ונח מצא חן בעיני יהוה",
+     "ref": "Genesis 6:8",
+     "label": "Genesis 6:8"
+    },
+    "question": "The verse before says 'I regret that I made them' and then 'But Noah found favor'. Why is the connection stated this way – did Noah merit survival, or only grace?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "ומהו ההמשך אמחה את האדם ונח מצא הן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah (R. Abba bar Kahana): even Noah, who was left from them, was not worthy, but he found favor.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 29:1",
+        "quote": "אפלו נח שנשתייר מהן לא היה כדאי"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: he too would have been swept away with them had he not found favor.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 6:8:1",
+        "quote": "גם הוא היה נאסף עמהם אילולי שמצא חן בעיני ה'"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: all his deeds were pleasant before God. Radak: he did good deeds through which he found favor.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:8:1",
+        "quote": "שהיו כל מעשיו לפניו נאים ונעימים"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:8:1",
+        "quote": "עשה מעשים טובים שבהם מצא חן בעיני"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the saving of his sons was not because he deserved it, but by grace.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:8:1",
+        "quote": "לא מפני שהיה ראוי לכך אבל על צד חנינה זכהו האל"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: God would not have destroyed the world without Noah finding favor; the destruction is meant to let Noah stand in his righteousness.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 6:8:1",
+        "quote": "שאם נח לא היה מוצא חן לא היה שם לב להחריב את העולם"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether Noah was saved by merit or by grace."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Radak",
+   "Bereshit Rabbah",
+   "Midrash Aggadah",
+   "Ibn Ezra",
+   "Malbim",
+   "Chizkuni",
+   "Haamek Davar",
+   "Ramban",
+   "Bekhor Shor",
+   "Kli Yakar",
+   "Rashbam",
+   "Sforno"
+  ]
+ },
+ "hebrew": {
+  "summary": "העלייה השביעית, עם המפטיר (בראשית ו, ה-ח), משלימה את שושלת היוחסין ממתושלח ולמך עד נח, שאביו קורא לו כך באומרו שינחם אותם מעצבון ידיהם מן האדמה המקוללת, ובגיל חמש מאות הוליד את שם, חם ויפת. כשהאדם מתרבה, \"בני האלהים\" לוקחים נשים מבנות האדם, ה' מגביל את ימי האדם למאה ועשרים שנה, והנפילים מופיעים בארץ. ה' רואה שכל יצר מחשבות לב האדם רק רע כל היום, מתנחם ומתעצב אל לבו, ומחליט למחות את האדם והבהמה; אך נח מצא חן בעיני ה'.",
+  "questions": [
+   {
+    "title": "מדוע שם \"נח\" מוסבר במילה שאינה מתאימה לו?",
+    "pasuk": {
+     "text": "ויקרא את שמו נח לאמר זה ינחמנו ממעשנו",
+     "ref": "Genesis 5:29",
+     "label": "בראשית ה, כט"
+    },
+    "question": "למך קורא לבנו נח ואומר \"זה ינחמנו\", אך \"נח\" מלשון מנוחה ולא מלשון נחמה. מדוע השם מוסבר בשורש אחר?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 5:29:1",
+      "quote": "ואם לא תפרשהו כך אין טעם הלשון נופל על השם",
+      "era": "rishon"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 5:29:1",
+      "quote": "לא היה לו לומר אלא נח זה יניחנו או נחמן זה ינחמנו",
+      "era": "rishon"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 25:2",
+      "quote": "לא הוה צריך קרא למימר אלא נח זה יניחנו",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: עד שבא נח לא היו כלי מחרשה והוא הכין אותם, והארץ שהוציאה קוצים ודרדרים נחה בימיו. כך גם מדרש אגדה: לא היו חורשים אלא באצבעותיהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 5:29:1",
+        "quote": "עד שלא בא נח לא היה להם כלי מחרשה והוא הכין להם"
+       },
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 5:29:1",
+        "quote": "שלא היו חורשים כי אם באצבעותיהם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ריש לקיש): עד שלא עמד נח היו המים עולים ומציפים את המתים בקבריהם, וכשעמד נח – נחו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 25:2",
+        "quote": "עד שלא עמד נח היו המים עולים ומציפים אותם בתוך קבריהם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: המנוחה מן הצרה היא הנחמה, והעניינים קרובים, ולשון הקודש אינה מדקדקת בכך בקריאת שמות. אבן עזרא: העברים שומרים את הטעמים ולא את המלים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 5:29:1",
+        "quote": "המנוח מן הצרה הוא הנחמה וקרובים הם בענין"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 5:29:1",
+        "quote": "כי העברים ישמרו הטעמים ולא המלות"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: \"נחם\" הוא התהפכות המחשבה, ולמך התכוון שמעתה ינוחו מעיסוק בהבל וריק.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 5:29:1",
+        "quote": "שמעתה ננוח בין ממעשנו שאנו עוסקים בפעולות הבל וריק"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מגלה מה קיווה למך שיתקן נח מקללת אדם."
+   },
+   {
+    "title": "מי הם \"בני האלהים\"?",
+    "pasuk": {
+     "text": "ויראו בני האלהים את בנות האדם",
+     "ref": "Genesis 6:2",
+     "label": "בראשית ו, ב"
+    },
+    "question": "הפסוק אומר ש\"בני האלהים\" ראו את בנות האדם ולקחו נשים. מי הם בני האלהים, ומדוע נקראו כך?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "ומי הם בני האלהים שנשאו את בנות האדם",
+      "era": "acharon"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 26:5",
+      "quote": "ולמה קורא אותן בני האלהים",
+      "era": "chazal"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 6:2:1",
+      "quote": "ולמה קרי אותם בני אלהים",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בני השרים והשופטים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:2:1",
+        "quote": "בני השרים והשופטים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רשב\"י קרא להם \"בני דיינייא\" וקילל את מי שקורא להם בני אלהים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 26:5",
+        "quote": "קרא להון בני דינייא"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הישר בעיניו שהם היודעים דעת עליון; ומביא גם שהם בני שת ובנות האדם בנות משפחת קין.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:2:1",
+        "quote": "והישר בעיני להיות בני האלהים היודעים דעת עליון"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' חנינא וריש לקיש): נקראו כך מפני שהרבו ימים בלא צער ובלא יסורין.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 26:5",
+        "quote": "שהרבו ימים בלא צער ובלא יסורין"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אנשים מזרע שת, אנשי מעלה המשוקעים באלקות.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 6:2:1",
+        "quote": "אנשים שהיו מזרע שת וכדומה אנשי מעלה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: בני הדיינים, ויש אומרים מלאכים ממש.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 6:2:1",
+        "quote": "ויש אומרים מלאכים ממש"
+       }
+      ]
+     }
+    ],
+    "why": "ההכרעה קובעת אם חטא הדור היה של מנהיגיו, של זרע הצדיקים או של העליונים."
+   },
+   {
+    "title": "מה בדיוק היה פסול במעשיהם?",
+    "pasuk": {
+     "text": "ויקחו להם נשים מכל אשר בחרו",
+     "ref": "Genesis 6:2",
+     "label": "בראשית ו, ב"
+    },
+    "question": "התורה אינה מפרשת מה נאסר בלקיחת הנשים הללו, ובכל זאת בא המבול. מהו החטא?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:2:2",
+      "quote": "אבל לא הזכיר הכתוב האיסור בהם בפירוש",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: העונש היה על החמס בלבד, שהוא ענין מושכל שאינו צריך תורה. רד\"ק ובכור שור: בכוח לקחו מי שבחרו מן החלשים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:2:2",
+        "quote": "ולא נגזר עליהם העונש רק על החמס"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:2:2",
+        "quote": "היו עושקים ולוקחים איזה שהם בוחרים מכל הנשים"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 6:3:3",
+        "quote": "בכח וביד חזקה היו גוזלים להם בנותיהם ונשיהם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' יהושע בן לוי): הקב\"ה מאריך אפו על הכל חוץ מן הזנות, ומיד אחר הפסוק \"אמחה את האדם\". כלי יקר: חטאו בזנות, תאווה שאינה שבעה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 26:5",
+        "quote": "על הכל הקדוש ברוך הוא מאריך אפו חוץ מן הזנות"
+       },
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 6:5:1",
+        "quote": "לפי שחטאו בזנות"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מגדיר מה הטה את הדור מאורך אפיים לגזר דין."
+   },
+   {
+    "title": "מה פירוש \"לא ידון רוחי\" ולמה \"בשגם הוא בשר\"?",
+    "pasuk": {
+     "text": "לא ידון רוחי באדם לעולם בשגם הוא בשר",
+     "ref": "Genesis 6:3",
+     "label": "בראשית ו, ג"
+    },
+    "question": "\"לא ידון רוחי באדם לעולם בשגם הוא בשר\" – אם האדם תמיד בשר וחולף, מדוע זו סיבה דווקא עכשיו?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:3:1",
+      "quote": "ואין בפירוש הזה טעם או ריח",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אף שהוא בשר אינו נכנע לפני, ומה אם היה אש או דבר קשה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:3:3",
+        "quote": "שהוא בשר ואף על פי כן אינו נכנע לפני"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הם פחותים ובשר ובכל זאת גוזלים וחומסים, ולכן בוודאי אמחה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 6:3:1",
+        "quote": "הם פחותים וגרועים ובשר ואף על פי כן הם גוזלים וחומסים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: בגלל החמס, ועוד מפני שהאדם בשר ומגיע עד עת ויחסר.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:3:2",
+        "quote": "ועוד בעבור שהאדם בשר והוא יגיע עד עת ויחסר"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: האדם בשר ככל בשר הרומש על הארץ, ואינו ראוי שיהיה רוח אלהים בקרבו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:3:1",
+        "quote": "שגם האדם הוא בשר ככל בשר הרומש על הארץ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אין ראוי שיהיה מדון לפני ופתחון פה לטעון שראוי לרחם עליו מפני שהוא בשר המשיא לחטוא.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:3:1",
+        "quote": "ראוי גם כן לרחם עליו בשביל שגם כן הוא בשר משיא לחטוא"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אאריך להם מאה ועשרים שנה; אם ישובו – טוב, ואם לא – אכלה אותם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:3:1",
+        "quote": "אאריך להם מאה ועשרים שנה אם יחזרו בתשובה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מגלה אם היות האדם בשר הוא האשמה או הגנה במשפטו."
+   },
+   {
+    "title": "האם 120 השנה הן אורך חיי האדם או הזמן עד המבול?",
+    "pasuk": {
+     "text": "והיו ימיו מאה ועשרים שנה",
+     "ref": "Genesis 6:3",
+     "label": "בראשית ו, ג"
+    },
+    "question": "אם מאה ועשרים שנה הן הזמן עד המבול, הרי יפת נולד רק מאה שנה לפניו; ואם זה אורך חיי האדם, הרי חיו אחר כך שנים רבות יותר. מהן המאה ועשרים?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 6:3:4",
+      "quote": "ואם תאמר משנולד יפת עד המבול אינו אלא מאה שנה",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 6:3:3",
+      "quote": "שזה קצב כל האדם ואם מצאנו יותר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הגזרה נגזרה עשרים שנה לפני שהוליד נח תולדות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:3:4",
+        "quote": "כבר היתה הגזרה גזורה עשרים שנה קודם שהוליד נח תולדות"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הגזרה באה כשנח היה בן ארבע מאות ושמונים שנה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:1:1",
+        "quote": "נח בן ד' מאות ושמונים שנה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: זה קץ שניתן לאדם, כמו \"עוד ארבעים יום\" ביונה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:3:3",
+        "quote": "שנתן קץ לאדם כטעם עוד ארבעים יום"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: נח איחר להעמיד תולדות מפני שפחד מהמבול.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 6:1:1",
+        "quote": "שנח איחר כ\"כ להעמיד תולדות שהיה ירא מפני המבול"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: מעתה ימי חיי האדם מאה ועשרים שנה, כדי שייראו מן המוות וישובו.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 6:3:1",
+        "quote": "מעתה יהיו ימי חיי האדם ק\"כ שנה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע כמה זמן ניתן לדור לחזור בתשובה."
+   },
+   {
+    "title": "מי היו הנפילים ומהו \"וגם אחרי כן\"?",
+    "pasuk": {
+     "text": "הנפלים היו בארץ בימים ההם וגם אחרי כן",
+     "ref": "Genesis 6:4",
+     "label": "בראשית ו, ד"
+    },
+    "question": "\"הנפלים היו בארץ בימים ההם וגם אחרי כן\" – מי הם, ומה פירוש \"אחרי כן\"?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "והנפילים שהיו אז שהוא חידה סתומה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: על שם שנפלו והפילו את העולם; \"אחרי כן\" – אף שראו את אבדן דור אנוש לא נכנעו ללמוד מהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:4:1",
+        "quote": "על שם שנפלו והפילו את העולם"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:4:3",
+        "quote": "לא נכנע דור המבול ללמוד מהם"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"אחרי כן\" – אחר המבול.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:4:2",
+        "quote": "וטעם אחרי כן אחר המבול"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: האל קבע להם זמן לתשובה, וגם אחר כך לא שבו כלל.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:4:1",
+        "quote": "וגם אחרי כן שלא שבו כלל"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן ואבן עזרא: נקראו כך מפני שלב הרואה נופל מפחדם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:4:1",
+        "quote": "שיפול לב אדם עליו מפחדם"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:4:1",
+        "quote": "שיפול לב הרואה אותם"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע אם החטא היה של דור המבול בלבד או שהמשיך אחריו."
+   },
+   {
+    "title": "איך יתכן שה' מתנחם?",
+    "pasuk": {
+     "text": "וינחם יהוה כי עשה את האדם בארץ ויתעצב אל לבו",
+     "ref": "Genesis 6:6",
+     "label": "בראשית ו, ו"
+    },
+    "question": "\"וינחם ה' כי עשה את האדם... ויתעצב אל לבו\" – והלא הוא רואה את הנולד? איך שייכת בו חרטה?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 27:4",
+      "quote": "אין אתם אומרים שהקדוש ברוך הוא רואה את הנולד",
+      "era": "chazal"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "שלא יצדק התנחמות רק אם נתחדש איזה דבר שלא היה תחלה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא, רמב\"ן ורד\"ק: דברה תורה כלשון בני אדם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:6:1",
+        "quote": "דברה תורה כלשון בני אדם"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:6:1",
+        "quote": "דברה תורה כלשון בני אדם"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:6:1",
+        "quote": "דברה תורה בלשון בני אדם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י (מבראשית רבה): אף שגלוי לפניו שיחטאו לא נמנע מלבראם בשביל הצדיקים העתידים לעמוד מהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:6:3",
+        "quote": "לא נמנע מלבראן בשביל הצדיקים העתידים לעמוד מהם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: נחמה היתה לפניו שבראו בתחתונים, שאילו היה מן העליונים היה ממריד אותם; או נהפכה מחשבתו ממדת רחמים למדת הדין.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:6:1",
+        "quote": "שבראו בתחתונים שאלו היה מן העליונים היה ממרידן"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:6:2",
+        "quote": "נהפכה מחשבתו של מקום ממדת רחמים למדת הדין"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: נחמה באה משלושה דברים, והאמורה בהקב\"ה היא פשיעת הנודר.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 6:6:1",
+        "quote": "וינחם ה' על שלשה דברים הנחמה באה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: ענין הנחמה הוא דרוש עמוק עמוק, ואין להאריך בו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 6:6:1",
+        "quote": "הוא דרוש עמוק עמוק"
+       }
+      ]
+     }
+    ],
+    "why": "זו הקושיה המרכזית על ידיעת ה' ותגובתו לבחירת האדם."
+   },
+   {
+    "title": "מדוע נמחו גם הבהמות?",
+    "pasuk": {
+     "text": "מאדם עד בהמה עד רמש ועד עוף השמים",
+     "ref": "Genesis 6:7",
+     "label": "בראשית ו, ז"
+    },
+    "question": "האדם חטא – מדוע נמחו גם הבהמה, הרמש והעוף?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 6:7:2",
+      "quote": "ולמה נמחו הבהמות והחיות והרמש והעופות",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק ורש\"י: כולם נבראו בשביל האדם, ובלעדיו אין בהם צורך.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:7:2",
+        "quote": "לפי שכלם נבראו בשביל האדם"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:7:2",
+        "quote": "הכל נברא בשביל אדם וכיון שהוא כלה מה צורך באלו"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י (מבראשית רבה): אף הם השחיתו דרכם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:7:2",
+        "quote": "אף הם השחיתו דרכם"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה עד כמה גורל הבריאה קשור באדם."
+   },
+   {
+    "title": "מדוע נח זקוק ל\"חן\" אם היה צדיק?",
+    "pasuk": {
+     "text": "ונח מצא חן בעיני יהוה",
+     "ref": "Genesis 6:8",
+     "label": "בראשית ו, ח"
+    },
+    "question": "אחרי \"כי נחמתי כי עשיתם\" בא \"ונח מצא חן\". האם נח זכה להינצל בזכותו, או רק בחסד?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 6:1:1-2",
+      "quote": "ומהו ההמשך אמחה את האדם ונח מצא הן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה (ר' אבא בר כהנא): אפילו נח שנשתייר מהם לא היה כדאי, אלא שמצא חן.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 29:1",
+        "quote": "אפלו נח שנשתייר מהן לא היה כדאי"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: גם הוא היה נאסף עמהם אלמלא מצא חן.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 6:8:1",
+        "quote": "גם הוא היה נאסף עמהם אילולי שמצא חן בעיני ה'"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: כל מעשיו היו לפניו נאים ונעימים. רד\"ק: עשה מעשים טובים שבהם מצא חן.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:8:1",
+        "quote": "שהיו כל מעשיו לפניו נאים ונעימים"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:8:1",
+        "quote": "עשה מעשים טובים שבהם מצא חן בעיני"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הצלת בניו לא היתה מפני שהיה ראוי לכך אלא על צד חנינה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:8:1",
+        "quote": "לא מפני שהיה ראוי לכך אבל על צד חנינה זכהו האל"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: אילולא מצא נח חן לא היה מחריב את העולם, שהחורבן נועד שיעמוד נח בצדקו.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 6:8:1",
+        "quote": "שאם נח לא היה מוצא חן לא היה שם לב להחריב את העולם"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה אם נח ניצל בזכותו או בחסד."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "רד\"ק",
+   "בראשית רבה",
+   "מדרש אגדה",
+   "אבן עזרא",
+   "מלבי\"ם",
+   "חזקוני",
+   "העמק דבר",
+   "רמב\"ן",
+   "בכור שור",
+   "כלי יקר",
+   "רשב\"ם",
+   "ספורנו"
+  ]
+ }
+}
