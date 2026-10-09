@@ -77,12 +77,6 @@ source answer it differently — that is the machlokes worth showing.
 
 ## Step 4 – write the brief as JSON
 
-**Summary**: 3–5 sentences going through the aliyah section by section, from
-the text itself (mention the note if there is one). Start each section with its
-pesukim: "Verses 5:25–32 ..." in English and "פסוקים ה, כה-לב ..." in Hebrew
-(Hebrew numeral letters, no gershayim; "Verse 6:3" / "פסוק ו, ג" for one pasuk).
-The site shows each label in bold on its own line, like the Mishnah Yomit site.
-
 **Question titles**: each `title` is the question itself in one short line
 ("Why is Noah's name explained with a word that does not match it?"). Each
 question is a closed box on the site, so the title is all the reader sees until
@@ -100,7 +94,7 @@ Include both rishonim and acharonim, and the midrash where it speaks. Write
 {"date": "YYYY-MM-DD",
  "hebrew_date": {"hebrew": "…", "english": "…"},
  "english": {
-   "summary": "3–5 sentences, section by section, each starting \"Verses 5:25–32 ...\" (see above)",
+   "summary": "3–5 sentences on what happens in the aliyah (from the text itself; mention the note if there is one)",
    "questions": [{
      "title": "short title",
      "pasuk": {"text": "<exact Hebrew words from the verse>", "ref": "Genesis 3:1", "label": "Genesis 3:1"},

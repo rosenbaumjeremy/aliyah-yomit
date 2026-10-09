@@ -194,33 +194,7 @@ function readingsFor(parasha) {
 
 /* ---------- brief ---------- */
 
-// "Verses 5:25–32", "Verse 6:3"; "פסוקים ה, כה-לב", "פסוק ו, ג" — only at the
-// start of the summary or of a sentence.
-const HEB_N = String.raw`(?=[א-ת])(?:ט["״]?[וז]|[יכלמנסעפצ]?["״]?[א-ט]|[יכלמנסעפצ]["״'׳]?)`;
-const SUMMARY_LABEL = new RegExp(String.raw`(?<=^|[.!?]\s+)(?:Verses?\s+\d+:\d+(?:\s*[–-]\s*(?:\d+:)?\d+)?|פסוק(?:ים)?\s+${HEB_N},\s*${HEB_N}(?:\s*[–-]\s*(?:${HEB_N},\s*)?${HEB_N})?(?=[\s:,.;)]|$))`, "g");
-
 /* ---------- brief: laid out like the Mishnah Yomit site ---------- */
-
-// The summary goes section by section; each section starts with a label
-// (SUMMARY_LABEL, above) that is shown in bold on its own line.
-function summaryParas(text) {
-  const frag = document.createDocumentFragment();
-  const marks = [...(text || "").matchAll(SUMMARY_LABEL)];
-  const para = (from, to, m) => {
-    const p = node("p", "sumPara");
-    if (m) {
-      p.appendChild(node("b", "sumLabel", m[0]));
-      p.append(text.slice(from + m[0].length, to));
-    } else p.append(text.slice(from, to));
-    if (p.textContent.trim()) frag.appendChild(p);
-  };
-  marks.forEach((m, i) => {
-    if (i === 0 && m.index > 0) para(0, m.index);
-    para(m.index, i + 1 < marks.length ? marks[i + 1].index : text.length, m);
-  });
-  if (!marks.length) para(0, (text || "").length);
-  return frag;
-}
 
 /** A collapsible section: title, an optional count, and its body. */
 function box(title, count, open) {
@@ -297,7 +271,7 @@ function briefBody(record, { summary = true, questions = true } = {}) {
   const wrap = node("div", "brief");
   if (summary && brief.summary) {
     const sum = box(t().summaryTitle, null, true);
-    sum.body.appendChild(summaryParas(brief.summary));
+    sum.body.appendChild(node("p", "sumPara", brief.summary));
     wrap.appendChild(sum.details);
   }
   if (!questions) return wrap;
