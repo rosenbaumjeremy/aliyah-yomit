@@ -1,4 +1,4 @@
-# עלייה יומית — Daily Aliyah
+# פרשת השבוע — Parashat HaShavua (one aliyah a day)
 
 A static site with the questions of the Rishonim and Achronim on each day's
 aliyah of the weekly parasha (Eretz Yisrael reading schedule). Browse the 54

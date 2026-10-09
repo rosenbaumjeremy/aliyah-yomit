@@ -7,9 +7,9 @@
 const UI = {
   hebrew: {
     dir: "rtl",
-    title: "עלייה יומית",
+    title: "פרשת השבוע",
     subtitle: "שאלות הראשונים והאחרונים על העלייה היומית",
-    docTitle: "עלייה יומית — שאלות הראשונים והאחרונים",
+    docTitle: "פרשת השבוע — שאלות הראשונים והאחרונים",
     latest: "העלייה האחרונה",
     open: "לשאלות",
     back: "→ כל הפרשות",
@@ -44,9 +44,9 @@ const UI = {
   },
   english: {
     dir: "ltr",
-    title: "Daily Aliyah",
+    title: "Parashat HaShavua",
     subtitle: "Questions of the Rishonim & Achronim on each day's aliyah",
-    docTitle: "Daily Aliyah — Questions of the Rishonim & Achronim",
+    docTitle: "Parashat HaShavua — Questions of the Rishonim & Achronim",
     latest: "Latest aliyah",
     open: "Open the questions",
     back: "← All parashiyot",
