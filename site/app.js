@@ -13,7 +13,7 @@ const UI = {
     latest: "העלייה האחרונה",
     open: "לשאלות",
     back: "→ כל הפרשות",
-    noBriefs: "עדיין לא פורסמו שאלות. הראשונות יופיעו מחר בבוקר בשעה 6:00.",
+    noBriefs: "עדיין לא פורסמו שאלות. הראשונות יופיעו מחר בבוקר בשעה 3:00.",
     notYet: "השאלות לעלייה זו יתפרסמו כשתגיע בלוח הקריאה.",
     choose: "בחרו עלייה כדי לראות את השאלות.",
     combined: (name) => `קריאה מחוברת: ${name}`,
@@ -26,6 +26,11 @@ const UI = {
     askedBy: "שואלים",
     answers: "תשובות",
     whyMatters: "למה זה חשוב",
+    summaryTitle: "סיכום העלייה",
+    questionsTitle: "שאלות ותשובות",
+    openAll: "פתח הכל",
+    closeAll: "סגור הכל",
+    answerN: (i) => `תירוץ ${"אבגדהוזחטי"[i] || i + 1}`,
     synthesis: "סינתזה שלנו",
     consulted: "מקורות שנבדקו",
     rishon: "ראשון",
@@ -45,7 +50,7 @@ const UI = {
     latest: "Latest aliyah",
     open: "Open the questions",
     back: "← All parashiyot",
-    noBriefs: "No questions published yet. The first ones arrive tomorrow at 6:00 AM Israel time.",
+    noBriefs: "No questions published yet. The first ones arrive tomorrow at 3:00 AM Israel time.",
     notYet: "The questions for this aliyah will be published when it comes round in the reading cycle.",
     choose: "Choose an aliyah to see its questions.",
     combined: (name) => `Combined reading: ${name}`,
@@ -58,6 +63,11 @@ const UI = {
     askedBy: "Asked by",
     answers: "Answers",
     whyMatters: "Why it matters",
+    summaryTitle: "Summary of the aliyah",
+    questionsTitle: "Questions & answers",
+    openAll: "Expand all",
+    closeAll: "Collapse all",
+    answerN: (i) => `Answer ${i + 1}`,
     synthesis: "our synthesis",
     consulted: "Sources consulted",
     rishon: "Rishon",
@@ -184,78 +194,131 @@ function readingsFor(parasha) {
 
 /* ---------- brief ---------- */
 
-/** The source's own words, as quoted in the brief (and checked against Sefaria). */
-function sourceQuote(text) {
-  const quote = node("q", "srcquote", text);
-  quote.dir = "rtl";
-  quote.lang = "he";
-  return quote;
+// "Verses 5:25–32", "Verse 6:3"; "פסוקים ה, כה-לב", "פסוק ו, ג" — only at the
+// start of the summary or of a sentence.
+const HEB_N = String.raw`(?=[א-ת])(?:ט["״]?[וז]|[יכלמנסעפצ]?["״]?[א-ט]|[יכלמנסעפצ]["״'׳]?)`;
+const SUMMARY_LABEL = new RegExp(String.raw`(?<=^|[.!?]\s+)(?:Verses?\s+\d+:\d+(?:\s*[–-]\s*(?:\d+:)?\d+)?|פסוק(?:ים)?\s+${HEB_N},\s*${HEB_N}(?:\s*[–-]\s*(?:${HEB_N},\s*)?${HEB_N})?(?=[\s:,.;)]|$))`, "g");
+
+/* ---------- brief: laid out like the Mishnah Yomit site ---------- */
+
+// The summary goes section by section; each section starts with a label
+// (SUMMARY_LABEL, above) that is shown in bold on its own line.
+function summaryParas(text) {
+  const frag = document.createDocumentFragment();
+  const marks = [...(text || "").matchAll(SUMMARY_LABEL)];
+  const para = (from, to, m) => {
+    const p = node("p", "sumPara");
+    if (m) {
+      p.appendChild(node("b", "sumLabel", m[0]));
+      p.append(text.slice(from + m[0].length, to));
+    } else p.append(text.slice(from, to));
+    if (p.textContent.trim()) frag.appendChild(p);
+  };
+  marks.forEach((m, i) => {
+    if (i === 0 && m.index > 0) para(0, m.index);
+    para(m.index, i + 1 < marks.length ? marks[i + 1].index : text.length, m);
+  });
+  if (!marks.length) para(0, (text || "").length);
+  return frag;
+}
+
+/** A collapsible section: title, an optional count, and its body. */
+function box(title, count, open) {
+  const details = node("details", "box");
+  details.open = open;
+  const summary = node("summary", null, title);
+  if (count != null) summary.appendChild(node("span", "count", String(count)));
+  const body = node("div", "body");
+  details.append(summary, body);
+  return { details, body };
+}
+
+/** One source: its name, era, Sefaria link, and its own words (checked against Sefaria). */
+function cite(who) {
+  const line = node("div", "cite");
+  line.appendChild(node("b", null, who.name));
+  if (who.era) line.appendChild(node("span", "era", t()[who.era] || who.era));
+  if (who.ref) {
+    line.append(" (");
+    line.appendChild(sefariaLink(t().sefaria, who.ref));
+    line.append(")");
+  }
+  if (who.quote) {
+    line.append(": ");
+    const quote = node("q", "srcquote", who.quote);
+    quote.dir = "rtl";
+    quote.lang = "he";
+    line.appendChild(quote);
+  }
+  return line;
+}
+
+/** One question in its own box: the title shows; click to open the rest. */
+function questionBox(q, i) {
+  const details = node("details", "qitem");
+  const summary = node("summary");
+  summary.append(node("span", "n", `${i + 1}.`), node("span", "ttl", q.title));
+  const at = q.pasuk && (q.pasuk.label || q.pasuk.ref);
+  if (at) summary.appendChild(node("span", "pref", at));
+  const body = node("div", "body");
+
+  if (q.pasuk) {
+    const pasuk = node("p", "pasuk");
+    const words = node("span", null, q.pasuk.text);
+    words.dir = "rtl";
+    words.lang = "he";
+    pasuk.append(words, " ");
+    if (q.pasuk.ref) pasuk.appendChild(sefariaLink(`(${at})`, q.pasuk.ref));
+    body.appendChild(pasuk);
+  }
+  body.appendChild(node("p", "qtext", q.question));
+
+  if (q.asked_by && q.asked_by.length) {
+    body.appendChild(node("div", "label", t().askedBy));
+    q.asked_by.forEach((who) => body.appendChild(cite(who)));
+  }
+  (q.answers || []).forEach((answer, n) => {
+    const block = node("div", "answer");
+    block.appendChild(node("div", "label", t().answerN(n)));
+    const text = node("p", null, answer.text);
+    if (answer.synthesis) text.appendChild(node("span", "synth", ` — ${t().synthesis}`));
+    block.appendChild(text);
+    (answer.sources || []).forEach((who) => block.appendChild(cite(who)));
+    body.appendChild(block);
+  });
+  if (q.why) body.appendChild(node("p", "why", `${t().whyMatters}: ${q.why}`));
+
+  details.append(summary, body);
+  return details;
 }
 
 function briefBody(record, { summary = true, questions = true } = {}) {
   const brief = record[state.lang] || record.english || record.hebrew;
   const wrap = node("div", "brief");
-  if (summary && brief.summary) wrap.appendChild(node("p", "briefSummary", brief.summary));
+  if (summary && brief.summary) {
+    const sum = box(t().summaryTitle, null, true);
+    sum.body.appendChild(summaryParas(brief.summary));
+    wrap.appendChild(sum.details);
+  }
   if (!questions) return wrap;
 
-  const list = node("ol", "qlist");
-  for (const q of brief.questions || []) {
-    const item = node("li", "q");
-    item.appendChild(node("h4", null, q.title));
+  const list = brief.questions || [];
+  const qs = box(t().questionsTitle, list.length, true);
+  const bar = node("div", "toolbar");
+  const expand = node("button", null, t().openAll), collapse = node("button", null, t().closeAll);
+  expand.type = collapse.type = "button";
+  expand.onclick = () => qs.body.querySelectorAll("details.qitem").forEach((d) => { d.open = true; });
+  collapse.onclick = () => qs.body.querySelectorAll("details.qitem").forEach((d) => { d.open = false; });
+  bar.append(expand, collapse);
+  qs.body.appendChild(bar);
+  list.forEach((q, i) => qs.body.appendChild(questionBox(q, i)));
+  wrap.appendChild(qs.details);
 
-    if (q.pasuk) {
-      const line = node("p");
-      line.appendChild(node("span", "qlabel", `${t().pasuk}: `));
-      const quote = node("span", "pasuk", q.pasuk.text);
-      quote.dir = "rtl";
-      quote.lang = "he";
-      line.append(quote, " ");
-      if (q.pasuk.ref) line.appendChild(sefariaLink(`(${q.pasuk.label || q.pasuk.ref})`, q.pasuk.ref));
-      item.appendChild(line);
-    }
-
-    item.appendChild(node("p", null, q.question));
-
-    if (q.asked_by && q.asked_by.length) {
-      const asked = node("p");
-      asked.appendChild(node("span", "qlabel", `${t().askedBy}: `));
-      q.asked_by.forEach((who, i) => {
-        if (i) asked.append(", ");
-        asked.appendChild(who.ref ? sefariaLink(who.name, who.ref) : node("span", null, who.name));
-        if (who.era) asked.append(` (${t()[who.era] || who.era})`);
-      });
-      item.appendChild(asked);
-      for (const who of q.asked_by) if (who.quote) item.appendChild(sourceQuote(who.quote));
-    }
-
-    if (q.answers && q.answers.length) {
-      item.appendChild(node("p", "qlabel", t().answers));
-      const answers = node("ul", "answers");
-      for (const answer of q.answers) {
-        const li = node("li", null, answer.text);
-        if (answer.synthesis) li.appendChild(node("span", "synth", ` — ${t().synthesis}`));
-        for (const source of answer.sources || []) {
-          li.append(" ");
-          li.appendChild(source.ref ? sefariaLink(source.name, source.ref) : node("span", null, source.name));
-          if (source.quote) li.appendChild(sourceQuote(source.quote));
-        }
-        answers.appendChild(li);
-      }
-      item.appendChild(answers);
-    }
-
-    if (q.why) {
-      const why = node("p", "why");
-      why.appendChild(node("span", "qlabel", `${t().whyMatters}: `));
-      why.append(q.why);
-      item.appendChild(why);
-    }
-    list.appendChild(item);
+  if (brief.sources_consulted && brief.sources_consulted.length) {
+    const src = box(t().consulted, null, false);
+    src.body.appendChild(node("p", "consulted", brief.sources_consulted.join(" · ")));
+    wrap.appendChild(src.details);
   }
-  wrap.appendChild(list);
-
-  if (brief.sources_consulted && brief.sources_consulted.length)
-    wrap.appendChild(node("p", "consulted", `${t().consulted}: ${brief.sources_consulted.join(", ")}`));
   return wrap;
 }
 

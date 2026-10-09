@@ -9,6 +9,7 @@
   --gold: #b8924a;
   --gold-soft: #f6efe0;
   --radius: 8px;
+  --qmark: var(--gold);
 }
 
 * { box-sizing: border-box; }
@@ -133,21 +134,56 @@ main { max-width: 980px; margin: 0 auto; padding: 20px 22px 60px; }
 .empty { color: var(--muted); font-size: 14px; padding: 6px 2px; }
 .note { font-size: 13px; color: var(--gold); margin: 0 0 10px; }
 
-.brief { font-size: 15px; }
-.briefSummary { margin: 2px 0 14px; }
-.qlist { margin: 0; padding-inline-start: 22px; }
-.q { margin-bottom: 18px; }
-.q::marker { color: var(--gold); font-weight: 700; }
-.q h4 { margin: 0 0 5px; font-size: 16px; font-weight: 600; }
-.q p { margin: 0 0 5px; }
-.qlabel { font-size: 12px; font-weight: 600; color: var(--muted); }
-p.qlabel { margin: 6px 0 2px; }
+.brief { font-size: 15px; color: var(--ink); }
+.brief a { color: var(--accent); }
+
+/* collapsible sections: summary, questions, sources (as on the Mishnah site) */
+details.box { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); margin: 0 0 12px; }
+details.box > summary {
+  cursor: pointer; padding: 10px 14px; font-weight: 600; color: var(--accent);
+  display: flex; gap: 8px; align-items: center; list-style: none;
+}
+details.box > summary::-webkit-details-marker { display: none; }
+details.box > summary::before { content: "▸"; color: var(--qmark); transition: transform .15s; display: inline-block; }
+[dir="rtl"] details.box > summary::before { content: "◂"; }
+details.box[open] > summary::before { transform: rotate(90deg); }
+[dir="rtl"] details.box[open] > summary::before { transform: rotate(-90deg); }
+details.box > .body { padding: 0 16px 14px; }
+.brief .count { margin-inline-start: auto; font-size: 12px; font-weight: 500; color: var(--muted); background: var(--bg); border-radius: 10px; padding: 1px 8px; }
+
+.sumPara { margin: 0 0 8px; }
+.sumLabel { display: block; color: var(--accent); }
+
+.toolbar { display: flex; gap: 8px; margin: -4px 0 8px; }
+.toolbar button { border: 1px solid var(--line); background: var(--bg); border-radius: 6px; font: inherit; font-size: 12.5px; padding: 2px 9px; cursor: pointer; color: var(--muted); }
+.toolbar button:hover { color: var(--accent); border-color: var(--accent); }
+
+/* each question in its own box: click the title to open it */
+details.qitem { border: 1px solid var(--line); border-inline-start: 4px solid var(--qmark); border-radius: var(--radius); margin: 8px 0; background: var(--card); }
+details.qitem > summary { cursor: pointer; padding: 8px 12px; display: flex; gap: 8px; align-items: baseline; list-style: none; font-weight: 600; }
+details.qitem > summary::-webkit-details-marker { display: none; }
+details.qitem > summary:hover { background: var(--accent-soft); }
+details.qitem[open] > summary { border-bottom: 1px dashed var(--line); }
+details.qitem .n { color: var(--qmark); flex: none; }
+details.qitem .ttl { flex: 1; }
+details.qitem .pref { flex: none; font-size: 11.5px; font-weight: 600; color: var(--accent); background: var(--accent-soft); border-radius: 10px; padding: 1px 8px; }
+details.qitem > .body { padding: 8px 14px 12px; }
+details.qitem p { margin: 0 0 6px; }
 .pasuk { font-size: 17px; font-family: "Frank Ruhl Libre", "David Libre", "David", serif; }
-.answers { margin: 0 0 6px; padding-inline-start: 18px; }
-.answers li { margin-bottom: 4px; }
+.brief .label { font-size: 12px; font-weight: 700; color: var(--muted); margin: 10px 0 2px; }
+.cite { margin: 3px 0; padding-inline-start: 10px; border-inline-start: 2px solid var(--line); font-size: 14px; }
+.cite b { color: var(--accent); }
+.cite .era { font-size: 11px; color: var(--muted); border: 1px solid var(--line); border-radius: 8px; padding: 0 5px; margin-inline-start: 4px; }
+.answer { margin-top: 10px; }
 .synth { font-size: 12px; font-style: italic; color: var(--muted); }
-.why { font-size: 14px; color: var(--muted); }
-.consulted { margin: 10px 0 0; font-size: 12px; color: var(--muted); }
+.why { margin-top: 10px; font-size: 14px; font-style: italic; color: var(--muted); }
+.consulted { margin: 0; font-size: 13px; color: var(--muted); }
+
+/* a source's own words, quoted after its name */
+.srcquote {
+  font-family: "Frank Ruhl Libre", "David Libre", "David", serif;
+  font-size: 15.5px; color: var(--muted); quotes: "״" "״"; unicode-bidi: isolate;
+}
 
 .aliyahPart { padding-top: 12px; margin-top: 12px; border-top: 1px solid var(--line); }
 .whole .meta + .aliyahPart, .whole h3 + .aliyahPart { border-top: 0; margin-top: 4px; }
@@ -178,10 +214,3 @@ p.qlabel { margin: 6px 0 2px; }
   .button { color: #0b1730; }
 }
 
-/* a source's own words, quoted under its name */
-.srcquote {
-  display: block; margin: 2px 0 6px; padding-inline-start: 10px;
-  border-inline-start: 3px solid var(--line);
-  font-family: "Frank Ruhl Libre", "David Libre", "David", serif;
-  font-size: 15px; color: var(--muted); quotes: "״" "״";
-}
