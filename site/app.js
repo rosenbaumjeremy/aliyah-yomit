@@ -256,6 +256,7 @@ function questionBox(q, i) {
   }
   (q.answers || []).forEach((answer, n) => {
     const block = node("div", "answer");
+    block.dataset.pdfDetail = "answers";   // can be left out of the PDF (pdf.js)
     block.appendChild(node("div", "label", t().answerN(n)));
     const text = node("p", null, answer.text);
     if (answer.synthesis) text.appendChild(node("span", "synth", ` — ${t().synthesis}`));
@@ -263,7 +264,11 @@ function questionBox(q, i) {
     (answer.sources || []).forEach((who) => block.appendChild(cite(who)));
     body.appendChild(block);
   });
-  if (q.why) body.appendChild(node("p", "why", `${t().whyMatters}: ${q.why}`));
+  if (q.why) {
+    const why = node("p", "why", `${t().whyMatters}: ${q.why}`);
+    why.dataset.pdfDetail = "answers";
+    body.appendChild(why);
+  }
 
   details.append(summary, body);
   return details;
