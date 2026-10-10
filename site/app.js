@@ -256,7 +256,8 @@ function questionBox(q, i) {
   body.appendChild(node("p", "qtext", q.question));
 
   if (q.asked_by && q.asked_by.length) {
-    const askers = node("div", "askers");   // left out of the PDF/printout (pdf.css)
+    const askers = node("div", "askers");
+    askers.dataset.pdfDetail = "answers";   // printed only together with the answers (pdf.js)
     askers.appendChild(node("div", "label", t().askedBy));
     q.asked_by.forEach((who) => askers.appendChild(cite(who)));
     body.appendChild(askers);
