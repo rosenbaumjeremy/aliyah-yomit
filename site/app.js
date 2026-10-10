@@ -106,6 +106,9 @@ const node = (tag, cls, text) => {
 /** Marks a heading that goes into the PDF with the sections under it (pdf.js). */
 const pdfHead = (n) => { n.dataset.pdfHead = ""; return n; };
 
+/** Where pdf.js puts the PDF and Print buttons. */
+const pdfTools = () => { const d = document.createElement("div"); d.dataset.pdfTools = ""; return d; };
+
 /* ---------- references ---------- */
 
 const HEB_ONES = ["", "א", "ב", "ג", "ד", "ה", "ו", "ז", "ח", "ט"];
@@ -316,6 +319,7 @@ function renderBrief(reading) {
   const range = reading.aliyot[state.aliyah - 1];
   const card = node("article", "briefcard");
   card.appendChild(pdfHead(node("h3", null, `${t().aliyot[state.aliyah - 1]}${range ? ` — ${rangeLabel(range)}` : ""}`)));
+  card.appendChild(pdfTools());
   host.appendChild(card);
 
   if (!day) { card.appendChild(node("p", "empty", t().notYet)); return; }
@@ -334,7 +338,7 @@ function renderBrief(reading) {
     }
     const hebrewDate = record.hebrew_date && record.hebrew_date[state.lang];
     meta.append(` · ${t().published} ${hebrewDate || ""} (${record.date})`);
-    card.insertBefore(meta, slot);
+    card.insertBefore(meta, card.querySelector("[data-pdf-tools]"));
     if (record.note && state.lang === "english") card.insertBefore(node("p", "note", record.note), slot);
     slot.replaceWith(briefBody(record));
   }).catch(() => { slot.textContent = t().loadFailed; });
@@ -353,6 +357,7 @@ function renderWhole(reading) {
   }
   const card = node("article", "briefcard whole");
   card.appendChild(pdfHead(node("h3", null, `${t().views[state.view]} — ${t().wholeParasha}`)));
+  card.appendChild(pdfTools());
   host.appendChild(card);
   if (!published.length) { card.appendChild(node("p", "empty", t().noneYet)); return; }
   if (missing.length) card.appendChild(node("p", "meta", t().missing(missing.join(", "))));
