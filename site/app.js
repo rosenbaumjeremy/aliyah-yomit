@@ -28,6 +28,7 @@ const UI = {
     whyMatters: "למה זה חשוב",
     summaryTitle: "סיכום העלייה",
     questionsTitle: "שאלות ותשובות",
+    pdfQuestions: "שאלות",
     openAll: "פתח הכל",
     closeAll: "סגור הכל",
     answerN: (i) => `תירוץ ${"אבגדהוזחטי"[i] || i + 1}`,
@@ -65,6 +66,7 @@ const UI = {
     whyMatters: "Why it matters",
     summaryTitle: "Summary of the aliyah",
     questionsTitle: "Questions & answers",
+    pdfQuestions: "Questions",
     openAll: "Expand all",
     closeAll: "Collapse all",
     answerN: (i) => `Answer ${i + 1}`,
@@ -290,7 +292,7 @@ function briefBody(record, { summary = true, questions = true } = {}) {
 
   const list = brief.questions || [];
   const qs = box(t().questionsTitle, list.length, true);
-  qs.details.dataset.pdf = t().questionsTitle;
+  qs.details.dataset.pdf = t().pdfQuestions;   // the answers are their own choice (pdf.js)
   const bar = node("div", "toolbar");
   const expand = node("button", null, t().openAll), collapse = node("button", null, t().closeAll);
   expand.type = collapse.type = "button";
