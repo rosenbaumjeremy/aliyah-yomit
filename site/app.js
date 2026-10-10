@@ -293,6 +293,7 @@ function briefBody(record, { summary = true, questions = true } = {}) {
   const list = brief.questions || [];
   const qs = box(t().questionsTitle, list.length, true);
   qs.details.dataset.pdf = t().pdfQuestions;   // the answers are their own choice (pdf.js)
+  qs.details.dataset.pdfShort = t().pdfQuestions;   // its heading when they are left out
   const bar = node("div", "toolbar");
   const expand = node("button", null, t().openAll), collapse = node("button", null, t().closeAll);
   expand.type = collapse.type = "button";
