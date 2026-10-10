@@ -103,6 +103,9 @@ const node = (tag, cls, text) => {
   return n;
 };
 
+/** Marks a heading that goes into the PDF with the sections under it (pdf.js). */
+const pdfHead = (n) => { n.dataset.pdfHead = ""; return n; };
+
 /* ---------- references ---------- */
 
 const HEB_ONES = ["", "א", "ב", "ג", "ד", "ה", "ו", "ז", "ח", "ט"];
@@ -271,6 +274,7 @@ function briefBody(record, { summary = true, questions = true } = {}) {
   const wrap = node("div", "brief");
   if (summary && brief.summary) {
     const sum = box(t().summaryTitle, null, true);
+    sum.details.dataset.pdf = t().summaryTitle;
     sum.body.appendChild(node("p", "sumPara", brief.summary));
     wrap.appendChild(sum.details);
   }
@@ -278,6 +282,7 @@ function briefBody(record, { summary = true, questions = true } = {}) {
 
   const list = brief.questions || [];
   const qs = box(t().questionsTitle, list.length, true);
+  qs.details.dataset.pdf = t().questionsTitle;
   const bar = node("div", "toolbar");
   const expand = node("button", null, t().openAll), collapse = node("button", null, t().closeAll);
   expand.type = collapse.type = "button";
@@ -290,6 +295,7 @@ function briefBody(record, { summary = true, questions = true } = {}) {
 
   if (brief.sources_consulted && brief.sources_consulted.length) {
     const src = box(t().consulted, null, false);
+    src.details.dataset.pdf = t().consulted;
     src.body.appendChild(node("p", "consulted", brief.sources_consulted.join(" · ")));
     wrap.appendChild(src.details);
   }
@@ -304,7 +310,7 @@ function renderBrief(reading) {
   const day = reading.days.get(state.aliyah);
   const range = reading.aliyot[state.aliyah - 1];
   const card = node("article", "briefcard");
-  card.appendChild(node("h3", null, `${t().aliyot[state.aliyah - 1]}${range ? ` — ${rangeLabel(range)}` : ""}`));
+  card.appendChild(pdfHead(node("h3", null, `${t().aliyot[state.aliyah - 1]}${range ? ` — ${rangeLabel(range)}` : ""}`)));
   host.appendChild(card);
 
   if (!day) { card.appendChild(node("p", "empty", t().notYet)); return; }
@@ -341,7 +347,7 @@ function renderWhole(reading) {
     else if (reading.aliyot[n - 1]) missing.push(t().aliyot[n - 1]);
   }
   const card = node("article", "briefcard whole");
-  card.appendChild(node("h3", null, `${t().views[state.view]} — ${t().wholeParasha}`));
+  card.appendChild(pdfHead(node("h3", null, `${t().views[state.view]} — ${t().wholeParasha}`)));
   host.appendChild(card);
   if (!published.length) { card.appendChild(node("p", "empty", t().noneYet)); return; }
   if (missing.length) card.appendChild(node("p", "meta", t().missing(missing.join(", "))));
@@ -351,7 +357,7 @@ function renderWhole(reading) {
   for (const n of published) {
     const day = reading.days.get(n);
     const section = node("section", "aliyahPart");
-    const heading = node("h4", "aliyahHead", `${t().aliyot[n - 1]} — `);
+    const heading = pdfHead(node("h4", "aliyahHead", `${t().aliyot[n - 1]} — `));
     heading.appendChild(sefariaLink(rangeLabel(day.range), day.range));
     section.appendChild(heading);
     const slot = node("div", "empty", t().loading);
