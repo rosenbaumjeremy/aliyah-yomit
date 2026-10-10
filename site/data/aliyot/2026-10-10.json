@@ -1,0 +1,1113 @@
+{
+ "date": "2026-10-10",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 6:9-6:22",
+ "hebrew_date": {
+  "hebrew": "כ״ט בְּתִשְׁרֵי תשפ״ז",
+  "english": "29 Tishrei 5787"
+ },
+ "english": {
+  "summary": "The first aliyah of Noach introduces Noah as a righteous man, blameless in his age, who walked with God and fathered Shem, Ham and Japheth. The earth had become corrupt and filled with lawlessness, and God tells Noah that the end of all flesh has come. He commands Noah to build an ark of gopher wood with compartments, pitched inside and out, 300 cubits long, 50 wide and 30 high, with an opening for light, a side entrance and three decks. God will bring the Flood, but will establish His covenant with Noah, his sons, his wife and his sons' wives, and Noah is to take two of every living creature, male and female, and gather food for them all. Noah did everything as God commanded.",
+  "questions": [
+   {
+    "title": "Is Noah's being righteous 'in his generations' praise or criticism?",
+    "pasuk": {
+     "text": "נח איש צדיק תמים היה בדרתיו",
+     "ref": "Genesis 6:9",
+     "label": "Genesis 6:9"
+    },
+    "question": "The verse calls Noah righteous and blameless 'in his generations'. Does 'in his generations' add to his praise (all the more so had he lived among the righteous) or limit it (righteous only by the standard of a wicked age)?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 6:9:2",
+      "quote": "יש מרבותינו דורשים אותו לשבח",
+      "era": "rishon"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:9:3",
+      "quote": "יש מרבותינו שדרשוהו לטובה",
+      "era": "rishon"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 30:9",
+      "quote": "כך בדרתיו היה צדיק הא אלו היה בדורו של משה",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi records both readings: some Rabbis read it as praise, others as disparagement – righteous only for his generation, and in Abraham's time he would have counted for nothing. Bereshit Rabbah has the same dispute between R. Yehudah and R. Nechemyah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:9:2",
+        "quote": "ויש שדורשים אותו לגנאי, לפי דורו היה צדיק ואלו היה בדורו של אברהם לא היה נחשב לכלום"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 30:9",
+        "quote": "ומה אם בדרתיו היה צדיק, אלו היה בדורו של משה או בדורו של שמואל על אחת כמה וכמה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban, on the plain sense: it simply says he alone was righteous and blameless in those generations; no one else of his time was fit to be saved.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:9:3",
+        "quote": "שהוא לבדו הצדיק בדורות ההם"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra and Radak: 'in his generations' includes the generations after the Flood as well, since Noah lived until Abraham was 58.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:9:4",
+        "quote": "ובדורות שהיו אחריו כי הוא חיה"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:9:5",
+        "quote": "באנשי דורו ובדורות הבאים אחר המבול"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the two readings do not differ on how great Noah was; they differ on why God saved him – whether the verse teaches that he was saved for being the best of his own generation.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 6:9:3",
+        "quote": "למה עשה הקב\"ה נס עם נח והצילו מן המבול"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Noah is held up as a model of righteousness or only as the best of a bad lot."
+   },
+   {
+    "title": "Why is Noah said to have 'walked with God' when Abraham 'walked before Him'?",
+    "pasuk": {
+     "text": "את האלהים התהלך נח",
+     "ref": "Genesis 6:9",
+     "label": "Genesis 6:9"
+    },
+    "question": "Of Noah the verse says he walked 'with' God, while Abraham says God, before whom he walked. What is the difference, and is it to Noah's credit?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 6:9:3",
+      "quote": "ובאברהם הוא אומר אשר התהלכתי לפניו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Noah needed support to hold him up, while Abraham strengthened himself and walked in his righteousness on his own.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:9:3",
+        "quote": "נח היה צריך סעד לתמכו, אבל אברהם היה מתחזק ומהלך בצדקו מאליו"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi explains Rashi: Noah feared mixing with the people of his generation lest he learn from their deeds, so he secluded himself; Abraham was strong in his faith and mingled with them to bring them in.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 6:9:5",
+        "quote": "מתירא להתחבר עם אנשי דורו שלא ילמוד ממעשיהם"
+       }
+      ]
+     },
+     {
+      "text": "Radak sees it as strength: Noah clung to God with all his ways for His sake, a great force of mind that overcame his nature in a generation of wrongdoers.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:9:6",
+        "quote": "זה היה כח גדול משכלו שהתגבר על טבעו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he walked in God's ways to do good for others, and rebuked the people of his generation.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:9:5",
+        "quote": "הלך בדרכיו להיטיב לזולתו, והוכיח בני דורו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Noah's seclusion was a weakness or a mastery over his surroundings."
+   },
+   {
+    "title": "Why does the Torah name Noah's three sons again, when it already did?",
+    "pasuk": {
+     "text": "ויולד נח שלשה בנים את שם את חם ואת יפת",
+     "ref": "Genesis 6:10",
+     "label": "Genesis 6:10"
+    },
+    "question": "The sons of Noah were already named at the end of Genesis 5. Why does the Torah repeat 'Noah begot three sons' here?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 6:9",
+      "quote": "מה ראתה לזכרו שנית בכאן",
+      "era": "acharon"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:9:1",
+      "quote": "חזר להזכירם פעם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: having interrupted with 'Noah was a righteous man' to explain why he was commanded to build the ark, the verse returned to 'Noah begot'; and it repeats the sons to say that Noah was not like his fathers, who begot sons and daughters – these three alone were his offspring.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:9:1",
+        "quote": "החזיר \"ויולד נח\" בעבור שהפסיק ואמר \"נח איש צדיק תמים היה\", להודיע למה צוהו בתבה"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:9:1",
+        "quote": "לא היה ככל אבותיו שיולידו בנות ובנים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the sons are mentioned after 'Noah walked with God' to teach that Noah trained his sons to turn from the ways of the wicked and serve God; otherwise they would not have been saved.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:10:1",
+        "quote": "למד והרגיל את בניו שהוליד לסור מדרכי הרשעים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: having mentioned that Noah was righteous in his generations, it mentions his sons again, since the world was rebuilt from them.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 6:10:1",
+        "quote": "שמהם עמד העולם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: from the time Noah began rebuking the people of his generation, he merited sons.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:10:1",
+        "quote": "מאז שהתחיל להוכיח בני דורו זכה לבנים"
+       }
+      ]
+     }
+    ],
+    "why": "It ties Noah's rescue to the upbringing of his family, not only to his own merit."
+   },
+   {
+    "title": "Did the animals also sin – 'all flesh corrupted its way'?",
+    "pasuk": {
+     "text": "כי השחית כל בשר את דרכו על הארץ",
+     "ref": "Genesis 6:12",
+     "label": "Genesis 6:12"
+    },
+    "question": "'All flesh had corrupted its way on the earth.' Does 'all flesh' include beasts, animals and birds, or only humans? If animals sinned, why were they destroyed?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:12:1",
+      "quote": "אם נפרש כל בשר כמשמעו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: even beast, animal and bird mated with kinds not their own. The Midrash Tanchuma says the same – horse with donkey, snake with bird – and that only those that had not corrupted themselves entered the ark.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:12:1",
+        "quote": "אפלו בהמה חיה ועוף נזקקין לשאינן מינן"
+       },
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Noach 12:4",
+        "quote": "ואף הבהמה קלקלו לשאינן מינן"
+       }
+      ]
+     },
+     {
+      "text": "Ramban, on the plain sense: 'all flesh' means all of mankind.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:12:1",
+        "quote": "\"כל בשר\" זה כל האדם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: 'all flesh' means human beings, as in 'all flesh shall come to worship', though according to our Rabbis other animals are included too.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:12:1",
+        "quote": "כל בשר, בני אדם"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: 'all flesh', but not fish, because no decree was passed on the fish of the sea.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 6:12:2",
+        "quote": "כל בשר אבל לא דגים"
+       }
+      ]
+     }
+    ],
+    "why": "It determines whether the Flood punished animals for their own deeds or only for man's."
+   },
+   {
+    "title": "Why was the decree sealed on robbery alone?",
+    "pasuk": {
+     "text": "כי מלאה הארץ חמס מפניהם",
+     "ref": "Genesis 6:13",
+     "label": "Genesis 6:13"
+    },
+    "question": "The generation was also corrupt in other ways, yet God tells Noah only that the earth is 'filled with lawlessness (chamas)'. Why is robbery named as the reason for the end?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:13:1",
+      "quote": "ונתן לנח הטעם בחמס ולא הזכיר השחתת הדרך",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: robbery is a rational commandment that needs no warning prophet, and it is evil to Heaven and to people.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:13:1",
+        "quote": "מפני שהוא מצוה משכלת"
+       }
+      ]
+     },
+     {
+      "text": "Radak (citing Bereshit Rabbah): see how great the power of chamas – the generation transgressed everything, yet its decree was sealed only for chamas.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:13:3",
+        "quote": "בא וראה כמה גדול כח של חמס"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah, R. Levi: chamas here covers idolatry, immorality and bloodshed, each of which the Tanach calls chamas.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 31:6",
+        "quote": "חמס, זה עבודת כוכבים. חמס, זה גלוי עריות. חמס, זה שפיכות דמים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: they all robbed each other – owners robbed tenants by force and tenants robbed owners by deceit.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:13:3",
+        "quote": "הבעלים גוזלים את האריס בכח"
+       }
+      ]
+     }
+    ],
+    "why": "It shows which sin the Torah regards as the one that finally brings destruction."
+   },
+   {
+    "title": "If God knew they would not repent, why make Noah labor at an ark?",
+    "pasuk": {
+     "text": "עשה לך תבת עצי גפר",
+     "ref": "Genesis 6:14",
+     "label": "Genesis 6:14"
+    },
+    "question": "God could have saved Noah in many ways, so why trouble him with building an ark? And if the point was to move the generation to repent, God already knew they would not.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 6:14:1",
+      "quote": "ולמה הטריחו בבנין זה",
+      "era": "rishon"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 6:14:1",
+      "quote": "הכל גלוי לפניו שלא היו עתידין לשוב",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: so that the people of the Flood generation would see him working at it for 120 years, ask what it is for, and hear that God will bring a flood – perhaps they would repent.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 6:14:1",
+        "quote": "כדי שיראוהו אנשי דור המבול עוסק בה ק\"כ שנה, ושואלין אותו מה זאת לך, והוא אומר להם עתיד הקב\"ה להביא מבול לעולם, אולי ישובו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: it was revealed to God that they would not repent; this was done on behalf of the attribute of mercy, which pleaded for them, and it showed that they would not turn back.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 6:14:1",
+        "quote": "כנגד מדת הרחמים שהיתה מבקשת רחמים עליהם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the ark was to be built in the time set for them, so that they would see and repent.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:14:1",
+        "quote": "בזמן הקצוב להם למען יראו וישובו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: God made it large so that the people of his generation would see it, be astonished, and speak of it – perhaps they would repent.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:19:1",
+        "quote": "כדי שיראו אותה בני דורו ויתמהו בה ויספרו עליה וידברו בענין המבול וכנוס הבהמה והחיה והעוף לתוכה אולי יעשו תשובה"
+       }
+      ]
+     }
+    ],
+    "why": "It frames the ark as a final warning and mercy toward a generation already decreed."
+   },
+   {
+    "title": "Why did Noah not pray for his generation, as Abraham did for Sodom?",
+    "pasuk": {
+     "text": "ויאמר אלהים לנח קץ כל בשר בא לפני",
+     "ref": "Genesis 6:13",
+     "label": "Genesis 6:13"
+    },
+    "question": "Noah was righteous and found favor with God. Why did he not pray for his generation, as Abraham did for Sodom?",
+    "asked_by": [
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 6:14:1-2",
+      "quote": "למה לא היה מתפלל על בני דורו ויחזירם למוטב",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rabbeinu Bahya: Noah knew the world stands on ten righteous people; those entering the ark numbered only eight, and Noah could not plead for them with fewer than ten, just as Abraham could not plead beyond ten for Sodom.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 6:14:1-2",
+        "quote": "שקיום העולם בעשרה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim, from the Midrash on Noah and Moses: Noah's merits helped only himself and his sons, since he brought no benefit to his generation.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 6:9:2",
+        "quote": "לא היה בו תועלת לבני דורו ולא הועילו זכיותיו אלא לו לעצמו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Noah did rebuke the people of his generation, as our Rabbis say.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 6:9:5",
+        "quote": "והוכיח בני דורו"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what a righteous person owes the generation around him."
+   },
+   {
+    "title": "How could one ark hold every animal and its food?",
+    "pasuk": {
+     "text": "ומכל החי מכל בשר שנים מכל תביא אל התבה",
+     "ref": "Genesis 6:19",
+     "label": "Genesis 6:19"
+    },
+    "question": "Elephants and other great beasts, innumerable birds and creeping things, and a year's food for all: how could an ark of 300 by 50 by 30 cubits hold them?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 6:19:1",
+      "quote": "לא תכיל אותם התבה הזאת",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 6:20:1",
+      "quote": "ותועי רוח ישאלו מה אכל כל עוף דורס",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: it was a miracle – a little held much – and the ark was made large so that people would see it and perhaps repent.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 6:19:1",
+        "quote": "אבל הוא נס החזיק מועט את המרבה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the Torah gives the ark's dimensions to teach the greatness of the miracle that the small held the great.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 6:15:1",
+        "quote": "גדל הנס שהחזיק המועט את המרבה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it is possible that Noah's stature was greater than ours, since the cubit is by his measure.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:16:1",
+        "quote": "גם יתכן להיות קומת נח גדולה מקומתינו, כי האמה היא כמדתו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra and Radak on the food: whoever finds no meat eats grass and fruit when hungry; the predators too ate as the others did.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 6:20:1",
+        "quote": "מי שלא ימצא בשר יאכל העשב ופרי העץ כאשר ירעב"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 6:21:1",
+        "quote": "וגם החיות הטורפות יאכלו גם כן כמו האחרים"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the line between what the Torah leaves to nature and what it leaves to a miracle."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Ramban",
+   "Bereshit Rabbah",
+   "Ibn Ezra",
+   "Radak",
+   "Gur Aryeh",
+   "Mizrachi",
+   "Sforno",
+   "Abarbanel",
+   "Chizkuni",
+   "Midrash Tanchuma",
+   "Rabbeinu Bahya",
+   "Or HaChaim",
+   "Kli Yakar"
+  ]
+ },
+ "hebrew": {
+  "summary": "העלייה הראשונה בפרשת נח מציגה את נח כאיש צדיק תמים בדורותיו, שהתהלך את האלהים והוליד את שם חם ויפת. הארץ נשחתה ונתמלאה חמס, והקב\"ה אומר לנח שבא קץ כל בשר. הוא מצווה את נח לבנות תבה מעצי גופר, עם קנים, מכוסה בכופר מבית ומחוץ, באורך שלוש מאות אמה, ברוחב חמישים ובקומה שלושים, עם צוהר, פתח בצדה ושלוש קומות. ה' יביא את המבול, אך יקים את בריתו עם נח, בניו, אשתו ונשי בניו, ונח יביא אל התבה שניים מכל חי, זכר ונקבה, ויאסוף מזון לכולם. ונח עשה ככל אשר צוהו אלהים.",
+  "questions": [
+   {
+    "title": "האם 'בדורותיו' בנח – שבח הוא או גנאי?",
+    "pasuk": {
+     "text": "נח איש צדיק תמים היה בדרתיו",
+     "ref": "Genesis 6:9",
+     "label": "בראשית ו, ט"
+    },
+    "question": "הכתוב מעיד על נח שהיה צדיק תמים 'בדורותיו'. האם 'בדורותיו' מוסיף על שבחו (קל וחומר אילו היה בדור צדיקים) או מגביל אותו (צדיק רק לפי מידת דור רשע)?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 6:9:2",
+      "quote": "יש מרבותינו דורשים אותו לשבח",
+      "era": "rishon"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:9:3",
+      "quote": "יש מרבותינו שדרשוהו לטובה",
+      "era": "rishon"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 30:9",
+      "quote": "כך בדרתיו היה צדיק הא אלו היה בדורו של משה",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י מביא את שתי הדרשות: יש מרבותינו הדורשים לשבח, ויש הדורשים לגנאי – לפי דורו היה צדיק, ובדורו של אברהם לא היה נחשב לכלום. כך גם במחלוקת רבי יהודה ורבי נחמיה בבראשית רבה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:9:2",
+        "quote": "ויש שדורשים אותו לגנאי, לפי דורו היה צדיק ואלו היה בדורו של אברהם לא היה נחשב לכלום"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 30:9",
+        "quote": "ומה אם בדרתיו היה צדיק, אלו היה בדורו של משה או בדורו של שמואל על אחת כמה וכמה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן לפי הפשט: הכתוב בא לומר שהוא לבדו היה צדיק ותמים בדורות ההם, ואין בדורו אחר הראוי להינצל.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:9:3",
+        "quote": "שהוא לבדו הצדיק בדורות ההם"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא ורד\"ק: 'בדורותיו' כולל גם את הדורות שאחרי המבול, שהרי נח חי עד שאברהם היה בן נ\"ח שנה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:9:4",
+        "quote": "ובדורות שהיו אחריו כי הוא חיה"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:9:5",
+        "quote": "באנשי דורו ובדורות הבאים אחר המבול"
+       }
+      ]
+     },
+     {
+      "text": "הגור אריה: שתי הדרשות אינן חלוקות בגודל צדקתו של נח אלא בטעם הצלתו – האם הכתוב בא ללמד שנצל משום שהיה הצדיק שבדורו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 6:9:3",
+        "quote": "למה עשה הקב\"ה נס עם נח והצילו מן המבול"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם נח הוא דגם לצדיק או רק הטוב שבדור רע."
+   },
+   {
+    "title": "מדוע נאמר בנח 'את האלהים התהלך' ובאברהם 'אשר התהלכתי לפניו'?",
+    "pasuk": {
+     "text": "את האלהים התהלך נח",
+     "ref": "Genesis 6:9",
+     "label": "בראשית ו, ט"
+    },
+    "question": "בנח נאמר שהתהלך 'את' האלהים, ובאברהם נאמר 'אשר התהלכתי לפניו'. מה ההבדל ביניהם, והאם הדבר לזכותו של נח?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 6:9:3",
+      "quote": "ובאברהם הוא אומר אשר התהלכתי לפניו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נח היה צריך סעד לתומכו, ואילו אברהם היה מתחזק ומהלך בצדקו מאליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:9:3",
+        "quote": "נח היה צריך סעד לתמכו, אבל אברהם היה מתחזק ומהלך בצדקו מאליו"
+       }
+      ]
+     },
+     {
+      "text": "המזרחי מבאר את דברי רש\"י: נח היה מתיירא להתחבר עם אנשי דורו שמא ילמד ממעשיהם, ולכן התבודד; ואברהם היה חזק באמונתו והתחבר עמהם כדי להכניסם בה.",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 6:9:5",
+        "quote": "מתירא להתחבר עם אנשי דורו שלא ילמוד ממעשיהם"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק רואה בכך כוח: נח היה דבק באלהים וכל דרכיו לשמו, וזה כוח גדול משכלו שהתגבר על טבעו בדור של רשעים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:9:6",
+        "quote": "זה היה כח גדול משכלו שהתגבר על טבעו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הלך בדרכי ה' להיטיב לזולתו, והוכיח את בני דורו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:9:5",
+        "quote": "הלך בדרכיו להיטיב לזולתו, והוכיח בני דורו"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד אם התבודדותו של נח חולשה היא או שליטה בסביבתו."
+   },
+   {
+    "title": "מדוע חוזרת התורה ומונה את שלושת בני נח, והרי כבר נמנו?",
+    "pasuk": {
+     "text": "ויולד נח שלשה בנים את שם את חם ואת יפת",
+     "ref": "Genesis 6:10",
+     "label": "בראשית ו, י"
+    },
+    "question": "בני נח כבר נמנו בסוף פרק ה. מדוע חוזר הכתוב כאן 'ויולד נח שלשה בנים'?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 6:9",
+      "quote": "מה ראתה לזכרו שנית בכאן",
+      "era": "acharon"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:9:1",
+      "quote": "חזר להזכירם פעם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן: הכתוב הפסיק ואמר 'נח איש צדיק תמים היה' כדי להודיע למה צוהו בתבה, ולכן החזיר 'ויולד נח'; וחזר להזכיר את בניו כי לא היה ככל אבותיו שהולידו בנים ובנות – אלה שלושה בלבד היו תולדותיו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:9:1",
+        "quote": "החזיר \"ויולד נח\" בעבור שהפסיק ואמר \"נח איש צדיק תמים היה\", להודיע למה צוהו בתבה"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:9:1",
+        "quote": "לא היה ככל אבותיו שיולידו בנות ובנים"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק: הזכיר את בניו אחרי 'התהלך נח' כדי ללמד שנח לימד והרגיל את בניו לסור מדרכי הרשעים ולעבוד את ה', שאם לא כן לא היו ניצולים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:10:1",
+        "quote": "למד והרגיל את בניו שהוליד לסור מדרכי הרשעים"
+       }
+      ]
+     },
+     {
+      "text": "החזקוני: מאחר שבא להזכיר שנח היה צדיק בדורותיו, חזר והזכיר את בניו, שמהם עמד העולם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 6:10:1",
+        "quote": "שמהם עמד העולם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: מאז שהתחיל נח להוכיח את בני דורו זכה לבנים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:10:1",
+        "quote": "מאז שהתחיל להוכיח בני דורו זכה לבנים"
+       }
+      ]
+     }
+    ],
+    "why": "קושר את הצלת נח לחינוך משפחתו ולא רק לזכותו האישית."
+   },
+   {
+    "title": "האם גם בעלי החיים חטאו – 'כי השחית כל בשר את דרכו'?",
+    "pasuk": {
+     "text": "כי השחית כל בשר את דרכו על הארץ",
+     "ref": "Genesis 6:12",
+     "label": "בראשית ו, יב"
+    },
+    "question": "'כי השחית כל בשר את דרכו על הארץ' – האם 'כל בשר' כולל בהמה חיה ועוף, או רק בני אדם? ואם חטאו בעלי החיים, מדוע נענשו?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:12:1",
+      "quote": "אם נפרש כל בשר כמשמעו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אפילו בהמה חיה ועוף נזקקין לשאינן מינן. כך גם במדרש תנחומא – סוס על חמור ונחש על ציפור – ולא נכנסו לתבה אלא אלה שלא קלקלו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:12:1",
+        "quote": "אפלו בהמה חיה ועוף נזקקין לשאינן מינן"
+       },
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Noach 12:4",
+        "quote": "ואף הבהמה קלקלו לשאינן מינן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן לפי הפשט: 'כל בשר' הוא כל האדם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:12:1",
+        "quote": "\"כל בשר\" זה כל האדם"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק: 'כל בשר' הם בני אדם, כמו 'יבוא כל בשר', ואם כדברי רבותינו גם שאר בעלי חיים בכלל.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:12:1",
+        "quote": "כל בשר, בני אדם"
+       }
+      ]
+     },
+     {
+      "text": "החזקוני: 'כל בשר' אבל לא דגים, כי לא נגזרה גזרה על דגי הים.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 6:12:2",
+        "quote": "כל בשר אבל לא דגים"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם המבול בא גם על חטא בעלי החיים עצמם או רק על חטא האדם."
+   },
+   {
+    "title": "מדוע נחתם גזר הדין על החמס בלבד?",
+    "pasuk": {
+     "text": "כי מלאה הארץ חמס מפניהם",
+     "ref": "Genesis 6:13",
+     "label": "בראשית ו, יג"
+    },
+    "question": "הדור היה משחת גם בדברים אחרים, ובכל זאת אומר ה' לנח רק 'כי מלאה הארץ חמס מפניהם'. מדוע נקרא הגזל טעם הקץ?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:13:1",
+      "quote": "ונתן לנח הטעם בחמס ולא הזכיר השחתת הדרך",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן: הגזל הוא מצוה משכלת שאין להם בה צורך לנביא מזהיר, ועוד שהוא רע לשמים ולבריות.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:13:1",
+        "quote": "מפני שהוא מצוה משכלת"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק (בשם בראשית רבה): בא וראה כמה גדול כוחו של חמס, שהרי דור המבול עברו על הכל ולא נחתם גזר דינם אלא על חמס.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:13:3",
+        "quote": "בא וראה כמה גדול כח של חמס"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה, רבי לוי: 'חמס' כולל עבודה זרה, גילוי עריות ושפיכות דמים, שכל אחד מהם נקרא חמס.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 31:6",
+        "quote": "חמס, זה עבודת כוכבים. חמס, זה גלוי עריות. חמס, זה שפיכות דמים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כולם גוזלים זה את זה – הבעלים גוזלים את האריס בכוח, והאריס גוזל את הבעלים במרמה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:13:3",
+        "quote": "הבעלים גוזלים את האריס בכח"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד איזה חטא הוא שמביא סוף סוף את החורבן."
+   },
+   {
+    "title": "אם ידע ה' שלא ישובו, למה הטריח את נח בבניין התבה?",
+    "pasuk": {
+     "text": "עשה לך תבת עצי גפר",
+     "ref": "Genesis 6:14",
+     "label": "בראשית ו, יד"
+    },
+    "question": "היו הרבה דרכים להציל את נח, ולמה הטריחו בבניין התבה? ואם התכלית שיראו ויעשו תשובה – הרי ידע ה' שלא ישובו.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 6:14:1",
+      "quote": "ולמה הטריחו בבנין זה",
+      "era": "rishon"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 6:14:1",
+      "quote": "הכל גלוי לפניו שלא היו עתידין לשוב",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כדי שיראוהו אנשי דור המבול עוסק בה מאה ועשרים שנה, ושואלים מה זאת לך, והוא אומר להם שעתיד הקב\"ה להביא מבול – אולי ישובו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 6:14:1",
+        "quote": "כדי שיראוהו אנשי דור המבול עוסק בה ק\"כ שנה, ושואלין אותו מה זאת לך, והוא אומר להם עתיד הקב\"ה להביא מבול לעולם, אולי ישובו"
+       }
+      ]
+     },
+     {
+      "text": "החזקוני: הכל גלוי לפניו שלא ישובו, אלא כנגד מדת הרחמים שהיתה מבקשת רחמים עליהם; וראתה שלא חזרו בתשובה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 6:14:1",
+        "quote": "כנגד מדת הרחמים שהיתה מבקשת רחמים עליהם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בזמן הקצוב להם, למען יראו וישובו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:14:1",
+        "quote": "בזמן הקצוב להם למען יראו וישובו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן: ה' עשה אותה גדולה כדי שיראו אותה בני דורו ויתמהו בה ויספרו עליה – אולי יעשו תשובה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:19:1",
+        "quote": "כדי שיראו אותה בני דורו ויתמהו בה ויספרו עליה וידברו בענין המבול וכנוס הבהמה והחיה והעוף לתוכה אולי יעשו תשובה"
+       }
+      ]
+     }
+    ],
+    "why": "מציג את התבה כאזהרה אחרונה וכרחמים על דור שנגזר דינו."
+   },
+   {
+    "title": "מדוע לא התפלל נח על דורו, כפי שהתפלל אברהם על סדום?",
+    "pasuk": {
+     "text": "ויאמר אלהים לנח קץ כל בשר בא לפני",
+     "ref": "Genesis 6:13",
+     "label": "בראשית ו, יג"
+    },
+    "question": "נח היה צדיק ומצא חן בעיני ה'. מדוע לא התפלל על בני דורו כפי שהתפלל אברהם על סדום?",
+    "asked_by": [
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 6:14:1-2",
+      "quote": "למה לא היה מתפלל על בני דורו ויחזירם למוטב",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רבנו בחיי: נח ידע שקיום העולם בעשרה; בני התבה היו רק שמונה, ולא היה רשאי להתפלל עליהם בפחות מעשרה, כשם שלא היה אברהם רשאי להתחנן מעבר לעשרה על סדום.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 6:14:1-2",
+        "quote": "שקיום העולם בעשרה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים, על פי המדרש על נח ומשה: זכויותיו של נח לא הועילו אלא לו ולבניו, כי לא היה בו תועלת לבני דורו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 6:9:2",
+        "quote": "לא היה בו תועלת לבני דורו ולא הועילו זכיותיו אלא לו לעצמו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: נח הוכיח את בני דורו, כדברי רבותינו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 6:9:5",
+        "quote": "והוכיח בני דורו"
+       }
+      ]
+     }
+    ],
+    "why": "שואל מה חייב צדיק לדור שסביבו."
+   },
+   {
+    "title": "איך יכלה תבה אחת להכיל כל חיה וכל מזונותיה?",
+    "pasuk": {
+     "text": "ומכל החי מכל בשר שנים מכל תביא אל התבה",
+     "ref": "Genesis 6:19",
+     "label": "בראשית ו, יט"
+    },
+    "question": "פילים וחיות גדולות, עופות ורמשים אין מספר, ומזון לשנה לכולם – איך יכלה תבה של שלוש מאות על חמשים על שלושים אמה להכילם?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 6:19:1",
+      "quote": "לא תכיל אותם התבה הזאת",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 6:20:1",
+      "quote": "ותועי רוח ישאלו מה אכל כל עוף דורס",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן: הוא נס, שהחזיק המועט את המרובה, והתבה נעשתה גדולה כדי שיראו אותה בני הדור ואולי ישובו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 6:19:1",
+        "quote": "אבל הוא נס החזיק מועט את המרבה"
+       }
+      ]
+     },
+     {
+      "text": "הכלי יקר: הכתוב פרט את מידות התבה כדי להודיע גודל הנס שהחזיק המועט את המרובה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 6:15:1",
+        "quote": "גדל הנס שהחזיק המועט את המרבה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: יתכן שקומת נח גדולה מקומתנו, כי האמה היא כמדתו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:16:1",
+        "quote": "גם יתכן להיות קומת נח גדולה מקומתינו, כי האמה היא כמדתו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא ורד\"ק על המזון: מי שלא ימצא בשר יאכל עשב ופרי העץ כשירעב; גם החיות הטורפות אכלו כאחרים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 6:20:1",
+        "quote": "מי שלא ימצא בשר יאכל העשב ופרי העץ כאשר ירעב"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 6:21:1",
+        "quote": "וגם החיות הטורפות יאכלו גם כן כמו האחרים"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מה הניח הכתוב לטבע ומה לנס."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "רמב\"ן",
+   "בראשית רבה",
+   "אבן עזרא",
+   "רד\"ק",
+   "גור אריה",
+   "מזרחי",
+   "ספורנו",
+   "אברבנאל",
+   "חזקוני",
+   "מדרש תנחומא",
+   "רבנו בחיי",
+   "אור החיים",
+   "כלי יקר"
+  ]
+ }
+}
