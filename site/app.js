@@ -256,8 +256,10 @@ function questionBox(q, i) {
   body.appendChild(node("p", "qtext", q.question));
 
   if (q.asked_by && q.asked_by.length) {
-    body.appendChild(node("div", "label", t().askedBy));
-    q.asked_by.forEach((who) => body.appendChild(cite(who)));
+    const askers = node("div", "askers");   // left out of the PDF/printout (pdf.css)
+    askers.appendChild(node("div", "label", t().askedBy));
+    q.asked_by.forEach((who) => askers.appendChild(cite(who)));
+    body.appendChild(askers);
   }
   (q.answers || []).forEach((answer, n) => {
     const block = node("div", "answer");
