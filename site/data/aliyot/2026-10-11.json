@@ -1,0 +1,1185 @@
+{
+ "date": "2026-10-11",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 7:1-7:16",
+ "hebrew_date": {
+  "hebrew": "ל׳ בתשרי תשפ״ז",
+  "english": "30 Tishrei 5787"
+ },
+ "english": {
+  "summary": "In the second aliyah of Noach, God tells Noah to enter the ark with his household because he alone was found righteous. Noah is to take seven of each pure animal and bird and two of the impure, and the flood will begin in seven days, lasting forty days and forty nights. Noah does as commanded. At age six hundred, in the second month, on the seventeenth day, the fountains of the deep burst open and the windows of heaven open. On that day Noah, his sons, their wives and all the animals enter the ark, and God shuts him in.",
+  "questions": [
+   {
+    "title": "Why does God give the reason \"for you alone have I found righteous\" only now, and not when He first commanded the ark?",
+    "pasuk": {
+     "text": "כי אתך ראיתי צדיק לפני בדור הזה",
+     "ref": "Genesis 7:1",
+     "label": "Genesis 7:1"
+    },
+    "question": "Noah was already told to build and enter the ark in the previous parasha. Why does the reason for his rescue appear only here, at the moment of entering?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 7:1:3",
+      "quote": "אינו מובן למה נתן עתה טעם",
+      "era": "acharon"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 7:1:1",
+      "quote": "צריך לדעת למה הוצרך לטעם זה מחדש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Haamek Davar: the new verse speaks of God's personal providence over Noah, beyond what the survival of the world required, so it names the reason for His mercy.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 7:1:3",
+        "quote": "אבל כאן מדבר ברחמי שמים על נח והשגחתו הפרטית"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: God was careful that Noah not misread \"come into the ark\", either as if his whole household were righteous or as if he should save his relatives.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 7:1:2",
+        "quote": "לבל יטעה במשמעות דברי"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: God waited until the seven days of mourning for Methuselah passed, hoping the generation would repent; only then, after they stood in their rebelliousness, did He say it.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 7:1:1",
+        "quote": "ואחר שעמדו במרדם אמר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Noah was saved for his own merit alone, and who else was included in the rescue."
+   },
+   {
+    "title": "How did Noah know which animals are pure, before the Torah was given?",
+    "pasuk": {
+     "text": "מכל הבהמה הטהורה תקח לך שבעה שבעה",
+     "ref": "Genesis 7:2",
+     "label": "Genesis 7:2"
+    },
+    "question": "God tells Noah to take seven of every pure animal. At that time there was no Torah distinguishing pure from impure, so how did he know which to take?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 7:2:1",
+      "quote": "קשיא מנא ידע",
+      "era": "acharon"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 7:2:1",
+      "quote": "מנא ידע טהורין וטמאין בההיא שעתא",
+      "era": "acharon"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 7:2:1",
+      "quote": "והיאך ידע נח הטהורה ושאינה טהורה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"the pure\" means those destined to be pure for Israel – proof that Noah learned Torah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:2:1",
+        "quote": "למדנו שלמד נח תורה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: perhaps God told Noah the signs of purity, for both animals and birds.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:2:1",
+        "quote": "שהקדוש ברוך הוא מסר לנח סימני טהרה בין בבהמה בין בעוף"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh, citing the Gemara in Zevachim: Noah passed the animals before the ark, and whatever the ark absorbed he brought in.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 7:2:1",
+        "quote": "שהעבירם לפני התיבה וכל שהתיבה קולטתו"
+       }
+      ]
+     }
+    ],
+    "why": "It bears on whether Noah kept Torah before Sinai."
+   },
+   {
+    "title": "Why seven of each pure animal and not two?",
+    "pasuk": {
+     "text": "מכל הבהמה הטהורה תקח לך שבעה שבעה",
+     "ref": "Genesis 7:2",
+     "label": "Genesis 7:2"
+    },
+    "question": "Two of each kind suffice to preserve the species. Why take seven of the pure animals?",
+    "asked_by": [
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 7:9:1",
+      "quote": "למה הוצרך לז' נקבות ז' זכרים",
+      "era": "rishon"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 7:2:2",
+      "quote": "למה שבעה שבעה דוקא",
+      "era": "acharon"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 7:2:1",
+      "quote": "אין טעם זה לבד מספיק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: so that he could offer a sacrifice from them when he came out.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:2:2",
+        "quote": "כדי שיקריב מהם קרבן בצאתו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: God wanted Noah and his descendants to eat of them, since pure animals are the better food and Noah was about to be permitted meat.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:2:1",
+        "quote": "כדי שיאכלו מהם נח ובניו"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: because they are pure, people eat much of them, so they must multiply more.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 7:2:1",
+        "quote": "לפי שהם טהורים על כן אוכלים מהם הרבה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: six pairs for the six seasons of the year, plus one for the species.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 7:2:2",
+        "quote": "נגד ששה זמנים"
+       }
+      ]
+     }
+    ],
+    "why": "Rashi's reason is sacrifice; others see food and the structure of the year – a real machloket about the purpose."
+   },
+   {
+    "title": "Why \"yet seven days\" – and what is the word \"od\" (yet) adding?",
+    "pasuk": {
+     "text": "כי לימים עוד שבעה אנכי ממטיר על הארץ",
+     "ref": "Genesis 7:4",
+     "label": "Genesis 7:4"
+    },
+    "question": "The verse could have said simply \"in seven days\". What does \"yet\" add, and why seven days of delay?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 7:4:2",
+      "quote": "פירוש דהוי ליה למכתב כי לימים שבעה",
+      "era": "acharon"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 7:4:1",
+      "quote": "מה ענין של השבעה ימים שזכר הכתוב בפירוש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: these are the seven days of mourning for Methuselah the righteous, for whom God held back the punishment; and \"yet\" means a further period added to the 120 years.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:4:1",
+        "quote": "ימי אבלו של מתושלח הצדיק"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:4:2",
+        "quote": "זמן אחר זמן זה נוסף על"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: this teaches that the eulogy of the righteous holds back punishment.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 7:4:1",
+        "quote": "שהספדן של צדיקים מעכב את הפורענות"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the seven days were to prepare the ark – places for each kind and bringing in the food while it was still open (he also records the Methuselah tradition).",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:4:1",
+        "quote": "להכין מושב הבהמות והחיות כל מין ומין בקנו"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the seven days equal the 120 years – God waited again for repentance.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 7:1:1",
+        "quote": "שזמן זה שוה לזמן מאה ועשרים שנה"
+       }
+      ]
+     }
+    ],
+    "why": "Whether the delay was honor to a tzaddik, a last chance for repentance, or practical preparation."
+   },
+   {
+    "title": "Why does the verse say Noah entered \"because of the waters of the flood\"?",
+    "pasuk": {
+     "text": "ויבא נח ובניו ואשתו ונשי בניו אתו אל התבה מפני מי המבול",
+     "ref": "Genesis 7:7",
+     "label": "Genesis 7:7"
+    },
+    "question": "Noah had been commanded to enter. Does \"because of the waters\" mean he entered only out of fear of the water, and not out of the command?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 7:7:1",
+      "quote": "מפני מי המבול ולא מפני הצווי",
+      "era": "rishon"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 7:7:2",
+      "quote": "ולא ידענו טעם לדברי האומר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Noah too was of little faith – he believed and did not believe – and did not enter until the waters pressed him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:7:2",
+        "quote": "אף נח מקטני אמנה היה מאמין ואינו מאמין"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: Noah did not enter the ark until the waters reached his feet.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 7:7:1",
+        "quote": "שלא נכנס אל התיבה עד שיגיעו מי המבול לרגליו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he entered before the waters came – the Midrash makes no sense to him, since the verse testifies that he was righteous and did as God commanded.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:7:2",
+        "quote": "ונכנס קודם שיבאו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: \"because of\" means out of fear of the waters of the flood.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 7:7:1",
+        "quote": "מפני פחד מי המבול"
+       }
+      ]
+     }
+    ],
+    "why": "It is the major dispute over how to read Noah's character in the Flood narrative."
+   },
+   {
+    "title": "The verse says \"two by two\" – but God commanded seven of the pure. Did Noah disobey?",
+    "pasuk": {
+     "text": "שנים שנים באו אל נח אל התבה זכר ונקבה",
+     "ref": "Genesis 7:9",
+     "label": "Genesis 7:9"
+    },
+    "question": "Verse 2 commanded seven of the pure animals, yet verse 9 describes them coming two by two. How do the verses fit?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 7:9:2",
+      "quote": "אין דרך הכתוב לומר כך ולכתוב מן הפחותים היו שנים",
+      "era": "acharon"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 7:5:2",
+      "quote": "ולפי הנראה כי לא קיים מצות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: all were equal in this number – even the lowest (the impure) were two.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:9:1",
+        "quote": "כולם הושוו במנין זה מן הפחות היו שנים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: \"two\" means pairs – male and female together.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:9:1",
+        "quote": "והזוגות הם זכר ונקבה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: two of each came on their own; Noah went and added six more pairs of the pure for the sacrifice.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 7:8:1",
+        "quote": "ונח הוסיף להביא מן הטהורים ששה זוגות"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the pairs for the survival of the species are only two, and God brought those; the rest Noah took on his own effort.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 7:9:1",
+        "quote": "מה שהוא לקיום המין אינם אלא שנים"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the animals came on their own or Noah gathered them."
+   },
+   {
+    "title": "Why \"on that very day\" did Noah enter the ark – and did he not enter seven days earlier?",
+    "pasuk": {
+     "text": "בעצם היום הזה בא נח",
+     "ref": "Genesis 7:13",
+     "label": "Genesis 7:13"
+    },
+    "question": "Earlier Noah was told that the flood would come in seven days, yet here he enters \"on that very day\". Why that emphasis, and when did he enter?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 7:13:1",
+      "quote": "למה בעצם היום",
+      "era": "acharon"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 7:13:1",
+      "quote": "ואיך אמר עתה כי בסוף שבעה נכנס",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the people of his generation threatened to break the ark and kill him if they saw him enter, so God brought him in before everyone's eyes.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:13:1",
+        "quote": "אנו שוברין אותה והורגין אותו"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:13:1",
+        "quote": "אני מכניסו לעיני כולם ונראה דבר מי יקום"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he began entering at the start of the seven days and prepared the ark, and entered fully on the seventeenth.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:13:1",
+        "quote": "נכנס בתחלת שבעה כמו שצוהו האל"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: on that very day Noah came to the ark, not before.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 7:8:1",
+        "quote": "בעצם אותו היום הוא שבא נח אל התבה"
+       }
+      ]
+     }
+    ],
+    "why": "Whether Noah entered at once or in stages changes the reading of the seven days."
+   },
+   {
+    "title": "Why does the Torah repeat Noah's age and the date of the flood?",
+    "pasuk": {
+     "text": "בשנת שש מאות שנה לחיי נח בחדש השני",
+     "ref": "Genesis 7:11",
+     "label": "Genesis 7:11"
+    },
+    "question": "Verse 6 already said Noah was six hundred years old. Why repeat the year, and which month is \"the second month\"?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 7:11:1",
+      "quote": "וכבר זכר למעלה ואמר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: the first mention gave no month or day; this verse adds them.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:11:1",
+        "quote": "אלא לא זכר החדש וכמה בחדש"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: R. Eliezer says it is Marcheshvan; R. Yehoshua says Iyar.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:11:1",
+        "quote": "רבי אליעזר אומר זה מרחשון"
+       }
+      ]
+     },
+     {
+      "text": "Radak: in the earlier days Tishrei was counted as the first month, since the world was created in it.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 7:11:1",
+        "quote": "היו קוראים חדש תשרי חדש ראשון בשנה"
+       }
+      ]
+     }
+    ],
+    "why": "Today is Rosh Chodesh Cheshvan, the month in which this verse places the flood according to R. Eliezer."
+   },
+   {
+    "title": "Why does the verse say \"the rain\" here and \"the flood\" elsewhere?",
+    "pasuk": {
+     "text": "ויהי הגשם על הארץ ארבעים יום וארבעים לילה",
+     "ref": "Genesis 7:12",
+     "label": "Genesis 7:12"
+    },
+    "question": "Here it is \"the rain\", but later the verse calls the same forty days \"the flood\". Why the change?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 7:12:1",
+      "quote": "ולהלן הוא אומר ויהי המבול",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 7:16:2",
+      "quote": "אם כן מה טעם ויהי המבול על הארץ ארבעים יום",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: when God sent them down, He sent them with mercy, as rains of blessing if they repent; when they did not, they became a flood.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:12:1",
+        "quote": "הורידן ברחמים שאם יחזרו יהיו גשמי ברכה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: He brought the waters down gently, and Mercy saw that they did not repent.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 7:12:1",
+        "quote": "הוריד לפניה המים בנחת וראתה היא שלא חזרו בתשובה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the plain sense – when the flood was upon the earth forty days the waters rose and lifted the ark.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 7:16:2",
+        "quote": "רבו המים ונשאו התיבה וגבהה מעל הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches that God's midat harachamim stood even over the flood."
+   }
+  ],
+  "sources_consulted": [
+   "Haamek Davar",
+   "Or HaChaim",
+   "Kli Yakar",
+   "Gur Aryeh",
+   "Mizrachi",
+   "Radak",
+   "Rashi",
+   "Bekhor Shor",
+   "Siftei Chakhamim",
+   "Lekach Tov",
+   "Chizkuni",
+   "Midrash Aggadah",
+   "Ibn Ezra",
+   "Ramban",
+   "Torah Temimah"
+  ]
+ },
+ "hebrew": {
+  "summary": "בעלייה השנייה של פרשת נח מצווה ה' על נח להיכנס לתיבה עם בני ביתו, כי רק אותו ראה צדיק. נח לוקח שבעה מכל בהמה ועוף טהורים ושניים מן הטמאים, והמבול יתחיל בעוד שבעה ימים ויימשך ארבעים יום וארבעים לילה. נח עושה ככל אשר צווה. בגיל שש מאות שנה, בחודש השני בשבעה עשר לחודש, נבקעו מעיינות תהום רבה וארובות השמים נפתחו. בעצם היום הזה נכנסים נח, בניו, נשיהם וכל החיות לתיבה, ו\"ויסגור ה' בעדו\".",
+  "questions": [
+   {
+    "title": "למה ה' נותן רק עכשיו את הטעם \"כי אותך ראיתי צדיק\", ולא כשציווה לראשונה על התיבה?",
+    "pasuk": {
+     "text": "כי אתך ראיתי צדיק לפני בדור הזה",
+     "ref": "Genesis 7:1",
+     "label": "בראשית ז, א"
+    },
+    "question": "נח כבר נצטווה בפרשה הקודמת לבנות את התיבה ולהיכנס אליה. מדוע הטעם להצלתו מופיע רק כאן, ברגע הכניסה?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 7:1:3",
+      "quote": "אינו מובן למה נתן עתה טעם",
+      "era": "acharon"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 7:1:1",
+      "quote": "צריך לדעת למה הוצרך לטעם זה מחדש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "העמק דבר: כאן מדובר בהשגחה פרטית על נח, מעבר לצורך קיום העולם, ולכן מפורש הטעם לרחמיו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 7:1:3",
+        "quote": "אבל כאן מדבר ברחמי שמים על נח והשגחתו הפרטית"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: ה' חשש שנח יטעה בהבנת \"בא אל התיבה\" – שמא יחשוב שכל בני ביתו צדיקים, או שעליו להציל את קרוביו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 7:1:2",
+        "quote": "לבל יטעה במשמעות דברי"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: ה' המתין עד שיעברו שבעת ימי האבל על מתושלח, שמא יחזרו בתשובה; ורק אחרי שעמדו במרדם אמר זאת.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 7:1:1",
+        "quote": "ואחר שעמדו במרדם אמר"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר אם נח ניצל בזכותו בלבד, ומי עוד נכלל בהצלה."
+   },
+   {
+    "title": "מניין ידע נח אילו בהמות טהורות, לפני מתן תורה?",
+    "pasuk": {
+     "text": "מכל הבהמה הטהורה תקח לך שבעה שבעה",
+     "ref": "Genesis 7:2",
+     "label": "בראשית ז, ב"
+    },
+    "question": "ה' מצווה את נח לקחת שבעה מכל בהמה טהורה. באותו זמן לא הייתה תורה המבדילה בין טהור לטמא, ואם כן כיצד ידע אילו לקחת?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 7:2:1",
+      "quote": "קשיא מנא ידע",
+      "era": "acharon"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 7:2:1",
+      "quote": "מנא ידע טהורין וטמאין בההיא שעתא",
+      "era": "acharon"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 7:2:1",
+      "quote": "והיאך ידע נח הטהורה ושאינה טהורה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"הטהורה\" – העתידה להיות טהורה לישראל; למדנו שלמד נח תורה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:2:1",
+        "quote": "למדנו שלמד נח תורה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אפשר שהקב\"ה מסר לנח סימני טהרה, בבהמה ובעוף.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:2:1",
+        "quote": "שהקדוש ברוך הוא מסר לנח סימני טהרה בין בבהמה בין בעוף"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה, בשם הגמרא בזבחים: נח העביר את הבהמות לפני התיבה, וכל מה שהתיבה קלטה הכניס.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 7:2:1",
+        "quote": "שהעבירם לפני התיבה וכל שהתיבה קולטתו"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע לשאלה אם קיים נח תורה לפני מתן תורה."
+   },
+   {
+    "title": "מדוע שבעה מכל בהמה טהורה ולא שניים?",
+    "pasuk": {
+     "text": "מכל הבהמה הטהורה תקח לך שבעה שבעה",
+     "ref": "Genesis 7:2",
+     "label": "בראשית ז, ב"
+    },
+    "question": "שניים מכל מין מספיקים לקיום המין. למה לקחת שבעה מהטהורים?",
+    "asked_by": [
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 7:9:1",
+      "quote": "למה הוצרך לז' נקבות ז' זכרים",
+      "era": "rishon"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 7:2:2",
+      "quote": "למה שבעה שבעה דוקא",
+      "era": "acharon"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 7:2:1",
+      "quote": "אין טעם זה לבד מספיק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כדי שיקריב מהם קרבן בצאתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:2:2",
+        "quote": "כדי שיקריב מהם קרבן בצאתו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ה' רצה שנח ובניו יאכלו מהם, כי הטהורות טובות יותר למאכל, ונח עמד להתיר לו בשר.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:2:1",
+        "quote": "כדי שיאכלו מהם נח ובניו"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: מפני שהם טהורים אוכלים מהם הרבה, ולכן צריכים להרבות בהם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 7:2:1",
+        "quote": "לפי שהם טהורים על כן אוכלים מהם הרבה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: כנגד ששת הזמנים שבשנה, ועוד זוג לקיום המין.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 7:2:2",
+        "quote": "נגד ששה זמנים"
+       }
+      ]
+     }
+    ],
+    "why": "רש\"י מסביר בקרבן, אחרים במאכל ובסדר השנה – מחלוקת על מטרת הציווי."
+   },
+   {
+    "title": "מהו \"עוד\" בפסוק \"כי לימים עוד שבעה\", ומדוע שבעה ימים?",
+    "pasuk": {
+     "text": "כי לימים עוד שבעה אנכי ממטיר על הארץ",
+     "ref": "Genesis 7:4",
+     "label": "בראשית ז, ד"
+    },
+    "question": "הפסוק יכול היה לומר \"לימים שבעה\". מה מוסיף \"עוד\", ולמה שבעה ימים של המתנה?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 7:4:2",
+      "quote": "פירוש דהוי ליה למכתב כי לימים שבעה",
+      "era": "acharon"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 7:4:1",
+      "quote": "מה ענין של השבעה ימים שזכר הכתוב בפירוש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אלו שבעת ימי האבל על מתושלח הצדיק, שעיכב ה' בעבורו את הפורענות; ו\"עוד\" – זמן נוסף על מאה ועשרים שנה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:4:1",
+        "quote": "ימי אבלו של מתושלח הצדיק"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:4:2",
+        "quote": "זמן אחר זמן זה נוסף על"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: ללמדך שההספד של צדיקים מעכב את הפורענות.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 7:4:1",
+        "quote": "שהספדן של צדיקים מעכב את הפורענות"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: שבעת הימים היו להכנת התיבה – מקום לכל מין והכנסת המאכל בעוד התיבה פתוחה (ומביא גם את דברי רבותינו על מתושלח).",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:4:1",
+        "quote": "להכין מושב הבהמות והחיות כל מין ומין בקנו"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: שבעת הימים שווים למאה ועשרים השנה – ה' המתין שוב לתשובה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 7:1:1",
+        "quote": "שזמן זה שוה לזמן מאה ועשרים שנה"
+       }
+      ]
+     }
+    ],
+    "why": "האם ההמתנה הייתה כבוד לצדיק, הזדמנות אחרונה לתשובה, או הכנה מעשית."
+   },
+   {
+    "title": "מדוע נאמר שנח נכנס לתיבה \"מפני מי המבול\"?",
+    "pasuk": {
+     "text": "ויבא נח ובניו ואשתו ונשי בניו אתו אל התבה מפני מי המבול",
+     "ref": "Genesis 7:7",
+     "label": "בראשית ז, ז"
+    },
+    "question": "נח נצטווה להיכנס. האם \"מפני מי המבול\" משמעו שנכנס רק מפחד המים ולא מפני הציווי?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 7:7:1",
+      "quote": "מפני מי המבול ולא מפני הצווי",
+      "era": "rishon"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 7:7:2",
+      "quote": "ולא ידענו טעם לדברי האומר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אף נח מקטני אמנה היה, מאמין ואינו מאמין, ולא נכנס עד שדחקוהו המים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:7:2",
+        "quote": "אף נח מקטני אמנה היה מאמין ואינו מאמין"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: נח לא נכנס לתיבה עד שהגיעו מי המבול לרגליו.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 7:7:1",
+        "quote": "שלא נכנס אל התיבה עד שיגיעו מי המבול לרגליו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: נכנס קודם שבאו המים, ואין הוא מבין את דברי המדרש, שהרי הכתוב מעיד עליו שהיה צדיק ועשה ככל אשר צוהו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:7:2",
+        "quote": "ונכנס קודם שיבאו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"מפני\" – מפחד מי המבול.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 7:7:1",
+        "quote": "מפני פחד מי המבול"
+       }
+      ]
+     }
+    ],
+    "why": "זו המחלוקת המרכזית על אופיו של נח בפרשת המבול."
+   },
+   {
+    "title": "הפסוק אומר \"שנים שנים\", והרי נצטווה שבעה מן הטהורים. האם לא קיים את הציווי?",
+    "pasuk": {
+     "text": "שנים שנים באו אל נח אל התבה זכר ונקבה",
+     "ref": "Genesis 7:9",
+     "label": "בראשית ז, ט"
+    },
+    "question": "בפסוק ב נצטווה שבעה מן הטהורים, ובפסוק ט מתוארים הבאים שנים שנים. כיצד מתיישבים הפסוקים?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 7:9:2",
+      "quote": "אין דרך הכתוב לומר כך ולכתוב מן הפחותים היו שנים",
+      "era": "acharon"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 7:5:2",
+      "quote": "ולפי הנראה כי לא קיים מצות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כולם הושוו במנין זה – מן הפחות היו שניים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:9:1",
+        "quote": "כולם הושוו במנין זה מן הפחות היו שנים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: \"שנים\" – זוגות, והזוגות הם זכר ונקבה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:9:1",
+        "quote": "והזוגות הם זכר ונקבה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: שניים מכל מין באו מעצמם, ונח הוסיף להביא מן הטהורים עוד שישה זוגות לצורך קרבן.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 7:8:1",
+        "quote": "ונח הוסיף להביא מן הטהורים ששה זוגות"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: מה שנחוץ לקיום המין הם שניים בלבד, ואותם הביא ה'; את שאר השבעה טרח נח בעצמו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 7:9:1",
+        "quote": "מה שהוא לקיום המין אינם אלא שנים"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הבהמות באו מעצמן או שנח אסף אותן."
+   },
+   {
+    "title": "מדוע נאמר \"בעצם היום הזה\" נכנס נח, והרי נצטווה להיכנס שבעה ימים קודם?",
+    "pasuk": {
+     "text": "בעצם היום הזה בא נח",
+     "ref": "Genesis 7:13",
+     "label": "בראשית ז, יג"
+    },
+    "question": "קודם נאמר לנח שהמבול יבוא בעוד שבעה ימים, ואילו כאן הוא נכנס \"בעצם היום הזה\". מה בא הכתוב להדגיש, ומתי נכנס?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 7:13:1",
+      "quote": "למה בעצם היום",
+      "era": "acharon"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 7:13:1",
+      "quote": "ואיך אמר עתה כי בסוף שבעה נכנס",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בני דורו אמרו שאם יראוהו נכנס יישברו את התיבה ויהרגוהו, ולכן הכניסו ה' לעיני כולם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:13:1",
+        "quote": "אנו שוברין אותה והורגין אותו"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:13:1",
+        "quote": "אני מכניסו לעיני כולם ונראה דבר מי יקום"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: התחיל להיכנס בתחילת שבעת הימים ותיקן את התיבה, ובשבעה עשר נכנס סופית.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:13:1",
+        "quote": "נכנס בתחלת שבעה כמו שצוהו האל"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: בעצם אותו היום בא נח אל התיבה, ולא קודם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 7:8:1",
+        "quote": "בעצם אותו היום הוא שבא נח אל התבה"
+       }
+      ]
+     }
+    ],
+    "why": "אם נכנס נח בבת אחת או בהדרגה, משתנה פירוש שבעת הימים."
+   },
+   {
+    "title": "מדוע התורה חוזרת על גיל נח ועל תאריך המבול?",
+    "pasuk": {
+     "text": "בשנת שש מאות שנה לחיי נח בחדש השני",
+     "ref": "Genesis 7:11",
+     "label": "בראשית ז, יא"
+    },
+    "question": "בפסוק ו כבר נאמר שנח בן שש מאות שנה. מדוע לחזור על השנה, ואיזה הוא \"החדש השני\"?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 7:11:1",
+      "quote": "וכבר זכר למעלה ואמר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: הפעם הראשונה לא פירטה חודש ויום, ופסוק זה מוסיף אותם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:11:1",
+        "quote": "אלא לא זכר החדש וכמה בחדש"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: רבי אליעזר אומר זה מרחשוון, רבי יהושע אומר זה אייר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:11:1",
+        "quote": "רבי אליעזר אומר זה מרחשון"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הקדמונים היו קוראים לתשרי חודש ראשון, כי בו נברא העולם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 7:11:1",
+        "quote": "היו קוראים חדש תשרי חדש ראשון בשנה"
+       }
+      ]
+     }
+    ],
+    "why": "היום ראש חודש חשוון, החודש שבו מציב רבי אליעזר את המבול."
+   },
+   {
+    "title": "מדוע נאמר כאן \"הגשם\" ובמקום אחר \"המבול\"?",
+    "pasuk": {
+     "text": "ויהי הגשם על הארץ ארבעים יום וארבעים לילה",
+     "ref": "Genesis 7:12",
+     "label": "בראשית ז, יב"
+    },
+    "question": "כאן נאמר \"הגשם\", ובהמשך הפסוק קורא לאותם ארבעים יום \"המבול\". מה פשר השינוי?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 7:12:1",
+      "quote": "ולהלן הוא אומר ויהי המבול",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 7:16:2",
+      "quote": "אם כן מה טעם ויהי המבול על הארץ ארבעים יום",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כשהורידן הורידן ברחמים, שאם יחזרו יהיו גשמי ברכה; כשלא חזרו היו למבול.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:12:1",
+        "quote": "הורידן ברחמים שאם יחזרו יהיו גשמי ברכה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: הוריד לפני מידת הרחמים את המים בנחת, והיא ראתה שלא חזרו בתשובה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 7:12:1",
+        "quote": "הוריד לפניה המים בנחת וראתה היא שלא חזרו בתשובה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: פשוטו – כאשר היה המבול ארבעים יום על הארץ, רבו המים ונשאו את התיבה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 7:16:2",
+        "quote": "רבו המים ונשאו התיבה וגבהה מעל הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד שמידת הרחמים ליוותה גם את המבול."
+   }
+  ],
+  "sources_consulted": [
+   "העמק דבר",
+   "אור החיים",
+   "כלי יקר",
+   "גור אריה",
+   "מזרחי",
+   "רד\"ק",
+   "רש\"י",
+   "בכור שור",
+   "שפתי חכמים",
+   "מדרש לקח טוב",
+   "חזקוני",
+   "מדרש אגדה",
+   "אבן עזרא",
+   "רמב\"ן",
+   "תורה תמימה"
+  ]
+ }
+}
