@@ -1,0 +1,1105 @@
+{
+ "date": "2026-10-12",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 7:17-8:14",
+ "hebrew_date": {
+  "hebrew": "א׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "1 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "In the third aliyah of Noach the flood grows for forty days until the ark rises above the earth, and the waters cover even the highest mountains by fifteen cubits. Every living thing on dry land dies, and only Noah and those with him in the ark remain. God remembers Noah and all the animals with him and sends a wind over the earth, the springs of the deep and the windows of heaven close, and the waters recede. After 150 days the ark rests on the mountains of Ararat, and in the tenth month the mountaintops appear. Noah sends out a raven and then a dove three times; the dove returns with an olive leaf and then does not return. In the six hundred and first year the waters dry from the earth, and on the twenty-seventh day of the second month the land is dry.",
+  "questions": [
+   {
+    "title": "Why does the verse say three times that the waters grew stronger?",
+    "pasuk": {
+     "text": "והמים גברו מאד מאד על הארץ ויכסו כל ההרים הגבהים",
+     "ref": "Genesis 7:19",
+     "label": "Genesis 7:19"
+    },
+    "question": "Verses 17–19 say the waters increased, then grew strong, then grew very, very strong. If the rain had already fallen forty days, what does each stage add?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 7:17:1-2",
+      "era": "acharon",
+      "quote": "למה נכפל זכרון רבוי המים ג\"פ"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 7:17:1-4",
+      "era": "acharon",
+      "quote": "ראוי לשית לב מה ענין ג' הדרגות אלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Malbim: the first stage was an increase in quantity, which lifted the ark from its place; it did not yet travel anywhere.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 7:17:1-2",
+        "quote": "תחלה וירבו המים בכמות וישאו את התבה ממקומה"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: the first rise came by nature, from forty days of rain; the later growth was beyond nature, so that the ark not only rose but moved over the water, and then the highest mountains were covered.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 7:17:1-4",
+        "quote": "ואח\"כ שלא בטבע גברו מאד על הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the flood grew by stages, each beyond what the previous one explains."
+   },
+   {
+    "title": "Fifteen cubits above what: the mountains, or the ground?",
+    "pasuk": {
+     "text": "חמש עשרה אמה מלמעלה גברו המים ויכסו ההרים",
+     "ref": "Genesis 7:20",
+     "label": "Genesis 7:20"
+    },
+    "question": "If the waters stood fifteen cubits deep everywhere, the ark would never have risen onto the mountains. If fifteen cubits are above the mountains, how high were the mountains?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 7:20:1",
+      "era": "acharon",
+      "quote": "מאי חמש עשרה אמה"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 32:11",
+      "era": "chazal",
+      "quote": "רבי יהודה אומר חמש עשרה אמה בהר וחמש עשרה בבקעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: fifteen cubits above the height of all the mountains, after the waters had reached the mountaintops.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:20:1",
+        "quote": "למעלה של גובה כל ההרים"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Nechemya in Bereshit Rabbah: fifteen cubits on the mountain, but only a little in the valley.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 32:11",
+        "quote": "חמש עשרה אמה בהר אבל בבקעה כל שהן"
+       }
+      ]
+     },
+     {
+      "text": "Torah Temimah, from the Talmud: the waters first rose to the mountaintops, and then grew fifteen cubits more from above.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 7:20:1",
+        "quote": "אלא דאשוו מיא בהדי טורי והדר ט\"ו אמה מלמעלה גברו המים"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: it means above the height of the mountains, not above the ground; equal fifteen cubits everywhere would be a miracle, and the plain meaning does not need it.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 7:20:1",
+        "quote": "למעלה של גובה ההרים ולא למעלה מן הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "It tells how high the waters really rose, and whether the flood was above the mountains or at one level everywhere."
+   },
+   {
+    "title": "If everything that breathes died, how did the fish survive?",
+    "pasuk": {
+     "text": "כל אשר נשמת רוח חיים באפיו מכל אשר בחרבה מתו",
+     "ref": "Genesis 7:22",
+     "label": "Genesis 7:22"
+    },
+    "question": "The verse says 'of all that was on dry land they died', and Ramban notes that the boiling waters of the flood would seem to have killed the fish too.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 7:23:1",
+      "era": "rishon",
+      "quote": "אבל אם כן יהיו הדגים מתים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the verse excludes the fish of the sea.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 7:22:2",
+        "quote": "ולא דגים שבים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: 'on dry land' excludes the fish; others say they were included, but fled to the great ocean.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 32:11",
+        "quote": "פרט לדגים ויש אומרים אף הן היו בכלל מאספין אלא שברחו לים הגדול לאוקיינוס"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: either the fish lived in the depths while only the upper waters heated, or they fled to the ocean, where no flood fell.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 7:23:1",
+        "quote": "ויחממו עליוני הים בלבד והדגים יבאו בעמקי המצולות ויחיו שם"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: fish do not need to breathe air, so the phrase 'spirit of life in his nostrils' does not include them.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 7:22:1",
+        "quote": "מלבד דגי הים שא\"צ לנשום רוח"
+       }
+      ]
+     }
+    ],
+    "why": "It shows who was included in the decree of the flood."
+   },
+   {
+    "title": "Why does the Torah add 'He blotted out' after saying they all died?",
+    "pasuk": {
+     "text": "וימח את כל היקום אשר על פני האדמה",
+     "ref": "Genesis 7:23",
+     "label": "Genesis 7:23"
+    },
+    "question": "The verses already say 'all flesh expired' and 'they died'. Why add that they were blotted out, and that they were blotted out from the earth?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 7:23:2",
+      "era": "rishon",
+      "quote": "ומה צורך לאמר כן אחר שמתו הכל"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 7:17:1-4",
+      "era": "acharon",
+      "quote": "ועוד אומרו ג' חלוקי מיתות הנאמרים זו אחר זו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the bodies dissolved into water in the boiling flood; and perhaps it says this so that no eggs of the birds and creeping creatures were left in any tree or under the ground.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 7:23:1",
+        "quote": "שנמחו הגופות ויהיו למים"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 7:23:2",
+        "quote": "שלא נשאר בהם ביצים בכל עץ או תחת הארץ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: 'they were blotted out from the earth' means that their name, remnant, child and grandchild were gone.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 7:23:2",
+        "quote": "שם ושאר ונין ונכד"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: they were blotted out because they had no offspring, and so their name was erased from the earth.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 7:23:1",
+        "quote": "נמחה שמם מן הארץ כי אין להם זרע"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: 'He blotted out' is like 'I will surely blot out' – the wicked were erased from the world, and 'the name of the wicked shall rot'.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Noach 9:1",
+        "quote": "מהו וימח כענין שנאמר כי מחה אמחה"
+       }
+      ]
+     }
+    ],
+    "why": "It tells what the flood did beyond death: whether it erased bodies, names or the future of the generation."
+   },
+   {
+    "title": "Why does God remember the animals along with Noah?",
+    "pasuk": {
+     "text": "ויזכר אלהים את נח ואת כל החיה ואת כל הבהמה אשר אתו בתבה",
+     "ref": "Genesis 8:1",
+     "label": "Genesis 8:1"
+    },
+    "question": "Noah is remembered for his righteousness. What merit did the beasts have that the verse mentions them too?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 8:1:2",
+      "era": "rishon",
+      "quote": "מה זכר להם לבהמות"
+     },
+     {
+      "name": "Midrash Tanchuma Buber",
+      "ref": "Midrash Tanchuma Buber, Noach 11:1",
+      "era": "chazal",
+      "quote": "אם לנח נזכר למה לחיה ולבהמה"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 8:1:1",
+      "era": "rishon",
+      "quote": "אינה בזכות שאין בבעלי נפש זכות או חובה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: their merit was that they had not corrupted their ways before, and had not served in the ark.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:1:2",
+        "quote": "שלא השחיתו דרכם קדם לכן ושלא שמשו בתבה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: even the mouse kept to its own kind and did not mix, to earn reward; so God remembered them with Noah.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Noach 11:1",
+        "quote": "אפילו עכבר היה משמר משפחתו ולא נתערב במין אחר"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the remembering of the animals is not for merit; God remembered His word and His will at creation, and wished to keep the species He made.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 8:1:1",
+        "quote": "ורצה בקיום העולם במינין אשר ברא בו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the main remembering is of Noah, and it also remembers the burden he carried from the animals with him in the ark.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 8:1:2",
+        "quote": "גם זכר כל הטורח והעול אשר עליו מהבהמה והחיה"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches whether animals can have merit, and why the rescue of the animals is part of the flood story."
+   },
+   {
+    "title": "Why did Noah send the raven, and why did it go out and return?",
+    "pasuk": {
+     "text": "וישלח את הערב ויצא יצוא ושוב עד יבשת המים מעל הארץ",
+     "ref": "Genesis 8:7",
+     "label": "Genesis 8:7"
+    },
+    "question": "Why does the raven's mission not say 'to see if the waters had eased', and why would the dove be needed if the raven had returned?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 8:7:1",
+      "era": "acharon",
+      "quote": "צריך לדעת למה שלחו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:7:1-3",
+      "era": "acharon",
+      "quote": "מהראוי היה יאמר בעורב לראות הקלו המים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it circled the ark and did not go on its mission, because it suspected Noah about its mate (the Sages' account).",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:7:1",
+        "quote": "הולך ומקיף סביבות התבה ולא הלך בשליחותו"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: it was afraid to fly far lest it tire and fall; it went out to eat the corpses floating on the water and returned to its nest in the ark.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 8:6:1",
+        "quote": "והיה ירא לעוף למרחוק פן ייעף ויפל למים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Noah sent it to see whether the air had dried enough for the raven to bear; it went and returned because it could not stand it.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 8:7:1",
+        "quote": "לראות אם יבש האויר אחר שנראו ראשי ההרים"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 8:7:2",
+        "quote": "שלא יכול לסבלו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: the raven was one of three who served in the ark; it said Noah had set his eye on its mate, so it did not want to go.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 8:6:2",
+        "quote": "אמר העורב לנח עינך נתת על זוגתי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the first mission was meant to find out, and what the Sages learn from the raven."
+   },
+   {
+    "title": "Where did the dove find an olive leaf if the trees were uprooted?",
+    "pasuk": {
+     "text": "והנה עלה זית טרף בפיה",
+     "ref": "Genesis 8:11",
+     "label": "Genesis 8:11"
+    },
+    "question": "The flood destroyed everything on earth. How was a fresh leaf available, and why does the verse name an olive?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 8:11:1",
+      "era": "rishon",
+      "quote": "מפשוטו של פסוק זה יראה שלא נעקרו האילנות"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 8:11:1-4",
+      "era": "rishon",
+      "quote": "מהיכן הביאה אותו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:7:1-3",
+      "era": "acharon",
+      "quote": "למה בראשונה לא הלכה שם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah: from the Mount of Olives, since the land of Israel was not flooded; or the gates of Gan Eden opened for her.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 33:6",
+        "quote": "מהר המשחה הביאה אותו דלא טפת ארעא דישראל במבולא"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: from the plain meaning, the trees were not uprooted; the Midrash means they were uprooted where the flood fell, while the land of Israel received no flood rain.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 8:11:1",
+        "quote": "שלא היה עליה גשם המבול כדכתיב לא גשמה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: the leaf was visibly plucked from a tree, so it was not found floating on the water.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 8:11:1",
+        "quote": "שניכר היה בה שטרפה ונתקה מן העץ"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the dove chose the bitter olive on purpose, to be fed from the hand of Heaven rather than from flesh and blood.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 8:11:2",
+        "quote": "לפי שהיה בידי שמים ולא בידי בשר ודם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Noah knew the waters had eased, and what the Sages learn from the olive."
+   },
+   {
+    "title": "By which count are the months of the flood numbered?",
+    "pasuk": {
+     "text": "ותנח התבה בחדש השביעי בשבעה עשר יום לחדש על הרי אררט",
+     "ref": "Genesis 8:4",
+     "label": "Genesis 8:4"
+    },
+    "question": "The ark rests in 'the seventh month' and the mountaintops appear in 'the tenth'. Are the months counted from when the rain began or from when it stopped?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 8:5:1",
+      "era": "rishon",
+      "quote": "ואם תאמר הוא אלול"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 8:4:1",
+      "era": "rishon",
+      "quote": "איך יתכן שיחזור מיד בפסוק השני ויאמר עד החדש העשירי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the seventh month is Sivan, counted from when the rain stopped, and the tenth is Av, counted from when it began; each must be counted that way.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:4:1",
+        "quote": "סיון והוא שביעי לכסלו שבו פסקו הגשמים"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:5:1",
+        "quote": "זה אב שהוא עשירי למרחשון שהתחיל הגשם"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: both are counted from the same start, 17 Marcheshvan; the ark rested on 17 Nisan, after 150 days from the start of the rain.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 8:4:1",
+        "quote": "חמשים ומאת יום היו משבעה עשר יום לחדש השני הוא חדש מרחשון עד שבעה עשר יום לחדש השביעי"
+       }
+      ]
+     },
+     {
+      "text": "Seder Olam: the forty days of rain ended on 27 Kislev, and the 150 days of the waters ended on 1 Sivan.",
+      "sources": [
+       {
+        "name": "Seder Olam Rabbah",
+        "ref": "Seder Olam Rabbah 4:1",
+        "quote": "עד כ\"ז בכסלו…עד מתי חמשים ומאת יום עד אחד בסיון"
+       }
+      ]
+     }
+    ],
+    "why": "It decides when the ark rested and how long the waters really took to recede."
+   }
+  ],
+  "sources_consulted": [
+   "Malbim",
+   "Alshich",
+   "Torah Temimah",
+   "Bereshit Rabbah",
+   "Rashi",
+   "Gur Aryeh",
+   "Ramban",
+   "Sforno",
+   "Ibn Ezra",
+   "Midrash Tanchuma Buber",
+   "Or HaChaim",
+   "Bekhor Shor",
+   "Midrash Aggadah",
+   "Rabbeinu Bahya",
+   "Kli Yakar",
+   "Seder Olam Rabbah"
+  ]
+ },
+ "hebrew": {
+  "summary": "בעלייה השלישית של פרשת נח המבול גובר ארבעים יום עד שהתיבה מתרוממת מעל הארץ, והמים מכסים אפילו את ההרים הגבוהים בחמש עשרה אמה. כל חי שביבשה מת, ונשארים רק נח ומי שאתו בתיבה. אלוהים זוכר את נח ואת כל החיה והבהמה אשר אתו, מעביר רוח על הארץ, מעיינות תהום וארובות השמים נסגרים, והמים שבים. אחרי מאה וחמישים יום נחה התיבה על הרי אררט, ובחודש העשירי נראים ראשי ההרים. נח שולח את העורב ואחר כך את היונה שלוש פעמים; היונה חוזרת עם עלה זית ואחר כך אינה שבה. בשנת שש מאות ואחת חרבו המים מעל הארץ, ובעשרים ושבעה בחודש השני יבשה הארץ.",
+  "questions": [
+   {
+    "title": "מדוע הכתוב אומר שלוש פעמים שהמים גברו?",
+    "pasuk": {
+     "text": "והמים גברו מאד מאד על הארץ ויכסו כל ההרים הגבהים",
+     "ref": "Genesis 7:19",
+     "label": "בראשית ז, יט"
+    },
+    "question": "בפסוקים יז–יט כתוב שהמים רבו, אחר כך גברו, ואחר כך גברו מאד מאד. אם הגשם כבר ירד ארבעים יום, מה מוסיף כל שלב?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 7:17:1-2",
+      "era": "acharon",
+      "quote": "למה נכפל זכרון רבוי המים ג\"פ"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 7:17:1-4",
+      "era": "acharon",
+      "quote": "ראוי לשית לב מה ענין ג' הדרגות אלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המלבי\"ם: השלב הראשון היה ברבוי הכמות, שהרים את התיבה ממקומה, אך עדיין לא הלכה לשום מקום.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 7:17:1-2",
+        "quote": "תחלה וירבו המים בכמות וישאו את התבה ממקומה"
+       }
+      ]
+     },
+     {
+      "text": "האלשיך: העלייה הראשונה הייתה בדרך הטבע מארבעים יום של גשם, והגבורה שאחריה הייתה שלא בטבע, עד שהתיבה לא רק הורמה אלא הלכה על פני המים, ואחר כך כוסו ההרים הגבוהים.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 7:17:1-4",
+        "quote": "ואח\"כ שלא בטבע גברו מאד על הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שהמבול גדל בשלבים, וכל שלב מעבר למה שהקודם מסביר."
+   },
+   {
+    "title": "חמש עשרה אמה מעל מה: ההרים או הארץ?",
+    "pasuk": {
+     "text": "חמש עשרה אמה מלמעלה גברו המים ויכסו ההרים",
+     "ref": "Genesis 7:20",
+     "label": "בראשית ז, כ"
+    },
+    "question": "אם המים עמדו חמש עשרה אמה בכל מקום, התיבה לא הייתה עולה אל ההרים. ואם חמש עשרה אמה הן מעל ההרים, מה היה גובה ההרים?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 7:20:1",
+      "era": "acharon",
+      "quote": "מאי חמש עשרה אמה"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 32:11",
+      "era": "chazal",
+      "quote": "רבי יהודה אומר חמש עשרה אמה בהר וחמש עשרה בבקעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: חמש עשרה אמה מעל גובה כל ההרים, אחרי שהמים הושוו לראשי ההרים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:20:1",
+        "quote": "למעלה של גובה כל ההרים"
+       }
+      ]
+     },
+     {
+      "text": "רבי נחמיה בבראשית רבה: חמש עשרה אמה בהר, אבל בבקעה כל שהן.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 32:11",
+        "quote": "חמש עשרה אמה בהר אבל בבקעה כל שהן"
+       }
+      ]
+     },
+     {
+      "text": "תורה תמימה, על פי הגמרא: המים עלו תחילה עד ראשי ההרים, ואחר כך גברו עוד חמש עשרה אמה מלמעלה.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 7:20:1",
+        "quote": "אלא דאשוו מיא בהדי טורי והדר ט\"ו אמה מלמעלה גברו המים"
+       }
+      ]
+     },
+     {
+      "text": "הגור אריה: הכוונה מעל גובה ההרים ולא מעל הארץ; שוויון של חמש עשרה אמה בכל מקום יהיה נס, ופשוטו אינו צריך זאת.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 7:20:1",
+        "quote": "למעלה של גובה ההרים ולא למעלה מן הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע עד כמה עלו המים באמת, והאם המבול היה מעל ההרים או בגובה אחד בכל מקום."
+   },
+   {
+    "title": "אם כל מי שנושם מת, איך שרדו הדגים?",
+    "pasuk": {
+     "text": "כל אשר נשמת רוח חיים באפיו מכל אשר בחרבה מתו",
+     "ref": "Genesis 7:22",
+     "label": "בראשית ז, כב"
+    },
+    "question": "הכתוב אומר 'מכל אשר בחרבה מתו', והרמב\"ן מעיר שמי המבול הרותחים היו אמורים להמית גם את הדגים.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 7:23:1",
+      "era": "rishon",
+      "quote": "אבל אם כן יהיו הדגים מתים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הכתוב מוציא את הדגים שבים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 7:22:2",
+        "quote": "ולא דגים שבים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: 'בחרבה' פרט לדגים; ויש אומרים שאף הם היו בכלל, אלא שברחו לים הגדול לאוקיינוס.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 32:11",
+        "quote": "פרט לדגים ויש אומרים אף הן היו בכלל מאספין אלא שברחו לים הגדול לאוקיינוס"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן: או שהדגים חיו במעמקים בעוד שרק עליוני הים התחממו, או שברחו לאוקיינוס שלא ירד בו מבול.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 7:23:1",
+        "quote": "ויחממו עליוני הים בלבד והדגים יבאו בעמקי המצולות ויחיו שם"
+       }
+      ]
+     },
+     {
+      "text": "המלבי\"ם: דגי הים אינם צריכים לנשום רוח, ולכן 'נשמת רוח חיים באפיו' אינו כולל אותם.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 7:22:1",
+        "quote": "מלבד דגי הים שא\"צ לנשום רוח"
+       }
+      ]
+     }
+    ],
+    "why": "זה מבהיר מי נכלל בגזר דין המבול."
+   },
+   {
+    "title": "למה הוסיפה התורה 'וימח' אחרי שכבר אמרה שכולם מתו?",
+    "pasuk": {
+     "text": "וימח את כל היקום אשר על פני האדמה",
+     "ref": "Genesis 7:23",
+     "label": "בראשית ז, כג"
+    },
+    "question": "הפסוקים כבר אמרו 'ויגוע כל בשר' ו'מתו'. למה להוסיף שנמחו, ושנמחו מן הארץ?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 7:23:2",
+      "era": "rishon",
+      "quote": "ומה צורך לאמר כן אחר שמתו הכל"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 7:17:1-4",
+      "era": "acharon",
+      "quote": "ועוד אומרו ג' חלוקי מיתות הנאמרים זו אחר זו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן: הגופות נמחו והיו למים, כי המים היו רותחים; ואולי נאמר כך שלא נשארו ביצים של העופות והשרץ בשום עץ או תחת הארץ.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 7:23:1",
+        "quote": "שנמחו הגופות ויהיו למים"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 7:23:2",
+        "quote": "שלא נשאר בהם ביצים בכל עץ או תחת הארץ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: 'וימחו מן הארץ' – שם ושאר ונין ונכד.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 7:23:2",
+        "quote": "שם ושאר ונין ונכד"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: נמחה שמם מן הארץ כי אין להם זרע.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 7:23:1",
+        "quote": "נמחה שמם מן הארץ כי אין להם זרע"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא: 'וימח' כענין 'כי מחה אמחה' – הרשעים נמחו מן העולם, 'ושם רשעים ירקב'.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא (בובר)",
+        "ref": "Midrash Tanchuma Buber, Noach 9:1",
+        "quote": "מהו וימח כענין שנאמר כי מחה אמחה"
+       }
+      ]
+     }
+    ],
+    "why": "זה אומר מה עשה המבול מעבר למיתה: האם מחה גופות, שמות או את עתיד הדור."
+   },
+   {
+    "title": "למה אלוהים זוכר את החיות יחד עם נח?",
+    "pasuk": {
+     "text": "ויזכר אלהים את נח ואת כל החיה ואת כל הבהמה אשר אתו בתבה",
+     "ref": "Genesis 8:1",
+     "label": "בראשית ח, א"
+    },
+    "question": "נח נזכר בזכות צדקותו. איזו זכות הייתה לבהמות שהכתוב מזכיר גם אותן?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 8:1:2",
+      "era": "rishon",
+      "quote": "מה זכר להם לבהמות"
+     },
+     {
+      "name": "מדרש תנחומא (בובר)",
+      "ref": "Midrash Tanchuma Buber, Noach 11:1",
+      "era": "chazal",
+      "quote": "אם לנח נזכר למה לחיה ולבהמה"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 8:1:1",
+      "era": "rishon",
+      "quote": "אינה בזכות שאין בבעלי נפש זכות או חובה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: זכותם שלא השחיתו דרכם קודם לכן ושלא שימשו בתיבה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:1:2",
+        "quote": "שלא השחיתו דרכם קדם לכן ושלא שמשו בתבה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא: אפילו העכבר היה משמר משפחתו ולא נתערב במין אחר, כדי ליטול שכר, ולכן נזכר להם עם נח.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא (בובר)",
+        "ref": "Midrash Tanchuma Buber, Noach 11:1",
+        "quote": "אפילו עכבר היה משמר משפחתו ולא נתערב במין אחר"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן: הזכירה בבעלי חיים אינה בזכות; הקב\"ה זכר את דבר קדשו ואת רצונו בבריאת העולם, ורצה בקיום המינים שברא.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 8:1:1",
+        "quote": "ורצה בקיום העולם במינין אשר ברא בו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: עיקר הזכירה היא לנח, והיא כוללת גם את הטורח והעול שהיה עליו מן הבהמה והחיה שאתו בתיבה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 8:1:2",
+        "quote": "גם זכר כל הטורח והעול אשר עליו מהבהמה והחיה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד אם יש לבעלי חיים זכות, ולמה הצלת החיות היא חלק מסיפור המבול."
+   },
+   {
+    "title": "למה שלח נח את העורב, ולמה יצא ושב?",
+    "pasuk": {
+     "text": "וישלח את הערב ויצא יצוא ושוב עד יבשת המים מעל הארץ",
+     "ref": "Genesis 8:7",
+     "label": "בראשית ח, ז"
+    },
+    "question": "למה בשליחות העורב לא נאמר 'לראות הקלו המים', ולמה היה צריך את היונה אם העורב חזר?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 8:7:1",
+      "era": "acharon",
+      "quote": "צריך לדעת למה שלחו"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:7:1-3",
+      "era": "acharon",
+      "quote": "מהראוי היה יאמר בעורב לראות הקלו המים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הולך ומקיף סביבות התיבה, ולא הלך בשליחותו, שהיה חושדו על בת זוגו, כמו ששנינו באגדת חלק.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:7:1",
+        "quote": "הולך ומקיף סביבות התבה ולא הלך בשליחותו"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: היה ירא לעוף למרחוק פן ייעף ויפול למים, אבל היה יוצא לאכול נבלות שראה צפים על המים ושב אל קנו אל התיבה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 8:6:1",
+        "quote": "והיה ירא לעוף למרחוק פן ייעף ויפל למים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: שלחו לראות אם יבש האוויר באופן שיוכל העורב לסבלו; ויצא ושב מפני שלא יכול לסבלו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 8:7:1",
+        "quote": "לראות אם יבש האויר אחר שנראו ראשי ההרים"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 8:7:2",
+        "quote": "שלא יכול לסבלו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: העורב היה אחד משלושה ששמשו בתיבה; אמר לנח שנתן עין בזוגתו, ולכן לא רצה ללכת.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 8:6:2",
+        "quote": "אמר העורב לנח עינך נתת על זוגתי"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה הייתה מטרת השליחות הראשונה, ומה לומדים חכמים מן העורב."
+   },
+   {
+    "title": "מנין לקחה היונה עלה זית אם האילנות נעקרו?",
+    "pasuk": {
+     "text": "והנה עלה זית טרף בפיה",
+     "ref": "Genesis 8:11",
+     "label": "בראשית ח, יא"
+    },
+    "question": "המבול איבד כל מה שעל הארץ. איך היה עלה טרי, ולמה הכתוב מציין זית?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 8:11:1",
+      "era": "rishon",
+      "quote": "מפשוטו של פסוק זה יראה שלא נעקרו האילנות"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 8:11:1-4",
+      "era": "rishon",
+      "quote": "מהיכן הביאה אותו"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:7:1-3",
+      "era": "acharon",
+      "quote": "למה בראשונה לא הלכה שם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה: מהר המשחה הביאה אותו, שלא טפה ארץ ישראל במי המבול; ורב בייבי אמר נפתחו לה שערי גן עדן.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 33:6",
+        "quote": "מהר המשחה הביאה אותו דלא טפת ארעא דישראל במבולא"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן: לפי פשט הפסוק האילנות לא נעקרו; ודברי המדרש הם שנעקרו במקומות המבול, וארץ ישראל לא ירד עליה גשם המבול.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 8:11:1",
+        "quote": "שלא היה עליה גשם המבול כדכתיב לא גשמה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: ניכר היה בה שטרפה ונתקה מן העץ ולא מצאה על פני המים.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 8:11:1",
+        "quote": "שניכר היה בה שטרפה ונתקה מן העץ"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: בחרה היונה במאכל מר זה בכוונה, מפני שהיה בידי שמים ולא בידי בשר ודם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 8:11:2",
+        "quote": "לפי שהיה בידי שמים ולא בידי בשר ודם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך ידע נח שהמים קלו, ומה לומדים חכמים מן הזית."
+   },
+   {
+    "title": "לפי איזה מניין נמנים חודשי המבול?",
+    "pasuk": {
+     "text": "ותנח התבה בחדש השביעי בשבעה עשר יום לחדש על הרי אררט",
+     "ref": "Genesis 8:4",
+     "label": "בראשית ח, ד"
+    },
+    "question": "התיבה נחה ב'חודש השביעי' וראשי ההרים נראים ב'עשירי'. האם החודשים נמנים מתחילת הגשם או מהפסקתו?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 8:5:1",
+      "era": "rishon",
+      "quote": "ואם תאמר הוא אלול"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 8:4:1",
+      "era": "rishon",
+      "quote": "איך יתכן שיחזור מיד בפסוק השני ויאמר עד החדש העשירי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: החודש השביעי הוא סיון, והוא שביעי להפסקה, והעשירי הוא אב, עשירי למרחשוון שהתחיל הגשם; ועל כרחך כך הם נמנים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:4:1",
+        "quote": "סיון והוא שביעי לכסלו שבו פסקו הגשמים"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:5:1",
+        "quote": "זה אב שהוא עשירי למרחשון שהתחיל הגשם"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן: שני המניינים מאותה התחלה, י\"ז במרחשוון; התיבה נחה בי\"ז בניסן, אחרי מאה וחמישים יום מירידת הגשם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 8:4:1",
+        "quote": "חמשים ומאת יום היו משבעה עשר יום לחדש השני הוא חדש מרחשון עד שבעה עשר יום לחדש השביעי"
+       }
+      ]
+     },
+     {
+      "text": "סדר עולם: ארבעים יום של גשם עד כ\"ז בכסלו, וחמישים ומאת יום עד אחד בסיון.",
+      "sources": [
+       {
+        "name": "סדר עולם רבה",
+        "ref": "Seder Olam Rabbah 4:1",
+        "quote": "עד כ\"ז בכסלו…עד מתי חמשים ומאת יום עד אחד בסיון"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע מתי נחה התיבה וכמה זמן באמת ירדו המים."
+   }
+  ],
+  "sources_consulted": [
+   "מלבי\"ם",
+   "אלשיך",
+   "תורה תמימה",
+   "בראשית רבה",
+   "רש\"י",
+   "גור אריה",
+   "רמב\"ן",
+   "ספורנו",
+   "אבן עזרא",
+   "מדרש תנחומא (בובר)",
+   "אור החיים",
+   "בכור שור",
+   "מדרש אגדה",
+   "רבנו בחיי",
+   "כלי יקר",
+   "סדר עולם רבה"
+  ]
+ }
+}
