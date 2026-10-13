@@ -1,0 +1,1299 @@
+{
+ "date": "2026-10-13",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 8:15-9:7",
+ "hebrew_date": {
+  "hebrew": "ב׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "2 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "God tells Noah to leave the ark with his family and every living creature, and they come out by their families. Noah builds an altar and offers burnt offerings from the pure animals and birds. God accepts the offering and resolves never again to curse the earth or strike every living thing, because man's inclination is evil from youth, and promises that the seasons, day and night will not cease. God blesses Noah and his sons to be fruitful, puts fear of man on the animals, permits eating all living things but not flesh with its blood, warns that He will require a reckoning for human blood, and repeats the blessing to multiply.",
+  "questions": [
+   {
+    "title": "Why are the men and the women listed separately when Noah is told to leave the ark?",
+    "pasuk": {
+     "text": "צא מן התבה אתה ואשתך ובניך ונשי בניך",
+     "ref": "Genesis 8:16",
+     "label": "Genesis 8:16"
+    },
+    "question": "God lists Noah and his sons apart from the wives, just as on entry. Why is the order kept, and what does 'you and your wife' say about the time in the ark?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 8:16:1",
+      "era": "acharon",
+      "quote": "ובכניסתם הזכיר הזכרים לבד והנקבות לבד"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:18:1-2",
+      "era": "acharon",
+      "quote": "ואיך יאמר ויצא נח ובניו ואשתו ונשי בניו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: here He permitted them marital relations. Bereshit Rabbah: on entering, Noah was forbidden to have children; on leaving it was permitted.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:16:1",
+        "quote": "כאן התיר להם תשמיש המטה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 34:7",
+        "quote": "נח כיון שנכנס לתבה נאסרה לו פריה ורביה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: even though they were now told they could, they stayed apart while still in the ark, and the verse's order shows it.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 8:16:1",
+        "quote": "שעד זמן היציאה הם פרושים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: Noah did not do as told but 'Noah went out and his sons' first; Rabbi Yehudah and Rabbi Nechemiah disagree why.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 8:16:1",
+        "quote": "פליגי ביה רבי יהודה ורבי נחמיה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah reads the exact order of the words as law about the ark."
+   },
+   {
+    "title": "Why are the animals called 'families' when only a pair of each came out?",
+    "pasuk": {
+     "text": "למשפחתיהם יצאו מן התבה",
+     "ref": "Genesis 8:19",
+     "label": "Genesis 8:19"
+    },
+    "question": "The verse says the creatures left 'by their families', yet most kinds entered as a single pair. What does 'families' mean?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:19:1",
+      "era": "acharon",
+      "quote": "יקשה כי בב' ב' זכר ונקבה לא יצדק יקראו משפחה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they accepted on themselves to keep to their own kind.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:19:1",
+        "quote": "קבלו עליהם על מנת לדבק במינן"
+       }
+      ]
+     },
+     {
+      "text": "Radak: 'their families' means 'their kinds', each kind by itself.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 8:19:2",
+        "quote": "למיניהם רוצה לומר כל מין ומין בפני עצמו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it is like 'by their kinds', and some say they gave birth in the ark.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 8:19:1",
+        "quote": "כמו למינם ויש אומרים שהולידו בתיבה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: 'by their families' excludes a castrated animal.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 34:8",
+        "quote": "למשפחתיהם פרט לסירוס"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the word describes Noah's ark or the rebuilt world."
+   },
+   {
+    "title": "How did Noah know to bring offerings from the pure animals?",
+    "pasuk": {
+     "text": "ויבן נח מזבח ליהוה",
+     "ref": "Genesis 8:20",
+     "label": "Genesis 8:20"
+    },
+    "question": "No one had told Noah to bring offerings. How did he know it was wanted, and why from the pure animals?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:19:1",
+      "era": "acharon",
+      "quote": "מהיכן ידע נח ענין ההקרבה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he said God had not told him to take seven of each pure kind except to offer from them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:20:1",
+        "quote": "לא צוה לי הקב\"ה להכניס מאלו ז' ז'"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: he asked why God multiplied the pure animals over the impure, and concluded it was to offer from them.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 34:9",
+        "quote": "מפני מה צוני הקדוש ברוך הוא ורבה בטהורים יותר מן הטמאים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he offered burnt offerings like those who sail the sea give thanks, because he too had been in great danger and survived.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 8:20:1",
+        "quote": "כדרך יורדי הים באניות כדכתיב ויזבחו זבחי תודה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the altar as Noah's own understanding and thanks, not a command."
+   },
+   {
+    "title": "How can the Creator 'smell' an offering and be moved by it?",
+    "pasuk": {
+     "text": "וירח יהוה את ריח הניחח",
+     "ref": "Genesis 8:21",
+     "label": "Genesis 8:21"
+    },
+    "question": "The verse says God smelled the pleasing aroma and then promised never to bring another flood. What does smelling mean, and why should an offering change the decree?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 8:15",
+      "era": "acharon",
+      "quote": "וירח ה' את ריח הנחח כאלו התפעל מהקרבנות"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 8:21:1",
+      "era": "rishon",
+      "quote": "וחלילה חלילה להיות השם מריח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: God does not smell; it means He accepted the offering.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 8:21:1",
+        "quote": "רק הטעם שקבל העולה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the Torah speaks in human language, as a figure of speech.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 8:21:1",
+        "quote": "דברה תורה כלשון בני אדם ודרך משל הוא"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: though the offering came from Noah's belongings, which are God's own, He was still pleased with it.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 8:21:1",
+        "quote": "שהגם שהקרבן שהקריב נח מנכסיו הם נכסי שמים"
+       }
+      ]
+     }
+    ],
+    "why": "It is the Torah's basic question about how an offering reaches God."
+   },
+   {
+    "title": "What does it mean that God said it 'to His heart'?",
+    "pasuk": {
+     "text": "ויאמר יהוה אל לבו",
+     "ref": "Genesis 8:21",
+     "label": "Genesis 8:21"
+    },
+    "question": "Why does the verse say God spoke to His heart, when He soon tells Noah the same promise?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 8:15",
+      "era": "acharon",
+      "quote": "ומה ענין אל לבו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:21:1-2",
+      "era": "acharon",
+      "quote": "מה היא אמירה אל לבו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: it was not revealed to a prophet then, only when Moshe was told to write the Torah.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 8:21:1",
+        "quote": "לא גלה הדבר לנביא בזמן ההוא"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: He did not tell Noah and his sons until they accepted His commandments.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 8:21:2",
+        "quote": "שלא גלה לנח ולבניו עד שקבלו מצוותיו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it means 'with His heart', and afterwards He revealed His secret to Noah, who was a prophet.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 8:21:3",
+        "quote": "כמו עם לבו ואחר כן גילה סודו לנח"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the wicked are ruled by their hearts, while the righteous rule their hearts; so this is the way of the righteous.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 34:10",
+        "quote": "אבל הצדיקים לבן ברשותן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows when the promise was made known and what it says about God's way."
+   },
+   {
+    "title": "Why does God say 'I will not again' twice in one verse?",
+    "pasuk": {
+     "text": "ולא אסף עוד להכות את כל חי",
+     "ref": "Genesis 8:21",
+     "label": "Genesis 8:21"
+    },
+    "question": "God says 'I will not again curse the ground' and then 'nor will I again strike every living thing'. Why the repetition, and why in different word order?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 8:21:2",
+      "era": "acharon",
+      "quote": "צריך לדעת למה כפל לומר לא אוסיף ולא אוסיף"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 8:21:1-2",
+      "era": "acharon",
+      "quote": "ועדין צריך טעם אל השינוי הלשון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the doubling makes it an oath.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 8:21:2",
+        "quote": "כפל הדבר לשבועה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the first refers to the ground, the second to living things, so it is not a true repetition.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 8:21:3",
+        "quote": "לא אוסיף ראשונה היה על פרטי האדמה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: by the plain sense, one refers to the ground and the other to living creatures.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 8:21:1",
+        "quote": "לפי הפשט חד קאי אהאדמה ואידך קאי אבעלי חיים"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: one promise was to Noah, the other to the generations after him.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 8:21:5",
+        "quote": "לא אוסיף לנח ולא אוסיף לדורות"
+       }
+      ]
+     }
+    ],
+    "why": "It separates the promise about the earth from the promise about every creature."
+   },
+   {
+    "title": "Is man's evil inclination a reason to spare him, or to condemn him?",
+    "pasuk": {
+     "text": "כי יצר לב האדם רע מנעריו",
+     "ref": "Genesis 8:21",
+     "label": "Genesis 8:21"
+    },
+    "question": "God gives 'the inclination of man's heart is evil from his youth' as the reason not to destroy again. If that were true now, why was it not true before the flood?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 8:15",
+      "era": "acharon",
+      "quote": "ואם היא צודקת למה לא חשב כזאת בתחלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: it teaches in their favor, since the evil appears in youth and not in old age.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 8:21:2",
+        "quote": "מלמד עליהם זכות שיצירתם בתולדת רעה בימי הנעורים"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: after the flood the earth's coarse matter was purified, so the evil is now only from youth.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 8:21:2",
+        "quote": "אחר המבול שנטהר חמר הארץ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: after the flood the temperaments are weaker, so the intellect does not shine from youth as it did before.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 8:21:3",
+        "quote": "כי בהיות המזגים מכאן ואילך פחותים מאשר היו קדם המבול"
+       }
+      ]
+     },
+     {
+      "text": "Radak: God saw in His wisdom that man was made this way, so he sins unless he is one in a thousand.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 8:21:5",
+        "quote": "כי כן ראיתי בחכמתי לברא אותו"
+       }
+      ]
+     }
+    ],
+    "why": "It turns the reason for the promise into a question about human nature."
+   },
+   {
+    "title": "Why was meat permitted only now, and only to Noah?",
+    "pasuk": {
+     "text": "כל רמש אשר הוא חי לכם יהיה לאכלה",
+     "ref": "Genesis 9:3",
+     "label": "Genesis 9:3"
+    },
+    "question": "Adam was given plants to eat. What changed with Noah that eating meat became allowed?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 9:3:1",
+      "era": "acharon",
+      "quote": "יש לדעת למה לא התר הבשר לאדם אלא לנח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: he toiled over the animals in the ark, and his offering brought the oath, so they were given to him.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 9:3:1",
+        "quote": "שהוא טרח בהם ויגע בתבה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: meat was permitted to Noah because he took care of the animals in the ark.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:4:1",
+        "quote": "לפיכך התיר הבשר לנח לפי שטרח בבהמה ובחיה וברמש ובעוף להחיות אותם בתבה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: all flesh was condemned in the flood and was saved in their merit, so He permitted them to slaughter and eat.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 9:3:1-2",
+        "quote": "לפי שכל הבשר נתחיב כליה במבול ובזכותם נצולו"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: others may not eat meat, but Noah, who engaged in Torah, was permitted.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 9:2:1",
+        "quote": "אבל נח שעסק בתורה הותרה לו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the permission to eat meat is tied to merit, not just to need."
+   },
+   {
+    "title": "How can an animal be held to account for a death?",
+    "pasuk": {
+     "text": "מיד כל חיה אדרשנו",
+     "ref": "Genesis 9:5",
+     "label": "Genesis 9:5"
+    },
+    "question": "God says He will require a man's blood 'from every animal'. An animal has no understanding to be punished. What does this mean?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 9:5:2",
+      "era": "rishon",
+      "quote": "תמה אני אם הדרישה כמשמעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: perhaps only for a man's blood, an animal that kills him is put to death, because it is the king's decree.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 9:5:2",
+        "quote": "שכל החיה שתטרף אותו תטרף כי גזרת מלך היא"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the generation of the flood was left as food for wild beasts, so the beasts needed to be warned.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:5:3",
+        "quote": "לפי שחטאו דור המבול והפקרו למאכל חיות רעות"
+       }
+      ]
+     },
+     {
+      "text": "Radak: He will give the killer into the hand of another animal, or a man.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:5:3",
+        "quote": "שיתננה ביד חיה אחרת להרגה או ביד אדם"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: 'every animal' means the four kingdoms, which are called beasts.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 9:5:2",
+        "quote": "אלו ארבע מלכיות שנקראו חיות"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: a rooster that killed a person was brought to court and stoned.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 9:5:3",
+        "quote": "ומעשה היה בתרנגול שהרג את הנפש והביאוהו לבית דין וסקלוהו"
+       }
+      ]
+     }
+    ],
+    "why": "It asks how far the law of bloodshed reaches, even to animals."
+   },
+   {
+    "title": "Why is 'be fruitful and multiply' said twice?",
+    "pasuk": {
+     "text": "ואתם פרו ורבו שרצו בארץ ורבו בה",
+     "ref": "Genesis 9:7",
+     "label": "Genesis 9:7"
+    },
+    "question": "God already said 'be fruitful and multiply' in verse 1. Why does He repeat it here, after the law about bloodshed?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 9:7:1",
+      "era": "acharon",
+      "quote": "וצריך לתת לב למה חזר פעם שניה לצוות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: by the plain sense the first is a blessing and this is a command; by the midrash, one who does not have children is compared to a murderer.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:7:1",
+        "quote": "לפי פשוטו הראשונה לברכה וכאן לצווי"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the command is doubled to strengthen it.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 9:7:1",
+        "quote": "כי יכפל המצוה לחזוק"
+       }
+      ]
+     },
+     {
+      "text": "Radak: those who left the ark were few, so the blessing is repeated to strengthen it.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:7:1",
+        "quote": "לפי שהיוצאים מן התבה היו מעטים"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: one verse is the command and the second is an obligation.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 9:7:1",
+        "quote": "פסוק אחד בא למצוה ופסוק שני בא לחובה"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: from this, anyone who neglects having children is as if he sheds blood.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 9:7:1",
+        "quote": "מיכן שכל המבטל מפריה ורביה כאילו שופך דמים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the Torah linking life-giving to the ban on bloodshed."
+   }
+  ],
+  "sources_consulted": [
+   "Kli Yakar",
+   "Alshich",
+   "Rashi",
+   "Bereshit Rabbah",
+   "Or HaChaim",
+   "Chizkuni",
+   "Radak",
+   "Ibn Ezra",
+   "Abarbanel",
+   "Ramban",
+   "Sforno",
+   "Midrash Lekach Tov",
+   "Rabbeinu Bahya"
+  ]
+ },
+ "hebrew": {
+  "summary": "ה' מצווה את נח לצאת מן התיבה עם משפחתו ועם כל החיה, והם יוצאים למשפחותיהם. נח בונה מזבח ומעלה עולות מן הבהמה והעוף הטהורים. ה' מקבל את הקרבן ומחליט שלא יוסיף לקלל את האדמה ולא להכות את כל חי, כי יצר לב האדם רע מנעוריו, ומבטיח שהעתים, היום והלילה לא ישבתו. ה' מברך את נח ובניו לפרות ולרבות, נותן את מוראם על החיות, מתיר לאכול כל רמש חי אך לא בשר עם דמו, מזהיר שידרוש דם האדם, וחוזר ומצווה לפרות ולרבות.",
+  "questions": [
+   {
+    "title": "למה נאמר לנח לצאת מן התיבה בהפרדה בין האנשים לנשים?",
+    "pasuk": {
+     "text": "צא מן התבה אתה ואשתך ובניך ונשי בניך",
+     "ref": "Genesis 8:16",
+     "label": "בראשית ח, טז"
+    },
+    "question": "הקב\"ה מונה את נח ובניו בנפרד מנשיהם, כמו בכניסה לתיבה. מדוע נשמר הסדר, ומה אומר הלשון 'אתה ואשתך' על הזמן שבתיבה?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 8:16:1",
+      "era": "acharon",
+      "quote": "ובכניסתם הזכיר הזכרים לבד והנקבות לבד"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:18:1-2",
+      "era": "acharon",
+      "quote": "ואיך יאמר ויצא נח ובניו ואשתו ונשי בניו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כאן התיר להם תשמיש המטה. ובראשית רבה: כשנכנס נאסרה לו פריה ורביה, וכשיצא הותרה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:16:1",
+        "quote": "כאן התיר להם תשמיש המטה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 34:7",
+        "quote": "נח כיון שנכנס לתבה נאסרה לו פריה ורביה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: אף שהותר להם, נשארו פרושים כל זמן שהיו בתיבה, והסדר בפסוק מורה על כך.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 8:16:1",
+        "quote": "שעד זמן היציאה הם פרושים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: נח לא עשה כך אלא 'ויצא נח ובניו'; ורבי יהודה ורבי נחמיה חלוקים בטעם הדבר.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 8:16:1",
+        "quote": "פליגי ביה רבי יהודה ורבי נחמיה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך הלשון המדויק בפסוק נדרש להלכה על חיי התיבה."
+   },
+   {
+    "title": "מדוע נקראות החיות 'משפחות' אם יצא רק זוג מכל מין?",
+    "pasuk": {
+     "text": "למשפחתיהם יצאו מן התבה",
+     "ref": "Genesis 8:19",
+     "label": "בראשית ח, יט"
+    },
+    "question": "הפסוק אומר שהחיות יצאו 'למשפחותיהם', אך רוב המינים נכנסו כזוג אחד. מה פירוש 'משפחות'?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:19:1",
+      "era": "acharon",
+      "quote": "יקשה כי בב' ב' זכר ונקבה לא יצדק יקראו משפחה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: קיבלו על עצמם להידבק במינם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:19:1",
+        "quote": "קבלו עליהם על מנת לדבק במינן"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: 'למשפחותיהם' הם מיניהם, כל מין בפני עצמו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 8:19:2",
+        "quote": "למיניהם רוצה לומר כל מין ומין בפני עצמו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: כמו 'למינם', ויש אומרים שהוליד בתיבה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 8:19:1",
+        "quote": "כמו למינם ויש אומרים שהולידו בתיבה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: 'למשפחתיהם' – פרט לסירוס.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 34:8",
+        "quote": "למשפחתיהם פרט לסירוס"
+       }
+      ]
+     }
+    ],
+    "why": "קובע אם המילה מתארת את התיבה או את העולם שאחרי המבול."
+   },
+   {
+    "title": "מנין ידע נח להקריב מן הבהמות הטהורות?",
+    "pasuk": {
+     "text": "ויבן נח מזבח ליהוה",
+     "ref": "Genesis 8:20",
+     "label": "בראשית ח, כ"
+    },
+    "question": "איש לא ציווה את נח להקריב. מנין ידע שרצון ה' בכך, ומדוע דווקא מן הטהורות?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:19:1",
+      "era": "acharon",
+      "quote": "מהיכן ידע נח ענין ההקרבה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אמר, לא ציווה אותי הקב\"ה להכניס מאלו שבעה שבעה אלא כדי להקריב מהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:20:1",
+        "quote": "לא צוה לי הקב\"ה להכניס מאלו ז' ז'"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: שאל מדוע ריבה הקב\"ה בטהורים על פני הטמאים, והסיק שהוא כדי להקריב מהם.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 34:9",
+        "quote": "מפני מה צוני הקדוש ברוך הוא ורבה בטהורים יותר מן הטמאים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: העלה עולות כדרך יורדי הים, שהודו, כי גם הוא עמד בצער גדול ונמלט.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 8:20:1",
+        "quote": "כדרך יורדי הים באניות כדכתיב ויזבחו זבחי תודה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את המזבח כהבנתו והודאתו של נח, לא כציווי."
+   },
+   {
+    "title": "איך אפשר לומר שה' 'הריח' קרבן והושפע ממנו?",
+    "pasuk": {
+     "text": "וירח יהוה את ריח הניחח",
+     "ref": "Genesis 8:21",
+     "label": "בראשית ח, כא"
+    },
+    "question": "הפסוק אומר שה' הריח את ריח הניחוח ואז הבטיח שלא יביא עוד מבול. מה פירוש ריח, ומדוע יבטל קרבן את הגזירה?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 8:15",
+      "era": "acharon",
+      "quote": "וירח ה' את ריח הנחח כאלו התפעל מהקרבנות"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 8:21:1",
+      "era": "rishon",
+      "quote": "וחלילה חלילה להיות השם מריח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: ה' אינו מריח; הכוונה שקיבל את העולה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 8:21:1",
+        "quote": "רק הטעם שקבל העולה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: דיברה תורה כלשון בני אדם, דרך משל.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 8:21:1",
+        "quote": "דברה תורה כלשון בני אדם ודרך משל הוא"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: אף שהקרבן מנכסיו של נח, שהם נכסי שמים, התרצה בהם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 8:21:1",
+        "quote": "שהגם שהקרבן שהקריב נח מנכסיו הם נכסי שמים"
+       }
+      ]
+     }
+    ],
+    "why": "זו שאלת היסוד של התורה על האופן שבו קרבן מגיע אל ה'."
+   },
+   {
+    "title": "מה פירוש שה' אמר 'אל לבו'?",
+    "pasuk": {
+     "text": "ויאמר יהוה אל לבו",
+     "ref": "Genesis 8:21",
+     "label": "בראשית ח, כא"
+    },
+    "question": "מדוע נאמר שה' אמר אל לבו, והרי מיד אחר כך הוא מודיע זאת לנח?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 8:15",
+      "era": "acharon",
+      "quote": "ומה ענין אל לבו"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:21:1-2",
+      "era": "acharon",
+      "quote": "מה היא אמירה אל לבו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: לא גילה זאת לנביא באותו זמן, אלא כשציווה את משה לכתוב את התורה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 8:21:1",
+        "quote": "לא גלה הדבר לנביא בזמן ההוא"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא גילה לנח ולבניו עד שקיבלו את מצוותיו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 8:21:2",
+        "quote": "שלא גלה לנח ולבניו עד שקבלו מצוותיו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: כמו 'עם לבו', ואחר כך גילה סודו לנח, כי נביא היה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 8:21:3",
+        "quote": "כמו עם לבו ואחר כן גילה סודו לנח"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: הרשעים ברשות לבם, והצדיקים לבם ברשותם; וזו דרכם של צדיקים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 34:10",
+        "quote": "אבל הצדיקים לבן ברשותן"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מתי נודעה ההבטחה ומה היא אומרת על דרכו של ה'."
+   },
+   {
+    "title": "למה כפל ה' 'לא אוסיף' פעמיים בפסוק אחד?",
+    "pasuk": {
+     "text": "ולא אסף עוד להכות את כל חי",
+     "ref": "Genesis 8:21",
+     "label": "בראשית ח, כא"
+    },
+    "question": "ה' אומר 'לא אוסיף לקלל עוד את האדמה' ואחר כך 'ולא אוסיף עוד להכות את כל חי'. מדוע הכפילות, ומדוע בסדר מילים שונה?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 8:21:2",
+      "era": "acharon",
+      "quote": "צריך לדעת למה כפל לומר לא אוסיף ולא אוסיף"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 8:21:1-2",
+      "era": "acharon",
+      "quote": "ועדין צריך טעם אל השינוי הלשון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הכפל הוא לשבועה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 8:21:2",
+        "quote": "כפל הדבר לשבועה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: הראשון על האדמה והשני על כל חי, ולכן אין זו כפילות ממש.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 8:21:3",
+        "quote": "לא אוסיף ראשונה היה על פרטי האדמה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לפי הפשט, האחד על האדמה והשני על בעלי החיים.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 8:21:1",
+        "quote": "לפי הפשט חד קאי אהאדמה ואידך קאי אבעלי חיים"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: האחד לנח, והשני לדורות.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 8:21:5",
+        "quote": "לא אוסיף לנח ולא אוסיף לדורות"
+       }
+      ]
+     }
+    ],
+    "why": "מבדיל בין ההבטחה על האדמה לבין ההבטחה על כל יצור חי."
+   },
+   {
+    "title": "האם יצר הרע של האדם הוא סיבה לחוס עליו או לדונו?",
+    "pasuk": {
+     "text": "כי יצר לב האדם רע מנעריו",
+     "ref": "Genesis 8:21",
+     "label": "בראשית ח, כא"
+    },
+    "question": "ה' נותן כסיבה שלא להשחית שוב את הטענה 'יצר לב האדם רע מנעריו'. אם כך הוא עכשיו, מדוע לא היה כך לפני המבול?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 8:15",
+      "era": "acharon",
+      "quote": "ואם היא צודקת למה לא חשב כזאת בתחלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: מלמד עליהם זכות, שהיצר נוצר ברע בימי הנעורים ולא בזקנה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 8:21:2",
+        "quote": "מלמד עליהם זכות שיצירתם בתולדת רעה בימי הנעורים"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אחר המבול נטהר חומר הארץ, ולכן הרע הוא רק מנעוריו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 8:21:2",
+        "quote": "אחר המבול שנטהר חמר הארץ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אחר המבול המזגים פחותים, ולכן השכל אינו מאיר מנעוריהם כבראשונה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 8:21:3",
+        "quote": "כי בהיות המזגים מכאן ואילך פחותים מאשר היו קדם המבול"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ראה בחכמתו שכך נברא האדם, ולכן הוא חוטא אלא אם כן אחד מאלף.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 8:21:5",
+        "quote": "כי כן ראיתי בחכמתי לברא אותו"
+       }
+      ]
+     }
+    ],
+    "why": "הופך את סיבת ההבטחה לשאלה על טבע האדם."
+   },
+   {
+    "title": "מדוע הותר הבשר רק עכשיו, ורק לנח?",
+    "pasuk": {
+     "text": "כל רמש אשר הוא חי לכם יהיה לאכלה",
+     "ref": "Genesis 9:3",
+     "label": "בראשית ט, ג"
+    },
+    "question": "לאדם הראשון ניתנו הצמחים לאכילה. מה השתנה בנח עד שהותר הבשר?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 9:3:1",
+      "era": "acharon",
+      "quote": "יש לדעת למה לא התר הבשר לאדם אלא לנח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: הוא טרח בהם בתיבה, ובקרבנו נשבע ה', ולכן ניתנו לו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 9:3:1",
+        "quote": "שהוא טרח בהם ויגע בתבה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הותר הבשר לנח מפני שטרח בבהמה ובחיה בתיבה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:4:1",
+        "quote": "לפיכך התיר הבשר לנח לפי שטרח בבהמה ובחיה וברמש ובעוף להחיות אותם בתבה"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: כל הבשר נתחייב כליה במבול ונצול בזכותם, לכן התיר להם לשחוט ולאכול.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 9:3:1-2",
+        "quote": "לפי שכל הבשר נתחיב כליה במבול ובזכותם נצולו"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: כל עם הארץ אסור לאכול בשר, אבל נח שעסק בתורה הותרה לו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 9:2:1",
+        "quote": "אבל נח שעסק בתורה הותרה לו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שההיתר לאכול בשר קשור לזכות ולא רק לצורך."
+   },
+   {
+    "title": "איך אפשר לדרוש דם מן החיה?",
+    "pasuk": {
+     "text": "מיד כל חיה אדרשנו",
+     "ref": "Genesis 9:5",
+     "label": "בראשית ט, ה"
+    },
+    "question": "ה' אומר שידרוש דם האדם 'מיד כל חיה'. אין בחיה דעת להיענש. מה פירוש הדבר?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 9:5:2",
+      "era": "rishon",
+      "quote": "תמה אני אם הדרישה כמשמעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אולי רק בדם האדם, חיה שהרגה אותו נהרגת, כי גזרת מלך היא.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 9:5:2",
+        "quote": "שכל החיה שתטרף אותו תטרף כי גזרת מלך היא"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: דור המבול הופקר למאכל חיות רעות, ולכן הוזהרו החיות עליהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:5:3",
+        "quote": "לפי שחטאו דור המבול והפקרו למאכל חיות רעות"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ייתן אותו ביד חיה אחרת להרגו או ביד אדם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:5:3",
+        "quote": "שיתננה ביד חיה אחרת להרגה או ביד אדם"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: 'כל חיה' אלו ארבע מלכויות שנקראו חיות.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 9:5:2",
+        "quote": "אלו ארבע מלכיות שנקראו חיות"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: מעשה בתרנגול שהרג והובא לבית דין ונסקל.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 9:5:3",
+        "quote": "ומעשה היה בתרנגול שהרג את הנפש והביאוהו לבית דין וסקלוהו"
+       }
+      ]
+     }
+    ],
+    "why": "שואל עד היכן מגיע דין שפיכות דמים, אף על בעלי חיים."
+   },
+   {
+    "title": "למה נאמר 'פרו ורבו' פעמיים?",
+    "pasuk": {
+     "text": "ואתם פרו ורבו שרצו בארץ ורבו בה",
+     "ref": "Genesis 9:7",
+     "label": "בראשית ט, ז"
+    },
+    "question": "ה' כבר אמר 'פרו ורבו' בפסוק א. מדוע חוזר על כך כאן, אחרי דין שפיכות דמים?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 9:7:1",
+      "era": "acharon",
+      "quote": "וצריך לתת לב למה חזר פעם שניה לצוות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לפי פשוטו הראשון ברכה וכאן ציווי; ולפי מדרשו, מי שאינו עוסק בפריה ורביה כשופך דמים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:7:1",
+        "quote": "לפי פשוטו הראשונה לברכה וכאן לצווי"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: המצווה נכפלת לחיזוק.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 9:7:1",
+        "quote": "כי יכפל המצוה לחזוק"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: היוצאים מן התיבה היו מעטים, ולכן כפל את הברכה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:7:1",
+        "quote": "לפי שהיוצאים מן התבה היו מעטים"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: פסוק אחד בא למצווה והשני לחובה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 9:7:1",
+        "quote": "פסוק אחד בא למצוה ופסוק שני בא לחובה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: מכאן שכל המבטל מפריה ורביה כאילו שופך דמים.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 9:7:1",
+        "quote": "מיכן שכל המבטל מפריה ורביה כאילו שופך דמים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את הקשר שבין מתן חיים לאיסור שפיכות דמים."
+   }
+  ],
+  "sources_consulted": [
+   "כלי יקר",
+   "אלשיך",
+   "רש\"י",
+   "בראשית רבה",
+   "אור החיים",
+   "חזקוני",
+   "רד\"ק",
+   "אבן עזרא",
+   "אברבנאל",
+   "רמב\"ן",
+   "ספורנו",
+   "מדרש לקח טוב",
+   "רבנו בחיי"
+  ]
+ }
+}
