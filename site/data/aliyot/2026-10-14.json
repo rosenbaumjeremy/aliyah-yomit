@@ -1,0 +1,1071 @@
+{
+ "date": "2026-10-14",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 9:8-9:17",
+ "hebrew_date": {
+  "hebrew": "ג׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "3 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "After the flood, God speaks to Noah and his sons and establishes a covenant with them, their descendants and every living creature that left the ark. He promises that never again will all flesh be cut off by flood waters or a flood destroy the earth. As the sign of this covenant He sets His bow in the clouds: when clouds gather and the bow appears, He will remember the everlasting covenant between Himself and all living creatures. God repeats to Noah that this is the sign of the covenant with all flesh on earth.",
+  "questions": [
+   {
+    "title": "Why does God add a covenant and a sign when He already promised never to destroy the world again?",
+    "pasuk": {
+     "text": "ואני הנני מקים את בריתי",
+     "ref": "Genesis 9:9",
+     "label": "Genesis 9:9"
+    },
+    "question": "In Genesis 8:21 God had already resolved not to destroy the world again. Why does He now say 'I establish My covenant' and add a sign?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 9:9:1",
+      "era": "acharon",
+      "quote": "ואף על גב דכתיב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Noah had been anxious about having children, so God now agrees with him and gives a sign to strengthen the earlier promise.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:9:1",
+        "quote": "מסכים אני עמך שהיה נח דואג לעסוק בפריה ורביה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: an oath can be annulled; a sign is stronger because it has no annulment.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 9:9:1",
+        "quote": "כי השבועה אפשר שתהא לה התרה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the covenant rests on the condition of not shedding innocent blood.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:9:1",
+        "quote": "על זה התנאי שלא תשפכו דם נקי אני מקים את בריתי"
+       }
+      ]
+     }
+    ],
+    "why": "The rainbow is added assurance on top of a promise already given."
+   },
+   {
+    "title": "Why does the verse name the animals three times: 'with you', 'from all that left the ark', 'every beast of the earth'?",
+    "pasuk": {
+     "text": "ומכל יוצאי התבה לכל חית הארץ",
+     "ref": "Genesis 9:10",
+     "label": "Genesis 9:10"
+    },
+    "question": "Each phrase seems to cover the same animals. What does each add, and does 'every beast of the earth' include creatures that were not in the ark?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 9:10:2",
+      "era": "acharon",
+      "quote": "הוצרך הכתוב לחזור ולומר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'beast of the earth' brings in the harmful creatures that do not walk with people.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:10:3",
+        "quote": "להביא המזיקין שאינן בכלל החיה אשר אתכם"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi: the harmful creatures are the demons, which were also in the ark.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 9:10:2",
+        "quote": "לכלול השדים אע\"פ שאינם מתהלכים עמכם"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: not demons, since demons are not called 'chayot'; it means harmful animals.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 9:10:1",
+        "quote": "ואין השדים נקראים 'חיות'"
+       }
+      ]
+     },
+     {
+      "text": "Radak: per Bereshit Rabbah the phrase brings in the offspring of the animals.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:10:1",
+        "quote": "לכל חית הארץ בא להביא תולדותיהם"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: the covenant passes to every future animal in all generations.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 9:10:1",
+        "quote": "יעבור הברית הזה לכל חית הארץ בכל הדורות הבאים"
+       }
+      ]
+     }
+    ],
+    "why": "It defines who is protected by the covenant."
+   },
+   {
+    "title": "What does it mean to 'establish' a covenant that was already made?",
+    "pasuk": {
+     "text": "והקמתי את בריתי אתכם",
+     "ref": "Genesis 9:11",
+     "label": "Genesis 9:11"
+    },
+    "question": "God said 'I establish My covenant' in verse 9 without saying what it is. What is the establishing, and why is it repeated?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 9:11:1",
+      "era": "rishon",
+      "quote": "ולא פרש על מה הוא הברית"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 9:11:1",
+      "era": "acharon",
+      "quote": "שהרי כבר הבטיח הקב\"ה את נח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it means making a confirmation of the covenant, and that confirmation is the sign of the bow.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:11:1",
+        "quote": "אעשה קיום לבריתי"
+       }
+      ]
+     },
+     {
+      "text": "Radak: now the verse says what it is, that all flesh will not be cut off by the flood.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:11:1",
+        "quote": "ועתה פירש שלא יכרת כל בשר ממי המבול"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the repetition teaches that even if they sin, He will not bring another flood.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 9:11:1",
+        "quote": "אפי' יחטאו לא יביא עוד מבול"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbati: 'My covenant' is the covenant of milah, by analogy to Genesis 17:7.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbati",
+        "ref": "Bereshit Rabbati, Parashat Noah 20",
+        "quote": "מה להלן מילה אף כאן מילה"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes the content of the covenant."
+   },
+   {
+    "title": "Why is 'ledorot olam' written without a vav, as if 'for the generations' were limited?",
+    "pasuk": {
+     "text": "אשר אתכם לדרת עולם",
+     "ref": "Genesis 9:12",
+     "label": "Genesis 9:12"
+    },
+    "question": "The sign is to last 'for all ages', yet the word is written defectively. Does this exclude some generations?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 9:12:1",
+      "era": "acharon",
+      "quote": "היאך נשמע דרש זה ממה שכתוב חסר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it is written defectively because some generations, completely righteous, did not need the sign, such as Hezekiah's and R. Shimon bar Yochai's.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:12:1",
+        "quote": "שיש דורות שלא הוצרכו לאות"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Yudan excludes two generations, Hezekiah's and that of the Men of the Great Assembly.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 35:2",
+        "quote": "פרט לשני דורות לדורו של חזקיהו"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi: 'ledorat' means a single dwelling family, so not every generation is included.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 9:12:1",
+        "quote": "למדנו שאין כל הדורות בכלל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the rainbow signals a generation in need of mercy."
+   },
+   {
+    "title": "Was the rainbow created now, or did it exist from the Creation?",
+    "pasuk": {
+     "text": "את קשתי נתתי בענן",
+     "ref": "Genesis 9:13",
+     "label": "Genesis 9:13"
+    },
+    "question": "'This is the sign' suggests something new, yet 'I have set My bow' is in the past tense and 'My bow' implies it was already His.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 9:12:1",
+      "era": "rishon",
+      "quote": "שלא היה קשת בענן ממעשה בראשית"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 9:14:1",
+      "era": "acharon",
+      "quote": "משמע שהקשת נתחדש עתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: 'My bow' shows it was His from the beginning; from now on it becomes a sign.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 9:12:1",
+        "quote": "ומלת קשתי מורה שהיתה לו הקשת תחלה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: he sets the bow now; it was not there before.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 9:13:1",
+        "quote": "הנה נתתי עתה קשת בענן"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: He arranged that it should exist in nature.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:13:1",
+        "quote": "סידרתי שיהיה בטבע"
+       }
+      ]
+     },
+     {
+      "text": "Radak: Bereshit Rabbah says it was given from the six days of Creation.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:13:2",
+        "quote": "נתתי מששת ימי בראשית"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: the bow is one of the ten things created at twilight on Shabbat eve.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 19:1",
+        "quote": "עשרה דברים נבראו בערב שבת בין השמשות"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the rainbow is a new miracle or a natural thing given new meaning."
+   },
+   {
+    "title": "Why is a bow, a weapon, the sign of peace?",
+    "pasuk": {
+     "text": "את קשתי נתתי בענן",
+     "ref": "Genesis 9:13",
+     "label": "Genesis 9:13"
+    },
+    "question": "A bow is an instrument of war. What makes it a fitting sign of a covenant?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 9:12:1",
+      "era": "rishon",
+      "quote": "ואם תבקש מה טעם בקשת להיות אות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the bow is made with its ends pointing down, to show no arrows are shot from heaven; so those calling for peace turn their bow.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 9:12:1",
+        "quote": "להראות שלא יורו בו מן השמים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it is a witness, like the pile of stones between Yaakov and Lavan.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 9:12:1",
+        "quote": "כל הדבר הנראה שיושם לפני שנים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: it appears without arrows or string, a way of peace.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 9:14:1",
+        "quote": "בלא חצים ויתר להראות דרך שלום"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: the bow is an image of the glory of God, shown to them as a sign.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 9:13:2",
+        "quote": "הקשת דמות כבוד ה'"
+       }
+      ]
+     }
+    ],
+    "why": "It explains the sign through how the bow looks."
+   },
+   {
+    "title": "Why does the verse say 'when I bring clouds', since there are often clouds without a rainbow?",
+    "pasuk": {
+     "text": "והיה בענני ענן על הארץ",
+     "ref": "Genesis 9:14",
+     "label": "Genesis 9:14"
+    },
+    "question": "Clouds appear many times with no rainbow. What does the sign depend on?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 9:14:1",
+      "era": "acharon",
+      "quote": "כמה פעמים יש ענן ואין הקשת נראה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: when it rises in My mind to bring darkness and destruction.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:14:1",
+        "quote": "כשתעלה במחשבה לפני להביא חשך ואבדון לעולם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: I bring clouds through intermediate causes that I commanded.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:14:1",
+        "quote": "על ידי סבות אמצעיות שצויתי"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: a rainbow is not seen without a thick cloud after clear, moist air.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:14:1",
+        "quote": "לא תראה הקשת בזולת ענן עכור"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: the Satan accuses only in an hour of danger.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 9:14:1",
+        "quote": "אין השטן מקטרג אלא בשעת הסכנה"
+       }
+      ]
+     }
+    ],
+    "why": "It links the sign to the moment of danger."
+   },
+   {
+    "title": "Does God need a sign in order to remember?",
+    "pasuk": {
+     "text": "וזכרתי את בריתי",
+     "ref": "Genesis 9:15",
+     "label": "Genesis 9:15"
+    },
+    "question": "'I will remember My covenant' and 'I will see it and remember'. Is there forgetting before God, that He needs the bow?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbati",
+      "ref": "Bereshit Rabbati, Parashat Noah 21",
+      "era": "chazal",
+      "quote": "וכי יש שכחה לפניו שצריך לקשת לזכרון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: the Torah speaks in human language, for there is no forgetting before His throne.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:15:1",
+        "quote": "כי אין שכחה לפני כסא כבודו"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: when the attribute of justice comes to accuse, God sees the sign and remembers.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:16:1",
+        "quote": "כשתבוא מדת הדין לקטרג עליכם"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the bow is always hidden in the cloud, and God alone sees it.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 9:16:1",
+        "quote": "שהיא לעולם שם בסתר"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: God looks at what stems from it, the prayer of the righteous who stand in the breach.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:16:1",
+        "quote": "אשגיח במסובב ממנה"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: I drew My bow and brought a flood; now I see it unstrung.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 9:15:2",
+        "quote": "ראיתיה שלא דרוכה"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies what the sign does, for people or for heaven."
+   }
+  ],
+  "sources_consulted": [
+   "Gur Aryeh",
+   "Rashi",
+   "Sforno",
+   "Mizrachi",
+   "Radak",
+   "Malbim",
+   "Chizkuni",
+   "Bereshit Rabbati",
+   "Siftei Chakhamim",
+   "Bereshit Rabbah",
+   "Ramban",
+   "Kli Yakar",
+   "Ibn Ezra",
+   "Pirkei DeRabbi Eliezer",
+   "Bekhor Shor",
+   "Midrash Lekach Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "אחרי המבול אומר אלהים לנח ולבניו שהוא מקים את בריתו אתם, עם זרעם ועם כל נפש חיה שיצאה מן התיבה. הוא מבטיח שלא יכרת עוד כל בשר ממי המבול ושלא יהיה מבול לשחת הארץ. כאות לברית הוא נותן את קשתו בענן: כשיהיה ענן והקשת תיראה בו, יזכור את ברית עולם בינו ובין כל נפש חיה. בסוף שב ואומר לנח שזה אות הברית עם כל בשר אשר על הארץ.",
+  "questions": [
+   {
+    "title": "מדוע מוסיף הקב\"ה ברית ואות אחרי שכבר הבטיח שלא ישחית את העולם?",
+    "pasuk": {
+     "text": "ואני הנני מקים את בריתי",
+     "ref": "Genesis 9:9",
+     "label": "בראשית ט, ט"
+    },
+    "question": "בבראשית ח, כא כבר החליט הקב\"ה שלא להשחית עוד. למה עכשיו \"מקים את בריתי\" ונותן אות?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 9:9:1",
+      "era": "acharon",
+      "quote": "ואף על גב דכתיב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נח היה דואג לעסוק בפריה ורביה, והקב\"ה מסכים עמו ונותן אות לחזק את ההבטחה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:9:1",
+        "quote": "מסכים אני עמך שהיה נח דואג לעסוק בפריה ורביה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: שבועה אפשר שתהא לה התרה, ואות הוא חוזק יותר שאין לו התרה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 9:9:1",
+        "quote": "כי השבועה אפשר שתהא לה התרה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הברית על תנאי שלא תשפכו דם נקי.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:9:1",
+        "quote": "על זה התנאי שלא תשפכו דם נקי אני מקים את בריתי"
+       }
+      ]
+     }
+    ],
+    "why": "האות הוא חיזוק נוסף על הבטחה שכבר ניתנה."
+   },
+   {
+    "title": "למה בעלי החיים נזכרים שלוש פעמים: 'אשר אתכם', 'מכל יוצאי התבה', 'לכל חית הארץ'?",
+    "pasuk": {
+     "text": "ומכל יוצאי התבה לכל חית הארץ",
+     "ref": "Genesis 9:10",
+     "label": "בראשית ט, י"
+    },
+    "question": "נראה שכל לשון כולל אותם בעלי חיים. מה מוסיף כל אחד, והאם \"לכל חית הארץ\" כולל גם מי שלא היה בתיבה?",
+    "asked_by": [
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 9:10:2",
+      "era": "acharon",
+      "quote": "הוצרך הכתוב לחזור ולומר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"חית הארץ\" להביא המזיקין שאין הילוכן עם הבריות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:10:3",
+        "quote": "להביא המזיקין שאינן בכלל החיה אשר אתכם"
+       }
+      ]
+     },
+     {
+      "text": "המזרחי: המזיקין הם השדים, שגם הם היו בתיבה.",
+      "sources": [
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 9:10:2",
+        "quote": "לכלול השדים אע\"פ שאינם מתהלכים עמכם"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: לא שדים, כי השדים אינם נקראים חיות; הכוונה לחיות מזיקות.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 9:10:1",
+        "quote": "ואין השדים נקראים 'חיות'"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: לפי בראשית רבה בא להביא את תולדותיהם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:10:1",
+        "quote": "לכל חית הארץ בא להביא תולדותיהם"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: הברית עוברת לכל בעלי החיים בכל הדורות הבאים.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 9:10:1",
+        "quote": "יעבור הברית הזה לכל חית הארץ בכל הדורות הבאים"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מי נכלל בברית."
+   },
+   {
+    "title": "מה פירוש \"והקמתי\" ברית שכבר נעשתה?",
+    "pasuk": {
+     "text": "והקמתי את בריתי אתכם",
+     "ref": "Genesis 9:11",
+     "label": "בראשית ט, יא"
+    },
+    "question": "בפסוק ט נאמר \"מקים את בריתי\" בלי לפרש מהי הברית. מהו ההקמה, ולמה היא חוזרת?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 9:11:1",
+      "era": "rishon",
+      "quote": "ולא פרש על מה הוא הברית"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 9:11:1",
+      "era": "acharon",
+      "quote": "שהרי כבר הבטיח הקב\"ה את נח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אעשה קיום לבריתי, וקיומו הוא אות הקשת.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:11:1",
+        "quote": "אעשה קיום לבריתי"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: עתה פירש שלא יכרת כל בשר ממי המבול.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:11:1",
+        "quote": "ועתה פירש שלא יכרת כל בשר ממי המבול"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לומר שאפילו יחטאו לא יביא עוד מבול.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 9:11:1",
+        "quote": "אפי' יחטאו לא יביא עוד מבול"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבתי: ברית זו היא מילה, בגזירה שווה לבראשית יז, ז.",
+      "sources": [
+       {
+        "name": "בראשית רבתי",
+        "ref": "Bereshit Rabbati, Parashat Noah 20",
+        "quote": "מה להלן מילה אף כאן מילה"
+       }
+      ]
+     }
+    ],
+    "why": "קובע את תוכן הברית."
+   },
+   {
+    "title": "מדוע \"לדרת עולם\" כתוב חסר, כאילו הדורות מוגבלים?",
+    "pasuk": {
+     "text": "אשר אתכם לדרת עולם",
+     "ref": "Genesis 9:12",
+     "label": "בראשית ט, יב"
+    },
+    "question": "האות הוא \"לדרת עולם\", אך המלה כתובה חסר. האם יש דורות שלא נכללו?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 9:12:1",
+      "era": "acharon",
+      "quote": "היאך נשמע דרש זה ממה שכתוב חסר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כתוב חסר שיש דורות שלא הוצרכו לאות כי צדיקים גמורים היו, כדורו של חזקיהו ושל ר' שמעון בן יוחאי.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:12:1",
+        "quote": "שיש דורות שלא הוצרכו לאות"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: ר' יודן מוציא שני דורות, דורו של חזקיהו ודור אנשי כנסת הגדולה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 35:2",
+        "quote": "פרט לשני דורות לדורו של חזקיהו"
+       }
+      ]
+     },
+     {
+      "text": "המזרחי: \"לדרת\" לשון משפחה הדרה בעולם, ולא נכללו כל הדורות.",
+      "sources": [
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 9:12:1",
+        "quote": "למדנו שאין כל הדורות בכלל"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד שהקשת סימן לדור הצריך רחמים."
+   },
+   {
+    "title": "האם הקשת נברא עתה, או שהיה מששת ימי בראשית?",
+    "pasuk": {
+     "text": "את קשתי נתתי בענן",
+     "ref": "Genesis 9:13",
+     "label": "בראשית ט, יג"
+    },
+    "question": "\"זאת אות\" משמע חידוש, אך \"נתתי\" לשון עבר ו\"קשתי\" משמע שכבר היה שלו.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 9:12:1",
+      "era": "rishon",
+      "quote": "שלא היה קשת בענן ממעשה בראשית"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 9:14:1",
+      "era": "acharon",
+      "quote": "משמע שהקשת נתחדש עתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: \"קשתי\" מורה שהיתה לו הקשת תחלה, ומעתה היא לאות.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 9:12:1",
+        "quote": "ומלת קשתי מורה שהיתה לו הקשת תחלה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: נתן עתה קשת בענן, ולא כדברי הגאון שהיתה בתחלה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 9:13:1",
+        "quote": "הנה נתתי עתה קשת בענן"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: סידרתי שיהיה בטבע.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:13:1",
+        "quote": "סידרתי שיהיה בטבע"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: בבראשית רבה נתתי משישת ימי בראשית.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:13:2",
+        "quote": "נתתי מששת ימי בראשית"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: הקשת אחד מעשרה דברים שנבראו בערב שבת בין השמשות.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 19:1",
+        "quote": "עשרה דברים נבראו בערב שבת בין השמשות"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הקשת נס חדש או דבר טבעי שנתחדש בו טעם."
+   },
+   {
+    "title": "מדוע כלי נשק, הקשת, הוא אות השלום?",
+    "pasuk": {
+     "text": "את קשתי נתתי בענן",
+     "ref": "Genesis 9:13",
+     "label": "בראשית ט, יג"
+    },
+    "question": "הקשת היא כלי מלחמה. מה הופך אותה לאות הולם לברית?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 9:12:1",
+      "era": "rishon",
+      "quote": "ואם תבקש מה טעם בקשת להיות אות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הקשת עשויה בהפך, להראות שלא יורו בו מן השמים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 9:12:1",
+        "quote": "להראות שלא יורו בו מן השמים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הוא כעד, כגל עד.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 9:12:1",
+        "quote": "כל הדבר הנראה שיושם לפני שנים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: נראית בלא חצים ויתר, להראות דרך שלום.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 9:14:1",
+        "quote": "בלא חצים ויתר להראות דרך שלום"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: הקשת דמות כבוד ה'.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 9:13:2",
+        "quote": "הקשת דמות כבוד ה'"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר את האות לפי צורת הקשת."
+   },
+   {
+    "title": "מדוע נאמר \"בענני ענן\" כשפעמים רבות יש ענן בלי קשת?",
+    "pasuk": {
+     "text": "והיה בענני ענן על הארץ",
+     "ref": "Genesis 9:14",
+     "label": "בראשית ט, יד"
+    },
+    "question": "פעמים רבות יש ענן ואין קשת. על מה תלוי האות?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 9:14:1",
+      "era": "acharon",
+      "quote": "כמה פעמים יש ענן ואין הקשת נראה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כשתעלה במחשבה לפני להביא חושך ואבדון לעולם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:14:1",
+        "quote": "כשתעלה במחשבה לפני להביא חשך ואבדון לעולם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אני מעניין על ידי סיבות אמצעיות שציויתי.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:14:1",
+        "quote": "על ידי סבות אמצעיות שצויתי"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא תראה הקשת בזולת ענן עכור.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:14:1",
+        "quote": "לא תראה הקשת בזולת ענן עכור"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: אין השטן מקטרג אלא בשעת הסכנה.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 9:14:1",
+        "quote": "אין השטן מקטרג אלא בשעת הסכנה"
+       }
+      ]
+     }
+    ],
+    "why": "קושר את האות לשעת הסכנה."
+   },
+   {
+    "title": "וכי צריך הקב\"ה אות כדי לזכור?",
+    "pasuk": {
+     "text": "וזכרתי את בריתי",
+     "ref": "Genesis 9:15",
+     "label": "בראשית ט, טו"
+    },
+    "question": "\"וזכרתי\" ו\"וראיתיה לזכור\". וכי יש שכחה לפניו שהוא צריך לקשת?",
+    "asked_by": [
+     {
+      "name": "בראשית רבתי",
+      "ref": "Bereshit Rabbati, Parashat Noah 21",
+      "era": "chazal",
+      "quote": "וכי יש שכחה לפניו שצריך לקשת לזכרון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: דברה תורה כלשון בני אדם, כי אין שכחה לפני כסא כבודו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:15:1",
+        "quote": "כי אין שכחה לפני כסא כבודו"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: כשתבוא מדת הדין לקטרג, אני רואה את האות ונזכר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:16:1",
+        "quote": "כשתבוא מדת הדין לקטרג עליכם"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הקשת תמיד בענן בסתר, והשם רואה אותה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 9:16:1",
+        "quote": "שהיא לעולם שם בסתר"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אשגיח במסובב ממנה, תפילת הצדיקים העומדים בפרץ.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:16:1",
+        "quote": "אשגיח במסובב ממנה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: דרכתי קשתי והבאתי מבול, ומעתה ראיתיה שלא דרוכה.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 9:15:2",
+        "quote": "ראיתיה שלא דרוכה"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר למי האות מיועד, לבני אדם או לשמים."
+   }
+  ],
+  "sources_consulted": [
+   "גור אריה",
+   "רש\"י",
+   "ספורנו",
+   "המזרחי",
+   "רד\"ק",
+   "מלבי\"ם",
+   "חזקוני",
+   "בראשית רבתי",
+   "שפתי חכמים",
+   "בראשית רבה",
+   "רמב\"ן",
+   "כלי יקר",
+   "אבן עזרא",
+   "פרקי דרבי אליעזר",
+   "בכור שור",
+   "לקח טוב"
+  ]
+ }
+}
