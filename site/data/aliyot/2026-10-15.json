@@ -1,0 +1,1117 @@
+{
+ "date": "2026-10-15",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 9:18-10:32",
+ "hebrew_date": {
+  "hebrew": "ד׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "4 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Noah's sons come out of the ark, and Noah plants a vineyard, drinks and lies uncovered in his tent. Ham sees his father and tells his brothers outside; Shem and Japheth cover Noah walking backwards. Noah wakes, curses Canaan to be a slave of slaves, and blesses Shem and Japheth. Noah lives 950 years and dies. The aliyah then lists the nations descended from Japheth, Ham and Shem, including Nimrod, the first mighty ruler, and the dispersal of the earth in the days of Peleg.",
+  "questions": [
+   {
+    "title": "Why does the Torah stop to say again that Ham is the father of Canaan?",
+    "pasuk": {
+     "text": "וחם הוא אבי כנען",
+     "ref": "Genesis 9:18",
+     "label": "Genesis 9:18"
+    },
+    "question": "Everyone knows who left the ark. Why does the verse add here that Ham is Canaan's father, and only Canaan, not his other sons?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 9:18:1",
+      "era": "rishon",
+      "quote": "למה הוצרך לומר כאן"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 9:18:1-2",
+      "era": "acharon",
+      "quote": "וגם אומר וחם הוא אבי כנען למה נאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the passage is about Noah's drunkenness, where Ham did wrong and Canaan was cursed through him, and Ham's descendants had not yet been listed, so we had to be told Canaan is his son.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:18:1",
+        "quote": "לפי שהפרשה עסוקה ובאה בשכרותו של נח שקלקל בה חם ועל ידו נתקלל כנען"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the passage was written to teach that the Canaanites are cursed, which is why Canaan is mentioned and not Cush.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 9:18:1",
+        "quote": "והזכיר כנען ולא כוש בעבור שיקלל כנען ונכתבה זאת הפרשה להודיע כי הכנענים מקוללים"
+       }
+      ]
+     }
+    ],
+    "why": "It signals that the story of Noah's drunkenness is really about Canaan's curse."
+   },
+   {
+    "title": "What exactly did Ham do to Noah?",
+    "pasuk": {
+     "text": "וירא חם אבי כנען את ערות אביו",
+     "ref": "Genesis 9:22",
+     "label": "Genesis 9:22"
+    },
+    "question": "The verse says only that Ham 'saw' his father's nakedness. What was his offence, and why was it serious enough to bring a curse?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 9:22:2",
+      "era": "rishon",
+      "quote": "יש אומרים סרסו ויש אומרים רבעו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: some say Ham castrated Noah, and some say he abused him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:22:2",
+        "quote": "יש אומרים סרסו ויש אומרים רבעו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: Ham did not cover his father, and went and told his two brothers while mocking and making light of their father.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:22:1",
+        "quote": "שהלך והגיד לשני אחיו כשוחק ומהתל באביו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Ham saw and did not protest.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:22:1",
+        "quote": "והוא ברשעו ראה ולא מחה"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: Ham's own seeing was not counted as a sin, since that was his nature; the real wrongdoing was Canaan's.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 9:22:1",
+        "quote": "אכן לא היה נחשב בזה לחטא"
+       }
+      ]
+     }
+    ],
+    "why": "Whether Ham's act was physical, or only contempt, shapes how the curse is understood."
+   },
+   {
+    "title": "Why does the verse say 'he took' in the singular, when both Shem and Japheth covered Noah?",
+    "pasuk": {
+     "text": "ויקח שם ויפת את השמלה",
+     "ref": "Genesis 9:23",
+     "label": "Genesis 9:23"
+    },
+    "question": "Shem and Japheth acted together, yet the verb is singular. Why is the effort credited to one of them?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 9:23:1",
+      "era": "rishon",
+      "quote": "אין כתיב ויקחו אלא ויקח"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 9:23:1",
+      "era": "acharon",
+      "quote": "לא נתבאר סיבת ההתאמצות היתירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the singular teaches that Shem exerted himself in the mitzvah more than Japheth, and so his descendants earned the tallit with tzitzit.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:23:1",
+        "quote": "למד על שם שנתאמץ במצוה יותר מיפת"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Shem began the mitzvah first and Japheth came and obeyed him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 36:6",
+        "quote": "שם התחיל במצוה תחלה ובא יפת ונשמע לו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: Shem first tried to cover Noah alone, and when he saw it would not be done well Japheth joined him.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 9:23:1",
+        "quote": "מתחלה נסה שם בעצמו ליקח אולי יוכל לכסות וכאשר ראה שלא יהא נעשה יפה הצטרף יפת"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches who was first to act, and how a mitzvah is done."
+   },
+   {
+    "title": "Who is Noah's 'youngest son', when Ham was not the youngest?",
+    "pasuk": {
+     "text": "אשר עשה לו בנו הקטן",
+     "ref": "Genesis 9:24",
+     "label": "Genesis 9:24"
+    },
+    "question": "Noah woke and knew what his 'youngest son' had done to him. Ham was the middle son, so who is meant?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 9:24:3",
+      "era": "rishon",
+      "quote": "כי חם לא היה קטן בשנים"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 9:25:2",
+      "era": "rishon",
+      "quote": "שהרי חם לא היה הקטן בבנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'youngest' means the unworthy and despised one.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:24:1",
+        "quote": "הפסול והבזוי כמו הנה קטן נתתיך בגוים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it is Canaan, the youngest of Ham's sons as they are listed.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 9:24:2",
+        "quote": "וטעם בנו הקטן לעד כי כן"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: grandchildren count as children, and Canaan was the youngest of Ham's sons.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:24:1",
+        "quote": "בני בנים הרי הם כבנים וכנען היה הקטן שבבני חם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: it may rather mean Shem, Noah's own younger son who exerted himself in the mitzvah.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 9:24:1",
+        "quote": "שיש לפרש בנו הקטן של נח שהוא שם שנתאמץ במצוה יותר מכולם"
+       }
+      ]
+     }
+    ],
+    "why": "Identifying the 'youngest son' decides who the later curse really falls on."
+   },
+   {
+    "title": "Ham sinned, so why is Canaan the one who is cursed?",
+    "pasuk": {
+     "text": "ויאמר ארור כנען",
+     "ref": "Genesis 9:25",
+     "label": "Genesis 9:25"
+    },
+    "question": "If Ham was at fault, why does Noah curse his son Canaan and leave Ham himself alone?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 9:25:2",
+      "era": "rishon",
+      "quote": "חם חטא וכנען נתקלל"
+     },
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 9:25:1",
+      "era": "rishon",
+      "quote": "למה קלל כנען יותר מכל שאר בני חם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Noah says to Ham, you prevented me from having a fourth son, so your fourth son will serve.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 9:25:1",
+        "quote": "אתה גרמת לי שלא אוליד בן רביעי אחר לשמשני"
+       }
+      ]
+     },
+     {
+      "text": "Radak: God had blessed Ham, and a curse does not rest where there is a blessing.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 9:24:3",
+        "quote": "לפי שברכו האל אמר לא תנוח קללה במקום ברכה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Ham had only Canaan at the time, and a curse on Ham himself would harm only his body, so Noah cursed the son.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 9:18:1",
+        "quote": "ואם אמר ארור חם עבד עבדים יהיה לא יזיק רק לגופו"
+       }
+      ]
+     }
+    ],
+    "why": "The answer shapes how the curse is read, as punishment, or as something that already rested on Canaan."
+   },
+   {
+    "title": "What does 'a slave of slaves' mean?",
+    "pasuk": {
+     "text": "עבד עבדים יהיה לאחיו",
+     "ref": "Genesis 9:25",
+     "label": "Genesis 9:25"
+    },
+    "question": "Noah says Canaan will be 'a slave of slaves' to his brothers. Is this a heavier slavery than an ordinary slave's, or just an idiom?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 9:24:2",
+      "era": "acharon",
+      "quote": "ואחר כך חזר שנית ואמר"
+     },
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 9:25:1",
+      "era": "acharon",
+      "quote": "לאיזה טעם נסמך היחיד אל הרבים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: it means a slave like one of the slaves.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 9:25:1",
+        "quote": "טעמו עבד כאחד העבדים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: being a slave to his brothers was natural for him, since he was lowly, and for his sin he was made a slave of slaves.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 9:25:1",
+        "quote": "לכן בחטאו הוסיף שיהיה עבד עבדים"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Canaan will be a slave of slaves of his brothers, the sons of Ham, in the plain sense.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 9:24:2",
+        "quote": "שכנען יהיה עבד עבדים של אחיו ממש בני חם"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: against Ibn Ezra, the construction expresses an extreme degree of servitude.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 9:25:1",
+        "quote": "לכן הנכון שבא בסמוך להורות הפלגת השיעבוד"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the curse describes a special degradation or only a figure of speech."
+   },
+   {
+    "title": "In what sense did Nimrod 'begin' to be mighty, when there were mighty men before him?",
+    "pasuk": {
+     "text": "הוא החל להיות גבר בארץ",
+     "ref": "Genesis 10:8",
+     "label": "Genesis 10:8"
+    },
+    "question": "Nimrod is said to be the first to be mighty on earth. Were there not mighty men before him? What did he begin?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 10:8:1",
+      "era": "rishon",
+      "quote": "כי זה לא יתכן והלא הנפילים היו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 10:8:1",
+      "era": "acharon",
+      "quote": "ראוי להעיר כי הגבורה מאתו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he began to make the whole world rebel against God, in the counsel of the generation of the Dispersion.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 10:8:1",
+        "quote": "להמריד כל העולם"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: he began to rule men by his might, and was the first king.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 10:9:1",
+        "quote": "הוא החל להיות מושל בגבורתו על האנשים והוא המולך תחלה"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: from him began the idea of kingship, which is what keeps people from swallowing each other alive.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 10:8:1",
+        "quote": "ממנו החל ענין מלוכה להתגבר ולשור על אנשים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: he began to show the might of men over the animals.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 10:8:2",
+        "quote": "והוא החל להראות גבורות בני אדם על החיות"
+       }
+      ]
+     }
+    ],
+    "why": "It tells us what kind of power Nimrod introduced into the world."
+   },
+   {
+    "title": "How can a rebel be a mighty hunter 'before the Lord'?",
+    "pasuk": {
+     "text": "הוא היה גבר ציד לפני",
+     "ref": "Genesis 10:9",
+     "label": "Genesis 10:9"
+    },
+    "question": "Nimrod is called 'a mighty hunter before the Lord'. If he rebelled, why does Scripture say 'before the Lord', and is anyone mighty outside His presence?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 10:8:1",
+      "era": "acharon",
+      "quote": "האם יהיה גבור שלא בפניו חלילה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he set out to provoke God to His face.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 10:9:2",
+        "quote": "מתכוין להקניטו על פניו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: in the plain sense he built altars and offered the animals as burnt offerings to God.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 10:9:1",
+        "quote": "שהיה בונה מזבחות ומעלה אותם החיות"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: 'before the Lord' means in the whole world, as in Nineveh, a great city to God.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 10:9:1",
+        "quote": "וכן ונינוה היתה עיר גדולה לאלהים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: through his might he fulfilled God's will, so he is called God's servant even though he was wicked.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 10:9:1",
+        "quote": "שבזה השלים בגבורתו"
+       }
+      ]
+     }
+    ],
+    "why": "The same words are read as praise by some and as condemnation by others."
+   },
+   {
+    "title": "Why is Babylon's land called Shinar?",
+    "pasuk": {
+     "text": "ואכד וכלנה בארץ שנער",
+     "ref": "Genesis 10:10",
+     "label": "Genesis 10:10"
+    },
+    "question": "The verse names the land of Shinar. Why does it carry that name?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 37:4",
+      "era": "chazal",
+      "quote": "למה נקרא שמה שנער"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah, in the name of Resh Lakish: because the dead of the Flood generation were shaken out there.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 37:4",
+        "quote": "אמר ריש לקיש ששם ננערו מתי דור המבול"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: also that the dead of the Flood were shaken out there.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 10:10:2",
+        "quote": "שכל מתי מבול ננערו שם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah, another view: it is shaken free of mitzvot, with no terumah, tithes or sabbatical year.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 37:4",
+        "quote": "שהיא מנוערת מן המצוות בלא תרומה ובלא מעשרות ובלא שביעית"
+       }
+      ]
+     }
+    ],
+    "why": "The name is read as a verdict on the land, from the Flood or from its lack of mitzvot."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Alshich",
+   "Ibn Ezra",
+   "Radak",
+   "Sforno",
+   "Haamek Davar",
+   "Bereshit Rabbah",
+   "Chizkuni",
+   "Bekhor Shor",
+   "Da'at Zekenim",
+   "Ramban",
+   "Kli Yakar",
+   "HaKtav VeHaKabalah",
+   "Rashbam",
+   "Midrash Lekach Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "בני נח יוצאים מן התיבה, ונח נוטע כרם, שותה ומתגלה בתוך אהלו. חם רואה את אביו ומגיד לאחיו בחוץ, ושם ויפת מכסים את נח כשהם הולכים אחורנית. נח מתעורר, מקלל את כנען שיהיה עבד עבדים, ומברך את שם ויפת. נח חי תשע מאות וחמישים שנה ומת. אחר כך מנויות האומות שיצאו מיפת, מחם ומשם, ובהן נמרוד, המלך הגיבור הראשון, ופלגת הארץ בימי פלג.",
+  "questions": [
+   {
+    "title": "מדוע חוזרת התורה ואומרת שחם הוא אבי כנען?",
+    "pasuk": {
+     "text": "וחם הוא אבי כנען",
+     "ref": "Genesis 9:18",
+     "label": "בראשית ט, יח"
+    },
+    "question": "הכול יודעים מי יצא מן התיבה. למה מוסיף הכתוב כאן שחם הוא אבי כנען, ורק כנען ולא שאר בניו?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 9:18:1",
+      "era": "rishon",
+      "quote": "למה הוצרך לומר כאן"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 9:18:1-2",
+      "era": "acharon",
+      "quote": "וגם אומר וחם הוא אבי כנען למה נאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הפרשה עוסקת בשכרותו של נח, שחם קילקל בה וכנען נתקלל על ידו, ותולדות חם עדיין לא נכתבו, ולכן צריך לומר כאן שכנען בנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:18:1",
+        "quote": "לפי שהפרשה עסוקה ובאה בשכרותו של נח שקלקל בה חם ועל ידו נתקלל כנען"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הפרשה נכתבה כדי להודיע שהכנענים מקוללים, ולכן הוזכר כנען ולא כוש.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 9:18:1",
+        "quote": "והזכיר כנען ולא כוש בעבור שיקלל כנען ונכתבה זאת הפרשה להודיע כי הכנענים מקוללים"
+       }
+      ]
+     }
+    ],
+    "why": "הכתוב מרמז שפרשת שכרותו של נח עוסקת למעשה בקללת כנען."
+   },
+   {
+    "title": "מה בדיוק עשה חם לנח?",
+    "pasuk": {
+     "text": "וירא חם אבי כנען את ערות אביו",
+     "ref": "Genesis 9:22",
+     "label": "בראשית ט, כב"
+    },
+    "question": "הכתוב אומר רק שחם \"ראה\" את ערות אביו. מה היה חטאו, ומדוע חמור עד כדי קללה?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 9:22:2",
+      "era": "rishon",
+      "quote": "יש אומרים סרסו ויש אומרים רבעו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: יש אומרים שחם סירס את נח, ויש אומרים שרבע אותו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:22:2",
+        "quote": "יש אומרים סרסו ויש אומרים רבעו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: חם לא כיסה את אביו, והלך והגיד לשני אחיו כשוחק ומהתל באביו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:22:1",
+        "quote": "שהלך והגיד לשני אחיו כשוחק ומהתל באביו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: חם ראה ולא מיחה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:22:1",
+        "quote": "והוא ברשעו ראה ולא מחה"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: עצם הראייה של חם לא נחשבה חטא, כי כך היה בטבעו; הרעה נעשתה על ידי כנען.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 9:22:1",
+        "quote": "אכן לא היה נחשב בזה לחטא"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה אם המעשה היה גופני או רק זלזול משפיעה על הבנת הקללה."
+   },
+   {
+    "title": "מדוע נאמר \"ויקח\" בלשון יחיד, והרי שם ויפת שניהם כיסו את נח?",
+    "pasuk": {
+     "text": "ויקח שם ויפת את השמלה",
+     "ref": "Genesis 9:23",
+     "label": "בראשית ט, כג"
+    },
+    "question": "שם ויפת פעלו יחד, ובכל זאת הפועל ביחיד. מדוע נזקף המעשה לאחד מהם?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 9:23:1",
+      "era": "rishon",
+      "quote": "אין כתיב ויקחו אלא ויקח"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 9:23:1",
+      "era": "acharon",
+      "quote": "לא נתבאר סיבת ההתאמצות היתירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הלשון היחיד מלמד ששם נתאמץ במצווה יותר מיפת, ולכן זכו בניו לטלית של ציצית.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:23:1",
+        "quote": "למד על שם שנתאמץ במצוה יותר מיפת"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: שם התחיל במצווה תחילה ובא יפת ונשמע לו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 36:6",
+        "quote": "שם התחיל במצוה תחלה ובא יפת ונשמע לו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: שם ניסה בתחילה לכסות בעצמו, וכשראה שלא ייעשה יפה הצטרף יפת.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 9:23:1",
+        "quote": "מתחלה נסה שם בעצמו ליקח אולי יוכל לכסות וכאשר ראה שלא יהא נעשה יפה הצטרף יפת"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מלמד מי הקדים לפעול ואיך מקיימים מצווה."
+   },
+   {
+    "title": "מיהו \"בנו הקטן\" של נח, והרי חם לא היה הקטן?",
+    "pasuk": {
+     "text": "אשר עשה לו בנו הקטן",
+     "ref": "Genesis 9:24",
+     "label": "בראשית ט, כד"
+    },
+    "question": "נח התעורר וידע מה עשה לו \"בנו הקטן\". חם היה הבן האמצעי, ולכן מי נקרא כאן הקטן?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 9:24:3",
+      "era": "rishon",
+      "quote": "כי חם לא היה קטן בשנים"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 9:25:2",
+      "era": "rishon",
+      "quote": "שהרי חם לא היה הקטן בבנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"הקטן\" פירושו הפסול והבזוי.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:24:1",
+        "quote": "הפסול והבזוי כמו הנה קטן נתתיך בגוים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: זה כנען, שהוא הקטן בבני חם לפי סדר מנייתם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 9:24:2",
+        "quote": "וטעם בנו הקטן לעד כי כן"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בני בנים הרי הם כבנים, וכנען היה הקטן שבבני חם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:24:1",
+        "quote": "בני בנים הרי הם כבנים וכנען היה הקטן שבבני חם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אפשר לפרש שזה שם, בנו הקטן של נח, שנתאמץ במצווה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 9:24:1",
+        "quote": "שיש לפרש בנו הקטן של נח שהוא שם שנתאמץ במצוה יותר מכולם"
+       }
+      ]
+     }
+    ],
+    "why": "זיהוי \"הבן הקטן\" קובע על מי נופלת הקללה."
+   },
+   {
+    "title": "חם חטא, ומדוע כנען הוא שנתקלל?",
+    "pasuk": {
+     "text": "ויאמר ארור כנען",
+     "ref": "Genesis 9:25",
+     "label": "בראשית ט, כה"
+    },
+    "question": "אם חם חטא, למה קילל נח את כנען בנו ולא את חם עצמו?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 9:25:2",
+      "era": "rishon",
+      "quote": "חם חטא וכנען נתקלל"
+     },
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 9:25:1",
+      "era": "rishon",
+      "quote": "למה קלל כנען יותר מכל שאר בני חם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נח אומר לחם, אתה גרמת לי שלא אוליד בן רביעי, ולכן בנך הרביעי ישמש.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 9:25:1",
+        "quote": "אתה גרמת לי שלא אוליד בן רביעי אחר לשמשני"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: האל ברך את חם, ולא תנוח קללה במקום ברכה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 9:24:3",
+        "quote": "לפי שברכו האל אמר לא תנוח קללה במקום ברכה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: לחם לא היה אז בן זולת כנען, וקללה על חם עצמו הייתה מזיקה רק לגופו, ולכן קילל את הבן.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 9:18:1",
+        "quote": "ואם אמר ארור חם עבד עבדים יהיה לא יזיק רק לגופו"
+       }
+      ]
+     }
+    ],
+    "why": "התשובה קובעת אם הקללה עונש או דבר שהיה מונח כבר בכנען."
+   },
+   {
+    "title": "מה פירוש \"עבד עבדים\"?",
+    "pasuk": {
+     "text": "עבד עבדים יהיה לאחיו",
+     "ref": "Genesis 9:25",
+     "label": "בראשית ט, כה"
+    },
+    "question": "נח אומר שכנען יהיה \"עבד עבדים\" לאחיו. האם זו עבדות חמורה מעבדות רגילה, או רק ניב?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 9:24:2",
+      "era": "acharon",
+      "quote": "ואחר כך חזר שנית ואמר"
+     },
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 9:25:1",
+      "era": "acharon",
+      "quote": "לאיזה טעם נסמך היחיד אל הרבים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: פירושו עבד כאחד העבדים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 9:25:1",
+        "quote": "טעמו עבד כאחד העבדים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: להיות עבד לאחיו היה ראוי לו בטבע, כי היה קטן ובזוי, ובחטאו הוסיף שיהיה עבד עבדים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 9:25:1",
+        "quote": "לכן בחטאו הוסיף שיהיה עבד עבדים"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: כנען יהיה עבד עבדים של אחיו ממש, בני חם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 9:24:2",
+        "quote": "שכנען יהיה עבד עבדים של אחיו ממש בני חם"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: בניגוד לאבן עזרא, הלשון באה להורות הפלגת השעבוד.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 9:25:1",
+        "quote": "לכן הנכון שבא בסמוך להורות הפלגת השיעבוד"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה אם הקללה מתארת השפלה מיוחדת או כינוי בלבד."
+   },
+   {
+    "title": "באיזה מובן \"החל\" נמרוד להיות גבור, והרי היו גבורים לפניו?",
+    "pasuk": {
+     "text": "הוא החל להיות גבר בארץ",
+     "ref": "Genesis 10:8",
+     "label": "בראשית י, ח"
+    },
+    "question": "נאמר על נמרוד שהוא החל להיות גבור בארץ. והרי היו גיבורים לפניו, ומה החל?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 10:8:1",
+      "era": "rishon",
+      "quote": "כי זה לא יתכן והלא הנפילים היו"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 10:8:1",
+      "era": "acharon",
+      "quote": "ראוי להעיר כי הגבורה מאתו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: החל להמריד את כל העולם על הקב\"ה בעצת דור הפלגה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 10:8:1",
+        "quote": "להמריד כל העולם"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: החל למשול באנשים בגבורתו, והוא המלך הראשון.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 10:9:1",
+        "quote": "הוא החל להיות מושל בגבורתו על האנשים והוא המולך תחלה"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: ממנו החל ענין המלוכה, שבלעדיה היו אנשים בולעים איש את רעהו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 10:8:1",
+        "quote": "ממנו החל ענין מלוכה להתגבר ולשור על אנשים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: החל להראות גבורת בני אדם על החיות.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 10:8:2",
+        "quote": "והוא החל להראות גבורות בני אדם על החיות"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מבררת איזה סוג כוח הכניס נמרוד לעולם."
+   },
+   {
+    "title": "איך יכול מורד להיות \"גבור ציד לפני ה'\"?",
+    "pasuk": {
+     "text": "הוא היה גבר ציד לפני",
+     "ref": "Genesis 10:9",
+     "label": "בראשית י, ט"
+    },
+    "question": "נמרוד נקרא \"גבור ציד לפני ה'\". אם מרד, מדוע כתוב \"לפני ה'\", והאם מישהו גבור שלא בפניו?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 10:8:1",
+      "era": "acharon",
+      "quote": "האם יהיה גבור שלא בפניו חלילה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מתכוון להקניטו על פניו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 10:9:2",
+        "quote": "מתכוין להקניטו על פניו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: לפי הפשט היה בונה מזבחות ומעלה את החיות עולה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 10:9:1",
+        "quote": "שהיה בונה מזבחות ומעלה אותם החיות"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: \"לפני ה'\" פירושו בכל העולם, כמו נינוה עיר גדולה לאלהים.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 10:9:1",
+        "quote": "וכן ונינוה היתה עיר גדולה לאלהים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: בגבורתו השלים רצון ה', ולכן נקרא עבד ה' אף שהרשיע.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 10:9:1",
+        "quote": "שבזה השלים בגבורתו"
+       }
+      ]
+     }
+    ],
+    "why": "אותן מילים נדרשות לשבח אצל אחד ולגנאי אצל אחר."
+   },
+   {
+    "title": "מדוע נקראת ארץ בבל שנער?",
+    "pasuk": {
+     "text": "ואכד וכלנה בארץ שנער",
+     "ref": "Genesis 10:10",
+     "label": "בראשית י, י"
+    },
+    "question": "הכתוב מזכיר את ארץ שנער. מדוע זה שמה?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 37:4",
+      "era": "chazal",
+      "quote": "למה נקרא שמה שנער"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה בשם ריש לקיש: שם ננערו מתי דור המבול.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 37:4",
+        "quote": "אמר ריש לקיש ששם ננערו מתי דור המבול"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: גם כאן, שם ננערו כל מתי המבול.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 10:10:2",
+        "quote": "שכל מתי מבול ננערו שם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה, דבר אחר: היא מנוערת מן המצוות, בלא תרומה ובלא מעשרות ובלא שביעית.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 37:4",
+        "quote": "שהיא מנוערת מן המצוות בלא תרומה ובלא מעשרות ובלא שביעית"
+       }
+      ]
+     }
+    ],
+    "why": "השם נדרש כפסק דין על הארץ, בגלל המבול או בגלל היעדר המצוות."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "אלשיך",
+   "אבן עזרא",
+   "רד\"ק",
+   "ספורנו",
+   "העמק דבר",
+   "בראשית רבה",
+   "חזקוני",
+   "בכור שור",
+   "דעת זקנים",
+   "רמב\"ן",
+   "כלי יקר",
+   "הכתב והקבלה",
+   "רשב\"ם",
+   "לקח טוב"
+  ]
+ }
+}
