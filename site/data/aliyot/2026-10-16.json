@@ -1,0 +1,1078 @@
+{
+ "date": "2026-10-16",
+ "reading": {
+  "en": "Noach",
+  "he": "נח",
+  "ref": "Genesis 6:9-11:32",
+  "slugs": [
+   "noach"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 11:1-11:32",
+ "maftir": "Genesis 11:29-11:32",
+ "hebrew_date": {
+  "hebrew": "ה׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "5 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "The whole earth shares one language, and people migrating from the east settle in a valley in Shinar. They bake bricks and decide to build a city and a tower with its top in the sky, to make a name for themselves and avoid being scattered. God comes down to see the city and tower, confounds their speech, and scatters them over the face of the earth; the city is called Babel. The aliyah then lists the line of Shem down to Terah, who fathers Avram, Nahor and Haran. Haran dies in Ur Kasdim; Avram marries Sarai, who is barren, and Nahor marries Milcah. Terah takes Avram, Lot and Sarai toward Canaan but settles in Haran, where he dies at 205.",
+  "questions": [
+   {
+    "title": "Where were they travelling 'from the east' — and who were 'they'?",
+    "pasuk": {
+     "text": "ויהי בנסעם מקדם",
+     "ref": "Genesis 11:2",
+     "label": "Genesis 11:2"
+    },
+    "question": "The verse says they journeyed 'mikedem' and found a valley in Shinar. Rashi reads it as a place they had been living; Ramban asks why the verse then ties the dispersion only to the line of Shem, when Japheth and Ham had many more descendants.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 11:2:1",
+      "era": "rishon",
+      "quote": "ולמה יחס הפלגה עליהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they had been living in the eastern mountain named earlier, and travelled from there to find a place that could hold them all; they found only Shinar.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 11:2:1",
+        "quote": "ונסעו משם לתור להם מקום להחזיק את כלם ולא מצאו אלא שנער"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the point is that the mountains of Ararat lie to the east of Shinar.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:2:1",
+        "quote": "בנסעם מקדם לאות כי הרי אררט במזרח"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: it is simply the way of shepherds, who move from place to place.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 11:2:1",
+        "quote": "כמנהג הרועים הנוסעים ממקום למקום"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: 'mikedem' means they removed themselves from the Primeval One of the world, saying they wanted neither Him nor His divinity.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 38:7",
+        "quote": "הסיעו עצמן מקדמונו של עולם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the Tower story is about one family's travels or about all of mankind turning from God."
+   },
+   {
+    "title": "What exactly was the sin of the generation of the Dispersion?",
+    "pasuk": {
+     "text": "הבה נבנה לנו עיר ומגדל",
+     "ref": "Genesis 11:4",
+     "label": "Genesis 11:4"
+    },
+    "question": "The verse describes only a city and a tower, yet God scatters them. Abarbanel notes that the commentators are perplexed by what their transgression was, and Rashbam asks it outright on the plain meaning.",
+    "asked_by": [
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 11:4:1",
+      "era": "rishon",
+      "quote": "לפי הפשט מה חטאו דור הפלגה"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 11:1",
+      "era": "rishon",
+      "quote": "נבוכו בו המפרשים חדשים גם ישנים לדעת מה פשעם ומה חטאתם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they agreed to storm the heavens and make war against God.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 11:1:2",
+        "quote": "לא כל הימנו שיבור לו את העליונים … נעלה לרקיע ונעשה עמו מלחמה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: they would build a tower, place an idol on top of it and put a sword in its hand, as if making war on Him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 38:6",
+        "quote": "בואו ונעשה לנו מגדל ונעשה עבודת כוכבים בראשו"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: God had commanded them to fill the earth, and they chose a place to settle instead.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 11:4:1",
+        "quote": "והם בחרו להם מקום לשבת שם"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the sin began when they agreed to all dwell together in one gathering.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 11:1:1",
+        "quote": "שיסכימו לשבת כולן בקבוץ אחד"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the builders were not fools who thought to climb to heaven; they sought a great city and a tower as a sign and a name.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:3:3",
+        "quote": "ואלה בוני המגדל לא היו טפשים שיחשבו לעלות אל השמים"
+       }
+      ]
+     }
+    ],
+    "why": "The punishment (scattering and confusion of speech) only makes sense once we know what the offence was."
+   },
+   {
+    "title": "Does God really say that nothing will be beyond them?",
+    "pasuk": {
+     "text": "ועתה לא יבצר מהם כל אשר יזמו לעשות",
+     "ref": "Genesis 11:6",
+     "label": "Genesis 11:6"
+    },
+    "question": "Read plainly, God admits that a united people could accomplish anything they plan. Gur Aryeh asks how that can be said, since God can cancel their work in a moment; is it a statement or a rhetorical question?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 11:6:2",
+      "era": "acharon",
+      "quote": "יבנו המגדל השם יתברך יכול לבטל פעולתם כרגע אחד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Gur Aryeh: it must be read as a rhetorical question, not a calm statement.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 11:6:2",
+        "quote": "אלא פירושו בתמיה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: it is not a question; God truly says it, because they sought lasting peace, and He too agrees, though for the opposite reason.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 11:1:4",
+        "quote": "אין פירושו בלשון תמיהה … באמת אמר כן"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the word 've'ata' opens a door of repentance; they refused, and so their plans would be withheld.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 38:9",
+        "quote": "מלמד שפתח להם הקדוש ברוך הוא פתח של תשובה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the dispersion was punishment, mercy, or a last chance to repent."
+   },
+   {
+    "title": "Why does God speak in the plural: 'let us go down'?",
+    "pasuk": {
+     "text": "הבה נרדה ונבלה שם שפתם",
+     "ref": "Genesis 11:7",
+     "label": "Genesis 11:7"
+    },
+    "question": "Who is God speaking to, and why does He use the invitation-word 'havah' for His own descent? HaKtav VeHaKabalah asks whether God needs any call to action.",
+    "asked_by": [
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 11:7:1",
+      "era": "acharon",
+      "quote": "יצטרך להתעוררות הזריזות וההזמנה חלילה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: it is God addressing the angels.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:7:1",
+        "quote": "דבור השם עם המלאכים"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: it is the plural of majesty and rulership.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 11:7:1",
+        "quote": "לשון גדולה וממשלה בלשון רבים"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: it is measure for measure — they said 'havah', and God answers 'havah'.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 11:7:1",
+        "quote": "אלא שהוא מדה כנגד מדה"
+       }
+      ]
+     }
+    ],
+    "why": "It shapes how we understand God's 'descent' and the court-like way the judgement is described."
+   },
+   {
+    "title": "Why does the Torah say Haran died 'in the presence of Terah his father'?",
+    "pasuk": {
+     "text": "על פני תרח אביו",
+     "ref": "Genesis 11:28",
+     "label": "Genesis 11:28"
+    },
+    "question": "The phrase seems unnecessary. Gur Aryeh and HaKtav VeHaKabalah both ask why it is written here, and the commentators give several readings: a first-ever death of a son in his father's lifetime, or a death caused through the father.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 11:28:1",
+      "era": "acharon",
+      "quote": "למה הוצרך למכתב על פני תרח אביו"
+     },
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 11:28:1",
+      "era": "acharon",
+      "quote": "מאי איריא הכא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi (a midrash aggadah): Terah informed on Avram to Nimrod for breaking his idols, Avram was thrown in the furnace, and Haran died in the fire.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 11:28:1",
+        "quote": "שקבל תרח על אברם בנו לפני נמרוד על שכתת את צלמיו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Haran declared himself on Avram's side, was thrown into the fire, and died before Terah.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 38:13",
+        "quote": "ויצא ומת על פני תרח אביו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the plain meaning is that he died in front of his father while his father watched.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:28:1",
+        "quote": "לפני אביו שמת ואביו רואה"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: until then no son had died before his father.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 11:28:1",
+        "quote": "שעד עתה לא מת הבן לפני האב"
+       }
+      ]
+     }
+    ],
+    "why": "It links Haran's death to Avram's rescue from Nimrod, the first hint of Avram's story."
+   },
+   {
+    "title": "Was Avram's family really from Ur Kasdim?",
+    "pasuk": {
+     "text": "בארץ מולדתו באור כשדים",
+     "ref": "Genesis 11:28",
+     "label": "Genesis 11:28"
+    },
+    "question": "The verse says Haran died in his native land, Ur Kasdim. But Avram is called 'the Hebrew', and Joshua says that Terah's family lived 'beyond the river' from of old. Abarbanel and Malbim both ask how these fit together.",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 11:27",
+      "era": "rishon",
+      "quote": "והוא קשה מאד כי הנה הכתוב אומר בעבר הנהר ישבו אבותיכם מעולם"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 11:27:1-2",
+      "era": "acharon",
+      "quote": "שאור כשדים היה בארץ כשדים יקשה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: Avraham was not born in the land of Kasdim, because his ancestors were descendants of Shem, while Kasdim belonged to Ham's line.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 11:28:1",
+        "quote": "אברהם אבינו לא נולד בארץ כשדים כי אבותיו בני שם היו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: Avram was born in a place that had another name; the Kasdim descend from Avram's brother Nahor, and Moses wrote the name known in his own day.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:26:1",
+        "quote": "כי כשדים מבני נחור אחי אברם"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: on the plain reading it is simply the name of a place.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 11:3:1",
+        "quote": "לפי הפשט הוא מקום נקרא הכי"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: Ur Kasdim was across the river, where Nimrod ruled as well.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 11:28:1",
+        "quote": "נמרוד היה מושל גם שם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides where Avram's journey really begins and how the 'furnace' tradition fits the text."
+   },
+   {
+    "title": "Who is Yiskah, who appears only here?",
+    "pasuk": {
+     "text": "אבי מלכה ואבי יסכה",
+     "ref": "Genesis 11:29",
+     "label": "Genesis 11:29"
+    },
+    "question": "Milcah is Nahor's wife, but Yiskah is never mentioned again. Malbim asks why the verse speaks of a Yiskah nobody knows, and Chizkuni asks how Haran could have fathered Sarah if she is Yiskah.",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 11:29:1",
+      "era": "acharon",
+      "quote": "שלא נודע כלל מי היא יסכה זאת"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 11:29:1",
+      "era": "rishon",
+      "quote": "שהרן הוליד שרה לשש שנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Yiskah is Sarah, so named because she saw through divine inspiration and because all gazed at her beauty.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 11:29:1",
+        "quote": "על שם שסוכה ברוח הקדש"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: our early sages said Yiskah is Sarah, and if that is a tradition we accept it.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:29:1",
+        "quote": "אמרו שיסכה היא שרה ואם קבלה נקבל"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the arithmetic works — Haran was two years older than Avram and fathered at six.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 38:14",
+        "quote": "הרן מוליד לשש שנים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: she is named here to explain why Avram and Nahor did not marry the sisters in order of age.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 11:29:2",
+        "quote": "ונזכרה בשם הזה כאן לבאר מדוע לא לקחו אברם ונחור האחיות"
+       }
+      ]
+     }
+    ],
+    "why": "It identifies Sarai as Haran's daughter and explains a name that appears nowhere else."
+   },
+   {
+    "title": "Why is Terah's death recorded before Avram leaves?",
+    "pasuk": {
+     "text": "וימת תרח בחרן",
+     "ref": "Genesis 11:32",
+     "label": "Genesis 11:32"
+    },
+    "question": "Terah lived many years after Avram left Haran, yet his death is told first. Rashi, Ramban and Alshich all ask why the Torah placed it here.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 11:32:1",
+      "era": "rishon",
+      "quote": "ולמה הקדים הכתוב מיתתו של תרח ליציאתו של אברם"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 11:32:1",
+      "era": "rishon",
+      "quote": "ולמה הקדים הכתוב מיתתו של תרח ליציאתו של אברם"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 11:31:1",
+      "era": "acharon",
+      "quote": "ואיך נכתבה מיתתו קודם ציוויו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: so it would not become public that Avram failed to honor his father; the wicked are called dead even in their lifetime.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 11:32:1",
+        "quote": "שלא יהא הדבר מפורסם לכל ויאמרו לא קיים אברם את כבוד אביו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: God exempted Avram from honouring his father, and moved Terah's death earlier.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 39:7",
+        "quote": "הרשעים קרויים מתים בחייהן"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the midrash probably arose because the Torah changed the order of the whole passage for Terah.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 11:32:1",
+        "quote": "ויתכן שבאו למדרש הזה מפני ששנה הכתוב בתרח סדר הפרשה כולה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: there is no strict chronological order in the Torah.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 11:29:1",
+        "quote": "ואין מוקדם ומאוחר בתורה"
+       }
+      ]
+     }
+    ],
+    "why": "It touches on kibbud av and on whether the Torah follows chronological order."
+   }
+  ],
+  "sources_consulted": [
+   "Ramban",
+   "Rashi",
+   "Ibn Ezra",
+   "Sforno",
+   "Bereshit Rabbah",
+   "Rashbam",
+   "Abarbanel",
+   "Haamek Davar",
+   "Gur Aryeh",
+   "Kli Yakar",
+   "HaKtav VeHaKabalah",
+   "Lekach Tov",
+   "Malbim",
+   "Chizkuni",
+   "Alshich"
+  ]
+ },
+ "hebrew": {
+  "summary": "כל הארץ שפה אחת, ובני האדם הנוסעים מקדם מוצאים בקעה בארץ שנער ויושבים שם. הם לובנים לבנים ומחליטים לבנות עיר ומגדל וראשו בשמים, לעשות לעצמם שם ושלא יפוצו על פני הארץ. הקב\"ה יורד לראות את העיר והמגדל, מבלבל את שפתם ומפיצם על פני כל הארץ, ושם העיר נקרא בבל. אחר כך מפורטות תולדות שם עד תרח, שמוליד את אברם, נחור והרן. הרן מת באור כשדים; אברם נושא את שרי, שהיא עקרה, ונחור נושא את מלכה. תרח לוקח את אברם, לוט ושרי לצאת לארץ כנען, אך הם באים עד חרן וישבים שם, ושם מת תרח בן מאתיים וחמש שנים.",
+  "questions": [
+   {
+    "title": "מהיכן נסעו 'מקדם', ומי הם?",
+    "pasuk": {
+     "text": "ויהי בנסעם מקדם",
+     "ref": "Genesis 11:2",
+     "label": "בראשית יא, ב"
+    },
+    "question": "הכתוב אומר שנסעו 'מקדם' ומצאו בקעה בארץ שנער. רש\"י מפרש שזה מקום שבו ישבו קודם; הרמב\"ן שואל מדוע הכתוב מייחס את הפלגה רק לבני שם, והרי בני יפת וחם רבים מהם.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 11:2:1",
+      "era": "rishon",
+      "quote": "ולמה יחס הפלגה עליהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הם ישבו בהר הקדם שנזכר למעלה ונסעו משם לתור מקום שיחזיק את כולם, ולא מצאו אלא שנער.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 11:2:1",
+        "quote": "ונסעו משם לתור להם מקום להחזיק את כלם ולא מצאו אלא שנער"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הכוונה שהרי אררט נמצאים במזרח.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:2:1",
+        "quote": "בנסעם מקדם לאות כי הרי אררט במזרח"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: זה פשוט דרך הרועים הנוסעים ממקום למקום.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 11:2:1",
+        "quote": "כמנהג הרועים הנוסעים ממקום למקום"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: 'מקדם' – הסיעו עצמם מקדמונו של עולם, ואמרו שאינם רוצים לא בו ולא באלהותו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 38:7",
+        "quote": "הסיעו עצמן מקדמונו של עולם"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם סיפור המגדל עוסק בנסיעה של משפחה אחת או בפנייתה של האנושות כולה מהקב\"ה."
+   },
+   {
+    "title": "מה היה חטאו של דור הפלגה?",
+    "pasuk": {
+     "text": "הבה נבנה לנו עיר ומגדל",
+     "ref": "Genesis 11:4",
+     "label": "בראשית יא, ד"
+    },
+    "question": "הכתוב מתאר רק עיר ומגדל, ובכל זאת הקב\"ה מפיצם. האברבנאל מעיר שהמפרשים נבוכו במה היה פשעם, והרשב\"ם שואל זאת במפורש לפי הפשט.",
+    "asked_by": [
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 11:4:1",
+      "era": "rishon",
+      "quote": "לפי הפשט מה חטאו דור הפלגה"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 11:1",
+      "era": "rishon",
+      "quote": "נבוכו בו המפרשים חדשים גם ישנים לדעת מה פשעם ומה חטאתם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הם החליטו לעלות לרקיע ולעשות עמו מלחמה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 11:1:2",
+        "quote": "לא כל הימנו שיבור לו את העליונים … נעלה לרקיע ונעשה עמו מלחמה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: יבנו מגדל, יציבו בראשו עבודה זרה ויתנו חרב בידה, כאילו עושה עמו מלחמה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 38:6",
+        "quote": "בואו ונעשה לנו מגדל ונעשה עבודת כוכבים בראשו"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הקב\"ה ציווה אותם למלא את הארץ, והם בחרו לעצמם מקום לשבת בו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 11:4:1",
+        "quote": "והם בחרו להם מקום לשבת שם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: החטא התחיל בכך שהסכימו לשבת כולם בקיבוץ אחד.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 11:1:1",
+        "quote": "שיסכימו לשבת כולן בקבוץ אחד"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הבונים לא היו טיפשים שחשבו לעלות לשמים; הם רצו עיר גדולה ומגדל לאות ולשם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:3:3",
+        "quote": "ואלה בוני המגדל לא היו טפשים שיחשבו לעלות אל השמים"
+       }
+      ]
+     }
+    ],
+    "why": "העונש (פיזור ובלבול שפה) מובן רק אם יודעים מה היה העוון."
+   },
+   {
+    "title": "האם הקב\"ה באמת אומר שלא יבצר מהם דבר?",
+    "pasuk": {
+     "text": "ועתה לא יבצר מהם כל אשר יזמו לעשות",
+     "ref": "Genesis 11:6",
+     "label": "בראשית יא, ו"
+    },
+    "question": "לפי הפשט, הקב\"ה מודה שעם מאוחד יוכל להשיג כל מה שיחשוב לעשות. הגור אריה שואל איך אפשר לומר זאת, והרי הקב\"ה יכול לבטל את מעשיהם ברגע; האם זו קביעה או שאלה רטורית?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 11:6:2",
+      "era": "acharon",
+      "quote": "יבנו המגדל השם יתברך יכול לבטל פעולתם כרגע אחד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "גור אריה: יש לקרוא זאת בתמיהה, ולא כאמירה רגועה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 11:6:2",
+        "quote": "אלא פירושו בתמיה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: זו לא שאלה; הקב\"ה באמת אומר זאת, כי הם חיפשו שלום מתמשך, וגם הוא מסכים, אך מסיבה הפוכה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 11:1:4",
+        "quote": "אין פירושו בלשון תמיהה … באמת אמר כן"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: המילה 'ועתה' פותחת להם פתח של תשובה; הם סירבו, ולכן יבצר מהם.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 38:9",
+        "quote": "מלמד שפתח להם הקדוש ברוך הוא פתח של תשובה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה אם הפיזור היה עונש, רחמים או הזדמנות אחרונה לתשובה."
+   },
+   {
+    "title": "מדוע הקב\"ה מדבר בלשון רבים: 'הבה נרדה'?",
+    "pasuk": {
+     "text": "הבה נרדה ונבלה שם שפתם",
+     "ref": "Genesis 11:7",
+     "label": "בראשית יא, ז"
+    },
+    "question": "אל מי הקב\"ה מדבר, ומדוע הוא משתמש במילת ההזמנה 'הבה' לגבי ירידתו? הכתב והקבלה שואל האם הקב\"ה זקוק להתעוררות.",
+    "asked_by": [
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 11:7:1",
+      "era": "acharon",
+      "quote": "יצטרך להתעוררות הזריזות וההזמנה חלילה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: זה דיבור של הקב\"ה עם המלאכים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:7:1",
+        "quote": "דבור השם עם המלאכים"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: זו לשון רבים של גדולה וממשלה.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 11:7:1",
+        "quote": "לשון גדולה וממשלה בלשון רבים"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: זה מידה כנגד מידה – הם אמרו 'הבה', והקב\"ה משיב 'הבה'.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 11:7:1",
+        "quote": "אלא שהוא מדה כנגד מדה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מעצב את הבנת 'ירידת' הקב\"ה ואת תיאור הדין כבית דין."
+   },
+   {
+    "title": "מדוע נאמר שהרן מת 'על פני תרח אביו'?",
+    "pasuk": {
+     "text": "על פני תרח אביו",
+     "ref": "Genesis 11:28",
+     "label": "בראשית יא, כח"
+    },
+    "question": "הביטוי נראה מיותר. הגור אריה והכתב והקבלה שואלים מדוע הוא נכתב כאן, והמפרשים נותנים כמה הסברים: מיתת בן ראשונה בחיי אביו, או מיתה שנגרמה על ידי האב.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 11:28:1",
+      "era": "acharon",
+      "quote": "למה הוצרך למכתב על פני תרח אביו"
+     },
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 11:28:1",
+      "era": "acharon",
+      "quote": "מאי איריא הכא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י (מדרש אגדה): תרח קבל על אברם לפני נמרוד על שכתת את צלמיו, ואברם הושלך לכבשן, והרן מת באש.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 11:28:1",
+        "quote": "שקבל תרח על אברם בנו לפני נמרוד על שכתת את צלמיו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: הרן הצהיר שהוא מצד אברם, הושלך לאש ומת לפני תרח.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 38:13",
+        "quote": "ויצא ומת על פני תרח אביו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: פשוטו שמת לפני אביו ואביו רואה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:28:1",
+        "quote": "לפני אביו שמת ואביו רואה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: עד אז לא מת בן לפני אביו.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 11:28:1",
+        "quote": "שעד עתה לא מת הבן לפני האב"
+       }
+      ]
+     }
+    ],
+    "why": "זה קושר את מות הרן להצלת אברם מנמרוד, הרמז הראשון לסיפורו של אברם."
+   },
+   {
+    "title": "האם משפחת אברם באמת מאור כשדים?",
+    "pasuk": {
+     "text": "בארץ מולדתו באור כשדים",
+     "ref": "Genesis 11:28",
+     "label": "בראשית יא, כח"
+    },
+    "question": "הכתוב אומר שהרן מת בארץ מולדתו, באור כשדים. אך אברם נקרא 'העברי', ויהושע אומר שמשפחת תרח ישבה 'בעבר הנהר' מעולם. האברבנאל והמלבי\"ם שואלים איך זה מתיישב.",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 11:27",
+      "era": "rishon",
+      "quote": "והוא קשה מאד כי הנה הכתוב אומר בעבר הנהר ישבו אבותיכם מעולם"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 11:27:1-2",
+      "era": "acharon",
+      "quote": "שאור כשדים היה בארץ כשדים יקשה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אברהם לא נולד בארץ כשדים, כי אבותיו היו מבני שם וכשדים היו מבני חם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 11:28:1",
+        "quote": "אברהם אבינו לא נולד בארץ כשדים כי אבותיו בני שם היו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: אברם נולד במקום שהיה לו שם אחר; הכשדים מבני נחור אחי אברם, ומשה כתב את השם הידוע בימיו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:26:1",
+        "quote": "כי כשדים מבני נחור אחי אברם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: לפי הפשט זה סתם שם מקום.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 11:3:1",
+        "quote": "לפי הפשט הוא מקום נקרא הכי"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: אור כשדים היה בעבר הנהר, ושם שלט גם נמרוד.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 11:28:1",
+        "quote": "נמרוד היה מושל גם שם"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע היכן באמת מתחילה מסעו של אברם ואיך מסורת הכבשן מתיישבת עם הכתוב."
+   },
+   {
+    "title": "מי היא יסכה, שמופיעה רק כאן?",
+    "pasuk": {
+     "text": "אבי מלכה ואבי יסכה",
+     "ref": "Genesis 11:29",
+     "label": "בראשית יא, כט"
+    },
+    "question": "מלכה היא אשת נחור, אך יסכה אינה נזכרת שוב. המלבי\"ם שואל מדוע הכתוב מזכיר יסכה שאיש אינו מכיר, והחזקוני שואל איך הרן יכול היה להוליד את שרה אם היא יסכה.",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 11:29:1",
+      "era": "acharon",
+      "quote": "שלא נודע כלל מי היא יסכה זאת"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 11:29:1",
+      "era": "rishon",
+      "quote": "שהרן הוליד שרה לשש שנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: יסכה היא שרה, על שם שסוכה ברוח הקודש ושהכל סוכין ביופיה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 11:29:1",
+        "quote": "על שם שסוכה ברוח הקדש"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: חז\"ל אמרו שיסכה היא שרה, ואם זו קבלה – נקבל.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:29:1",
+        "quote": "אמרו שיסכה היא שרה ואם קבלה נקבל"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: החשבון עולה – הרן היה מבוגר מאברם בשנתיים והוליד בגיל שש.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 38:14",
+        "quote": "הרן מוליד לשש שנים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: היא נזכרת כאן כדי להסביר מדוע אברם ונחור לא נשאו את האחיות לפי סדר הגיל.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 11:29:2",
+        "quote": "ונזכרה בשם הזה כאן לבאר מדוע לא לקחו אברם ונחור האחיות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מזהה את שרי כבת הרן ומסביר שם שאינו מופיע בשום מקום אחר."
+   },
+   {
+    "title": "מדוע מיתת תרח נכתבה לפני יציאת אברם?",
+    "pasuk": {
+     "text": "וימת תרח בחרן",
+     "ref": "Genesis 11:32",
+     "label": "בראשית יא, לב"
+    },
+    "question": "תרח חי שנים רבות אחרי שאברם עזב את חרן, ובכל זאת מיתתו מסופרת קודם. רש\"י, רמב\"ן והאלשיך שואלים מדוע התורה סידרה זאת כאן.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 11:32:1",
+      "era": "rishon",
+      "quote": "ולמה הקדים הכתוב מיתתו של תרח ליציאתו של אברם"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 11:32:1",
+      "era": "rishon",
+      "quote": "ולמה הקדים הכתוב מיתתו של תרח ליציאתו של אברם"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 11:31:1",
+      "era": "acharon",
+      "quote": "ואיך נכתבה מיתתו קודם ציוויו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כדי שלא יתפרסם שאברם לא כיבד את אביו; הרשעים נקראים מתים בחייהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 11:32:1",
+        "quote": "שלא יהא הדבר מפורסם לכל ויאמרו לא קיים אברם את כבוד אביו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: הקב\"ה פטר את אברם מכיבוד אב, והקדים את מיתת תרח.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 39:7",
+        "quote": "הרשעים קרויים מתים בחייהן"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: המדרש כנראה נולד מפני שהכתוב שינה בתרח את סדר הפרשה כולה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 11:32:1",
+        "quote": "ויתכן שבאו למדרש הזה מפני ששנה הכתוב בתרח סדר הפרשה כולה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: אין מוקדם ומאוחר בתורה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 11:29:1",
+        "quote": "ואין מוקדם ומאוחר בתורה"
+       }
+      ]
+     }
+    ],
+    "why": "זה נוגע בכיבוד אב ובשאלה אם התורה כותבת לפי סדר כרונולוגי."
+   }
+  ],
+  "sources_consulted": [
+   "רמב\"ן",
+   "רש\"י",
+   "אבן עזרא",
+   "ספורנו",
+   "בראשית רבה",
+   "רשב\"ם",
+   "אברבנאל",
+   "העמק דבר",
+   "גור אריה",
+   "כלי יקר",
+   "הכתב והקבלה",
+   "לקח טוב",
+   "מלבי\"ם",
+   "חזקוני",
+   "אלשיך"
+  ]
+ }
+}
