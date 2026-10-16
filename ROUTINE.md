@@ -34,7 +34,10 @@ print "Off-hour scheduled firing – skipping" and stop. Any other hour, continu
    its Sefaria `range`, `maftir` with Shevi'i, and a `note` when this week's
    Shabbat has a special reading so the next regular parasha is used. Study
    exactly that `range`; the site files the brief under it.
-3. Hebrew date: `curl -s "https://www.hebcal.com/converter?cfg=json&date=YYYY-MM-DD&g2h=1"`
+3. Daily only: if `site/data/aliyot/<date>.json` already exists, this date's
+   brief is already on the site (an earlier firing filed it): print "Already
+   published" and stop.
+4. Hebrew date: `curl -s "https://www.hebcal.com/converter?cfg=json&date=YYYY-MM-DD&g2h=1"`
    (`hebrew`, and an English form like "25 Tishrei 5787" from hd/hm/hy).
 
 ## Step 2 – read the text
