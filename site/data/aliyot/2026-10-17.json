@@ -1,0 +1,915 @@
+{
+ "date": "2026-10-17",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 12:1-12:13",
+ "hebrew_date": {
+  "hebrew": "ו׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "6 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "God tells Abram to leave his land, his birthplace and his father's house for a land He will show him, and promises a great nation, blessing and a great name. Abram, seventy-five, leaves Haran with Sarai, Lot and all they had acquired, and enters Canaan, passing as far as Shechem, where God appears and promises the land to his offspring; he builds an altar. He moves on to near Bethel, builds another altar and calls in God's name, then journeys toward the Negeb. A famine drives him down to Egypt, where, fearing for his life because of Sarai's beauty, he asks her to say she is his sister.",
+  "questions": [
+   {
+    "title": "Why must Abram leave his land when he already left it?",
+    "pasuk": {
+     "text": "מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יך",
+     "ref": "Genesis 12:1",
+     "label": "Genesis 12:1"
+    },
+    "question": "God says 'from your land, your birthplace and your father's house', yet Abram had already left Ur Kasdim with his father and reached Haran. What is he being told to leave now?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 12:2:4",
+      "era": "rishon",
+      "quote": "וַהֲלֹא כְבָר יָצָא מִשָּׁם עִם אָבִיו וּבָא עַד חָרָן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: God means that he should distance himself still further, away from his father's house.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:2:4",
+        "quote": "כָּךְ אָמַר לוֹ הִתְרַחֵק עוֹד מִשָּׁם"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the command was given while he was still in Ur Kasdim, before he ever came to Haran.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 12:1:1",
+        "quote": "השם צוה לאברהם ועודנו באור כשדים שיעזוב ארצו ומקום מולדתו"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes when the call came and what exactly was demanded of Abram."
+   },
+   {
+    "title": "Why is Abram promised so much without any mention of his merit?",
+    "pasuk": {
+     "text": "לֶךְ־לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יך",
+     "ref": "Genesis 12:1-2",
+     "label": "Genesis 12:1-2"
+    },
+    "question": "God tells Abram to leave and promises a blessing like none in the world, but the Torah does not say he was righteous or give any reason for leaving.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 12:2:1",
+      "era": "rishon",
+      "quote": "כִּי מָה טַעַם שֶׁיֹּאמַר לוֹ הקב\"ה עֲזֹב אַרְצְךָ וְאֵיטִיבָה עִמְּךָ טוֹבָה שֶׁלֹּא הָיְתָה כָּמוֹהוּ בָּעוֹלָם, מִבְּלִי שֶׁיַּקְדִּים שֶׁהָיָה אַבְרָהָם עוֹבֵד אֱלֹהִים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the reason is that the people of Ur Kasdim did him great evil over his faith, and God tells him to leave them for the chosen land.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 12:2:1",
+        "quote": "אֲבָל הַטַּעַם מִפְּנֵי שֶׁעָשׂוּ אַנְשֵׁי אוּר כַּשְׂדִּים עִמּוֹ רָעוֹת רַבּוֹת עַל אֱמוּנָתו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: a parable of a man who sees a palace in flames and wonders if it has no master; the owner looks out and answers him. So God looked out at Abraham, who was asking whether the world has no leader.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 39:1",
+        "quote": "הֵצִיץ עָלָיו הַקָּדוֹשׁ בָּרוּךְ הוּא וְאָמַר לוֹ אֲנִי הוּא בַּעַל הָעוֹלָם"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what made Abram the one chosen."
+   },
+   {
+    "title": "Why does the Torah say the Canaanite was 'then' in the land?",
+    "pasuk": {
+     "text": "וְהַֽכְּנַעֲנִ֖י אָ֥ז בָּאָֽרֶץ",
+     "ref": "Genesis 12:6",
+     "label": "Genesis 12:6"
+    },
+    "question": "The verse notes that the Canaanites were then in the land, as if they would not always be. Why is this told here, as Abram crosses into the land?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 12:6:4",
+      "era": "rishon",
+      "quote": "ואם איננו כן יש לו סוד והמשכיל ידום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: perhaps Canaan had seized the land only recently from someone else; otherwise it holds a secret.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 12:6:4",
+        "quote": "יתכן שארץ כנען תפשה כנען מיד אחר"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the Canaanite was conquering the land from the seed of Shem, so God answers that He will give it back to Abram's children.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:6:4",
+        "quote": "הָיָה הוֹלֵךְ וְכוֹבֵשׁ אֶת אֶרֶץ יִשְׂרָאֵל מִזַּרְעוֹ שֶׁל שֵׁם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whose land Abram is walking through and why the promise follows."
+   },
+   {
+    "title": "Why does the Torah list Abram's journeys and altars?",
+    "pasuk": {
+     "text": "וַיִּֽבֶן־שָׁ֤ם מִזְבֵּ֙ח",
+     "ref": "Genesis 12:8",
+     "label": "Genesis 12:6-8"
+    },
+    "question": "Abram pitches tents, moves on and builds altars at Shechem and Bethel. Why does the Torah record these stops, which can look like unneeded detail?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 12:6:1",
+      "era": "rishon",
+      "quote": "וְיַחְשֹׁב הַחוֹשֵׁב בָּהֶם כְּאִלּוּ הֵם דְּבָרִים מְיֻתָּרִים אֵין בָּהֶם תּוֹעֶלֶת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: all of it is there to teach about the future, because whatever happened to the fathers is a sign for the children.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 12:6:1",
+        "quote": "וְכֻלָּם בָּאִים לְלַמֵּד עַל הֶעָתִיד"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: at Bethel he prophesied that his sons would stumble there over the sin of Achan, and prayed for them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:8:4",
+        "quote": "נִתְנַבֵּא שֶׁעֲתִידִין בָּנָיו לְהִכָּשֵׁל שָׁם עַל עֲוֹן עָכָן"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: he built three altars: for the news of the land, for acquiring it, and so that his sons would not fall.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 39:16",
+        "quote": "שְׁלשָׁה מִזְבְּחוֹת בָּנָה, אֶחָד לִבְשׂוֹרַת אֶרֶץ יִשְׂרָאֵל, וְאֶחָד לְקִנְיָנָהּ, וְאֶחָד שֶׁלֹא יִפְּלוּ בָנָיו"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches that the stops on Abram's route are meant to be read as a guide for his descendants."
+   },
+   {
+    "title": "Did Abram sin by going down to Egypt in the famine?",
+    "pasuk": {
+     "text": "וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה",
+     "ref": "Genesis 12:10",
+     "label": "Genesis 12:10"
+    },
+    "question": "Right after being promised blessing in the land, Abram leaves it for Egypt because of famine. Was this a failing of trust, or a test he passed?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 12:10:1",
+      "era": "rishon",
+      "quote": "וְדַע כִּי אַבְרָהָם אָבִינוּ חָטָא חֵטְא גָּדוֹל בִּשְׁגָגָה שֶׁהֵבִיא אִשְׁתּוֹ הַצַּדֶּקֶת"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 12:13:1",
+      "era": "rishon",
+      "quote": "הִנֵּה זֶה הַחֵטְא שֶׁחָטָא אַבְרָהָם בְּשׁוֹגֵג"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: it was one of the tests, and he did not complain against God but accepted it with love.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 12:10:1",
+        "quote": "אֶחָד מִן הַנִּסְיוֹנוֹת שֶׁנִּסָּה הָאֵל אֶת אַבְרָהָם אָבִינוּ, וְעָמַד בְּכֻלָּן וְלֹא הִרְהֵר אַחַר הַקָּדוֹשׁ בָּרוּךְ הוּא"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: God let the famine strike only that land to test whether he would question the command to go to Canaan.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:10:1",
+        "quote": "בְּאוֹתָהּ הָאָרֶץ לְבַדָּהּ, לְנַסּוֹתוֹ, אִם יְהַרְהֵר אַחַר דְּבָרָיו שֶׁל"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: when the famine hit him he did not protest and did not complain.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 40:2",
+        "quote": "לֹא קָרָא תִּגָּר וְלֹא הִקְפִּיד"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: against Ramban, he trusted as far as he could, and the famine was a test only incidentally.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 12:10:1",
+        "quote": "ולא כהרמב״ן ז״ל שכתב שחטא במה שיצא שהיה לו לבטוח בה׳. דודאי בטח כל האפשר"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: Chazal count this among the tests, and one who passes a test should not be called a sinner.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 12:10",
+        "quote": "חז\"ל מנוהו מכלל הנסיונות ובידוע שה' צדיק יבחן ומי שיעמוד בנסיונו אין ראוי שיקרא חוטא"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the descent to Egypt is read as a fault or as a trial passed."
+   },
+   {
+    "title": "Why does Abram say he 'knows' Sarai is beautiful only now?",
+    "pasuk": {
+     "text": "הִנֵּה־נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת־מַרְאֶ֖ה אָֽת",
+     "ref": "Genesis 12:11",
+     "label": "Genesis 12:11"
+    },
+    "question": "After years with Sarai, Abram says at the border of Egypt that he knows she is beautiful and fears for his life. Why now, and why did he not fear before?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 12:11:1",
+      "era": "rishon",
+      "quote": "לֹא יָדַעְתִּי לָמָּה פָּחַד מִמֶּנָּה עַתָּה יוֹתֵר מִקֹּדֶם לָכֵן"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 12:11:2",
+      "era": "chazal",
+      "quote": "וכי כל השנים היתה עמו ועכשיו הוא אמר לה כי אשה יפת מראה את"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: travel usually disfigures a person, but she stayed beautiful; in the plain sense, they were now among dark and ugly people unused to a beautiful woman.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:11:1",
+        "quote": "עַל יְדֵי טֹרַח הַדֶּרֶךְ אָדָם מִתְבַּזֶּה, וְזֹאת עָמְדָה בְּיָפְיָה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: beauty changes with the air, and in Egypt and the Negev her beauty had no equal.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 12:11:3",
+        "quote": "כי הצורות משתנות בעבור האויר"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Egypt is a gathering place for licentiousness.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 12:11:2",
+        "quote": "בֵּית הַוַּעַד לִזְנוּת"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: only as he drew near did he learn that the Egyptians were ugly, lewd and suspected of bloodshed.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 12:11:1",
+        "quote": "אנשי מצרים כעורים ושחורים ורודפי זמה וחשודים על שפיכות דמים"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what changed at the border of Egypt."
+   },
+   {
+    "title": "Why would the Egyptians kill the husband when murder is forbidden too?",
+    "pasuk": {
+     "text": "וְהָרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽו",
+     "ref": "Genesis 12:12",
+     "label": "Genesis 12:12"
+    },
+    "question": "Abram fears they will kill him to take Sarai. But the nations were also commanded not to shed blood, so why would they choose murder over taking a married woman?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 12:12:1",
+      "era": "rishon",
+      "quote": "הלא כך הם מוזהרים על שפיכות דמים"
+     },
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 12:11:1",
+      "era": "rishon",
+      "quote": "ותימה שהרי כמו כן מצווים על שפיכות דמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: they were lewd and would add murder to adultery; or it was easier to sin once with bloodshed than to sin constantly with a married woman.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 12:12:1",
+        "quote": "שטופי זמה הם וירבו לחטוא ברציחה עם ניאוף"
+       }
+      ]
+     },
+     {
+      "text": "Da'at Zekenim: better for them to commit murder once than to take her while he lives, for they would fear he would cry out to the king.",
+      "sources": [
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 12:11:1",
+        "quote": "כי טוב יהיה להם שיהרגוהו ויעשו עבירה דשפיכות דמים פעם אחת משיבואו עליה בלא הריגה כי יהיו יראים המצרים פן יצעוק עליהם למלך"
+       }
+      ]
+     },
+     {
+      "text": "Tur HaArokh: desire for forbidden unions comes every day and is hard to resist, while the sin of killing is a passing act.",
+      "sources": [
+       {
+        "name": "Tur HaArokh",
+        "ref": "Tur HaArokh, Genesis 12:12:1",
+        "quote": "תאוות עריות בכל יום ובכל שעה יהיה קשה עליהם לבא עליה באיסור אבל חטא ההריגה יהיה לפי שעה"
+       }
+      ]
+     }
+    ],
+    "why": "It tests Abram's fear against what the Egyptians were bound by."
+   },
+   {
+    "title": "What good does 'that it may go well with me' mean, if he only wants to live?",
+    "pasuk": {
+     "text": "אִמְרִי־נָ֖א אֲחֹ֣תִי אָ֑תְּ לְמַ֙עַן֙ יִֽיטַב־לִ֣י בַעֲבוּרֵ֔ךְ וְחָיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽך",
+     "ref": "Genesis 12:13",
+     "label": "Genesis 12:13"
+    },
+    "question": "Abram asks Sarai to say she is his sister 'that it may go well with me because of you, and that I may remain alive'. If the aim is survival, what is the added 'good'?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 12:13:1",
+      "era": "acharon",
+      "quote": "דקשה לו הא אין שייך כאן הטבה רק שלא יהרגוהו וזהו הצלה ולא הטבה"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 12:13:1",
+      "era": "acharon",
+      "quote": "שזו הצלה היא ואינה בכלל ייטב לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they will give me gifts.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:13:1",
+        "quote": "יִתְּנוּ לִי מַתָּנוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: each suitor will hope Abram will give Sarai to him, and none will think of killing him; Abram meanwhile planned to leave.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 12:13:1",
+        "quote": "יְקַוֶּה כָּל אֶחָד מֵהֶם שֶׁאַשִּׂיאֵךְ לוֹ, וְלֹא יַחְשֹׁב שׁוּם אֶחָד מֵהֶם לְהָרְגֵנו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it means the same as 'my soul will live because of you', the good being that they not kill him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 12:13:2",
+        "quote": "פֵּרוּשׁוֹ וְחָיְתָה נַפְשִׁי בִּגְלָלֵך"
+       }
+      ]
+     }
+    ],
+    "why": "It separates the gifts Abram expected from the plain aim of staying alive."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Ibn Ezra",
+   "Ramban",
+   "Bereshit Rabbah",
+   "Rabbeinu Bahya",
+   "Radak",
+   "Haamek Davar",
+   "Abarbanel",
+   "Midrash Lekach Tov",
+   "Sforno",
+   "Malbim",
+   "Chizkuni",
+   "Da'at Zekenim",
+   "Tur HaArokh",
+   "Siftei Chakhamim",
+   "Mizrachi"
+  ]
+ },
+ "hebrew": {
+  "summary": "ה' מצווה את אברם לצאת מארצו, ממולדתו ומבית אביו אל הארץ אשר יראהו, ומבטיח לו גוי גדול, ברכה ושם גדול. אברם, בן שבעים וחמש, יוצא מחרן עם שרי, לוט וכל רכושם, ובא לארץ כנען עד מקום שכם, שם נראה אליו ה' ומבטיח את הארץ לזרעו, והוא בונה מזבח. משם הוא עובר להר מקדם לבית אל, בונה מזבח וקורא בשם ה', ונוסע הנגבה. רעב בארץ מוריד אותו למצרים, ומתוך פחד על חייו בגלל יופיה של שרי הוא מבקש ממנה לומר שהיא אחותו.",
+  "questions": [
+   {
+    "title": "למה נצטווה אברם לצאת מארצו, והלא כבר יצא ממנה?",
+    "pasuk": {
+     "text": "מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יך",
+     "ref": "Genesis 12:1",
+     "label": "בראשית יב, א"
+    },
+    "question": "ה' אומר 'מארצך וממולדתך ומבית אביך', אך אברם כבר יצא מאור כשדים עם אביו והגיע עד חרן. ממה הוא נצטווה לצאת עכשיו?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 12:2:4",
+      "era": "rishon",
+      "quote": "וַהֲלֹא כְבָר יָצָא מִשָּׁם עִם אָבִיו וּבָא עַד חָרָן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הכוונה שיתרחק עוד משם ויצא מבית אביו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:2:4",
+        "quote": "כָּךְ אָמַר לוֹ הִתְרַחֵק עוֹד מִשָּׁם"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הציווי ניתן עוד באור כשדים, לפני שבא לחרן.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 12:1:1",
+        "quote": "השם צוה לאברהם ועודנו באור כשדים שיעזוב ארצו ומקום מולדתו"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע מתי ניתן הציווי ומה בדיוק נדרש מאברם."
+   },
+   {
+    "title": "למה מובטח לאברם כל כך הרבה בלי שנזכרה זכותו?",
+    "pasuk": {
+     "text": "לֶךְ־לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יך",
+     "ref": "Genesis 12:1-2",
+     "label": "בראשית יב, א-ב"
+    },
+    "question": "ה' מצווה את אברם לצאת ומבטיח לו ברכה שלא היתה כמותה בעולם, אך התורה לא אומרת שהיה צדיק ולא נותנת טעם ליציאה.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 12:2:1",
+      "era": "rishon",
+      "quote": "כִּי מָה טַעַם שֶׁיֹּאמַר לוֹ הקב\"ה עֲזֹב אַרְצְךָ וְאֵיטִיבָה עִמְּךָ טוֹבָה שֶׁלֹּא הָיְתָה כָּמוֹהוּ בָּעוֹלָם, מִבְּלִי שֶׁיַּקְדִּים שֶׁהָיָה אַבְרָהָם עוֹבֵד אֱלֹהִים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הטעם הוא שאנשי אור כשדים עשו לו רעות רבות על אמונתו, והוא נצטווה לעזוב אותם ולעבוד את ה' בארץ הנבחרת.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 12:2:1",
+        "quote": "אֲבָל הַטַּעַם מִפְּנֵי שֶׁעָשׂוּ אַנְשֵׁי אוּר כַּשְׂדִּים עִמּוֹ רָעוֹת רַבּוֹת עַל אֱמוּנָתו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: משל לאחד שראה בירה דולקת ותהה אם אין לה מנהיג, והציץ בעל הבירה. כך אברהם שאל על העולם, והקב\"ה הציץ עליו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 39:1",
+        "quote": "הֵצִיץ עָלָיו הַקָּדוֹשׁ בָּרוּךְ הוּא וְאָמַר לוֹ אֲנִי הוּא בַּעַל הָעוֹלָם"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל מה הפך את אברם לנבחר."
+   },
+   {
+    "title": "למה מציינת התורה שהכנעני היה 'אז' בארץ?",
+    "pasuk": {
+     "text": "וְהַֽכְּנַעֲנִ֖י אָ֥ז בָּאָֽרֶץ",
+     "ref": "Genesis 12:6",
+     "label": "בראשית יב, ו"
+    },
+    "question": "הכתוב מציין שהכנעני היה אז בארץ, כאילו לא יהיה כך תמיד. למה נאמר הדבר דווקא כשאברם עובר בארץ?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 12:6:4",
+      "era": "rishon",
+      "quote": "ואם איננו כן יש לו סוד והמשכיל ידום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: אפשר שכנען תפס את הארץ מיד אחר, ואם לא כן יש לדבר סוד.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 12:6:4",
+        "quote": "יתכן שארץ כנען תפשה כנען מיד אחר"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: הכנעני היה כובש את הארץ מזרעו של שם, ולכן אמר ה' שיחזירה לבני אברם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:6:4",
+        "quote": "הָיָה הוֹלֵךְ וְכוֹבֵשׁ אֶת אֶרֶץ יִשְׂרָאֵל מִזַּרְעוֹ שֶׁל שֵׁם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה בארצו של מי הולך אברם ולמה בא אחריו ההבטחה."
+   },
+   {
+    "title": "למה מפרטת התורה את מסעות אברם ומזבחותיו?",
+    "pasuk": {
+     "text": "וַיִּֽבֶן־שָׁ֤ם מִזְבֵּ֙ח",
+     "ref": "Genesis 12:8",
+     "label": "בראשית יב, ו-ח"
+    },
+    "question": "אברם נוטה אהל, נוסע ובונה מזבחות בשכם ובבית אל. למה התורה מספרת על התחנות האלה, שנראות כפרטים מיותרים?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 12:6:1",
+      "era": "rishon",
+      "quote": "וְיַחְשֹׁב הַחוֹשֵׁב בָּהֶם כְּאִלּוּ הֵם דְּבָרִים מְיֻתָּרִים אֵין בָּהֶם תּוֹעֶלֶת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: כולם באים ללמד על העתיד, כי כל מה שאירע לאבות סימן לבנים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 12:6:1",
+        "quote": "וְכֻלָּם בָּאִים לְלַמֵּד עַל הֶעָתִיד"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: בבית אל התנבא שבניו עתידים להיכשל שם בעוון עכן והתפלל עליהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:8:4",
+        "quote": "נִתְנַבֵּא שֶׁעֲתִידִין בָּנָיו לְהִכָּשֵׁל שָׁם עַל עֲוֹן עָכָן"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: שלושה מזבחות בנה, לבשורת ארץ ישראל, לקנייניה, ושלא יפלו בניו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 39:16",
+        "quote": "שְׁלשָׁה מִזְבְּחוֹת בָּנָה, אֶחָד לִבְשׂוֹרַת אֶרֶץ יִשְׂרָאֵל, וְאֶחָד לְקִנְיָנָהּ, וְאֶחָד שֶׁלֹא יִפְּלוּ בָנָיו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד שתחנות מסעו של אברם נועדו להיקרא כמורה דרך לצאצאיו."
+   },
+   {
+    "title": "האם חטא אברם בירידתו למצרים בגלל הרעב?",
+    "pasuk": {
+     "text": "וַיְהִ֥י רָעָ֖ב בָּאָ֑רֶץ וַיֵּ֨רֶד אַבְרָ֤ם מִצְרַ֙יְמָה",
+     "ref": "Genesis 12:10",
+     "label": "בראשית יב, י"
+    },
+    "question": "מיד אחרי שהובטחה לו ברכה בארץ, אברם עוזב אותה למצרים בגלל הרעב. האם זה כשל בביטחון, או נסיון שעמד בו?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 12:10:1",
+      "era": "rishon",
+      "quote": "וְדַע כִּי אַבְרָהָם אָבִינוּ חָטָא חֵטְא גָּדוֹל בִּשְׁגָגָה שֶׁהֵבִיא אִשְׁתּוֹ הַצַּדֶּקֶת"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 12:13:1",
+      "era": "rishon",
+      "quote": "הִנֵּה זֶה הַחֵטְא שֶׁחָטָא אַבְרָהָם בְּשׁוֹגֵג"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: זה אחד הנסיונות, והוא לא הרהר אחר הקב\"ה אלא קיבל הכל מאהבה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 12:10:1",
+        "quote": "אֶחָד מִן הַנִּסְיוֹנוֹת שֶׁנִּסָּה הָאֵל אֶת אַבְרָהָם אָבִינוּ, וְעָמַד בְּכֻלָּן וְלֹא הִרְהֵר אַחַר הַקָּדוֹשׁ בָּרוּךְ הוּא"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: הרעב היה באותה ארץ לבדה, לנסותו אם יהרהר אחר דברי הקב\"ה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:10:1",
+        "quote": "בְּאוֹתָהּ הָאָרֶץ לְבַדָּהּ, לְנַסּוֹתוֹ, אִם יְהַרְהֵר אַחַר דְּבָרָיו שֶׁל"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: כשפגע בו הרעב לא קרא תגר ולא הקפיד.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 40:2",
+        "quote": "לֹא קָרָא תִּגָּר וְלֹא הִקְפִּיד"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: לא כרמב\"ן; הוא בטח כל האפשר, והנסיון בא ממילא.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 12:10:1",
+        "quote": "ולא כהרמב״ן ז״ל שכתב שחטא במה שיצא שהיה לו לבטוח בה׳. דודאי בטח כל האפשר"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: חז\"ל מנו זאת בין הנסיונות, ומי שעמד בנסיון אין ראוי לקרותו חוטא.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 12:10",
+        "quote": "חז\"ל מנוהו מכלל הנסיונות ובידוע שה' צדיק יבחן ומי שיעמוד בנסיונו אין ראוי שיקרא חוטא"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם ירידתו למצרים נקראת כשל או נסיון שעבר."
+   },
+   {
+    "title": "למה אומר אברם רק עכשיו 'ידעתי' שיפה שרי?",
+    "pasuk": {
+     "text": "הִנֵּה־נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת־מַרְאֶ֖ה אָֽת",
+     "ref": "Genesis 12:11",
+     "label": "בראשית יב, יא"
+    },
+    "question": "אחרי שנים רבות עם שרי, אברם אומר בגבול מצרים שהוא יודע שהיא יפת מראה ומפחד על חייו. למה דווקא עכשיו, ולמה לא פחד קודם?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 12:11:1",
+      "era": "rishon",
+      "quote": "לֹא יָדַעְתִּי לָמָּה פָּחַד מִמֶּנָּה עַתָּה יוֹתֵר מִקֹּדֶם לָכֵן"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 12:11:2",
+      "era": "chazal",
+      "quote": "וכי כל השנים היתה עמו ועכשיו הוא אמר לה כי אשה יפת מראה את"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: דרך העולם שהדרך מבזה את האדם והיא עמדה ביפיה; ולפי הפשט הם בין אנשים שחורים ומכוערים שלא הורגלו באשה יפה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:11:1",
+        "quote": "עַל יְדֵי טֹרַח הַדֶּרֶךְ אָדָם מִתְבַּזֶּה, וְזֹאת עָמְדָה בְּיָפְיָה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הצורות משתנות בעבור האויר, ובמצרים לא היה כמוה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 12:11:3",
+        "quote": "כי הצורות משתנות בעבור האויר"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: מצרים היא בית ועד לזנות.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 12:11:2",
+        "quote": "בֵּית הַוַּעַד לִזְנוּת"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: רק כשהתקרב נודע לו שאנשי מצרים כעורים ושחורים ורודפי זמה וחשודים על שפיכות דמים.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 12:11:1",
+        "quote": "אנשי מצרים כעורים ושחורים ורודפי זמה וחשודים על שפיכות דמים"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל מה השתנה בגבול מצרים."
+   },
+   {
+    "title": "למה יהרגו המצרים את הבעל, והרי גם רצח אסור להם?",
+    "pasuk": {
+     "text": "וְהָרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽו",
+     "ref": "Genesis 12:12",
+     "label": "בראשית יב, יב"
+    },
+    "question": "אברם חושש שיהרגו אותו כדי לקחת את שרי. אבל גם על שפיכות דמים הוזהרו, ולמה יעדיפו רצח על פני לקיחת אשת איש?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 12:12:1",
+      "era": "rishon",
+      "quote": "הלא כך הם מוזהרים על שפיכות דמים"
+     },
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 12:11:1",
+      "era": "rishon",
+      "quote": "ותימה שהרי כמו כן מצווים על שפיכות דמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: שטופי זמה הם וירבו לחטוא ברציחה עם ניאוף; או שניחא להם לחטוא פעם אחת בשפיכות דמים מלהיות חוטאים תדיר באשת איש.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 12:12:1",
+        "quote": "שטופי זמה הם וירבו לחטוא ברציחה עם ניאוף"
+       }
+      ]
+     },
+     {
+      "text": "דעת זקנים: טוב להם להרוג פעם אחת משיבואו עליה בלא הריגה, כי יראו שמא יצעק למלך.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 12:11:1",
+        "quote": "כי טוב יהיה להם שיהרגוהו ויעשו עבירה דשפיכות דמים פעם אחת משיבואו עליה בלא הריגה כי יהיו יראים המצרים פן יצעוק עליהם למלך"
+       }
+      ]
+     },
+     {
+      "text": "טור הארוך: תאוות עריות בכל יום ובכל שעה קשה לעמוד בה, וחטא ההריגה לפי שעה.",
+      "sources": [
+       {
+        "name": "טור הארוך",
+        "ref": "Tur HaArokh, Genesis 12:12:1",
+        "quote": "תאוות עריות בכל יום ובכל שעה יהיה קשה עליהם לבא עליה באיסור אבל חטא ההריגה יהיה לפי שעה"
+       }
+      ]
+     }
+    ],
+    "why": "זה בוחן את פחדו של אברם מול מה שהמצרים היו מצווים עליו."
+   },
+   {
+    "title": "מה פירוש 'למען ייטב לי', אם רצונו רק לחיות?",
+    "pasuk": {
+     "text": "אִמְרִי־נָ֖א אֲחֹ֣תִי אָ֑תְּ לְמַ֙עַן֙ יִֽיטַב־לִ֣י בַעֲבוּרֵ֔ךְ וְחָיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽך",
+     "ref": "Genesis 12:13",
+     "label": "בראשית יב, יג"
+    },
+    "question": "אברם מבקש משרי לומר שהיא אחותו 'למען ייטב לי בעבורך וחיתה נפשי בגללך'. אם המטרה היא להישאר בחיים, מהי ה'טובה' הנוספת?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 12:13:1",
+      "era": "acharon",
+      "quote": "דקשה לו הא אין שייך כאן הטבה רק שלא יהרגוהו וזהו הצלה ולא הטבה"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 12:13:1",
+      "era": "acharon",
+      "quote": "שזו הצלה היא ואינה בכלל ייטב לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: יתנו לי מתנות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:13:1",
+        "quote": "יִתְּנוּ לִי מַתָּנוֹת"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כל אחד יקווה שאשיאך לו ולא יחשוב להרגני, ובין כך חשב לצאת משם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 12:13:1",
+        "quote": "יְקַוֶּה כָּל אֶחָד מֵהֶם שֶׁאַשִּׂיאֵךְ לוֹ, וְלֹא יַחְשֹׁב שׁוּם אֶחָד מֵהֶם לְהָרְגֵנו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: פרושו וחיתה נפשי בגללך, והטובה שלא יהרגו אותו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 12:13:2",
+        "quote": "פֵּרוּשׁוֹ וְחָיְתָה נַפְשִׁי בִּגְלָלֵך"
+       }
+      ]
+     }
+    ],
+    "why": "זה מבחין בין המתנות שציפה להן אברם לבין המטרה הפשוטה של להישאר בחיים."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "אבן עזרא",
+   "רמב\"ן",
+   "בראשית רבה",
+   "רבנו בחיי",
+   "רד\"ק",
+   "העמק דבר",
+   "אברבנאל",
+   "מדרש לקח טוב",
+   "ספורנו",
+   "מלבי\"ם",
+   "חזקוני",
+   "דעת זקנים",
+   "טור הארוך",
+   "שפתי חכמים",
+   "מזרחי"
+  ]
+ }
+}
