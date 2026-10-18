@@ -1,0 +1,1071 @@
+{
+ "date": "2026-10-18",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 12:14-13:4",
+ "hebrew_date": {
+  "hebrew": "ז׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "7 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Abram enters Egypt and the Egyptians see how beautiful Sarai is. Pharaoh's officers praise her to him and she is taken to his palace, and Abram receives sheep, cattle, donkeys, servants and camels on her account. God strikes Pharaoh and his house with great plagues because of Sarai. Pharaoh summons Abram, asks why he did not say she was his wife, returns her and has them sent away with all they have. Abram goes up from Egypt to the Negeb with Sarai, Lot and all his possessions, very rich, and travels by stages to the place of the altar between Bethel and Ai, where he calls on God by name.",
+  "questions": [
+   {
+    "title": "Why does it say 'when Abram came' and not 'when they came' to Egypt?",
+    "pasuk": {
+     "text": "ויהי כבוא אברם מצרימה",
+     "ref": "Genesis 12:14",
+     "label": "Genesis 12:14"
+    },
+    "question": "Sarai entered Egypt with Abram, yet the verse speaks only of Abram's arrival. Why is she left out?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 12:14:1",
+      "era": "rishon",
+      "quote": "הָיָה לוֹ לוֹמַר כְּבוֹאָם מִצְרַיְמָה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 12:14:1",
+      "era": "acharon",
+      "quote": "היה לו לומר כבואם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the wording teaches that Abram hid Sarai in a chest, and she was seen only when the customs officials demanded duty and opened it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:14:1",
+        "quote": "אֶלָּא לִמֵּד שֶׁהִטְמִין אוֹתָהּ בְּתֵבָה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 40:5",
+        "quote": "נְתָנָהּ בְּתֵבָה וְנָעַל בְּפָנֶיהָ"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: on the plain meaning the verse hangs everyone's arrival on Abram, since all of them depend on him.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 12:14:1",
+        "quote": "לפי הפשט תלה הכתוב כל ביאות האחרים עליו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Abram tried to protect Sarai, and why the Egyptians saw her only later."
+   },
+   {
+    "title": "Why does the verse repeat that Sarai was very beautiful?",
+    "pasuk": {
+     "text": "כי יפה היא מאד",
+     "ref": "Genesis 12:14",
+     "label": "Genesis 12:14"
+    },
+    "question": "The Torah already called Sarai 'a woman of beautiful appearance'. What does 'she was very beautiful' add when the Egyptians see her?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 12:14:1",
+      "era": "acharon",
+      "quote": "הוא מיותר והרי כבר כתיב כי אשה יפת מראה את"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 12:14:1",
+      "era": "acharon",
+      "quote": "כי אין שום נפקותא מאשר ראוה המצרים יפה מאד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Haamek Davar: it begins the story of the miracle. She was so beautiful that people understood no one but the king could have her, and so she was kept from the crowd.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 12:14:1",
+        "quote": "עד שהשכילו שאין יפה כמותה"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: the verse teaches that she shone before them like the sun.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 12:14:2",
+        "quote": "מלמד שהבריקה לפניהם כשמש"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: one could say the verse shows Abram's quality.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 12:14:1",
+        "quote": "ולכאורה היה אפשר לומר שהורה מעלת אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It sets up why Sarai was taken to the palace and why Abram feared for himself."
+   },
+   {
+    "title": "What does 'they praised her to Pharaoh' mean?",
+    "pasuk": {
+     "text": "ויהללו אותה אל פרעה",
+     "ref": "Genesis 12:15",
+     "label": "Genesis 12:15"
+    },
+    "question": "'Praised' takes an object, so why does the verse say 'to Pharaoh'? Did Pharaoh's officers praise her among themselves or to the king?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 12:15:1",
+      "era": "acharon",
+      "quote": "לפי שההלול קאי על שרה לא יתכן לומר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they praised her among themselves, saying she is fit for the king.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:15:1",
+        "quote": "הִלְּלוּהָ בֵינֵיהֶם לוֹמַר הֲגוּנָה זוֹ לַמֶּלֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: or they praised her to the king himself, and he sent and took her.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 12:15:1",
+        "quote": "אוֹ שֶׁהִלְּלוּהָ אֶל הַמֶּלֶךְ עַצְמוֹ וְשָׁלַח וּלְקָחָהּ"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: the people praised her until the officers came to see her, and the officers praised her to Pharaoh, who sent and took her.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 12:14:1",
+        "quote": "והשרים הללו אותה אל פרעה ושלח ולקחה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Pharaoh sought Sarai himself or was led to her by his officers."
+   },
+   {
+    "title": "Why didn't Abram tear his clothes when Sarai was taken?",
+    "pasuk": {
+     "text": "ותקח האשה בית פרעה",
+     "ref": "Genesis 12:15",
+     "label": "Genesis 12:15"
+    },
+    "question": "A man who sees his wife taken by another would tear his clothes, yet the Torah shows no sign of that from Abram. How could he stand by?",
+    "asked_by": [
+     {
+      "name": "Pirkei DeRabbi Eliezer",
+      "ref": "Pirkei DeRabbi Eliezer 26:5",
+      "era": "chazal",
+      "quote": "וְכִי יֵשׁ אָדָם שֶׁרוֹאֶה אֶת אִשְׁתּוֹ נִלְקְחָה לְאִישׁ אַחֵר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Pirkei DeRabbi Eliezer: he did not need to, because Pharaoh never came near her.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 26:5",
+        "quote": "אֶלָּא שֶׁלֹּא קָרַב אֵלֶיהָ"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: she was brought to his house and not to his bed, since plagues struck him at once.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 12:15:1",
+        "quote": "לביתו הובאה ולא למטתו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: 'she was taken' implies against her will, because she was a married woman.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 12:15:1",
+        "quote": "אָמַר וַתֻּקַּח שֶׁמַּשְׁמָעוֹ בְּעַל כָּרְחָהּ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that Sarai was protected even in Pharaoh's palace."
+   },
+   {
+    "title": "Why was Pharaoh struck when he thought Sarai was Abram's sister?",
+    "pasuk": {
+     "text": "נגעים גדולים ואת ביתו על דבר שרי אשת אברם",
+     "ref": "Genesis 12:17",
+     "label": "Genesis 12:17"
+    },
+    "question": "Abram himself said 'she is my sister'. What was Pharaoh's offence that he and his house were plagued?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 12:17:1",
+      "era": "rishon",
+      "quote": "למה לקה הרי אברהם אמר אחותי היא"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 12:17:1",
+      "era": "acharon",
+      "quote": "מַה פֶּשַׁע שֶׁל פַּרְעֹה, הֲרֵי סָבוּר שֶׁהִיא אֲחוֹתוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: 'because of the word of Sarai' means she said she was Abram's wife.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 12:17:1",
+        "quote": "על דבורה אשת אברם אני"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: although she told the crowd she was his sister, she told Pharaoh the truth, that she was Abram's wife.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 12:17:1",
+        "quote": "מִכָּל מָקוֹם לְפַרְעֹה הִגִּידָה הָאֱמֶת שֶׁהִיא אֵשֶׁת אַבְרָם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: 'on the word of Sarai' means by her word. She told the angel to strike, and he struck.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 12:17:3",
+        "quote": "עַל פִּי דִּבּוּרָהּ; אוֹמֶרֶת לַמַּלְאָךְ הַךְ, וְהוּא מַכֶּה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the plagues came because of the wrong he did to Sarai and also to Abram, and in the merit of both.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 12:17:1",
+        "quote": "כִּי בַּעֲבוּר הֶחָמָס שֶׁעָשָׂה לְשָׂרָה גַּם לְאַבְרָהָם"
+       }
+      ]
+     }
+    ],
+    "why": "It asks on what grounds a ruler is judged when he acted on what he was told."
+   },
+   {
+    "title": "Why does the verse add 'the wife of Abram' if we already know?",
+    "pasuk": {
+     "text": "על דבר שרי אשת אברם",
+     "ref": "Genesis 12:17",
+     "label": "Genesis 12:17"
+    },
+    "question": "We know Sarai is Abram's wife, so why does the verse say it again?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 12:17:1",
+      "era": "acharon",
+      "quote": "הוא מיותר וכי בשביל שרה וזכותה"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 12:17:1",
+      "era": "acharon",
+      "quote": "אשת אברם מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: at the moment of the plague it was made known that Sarai is Abram's wife.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 12:17:1",
+        "quote": "כִּי בִּשְׁעַת הַנֶּגַע הוֹדִיעַ כִּי שָׂרַי הִיא אֵשֶׁת אַבְרָם"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: the phrase gives the reason Pharaoh was struck.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 12:17:1",
+        "quote": "בא לתת טעם למה נגעו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the plagues came in the merit of both Abram and Sarai.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 12:17:1",
+        "quote": "וּבִזְכוּת שְׁנֵיהֶם בָּאוּ עָלָיו הַנְּגָעִים הַגְּדוֹלִים"
+       }
+      ]
+     }
+    ],
+    "why": "It points to the merit of both spouses in the rescue."
+   },
+   {
+    "title": "Who gave Abram the flocks and servants: 'it was his' and not 'he gave him'?",
+    "pasuk": {
+     "text": "ויהי לו צאן ובקר וחמרים ועבדים ושפחת ואתנת וגמלים",
+     "ref": "Genesis 12:16",
+     "label": "Genesis 12:16"
+    },
+    "question": "If Pharaoh gave Abram these gifts, the verse should have said 'he gave him'. Why does it say 'and he had'?",
+    "asked_by": [
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 12:16:1",
+      "era": "acharon",
+      "quote": "אם פרעה נתן לו הצאן והעבדים היה ראוי לומר ויתן לו"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 12:16:2",
+      "era": "acharon",
+      "quote": "לא כתיב שנתן לו פרעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "HaKtav VeHaKabalah: it means they remained his, so that nothing of his was taken from him.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 12:16:1",
+        "quote": "אבל פירוש ויהי לו צאן כלומר נשאר לו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: they were left to him, not bought and earned in Egypt.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 12:16:1",
+        "quote": "לֹא שֶׁקָּנָה אוֹתָם בְּמִצְרַיִם וְהִרְוִיחַ שָׁם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it was from Pharaoh, who sent them to him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 12:16:2",
+        "quote": "מֵאֵת פַּרְעֹה שֶׁשָּׁלַח לוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: after Abram was made a leader he gained great wealth naturally.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 12:16:2",
+        "quote": "אחר שנתמנה לשר וגדול ממילא השיג עושר רב"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Abram profited from Sarai's being taken."
+   },
+   {
+    "title": "Why does Pharaoh ask 'why didn't you tell me' twice?",
+    "pasuk": {
+     "text": "למה לא הגדת לי כי אשתך הוא",
+     "ref": "Genesis 12:18",
+     "label": "Genesis 12:18"
+    },
+    "question": "Pharaoh rebukes Abram twice, 'why did you not tell me' and 'why did you say she is my sister'. Why the repetition, and why should Abram have told a king?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 12:18:1",
+      "era": "acharon",
+      "quote": "קָשֶׁה לָמָּה כָּפַל הַקֻּשְׁיָא שְׁתֵּי פְּעָמִים"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 12:18:1",
+      "era": "acharon",
+      "quote": "הנה יש יתורי דברים בפסוק זה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: two levels of astonishment. He should have worried that Pharaoh might take her without knowing she is his wife.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 12:18:1",
+        "quote": "מִן הָרָאוּי הָיָה לְךָ לָחוּשׁ לִי"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: even if he suspected the crowd, he should not have suspected the king.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 12:18:1",
+        "quote": "שֶׁגַּם אִם הָיִיתָ חוֹשֵׁד אֶת הֶהָמוֹן, לֹא הָיָה לְךָ לַחֲשֹׁד אֶת הַמֶּלֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: Abram was right to hide it from the crowd, but with the king alone he should have revealed it.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 12:18:1",
+        "quote": "היית צודק להסתיר מן המון רבה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Pharaoh saw himself, and what Abram had misjudged."
+   },
+   {
+    "title": "Why does 'the first' altar not refer to Shechem?",
+    "pasuk": {
+     "text": "אל מקום המזבח אשר עשה שם בראשנה",
+     "ref": "Genesis 13:4",
+     "label": "Genesis 13:4"
+    },
+    "question": "Abram built an altar at Shechem before the one near Bethel. In what sense was the Bethel altar 'the first'?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 13:4:1",
+      "era": "acharon",
+      "quote": "אבל לא היה תחלה למזבחות שהרי עשה גם בשכם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Malbim: although he had built an altar at Shechem, this one is called first because there he called the name of God publicly.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 13:4:1",
+        "quote": "שהגם שכבר עשה מזבח בשכם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: it is the altar where Abram called in God's name, and perhaps he called there again now.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 13:4:1",
+        "quote": "וַאֲשֶׁר קָרָא שָׁם אַבְרָם בְּשֵׁם ה'"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the verse teaches that a person should fix a place for prayer, since the heart is steadier in a familiar place.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 13:4:1",
+        "quote": "רָאוּי לָאָדָם לִקְבֹּעַ מָקוֹם לִתְפִלָּתוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "It ends the aliyah by showing Abram returning to where he first called in God's name."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Gur Aryeh",
+   "Bereshit Rabbah",
+   "Chizkuni",
+   "Haamek Davar",
+   "Alshekh",
+   "Midrash Lekach Tov",
+   "Ramban",
+   "Bekhor Shor",
+   "Pirkei DeRabbi Eliezer",
+   "Radak",
+   "Kli Yakar",
+   "Or HaChaim",
+   "HaKtav VeHaKabalah",
+   "Rabbeinu Bahya",
+   "Sforno",
+   "Malbim"
+  ]
+ },
+ "hebrew": {
+  "summary": "אברם נכנס למצרים והמצרים רואים כמה שרי יפה. שרי פרעה מהללים אותה לפניו והיא נלקחת לבית פרעה, ואברם מקבל צאן, בקר, חמורים, עבדים, שפחות ואתונות וגמלים בעבורה. ה' מנגע את פרעה ואת ביתו נגעים גדולים על דבר שרי. פרעה קורא לאברם, שואל מדוע לא אמר שהיא אשתו, מחזיר אותה ומשלח אותם עם כל אשר להם. אברם עולה ממצרים הנגבה עם שרי ולוט וכל אשר לו, כבד מאד, והולך למסעיו אל מקום המזבח שבין בית אל ובין העי, ושם קורא בשם ה'.",
+  "questions": [
+   {
+    "title": "מדוע נאמר 'כבוא אברם' ולא 'כבואם' מצרימה?",
+    "pasuk": {
+     "text": "ויהי כבוא אברם מצרימה",
+     "ref": "Genesis 12:14",
+     "label": "בראשית יב, יד"
+    },
+    "question": "שרי נכנסה למצרים עם אברם, ובכל זאת הפסוק מזכיר רק את בואו. מדוע היא נעדרת?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 12:14:1",
+      "era": "rishon",
+      "quote": "הָיָה לוֹ לוֹמַר כְּבוֹאָם מִצְרַיְמָה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 12:14:1",
+      "era": "acharon",
+      "quote": "היה לו לומר כבואם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הלשון מלמדת שאברם הטמין את שרי בתיבה, ורק כשדרשו מכס פתחו וראו אותה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:14:1",
+        "quote": "אֶלָּא לִמֵּד שֶׁהִטְמִין אוֹתָהּ בְּתֵבָה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 40:5",
+        "quote": "נְתָנָהּ בְּתֵבָה וְנָעַל בְּפָנֶיהָ"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לפי הפשט הכתוב תולה את בואם של כולם באברם, כי כולם תלויים בו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 12:14:1",
+        "quote": "לפי הפשט תלה הכתוב כל ביאות האחרים עליו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד אברם ניסה להגן על שרי, ולמה המצרים ראו אותה רק אחר כך."
+   },
+   {
+    "title": "מדוע הפסוק חוזר ואומר שהיא יפה מאד?",
+    "pasuk": {
+     "text": "כי יפה היא מאד",
+     "ref": "Genesis 12:14",
+     "label": "בראשית יב, יד"
+    },
+    "question": "התורה כבר אמרה על שרי 'אשה יפת מראה'. מה מוסיף 'כי יפה היא מאד' כשהמצרים רואים אותה?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 12:14:1",
+      "era": "acharon",
+      "quote": "הוא מיותר והרי כבר כתיב כי אשה יפת מראה את"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 12:14:1",
+      "era": "acharon",
+      "quote": "כי אין שום נפקותא מאשר ראוה המצרים יפה מאד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "העמק דבר: זה פתיחת סיפור הנס. היא הייתה יפה עד שהבינו שאין היא ראויה אלא למלך לבדו, ובזה נפטרה מההמון.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 12:14:1",
+        "quote": "עד שהשכילו שאין יפה כמותה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: הפסוק מלמד שהבריקה לפניהם כשמש.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 12:14:2",
+        "quote": "מלמד שהבריקה לפניהם כשמש"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: אפשר לומר שהפסוק מורה על מעלת אברהם.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 12:14:1",
+        "quote": "ולכאורה היה אפשר לומר שהורה מעלת אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מכין את הקרקע לכך ששרי נלקחה לבית פרעה ולפחדו של אברם."
+   },
+   {
+    "title": "מה פירוש 'ויהללו אותה אל פרעה'?",
+    "pasuk": {
+     "text": "ויהללו אותה אל פרעה",
+     "ref": "Genesis 12:15",
+     "label": "בראשית יב, טו"
+    },
+    "question": "הלל אינו לשון של 'אל', ומדוע נאמר 'אל פרעה'? האם השרים הללו אותה ביניהם או לפני המלך?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 12:15:1",
+      "era": "acharon",
+      "quote": "לפי שההלול קאי על שרה לא יתכן לומר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הם הללו אותה ביניהם ואמרו שהיא הגונה למלך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:15:1",
+        "quote": "הִלְּלוּהָ בֵינֵיהֶם לוֹמַר הֲגוּנָה זוֹ לַמֶּלֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: או שהללוה אל המלך עצמו, והוא שלח ולקחה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 12:15:1",
+        "quote": "אוֹ שֶׁהִלְּלוּהָ אֶל הַמֶּלֶךְ עַצְמוֹ וְשָׁלַח וּלְקָחָהּ"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: העם שבחו אותה עד שבאו השרים לראותה, והשרים הללו אותה אל פרעה והוא שלח ולקחה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 12:14:1",
+        "quote": "והשרים הללו אותה אל פרעה ושלח ולקחה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם פרעה חיפש את שרי בעצמו או שהשרים הביאוהו אליה."
+   },
+   {
+    "title": "מדוע אברם לא קרע את בגדיו כששרי נלקחה?",
+    "pasuk": {
+     "text": "ותקח האשה בית פרעה",
+     "ref": "Genesis 12:15",
+     "label": "בראשית יב, טו"
+    },
+    "question": "אדם שרואה את אשתו נלקחת לאיש אחר קורע את בגדיו, ואצל אברם אין זכר לכך. איך יכול היה לעמוד מנגד?",
+    "asked_by": [
+     {
+      "name": "פרקי דרבי אליעזר",
+      "ref": "Pirkei DeRabbi Eliezer 26:5",
+      "era": "chazal",
+      "quote": "וְכִי יֵשׁ אָדָם שֶׁרוֹאֶה אֶת אִשְׁתּוֹ נִלְקְחָה לְאִישׁ אַחֵר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "פרקי דרבי אליעזר: לא היה צריך, כי פרעה לא קרב אליה.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 26:5",
+        "quote": "אֶלָּא שֶׁלֹּא קָרַב אֵלֶיהָ"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: היא הובאה לביתו ולא למטתו, כי קפצו עליו יסורים מיד.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 12:15:1",
+        "quote": "לביתו הובאה ולא למטתו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: 'ותקח' משמעו בעל כרחה, כי הייתה אשת איש.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 12:15:1",
+        "quote": "אָמַר וַתֻּקַּח שֶׁמַּשְׁמָעוֹ בְּעַל כָּרְחָהּ"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה ששרי הייתה שמורה גם בארמון פרעה."
+   },
+   {
+    "title": "מדוע לקה פרעה אם חשב ששרי אחות אברם?",
+    "pasuk": {
+     "text": "נגעים גדולים ואת ביתו על דבר שרי אשת אברם",
+     "ref": "Genesis 12:17",
+     "label": "בראשית יב, יז"
+    },
+    "question": "אברם עצמו אמר 'אחותי היא'. מה היה חטאו של פרעה, שנענש הוא וביתו?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 12:17:1",
+      "era": "rishon",
+      "quote": "למה לקה הרי אברהם אמר אחותי היא"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 12:17:1",
+      "era": "acharon",
+      "quote": "מַה פֶּשַׁע שֶׁל פַּרְעֹה, הֲרֵי סָבוּר שֶׁהִיא אֲחוֹתוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: 'על דבר שרי' פירושו על דיבורה, שאמרה שהיא אשת אברם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 12:17:1",
+        "quote": "על דבורה אשת אברם אני"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אף שבפני ההמון אמרה שהיא אחותו, לפרעה הגידה את האמת שהיא אשת אברם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 12:17:1",
+        "quote": "מִכָּל מָקוֹם לְפַרְעֹה הִגִּידָה הָאֱמֶת שֶׁהִיא אֵשֶׁת אַבְרָם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: 'על דבר שרי' פירושו על פי דיבורה. היא אמרה למלאך הך, והוא מכה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 12:17:3",
+        "quote": "עַל פִּי דִּבּוּרָהּ; אוֹמֶרֶת לַמַּלְאָךְ הַךְ, וְהוּא מַכֶּה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: המכות באו בגלל החמס שעשה לשרה וגם לאברהם, ובזכות שניהם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 12:17:1",
+        "quote": "כִּי בַּעֲבוּר הֶחָמָס שֶׁעָשָׂה לְשָׂרָה גַּם לְאַבְרָהָם"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל על איזה בסיס נשפט מלך שפעל לפי מה שנאמר לו."
+   },
+   {
+    "title": "מדוע נאמר 'אשת אברם' אם כבר ידוע?",
+    "pasuk": {
+     "text": "על דבר שרי אשת אברם",
+     "ref": "Genesis 12:17",
+     "label": "בראשית יב, יז"
+    },
+    "question": "אנו יודעים ששרי היא אשת אברם, ומדוע הפסוק אומר זאת שוב?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 12:17:1",
+      "era": "acharon",
+      "quote": "הוא מיותר וכי בשביל שרה וזכותה"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 12:17:1",
+      "era": "acharon",
+      "quote": "אשת אברם מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: בשעת הנגע הודיע כי שרי היא אשת אברם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 12:17:1",
+        "quote": "כִּי בִּשְׁעַת הַנֶּגַע הוֹדִיעַ כִּי שָׂרַי הִיא אֵשֶׁת אַבְרָם"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: הביטוי בא לתת טעם למה לקה פרעה.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 12:17:1",
+        "quote": "בא לתת טעם למה נגעו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הנגעים באו בזכות שניהם, אברהם ושרה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 12:17:1",
+        "quote": "וּבִזְכוּת שְׁנֵיהֶם בָּאוּ עָלָיו הַנְּגָעִים הַגְּדוֹלִים"
+       }
+      ]
+     }
+    ],
+    "why": "זה מצביע על זכות שני בני הזוג בהצלה."
+   },
+   {
+    "title": "מי נתן לאברם את הצאן והעבדים, ולמה נאמר 'ויהי לו'?",
+    "pasuk": {
+     "text": "ויהי לו צאן ובקר וחמרים ועבדים ושפחת ואתנת וגמלים",
+     "ref": "Genesis 12:16",
+     "label": "בראשית יב, טז"
+    },
+    "question": "אילו נתן פרעה לאברם את המתנות, היה ראוי לומר 'ויתן לו'. מדוע נאמר 'ויהי לו'?",
+    "asked_by": [
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 12:16:1",
+      "era": "acharon",
+      "quote": "אם פרעה נתן לו הצאן והעבדים היה ראוי לומר ויתן לו"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 12:16:2",
+      "era": "acharon",
+      "quote": "לא כתיב שנתן לו פרעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכתב והקבלה: פירושו שנשאר לו, שלא לקחו ממנו דבר משלו.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 12:16:1",
+        "quote": "אבל פירוש ויהי לו צאן כלומר נשאר לו"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: נשארו לו, ולא שקנה אותם במצרים והרוויח שם.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 12:16:1",
+        "quote": "לֹא שֶׁקָּנָה אוֹתָם בְּמִצְרַיִם וְהִרְוִיחַ שָׁם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: מאת פרעה ששלח לו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 12:16:2",
+        "quote": "מֵאֵת פַּרְעֹה שֶׁשָּׁלַח לוֹ"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אחרי שנתמנה לשר ממילא השיג עושר רב.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 12:16:2",
+        "quote": "אחר שנתמנה לשר וגדול ממילא השיג עושר רב"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם אברם הרוויח מכך ששרי נלקחה."
+   },
+   {
+    "title": "מדוע פרעה שואל פעמיים 'למה לא הגדת לי'?",
+    "pasuk": {
+     "text": "למה לא הגדת לי כי אשתך הוא",
+     "ref": "Genesis 12:18",
+     "label": "בראשית יב, יח"
+    },
+    "question": "פרעה גוער באברם פעמיים, 'למה לא הגדת לי' ו'למה אמרת אחותי היא'. מדוע החזרה, ומדוע היה על אברם לספר למלך?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 12:18:1",
+      "era": "acharon",
+      "quote": "קָשֶׁה לָמָּה כָּפַל הַקֻּשְׁיָא שְׁתֵּי פְּעָמִים"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 12:18:1",
+      "era": "acharon",
+      "quote": "הנה יש יתורי דברים בפסוק זה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: שתי דרגות של תמיהה. היה עליו לחשוש שמא יקח פרעה אותה בלי לדעת שהיא אשתו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 12:18:1",
+        "quote": "מִן הָרָאוּי הָיָה לְךָ לָחוּשׁ לִי"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: גם אם חשד בהמון, לא היה עליו לחשוד במלך.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 12:18:1",
+        "quote": "שֶׁגַּם אִם הָיִיתָ חוֹשֵׁד אֶת הֶהָמוֹן, לֹא הָיָה לְךָ לַחֲשֹׁד אֶת הַמֶּלֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אברם צדק בכך שהסתיר מההמון, אבל לפני המלך לבדו היה עליו לגלות.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 12:18:1",
+        "quote": "היית צודק להסתיר מן המון רבה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך פרעה ראה את עצמו ובמה טעה אברם."
+   },
+   {
+    "title": "מדוע המזבח הזה נקרא 'בראשנה' אם בשכם נבנה מזבח קודם?",
+    "pasuk": {
+     "text": "אל מקום המזבח אשר עשה שם בראשנה",
+     "ref": "Genesis 13:4",
+     "label": "בראשית יג, ד"
+    },
+    "question": "אברם בנה מזבח בשכם לפני המזבח שליד בית אל. באיזה מובן מזבח בית אל הוא 'ראשון'?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 13:4:1",
+      "era": "acharon",
+      "quote": "אבל לא היה תחלה למזבחות שהרי עשה גם בשכם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלבי\"ם: אף שכבר עשה מזבח בשכם, מזבח זה נקרא ראשונה מפני שקרא שם בשם ה' לפרסם אלהותו ברבים.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 13:4:1",
+        "quote": "שהגם שכבר עשה מזבח בשכם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: זה המזבח שקרא שם אברם בשם ה', ויש לומר שקרא שם גם עכשיו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 13:4:1",
+        "quote": "וַאֲשֶׁר קָרָא שָׁם אַבְרָם בְּשֵׁם ה'"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הפסוק מלמד שראוי לאדם לקבוע מקום לתפילתו, כי לבו נכון יותר במקום שהוא רגיל בו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 13:4:1",
+        "quote": "רָאוּי לָאָדָם לִקְבֹּעַ מָקוֹם לִתְפִלָּתוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "זה חותם את העלייה בשובו של אברם למקום שבו קרא תחילה בשם ה'."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "גור אריה",
+   "בראשית רבה",
+   "חזקוני",
+   "העמק דבר",
+   "אלשיך",
+   "מדרש לקח טוב",
+   "רמב\"ן",
+   "בכור שור",
+   "פרקי דרבי אליעזר",
+   "רד\"ק",
+   "כלי יקר",
+   "אור החיים",
+   "הכתב והקבלה",
+   "רבינו בחיי",
+   "ספורנו",
+   "מלבי\"ם"
+  ]
+ }
+}
