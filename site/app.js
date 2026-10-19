@@ -50,6 +50,8 @@ const UI = {
     rjsEssays: "המסות",
     rjsNotYet: "סיכום מסות הרב זקס על פרשה זו יתפרסם ביום ראשון בבוקר של השבוע שבו קוראים אותה.",
     rjsRead: "למסה המלאה בספריא",
+    rjsQuestions: "השאלות",
+    rjsBlocks: "אבני הבניין של הרעיון",
     rjsCredit: "שיג ושיח, תרגום צור ארליך, הוצאת מגיד (CC-BY-NC), באתר ספריא",
   },
   english: {
@@ -97,6 +99,8 @@ const UI = {
     rjsEssays: "The essays",
     rjsNotYet: "The summary of Rabbi Sacks' essays on this parasha will be published on the Sunday morning of the week it is read.",
     rjsRead: "Read the full essay on Sefaria",
+    rjsQuestions: "The questions",
+    rjsBlocks: "Building blocks of the idea",
     rjsCredit: "Covenant & Conversation, Maggid Books and the Orthodox Union (CC-BY-NC), on Sefaria",
   },
 };
@@ -574,8 +578,29 @@ function renderRjs() {
       const summary = node("summary");
       summary.append(node("span", "n", `${i + 1}.`), node("span", "ttl", essay.title));
       const body = node("div", "body");
-      body.appendChild(node("p", null, essay.summary));
-      if (essay.quote) body.appendChild(node("blockquote", "rjsquote", essay.quote));
+      // the questions the essay asks, then the building blocks of its idea, in order;
+      // each with Rabbi Sacks' own words (checked against Sefaria by scripts/rjs.py)
+      const said = (item) => {
+        const quote = node("q", "rjsquote", item.quote);
+        quote.dir = "auto";
+        return quote;
+      };
+      body.appendChild(node("div", "label", t().rjsQuestions));
+      const questions = node("ul", "rjsqs");
+      (essay.questions || []).forEach((q) => {
+        const li = node("li", null, q.text);
+        if (q.quote) li.append(" ", said(q));
+        questions.appendChild(li);
+      });
+      body.appendChild(questions);
+      body.appendChild(node("div", "label", t().rjsBlocks));
+      const blocks = node("ol", "rjsblocks");
+      (essay.blocks || []).forEach((b) => {
+        const li = node("li", null, b.text);
+        if (b.quote) { li.appendChild(document.createElement("br")); li.appendChild(said(b)); }
+        blocks.appendChild(li);
+      });
+      body.appendChild(blocks);
       body.appendChild(sefariaLink(t().rjsRead, essay.ref));
       item.append(summary, body);
       essays.body.appendChild(item);

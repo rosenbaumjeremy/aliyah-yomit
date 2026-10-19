@@ -6,60 +6,336 @@
  },
  "date": "2026-10-19",
  "english": {
-  "overview": "Rabbi Sacks reads Lech Lecha as the turning point of Genesis: after Adam, Cain, Noah and Babel each evaded responsibility, Abraham is the first person whose whole life is a response to God's call. Across five essays he unpacks that call as a journey toward freedom, a new and quiet kind of heroism, and a challenge to be different. He also reads the story as one of continuity – Abraham completing a journey his father Terah began – and of patience, as the promise of a child is delayed again and again while Lot, Eliezer and Ishmael each turn out not to be the heir.",
+  "overview": "Rabbi Sacks reads Lech Lecha as the turning point of Genesis: after Adam, Cain, Noah and Babel each evaded responsibility, Abraham is the first person whose whole life is a response to God's call. His five essays ask what that call means, what kind of hero Abraham is, how he relates to his father, and why the promise of a child takes so long to come true.",
   "essays": [
    {
     "title": "The Long Walk to Freedom",
     "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Lech Lecha, The Long Walk to Freedom",
-    "summary": "Abraham is the counterpoint to the four failures before him: unlike Adam he accepts personal responsibility, unlike Cain moral responsibility, unlike Noah collective responsibility, and unlike the builders of Babel the responsibility of answering to a command beyond the self. Rabbi Sacks contrasts this with today's 'victim culture', which blames everything outside ourselves and so keeps people trapped. He reads God's three-part call as an answer to three modern determinisms: leave your land (Marx's economic forces), your birthplace (Spinoza's inborn drives) and your father's house (Freud's childhood). Freedom, he argues, is not a given but a process learned slowly, like any art – a journey, which is the deeper meaning of Lech Lecha: journey to yourself.",
-    "quote": "Judaism is supremely a religion of freedom"
+    "questions": [
+     {
+      "text": "Why is Abraham the turning point of Genesis?",
+      "quote": "We have arrived at the watershed of the book of Genesis"
+     },
+     {
+      "text": "Why do people, then and now, blame their troubles on forces outside themselves?",
+      "quote": "human beings have attributed their misfortunes to factors other than the human will"
+     },
+     {
+      "text": "What do the three parts of God's call (land, birthplace, father's house) really mean?",
+      "quote": "At the heart of God’s threefold call is a summons to a life of radical freedom"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Every story before Abraham is a flight from responsibility: Adam denies personal responsibility, Cain moral responsibility, Noah collective responsibility, and Babel denies any command from beyond the self.",
+      "quote": "all four dramas of Genesis dealt with the evasion and abdication of responsibility"
+     },
+     {
+      "text": "Abraham reverses each failure: he obeys the call, rescues Lot, prays for Sodom, and accepts a command from beyond himself.",
+      "quote": "Abraham represents the turning point, offering a counterpoint to the previous failures"
+     },
+     {
+      "text": "So Abraham is a new kind of person, for whom God's command is not a constraint to escape but life itself.",
+      "quote": "Abraham is a new human type: the person whose life is a response to the call of God"
+     },
+     {
+      "text": "Freedom in Judaism is ethical, not modern: not doing what we like, but choosing to do what we should – a culture of responsibilities rather than rights.",
+      "quote": "not freedom in the modern sense, the ability to do what we like"
+     },
+     {
+      "text": "Today's 'victim culture' is the old evasion in new form: it blames parents, genes and society, and so turns a person from a doer into someone done-to.",
+      "quote": "A victim is an object, not a subject; a done-to, not a doer"
+     },
+     {
+      "text": "The three parts of the call answer three modern determinisms: leave your land (Marx, economic forces), your birthplace (Spinoza, inborn drives), your father's house (Freud, childhood).",
+      "quote": "Therefore God said to Abraham, Leave your father’s house"
+     },
+     {
+      "text": "Where it lands: freedom is not given but learned slowly, like an art – a journey inward. That is what Lech Lecha means.",
+      "quote": "journey (lekh) to yourself (lekha)"
+     }
+    ]
    },
    {
     "title": "A New Kind of Hero",
     "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Lech Lecha, A New Kind of Hero",
-    "summary": "Abraham founded a faith now followed by more than half of humanity, yet the Torah describes him with remarkable understatement: not a survivor like Noah, a lawgiver like Moses or a prophet confronting kings, but a man who is gentle, kind and gracious. Drawing on Lionel Trilling, Rabbi Sacks notes that Judaism did not have heroes in the Greek sense – people playing a part on the world stage for admiration. Biblical Hebrew even lacks an exact word for 'person', which comes from the Latin persona, an actor's mask. Abraham models a different heroism: the ordinary, unostentatious goodness of one who lives in God's presence and is true to his convictions even when the world thinks otherwise.",
-    "quote": "the heroism of ordinary life, of decency and goodness, integrity and faithfulness"
+    "questions": [
+     {
+      "text": "Why does the Torah tell the story of the founder of a world faith with such understatement?",
+      "quote": "yet the Torah is exceptionally understated in its account of him"
+     },
+     {
+      "text": "Why does Judaism have no heroes in the classical sense?",
+      "quote": "Judaism did not have heroes in the sense that the Greeks and other cultures did"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Abraham is not a survivor like Noah, a lawgiver like Moses or a prophet confronting kings; even the idol-smashing story is midrash, not the text.",
+      "quote": "The Torah’s actual presentation of Abraham does not fit any conventional image of the religious hero"
+     },
+     {
+      "text": "His virtues – gentle, kind, gracious – are ones any of us can reach for, and that may be the deepest lesson.",
+      "quote": "None of us can be an Abraham, but all of us can take him as a role model"
+     },
+     {
+      "text": "Lionel Trilling observed that rabbinic literature lacks the heroic idea; a classical hero plays a part on the world stage for admiration.",
+      "quote": "A hero is one convinced of his or her own importance"
+     },
+     {
+      "text": "Biblical Hebrew has no exact word for 'person', from the Latin persona, an actor's mask: we are not judged by how we appear, but known by God as we are.",
+      "quote": "In Judaism, we are known directly by God for what we are, not how we seem"
+     },
+     {
+      "text": "Where it lands: Abraham models a new heroism – quiet goodness, living by one's convictions in God's presence.",
+      "quote": "the heroism of ordinary life, of decency and goodness, integrity and faithfulness"
+     }
+    ]
    },
    {
     "title": "Four Dimensions of the Journey",
     "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Lech Lecha, Four Dimensions of the Journey",
-    "summary": "Rabbi Sacks reads the words Lech Lecha in four ways. With Rashi, 'go for yourself' – the sacrifice of leaving will turn out to be for Abraham's good. With the midrash of the jar of perfume, 'go with yourself' – travelling spreads the fragrance of his faith, so exile becomes a mission rather than a punishment. With the Chassidic masters, 'go to yourself' – a journey to the root of the soul, to become who you truly are. And 'go by yourself' – only one willing to stand alone can serve the God who is alone; to be a child of Abraham is to have the courage to be different and to challenge the idols of every age.",
-    "quote": "To be a child of Abraham is to have the courage to be different"
+    "questions": [
+     {
+      "text": "What do the words Lech Lecha really mean, and what do they say about Abraham's mission?",
+      "quote": "contains the seeds of Abraham’s ultimate vocation"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Rashi: 'go for yourself' – what looks like a sacrifice will turn out to be for your good.",
+      "quote": "believe in what you can become"
+     },
+     {
+      "text": "The midrash of the jar of perfume: 'go with yourself' – moving spreads your faith, so exile becomes a mission, not a punishment.",
+      "quote": "exile is seen here not as punishment but as a necessary corollary of a faith that sees God everywhere"
+     },
+     {
+      "text": "The mystical reading: 'go to yourself' – leave what makes you someone else and find the root of your soul.",
+      "quote": "The Jewish journey, said R. David of Lelov, is a journey to the root of the soul"
+     },
+     {
+      "text": "'Go by yourself' – only one who can stand alone can serve the God who is alone.",
+      "quote": "Only a person willing to stand alone, singular and unique, can worship the God who is alone, singular and unique"
+     },
+     {
+      "text": "So Abraham's people stand outside the laws of nature: land, home and family are not given but commanded, and have to be striven for.",
+      "quote": "What for other nations are innate – land, home, family – in Judaism are subjects of religious command"
+     },
+     {
+      "text": "Where it lands: to be Abraham's child is to dare to be different and challenge the idols of every age.",
+      "quote": "To be a child of Abraham is to have the courage to be different"
+     }
+    ]
    },
    {
     "title": "Fathers and Sons",
     "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Lech Lecha, Fathers and Sons",
-    "summary": "The midrash of Abraham smashing his father's idols, and Maimonides' account of the child who reasoned his way to one God, both present Abraham as a radical break with the past. Yet the end of the previous parasha tells us that Terah himself took the family out of Ur toward Canaan and stopped halfway in Haran. Rather than explaining this away, Rabbi Sacks suggests that Abraham completed a journey his father had begun. He links this to Judaism's idea of parenthood: God too makes space for His children to walk ahead ('My sons have defeated Me'), and Maimonides rules that a father may forgo his honour. Often only years later do we realise how much of our own path we learned from our parents.",
-    "quote": "Children complete what their parents begin"
+    "questions": [
+     {
+      "text": "Abraham's call comes with no background at all – was it a complete break with everything before?",
+      "quote": "It is as if Abraham’s call is a sudden break with all that went before"
+     },
+     {
+      "text": "How do we reconcile Abraham the idol-breaker with Terah himself setting out for Canaan?",
+      "quote": "The two passages seem contradictory"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "The midrash (Abraham smashes his father's idols) and Maimonides (the child who reasoned his way to one God) both show Abraham breaking with the past.",
+      "quote": "what is common to Maimonides and the midrash is discontinuity"
+     },
+     {
+      "text": "But the end of the previous chapter says Terah took the family out of Ur toward Canaan, and stopped in Haran.",
+      "quote": "far from breaking with his father, Abraham was continuing a journey Terah had already begun"
+     },
+     {
+      "text": "Rashi and the midrash explain the verses as out of order; Rabbi Sacks suggests the simple reading – Terah had already begun to move toward the truth.",
+      "quote": "Children complete what their parents begin"
+     },
+     {
+      "text": "This is how God Himself parents: He shows the way and lets His children walk ahead ('My sons have defeated Me').",
+      "quote": "God signals the way, then challenges His children to walk on ahead"
+     },
+     {
+      "text": "Halakha builds in the same space: Maimonides rules that a father may forgo his honour rather than burden his children.",
+      "quote": "a father is forbidden to impose too heavy a yoke on them"
+     },
+     {
+      "text": "Where it lands: even when we think we are breaking away, we are often living out what our parents taught us.",
+      "quote": "Only in retrospect, many years later, do we realize how much we owe our parents"
+     }
+    ]
    },
    {
     "title": "Promise and Fulfillment",
     "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Lech Lecha, Promise and Fulfillment",
-    "summary": "God promises Abraham children four times in the parasha – a great nation, offspring like the dust of the earth, like the stars, a father of many nations – yet Sarah is barren. Three possible heirs fall away: Lot, who chooses the well-watered land of evil Sodom by what he sees rather than what he hears; Eliezer, the household servant; and Ishmael, born of Hagar amid tension that even Ramban criticises. Rabbi Sacks finds two themes: births that are clearly divine gifts, and the reality that God's promises unfold slowly, through obstacles and false turns. Faith, he concludes, is the ability to live with delay without losing trust, as the Jewish people have waited and kept hoping through history.",
-    "quote": "Faith is the ability to live with delay without losing trust in the promise"
+    "questions": [
+     {
+      "text": "Why is the promise of children repeated again and again, yet not fulfilled?",
+      "quote": "Time and again, the note is sounded, the promised repeated, the assurance given"
+     },
+     {
+      "text": "What do we learn from the three would-be heirs who fall away?",
+      "quote": "What are we to make of all this"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "God promises four times – a great nation, offspring like the dust, like the stars, a father of many nations – while Sarah is barren.",
+      "quote": "The promise could not be more explicit"
+     },
+     {
+      "text": "Lot, the first possible heir, chooses by what he sees, not what he hears.",
+      "quote": "Lot chooses the good land with evil inhabitants"
+     },
+     {
+      "text": "Eliezer, the household servant, is the next; Abraham's patience breaks.",
+      "quote": "The first Jew feared that he would be the last"
+     },
+     {
+      "text": "Hagar and Ishmael: the strain shows, and even Ramban criticises Sarah and Abraham.",
+      "quote": "Abraham and Sarah are acting out of character"
+     },
+     {
+      "text": "Two themes meet: births that are clearly God's gift, and a real world in which deep change is slow.",
+      "quote": "anything in the human world that involves profound change, takes time"
+     },
+     {
+      "text": "Where it lands: faith is living with delay without losing hope – as Abraham's children have done through history.",
+      "quote": "Faith is the ability to live with delay without losing trust in the promise"
+     }
+    ]
    }
   ]
  },
  "hebrew": {
-  "overview": "בשלוש המסות שבמהדורה העברית של שיג ושיח קורא הרב זקס את פרשת לך לך כסיפור על הורות, על המשכיות בין הדורות ועל מורכבות מוסרית. אברהם אינו רק המורד ששבר את פסילי אביו: הוא השלים מסע שתרח אביו התחיל, והתורה עצמה מסבירה שנבחר כדי להיות אב שיצווה את בניו אחריו. לבסוף, דרך ביקורתו החריפה של הרמב״ן על אברהם ושרה, מראה הרב זקס מדוע התורה מציירת את גיבוריה בגוונים של אפור ולא בשחור ולבן.",
+  "overview": "בשלוש המסות שבמהדורה העברית של שיג ושיח שואל הרב זקס מה באמת היה הקשר בין אברהם לאביו, מדוע נבחר אברהם, ומדוע התורה אינה מסתירה את פגמיהם של האבות. התשובות נבנות סביב רעיון אחד: אברהם הוא קודם כול אב, והתורה מלמדת מוסר בוגר ומורכב.",
   "essays": [
    {
     "title": "מסע הדורות",
     "ref": "Covenant and Conversation; Hebrew Edition, Lech Lecha, 1",
-    "summary": "בגיל ההתבגרות אנו מנסים להגדיר את עצמנו כשונים מהורינו, ורק לאחר שנים מגלים כמה אנו דומים להם – כדברי מרק טוויין. התורה פותחת את סיפור אברהם בלי רקע, ומכאן המדרש המוכר על אברהם המנתץ את פסילי אביו. אבל הפסוק שבסוף פרשת נח מספר שתרח הוא שלקח את אברם מאור כשדים לכיוון כנען, ונעצר בחרן. הרב זקס רואה כאן סיפור עומק שמתגלה רק בבגרות: אברהם השלים מסע שאביו התחיל, וכך יכול היה להיעשות בעצמו לאב שבניו ממשיכים את דרכו.",
-    "quote": "שלמעשה אברהם השלים מסע שאביו התחיל"
+    "questions": [
+     {
+      "text": "מדוע התורה פותחת את סיפור אברהם בלי שום רקע?",
+      "quote": "אברהם כמו מגיע אלינו משום מקום"
+     },
+     {
+      "text": "מה באמת קרה בין אברהם לתרח אביו?",
+      "quote": "מה באמת קרה? יש שתי אפשרויות"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "בנעורינו אנו מבקשים להיות שונים מהורינו, ורק בבגרות מגלים כמה אנו דומים להם (מרק טוויין).",
+      "quote": "נדרשים זמן ומרחק כדי לראות כמה אנחנו חייבים להורינו"
+     },
+     {
+      "text": "שתיקת התורה על עברו של אברהם הולידה את המדרש על שבירת הפסילים – אברהם המורד.",
+      "quote": "זהו אברהם המהפכן, האיקונוקלסט, איש ההתחלות החדשות"
+     },
+     {
+      "text": "אבל הפסוק בסוף פרשת נח מספר שתרח לקח את אברם מאור כשדים לכיוון כנען, ונעצר בחרן.",
+      "quote": "תרח, אבי אברהם, ליווה את בנו במחצית הראשונה של מסעו"
+     },
+     {
+      "text": "סיפורי המקרא כתובים ברבדים: סיפור על פני השטח לילדים, וסיפור עומק שמתגלה רק בבגרות.",
+      "quote": "יש סיפור אחד על פני השטח, אך לא פעם יש גם סיפור עומק"
+     },
+     {
+      "text": "אברהם נבחר להיות אב שבניו ימשיכו דרכו – וזה אפשרי רק אם הוא עצמו המשיך את דרך אביו.",
+      "quote": "איך יכול מי שבילדותו דחה את דרכו של אביו להיעשות, בתורו, לאב שילדיו לא ידחו את דרכו שלו"
+     },
+     {
+      "text": "המסקנה: גם כשנדמה לנו שאנו בורחים מהורינו, אנו ממשיכים את נתיבם.",
+      "quote": "אפילו כשאנו חושבים שאנו בורחים מהורינו, אנחנו בעצם הולכים בנתיבם"
+     }
+    ]
    },
    {
     "title": "להיות הורה יהודי",
     "ref": "Covenant and Conversation; Hebrew Edition, Lech Lecha, 2",
-    "summary": "האדם המשפיע ביותר בתולדות האנושות לא משל באימפריה ולא עשה נסים, ובכל זאת יותר ממחצית האנושות רואה בו את אביה. במקורותינו שלוש תמונות של אברהם הצעיר: שובר הפסלים, ההלך שרואה את הבירה הדולקת ונקרא לכבות אותה, והפילוסוף של הרמב״ם שהגיע לאל אחד בכוח שכלו. שלושתן נכונות ומעמיקות, אך אין להן מקור בתורה עצמה. הפסוק היחיד המסביר מדוע נבחר אברהם הוא ״כי ידעתיו למען אשר יצוה את בניו״ – הוא נבחר פשוט להיות אב, והיהדות רואה בהורות את האתגר הנעלה ביותר.",
-    "quote": "אברהם פשוט נבחר להיות אב, כמשמעות שמו"
+    "questions": [
+     {
+      "text": "מי היה אברהם, ומדוע נבחר דווקא הוא?",
+      "quote": "אך מי ומה היה אברהם? מדוע נבחר להיות מופת לרבים"
+     },
+     {
+      "text": "מה אומרת התורה עצמה – ולא המדרש – על אברהם?",
+      "quote": "מה אומרת התורה עצמה על אברהם"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "אברהם לא משל ולא עשה נסים, ובכל זאת הוא האדם המשפיע ביותר בתולדות האנושות.",
+      "quote": "יותר ממחצית מבני האדם החיים היום על פני האדמה רואים את עצמם ממשיכי דרכו"
+     },
+     {
+      "text": "במקורותינו שלושה דיוקנאות: שובר הפסלים, ההלך הרואה את הבירה הדולקת (לוחם הצדק), והפילוסוף של הרמב״ם.",
+      "quote": "שלושה דיוקנאות של אברהם; שלוש גרסאות, אם תרצו, למשמעות של היות יהודי"
+     },
+     {
+      "text": "שלושתם נכונים ומעמיקים – אבל אף אחד מהם אינו כתוב בתורה.",
+      "quote": "לכולן יש חיסרון משותף אחד: אין להן מקור בתורה"
+     },
+     {
+      "text": "הפסוק היחיד שמסביר את הבחירה, ״כי ידעתיו למען אשר יצוה את בניו״, אומר שאברהם נבחר להיות אב.",
+      "quote": "אברהם פשוט נבחר להיות אב, כמשמעות שמו"
+     },
+     {
+      "text": "כל אירועי חייו נוגעים לאבהות, ובראש השנה אנו קוראים על שרה וחנה ועל הולדת בניהן.",
+      "quote": "רואה את ההורות כאתגר הנעלה ביותר"
+     },
+     {
+      "text": "המסקנה: היהדות רואה בהורות, הדבר הטבעי ביותר, מתת אל ומשימה עליונה.",
+      "quote": "היהדות נוטלת את הטבעי ומקדשת אותו"
+     }
+    ]
    },
    {
     "title": "גוונים של אפור",
     "ref": "Covenant and Conversation; Hebrew Edition, Lech Lecha, 3",
-    "summary": "הרמב״ן מותח ביקורת חריפה על אברהם, שירד למצרים בגלל הרעב והביא את שרה לידי סכנה, ועל שרה שעינתה את הגר – ותולה בהם את גלות מצרים ואת סבל היהודים מידי צאצאי ישמעאל. הרב זקס מסביר שהרמב״ן חיפש את צדקתה של ההיסטוריה, על פי העיקרון ״מעשה אבות סימן לבנים״. חז״ל במדרשים נוטים להציג את הטובים כמושלמים ואת הרעים כרשעים גמורים, מטעמים חינוכיים. אך התורה עצמה מציירת את גיבוריה בגוונים של אפור משלוש סיבות: ההכרעות המוסריות קשות, בני האדם מורכבים, והקו בין אלוהים לאדם אינו מיטשטש לעולם.",
-    "quote": "אלוהים איננו מבקש מאיתנו להיות מושלמים"
+    "questions": [
+     {
+      "text": "מדוע מבקר הרמב״ן בחריפות את אברהם ושרה, כשקל להגן עליהם?",
+      "quote": "אם כן, מדוע הוא השמיע אותם"
+     },
+     {
+      "text": "מדוע התורה אינה מציגה את גיבוריה כמושלמים?",
+      "quote": "מדוע אפוא התורה עצמה צובעת את גיבוריה בשלל גוני אפור"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "הרמב״ן: הירידה למצרים בגלל הרעב והבאת שרה לידי סכנה היו חטא, ובעטיו נגזרה גלות מצרים.",
+      "quote": "ודע כי אברהם אבינו חטא חטא גדול בשגגה"
+     },
+     {
+      "text": "וכן על שרה שעינתה את הגר, ואברהם שהניח לה – ומכאן סבל זרעם מבני ישמעאל.",
+      "quote": "חטאה אמנו בענוי הזה, וגם אברהם בהניחו לעשות כן"
+     },
+     {
+      "text": "לדעת הרב זקס, הרמב״ן חיפש הסבר לסבל ההיסטורי של עמו, על פי ״מעשה אבות סימן לבנים״.",
+      "quote": "הניע אותו שיקול אחר לגמרי: צדקתה של ההיסטוריה"
+     },
+     {
+      "text": "חז״ל במדרש נוטים לצבוע בשחור ולבן, מטעמים חינוכיים.",
+      "quote": "הם מציעים לסיפורי התורה פרשנות שיטתית שבה השחור והלבן באים במקום גוני־הגוונים של האפור"
+     },
+     {
+      "text": "אבל התורה עצמה מציירת אפור: ההכרעות המוסריות קשות, ובני האדם מורכבים – אין צדיק בלי חטא ואין רשע בלי חוט של חסד.",
+      "quote": "לא רק ההכרעות קשות. גם בני האדם הם מורכבים"
+     },
+     {
+      "text": "ויותר מכול: התורה שומרת על הקו בין אלוהים לאדם, ולכן אין בה אדם מושלם או אלוהי.",
+      "quote": "לא היה מעולם אדם שזכה למעמד אלוהי או אפילו חצי אלוהי"
+     },
+     {
+      "text": "המסקנה: מוסר בוגר – ענווה כלפי עצמנו ונדיבות כלפי אחרים.",
+      "quote": "אלוהים איננו מבקש מאיתנו להיות מושלמים"
+     }
+    ]
    }
   ]
  }

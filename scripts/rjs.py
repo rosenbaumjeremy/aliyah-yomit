@@ -11,16 +11,22 @@ Sefaria has them, summarised for the site's RJS page.
         The essay as plain text, one paragraph per line.
 
     python3 scripts/rjs.py --verify rjs.json
-        Drops every essay whose "quote" is not word for word in its ref, and
-        exits 1 unless every essay --info lists for the parasha is still there.
+        Drops every question or building block whose "quote" is not word for
+        word in its essay, and exits 1 unless every essay --info lists for the
+        parasha still has at least one question and three building blocks.
 
     python3 scripts/rjs.py rjs.json
         Files it as site/data/rjs/<slug>.json and adds it to index.json.
 
 rjs.json = {"slug": "vayera",
-            "english": {"overview": "...", "essays": [{"title", "ref", "summary", "quote"}]},
-            "hebrew":  {"overview": "...", "essays": [{"title", "ref", "summary", "quote"}]}}
-English essays come from the English volume, Hebrew ones from the Hebrew Edition.
+            "english": {"overview": "...", "essays": [ESSAY, ...]},
+            "hebrew":  {"overview": "...", "essays": [ESSAY, ...]}}
+ESSAY = {"title", "ref",
+         "questions": [{"text": "a question the essay asks", "quote": "<its words>"}],
+         "blocks": [{"text": "one step of the argument", "quote": "<its words>"}, ...]}
+The blocks are the building blocks of the idea, in the order the essay builds
+it; the last one is where it lands. English essays come from the English
+volume, Hebrew ones from the Hebrew Edition.
 """
 
 import datetime
@@ -113,13 +119,20 @@ def verify(path):
     for lang in ("english", "hebrew"):
         kept = []
         for essay in record[lang].get("essays", []):
-            quote = essay.get("quote", "")
-            if not essay.get("summary"):
-                print(f"[{lang}] {essay.get('title')}: no summary - removed")
-            elif len(norm(quote).split()) < 4 or norm(quote) not in norm(text(essay["ref"])):
-                print(f"[{lang}] {essay.get('title')}: quote not found in {essay['ref']} - removed")
-            else:
+            source = norm(text(essay["ref"]))
+            for part in ("questions", "blocks"):
+                good = []
+                for item in essay.get(part, []):
+                    quote = norm(item.get("quote", ""))
+                    if item.get("text") and len(quote.split()) >= 4 and quote in source:
+                        good.append(item)
+                    else:
+                        print(f"[{lang}] {essay.get('title')}: {part[:-1]} quote not found - removed: {item.get('quote')!r}")
+                essay[part] = good
+            if essay["questions"] and len(essay["blocks"]) >= 3:
                 kept.append(essay)
+            else:
+                print(f"[{lang}] {essay.get('title')}: needs a question and 3 building blocks - removed")
         record[lang]["essays"] = kept
         missing = [e["ref"] for e in wanted if e["lang"] == lang and e["ref"] not in {k["ref"] for k in kept}]
         for ref in missing:
