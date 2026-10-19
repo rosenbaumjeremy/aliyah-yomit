@@ -2,9 +2,10 @@
 // Offline copy of the site. The first online visit saves it on the device, along with every
 // published day; later online visits add the new days. Online, files still come from the
 // network first (up to 4s), so updates show up; the saved copy is the fallback.
-const CACHE = "site-v1";
+const CACHE = "site-v2";
 const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "icon-home.svg", "icon.svg", "index.html", "mail.css", "mail.js", "offline.js", "pdf.css", "pdf.js", "data/parashot.json"];
-const DAYS = [["data/aliyot/index.json", d => `data/aliyot/${d.file || d.date}.json`]];  // [day index, its days -> file paths]
+const DAYS = [["data/aliyot/index.json", d => `data/aliyot/${d.file || d.date}.json`],
+              ["data/rjs/index.json", d => `data/rjs/${d.slug}.json`]];  // [day index, its days -> file paths]
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

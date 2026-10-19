@@ -42,6 +42,15 @@ const UI = {
     wholeParasha: "כל הפרשה",
     noneYet: "עדיין לא פורסמו עליות בפרשה זו.",
     missing: (names) => `טרם פורסמו: ${names}`,
+    rjs: "RJS",
+    rjsHint: "הרב יונתן זקס על הפרשה",
+    rjsTitle: (name) => `הרב יונתן זקס — פרשת ${name}`,
+    rjsSub: "סיכום המסות מתוך ״שיג ושיח״ (המהדורה העברית), כפי שהן בספריא",
+    rjsOverview: "סיכום",
+    rjsEssays: "המסות",
+    rjsNotYet: "סיכום מסות הרב זקס על פרשה זו יתפרסם ביום ראשון בבוקר של השבוע שבו קוראים אותה.",
+    rjsRead: "למסה המלאה בספריא",
+    rjsCredit: "שיג ושיח, תרגום צור ארליך, הוצאת מגיד (CC-BY-NC), באתר ספריא",
   },
   english: {
     dir: "ltr",
@@ -80,6 +89,15 @@ const UI = {
     wholeParasha: "Whole parasha",
     noneYet: "No aliyot of this parasha have been published yet.",
     missing: (names) => `Not yet published: ${names}`,
+    rjs: "RJS",
+    rjsHint: "Rabbi Jonathan Sacks on the parasha",
+    rjsTitle: (name) => `Rabbi Jonathan Sacks — Parashat ${name}`,
+    rjsSub: "Summaries of his Covenant & Conversation essays, as they appear on Sefaria",
+    rjsOverview: "Overview",
+    rjsEssays: "The essays",
+    rjsNotYet: "The summary of Rabbi Sacks' essays on this parasha will be published on the Sunday morning of the week it is read.",
+    rjsRead: "Read the full essay on Sefaria",
+    rjsCredit: "Covenant & Conversation, Maggid Books and the Orthodox Union (CC-BY-NC), on Sefaria",
   },
 };
 
@@ -93,6 +111,8 @@ const state = {
   reading: null,      // which reading's tabs are active (its slugs joined)
   aliyah: null,       // 1..7
   view: null,         // whole-parasha view: "summaries" | "questions" | "all"
+  rjs: null,          // slug of the parasha whose Rabbi Sacks page is open
+  rjsDays: new Set(), // parashot that have a Rabbi Sacks page (rjs/index.json)
   briefs: new Map(),  // date -> fetch promise
 };
 
@@ -158,10 +178,12 @@ function sefariaLink(label, ref) {
 
 async function load() {
   const get = (path, fallback) => fetch(path).then((r) => (r.ok ? r.json() : fallback)).catch(() => fallback);
-  const [parashot, index] = await Promise.all([
-    get("data/parashot.json", { books: [] }), get("data/aliyot/index.json", { days: [] })]);
+  const [parashot, index, rjs] = await Promise.all([
+    get("data/parashot.json", { books: [] }), get("data/aliyot/index.json", { days: [] }),
+    get("data/rjs/index.json", { days: [] })]);
   state.books = parashot.books;
   state.days = index.days;
+  state.rjsDays = new Set(rjs.days.map((d) => d.slug));
 }
 
 function loadBrief(date) {
@@ -391,7 +413,7 @@ function renderWhole(reading) {
 function renderLatest() {
   const host = el("latest");
   host.innerHTML = "";
-  if (state.parasha) return;
+  if (state.parasha || state.rjs) return;
   const box = node("div", "latest");
   const day = state.days[state.days.length - 1];
   if (!day) {
@@ -413,8 +435,8 @@ function renderLatest() {
 function renderBooks() {
   const host = el("books");
   host.innerHTML = "";
-  host.hidden = !!state.parasha;
-  if (state.parasha) return;
+  host.hidden = !!(state.parasha || state.rjs);
+  if (host.hidden) return;
 
   for (const book of state.books) {
     const section = node("div", "book");
@@ -430,7 +452,9 @@ function renderBooks() {
       for (let n = 1; n <= 7; n++) dots.appendChild(node("i", published.has(n) ? "on" : null));
       tile.appendChild(dots);
       tile.onclick = () => go(parasha.slug, parasha.slug, null);
-      grid.appendChild(tile);
+      const card = node("div", "pcard");
+      card.append(tile, rjsButton(parasha, "rjsbtn"));
+      grid.appendChild(card);
     }
     section.appendChild(grid);
     host.appendChild(section);
@@ -477,12 +501,97 @@ function renderParasha() {
       button.onclick = () => go(parasha.slug, reading.key, null, view);
       views.appendChild(button);
     }
+    views.appendChild(rjsButton(parasha, "viewbtn rjsview"));
     block.appendChild(views);
     host.appendChild(block);
   }
   const active = readings.find((r) => r.key === state.reading);
   if (state.view) renderWhole(active);
   else renderBrief(active);
+}
+
+/* ---------- Rabbi Sacks (RJS): summaries of his Covenant & Conversation essays ---------- */
+
+const rjsFiles = new Map();  // slug -> fetch promise
+
+function loadRjs(slug) {
+  if (!rjsFiles.has(slug)) {
+    rjsFiles.set(slug, fetch(`data/rjs/${slug}.json`)
+      .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch((error) => { rjsFiles.delete(slug); throw error; }));
+  }
+  return rjsFiles.get(slug);
+}
+
+/** The RJS button on a parasha card (and on the parasha page): opens his essays on it. */
+function rjsButton(parasha, cls) {
+  const button = node("button", cls, t().rjs);
+  button.type = "button";
+  button.title = `${t().rjsHint} — ${parashaName(parasha)}`;
+  button.setAttribute("aria-label", button.title);
+  button.classList.toggle("has", state.rjsDays.has(parasha.slug));
+  button.onclick = () => openRjs(parasha.slug);
+  return button;
+}
+
+function renderRjs() {
+  const view = el("rjs");
+  const parasha = state.rjs && findParasha(state.rjs);
+  view.hidden = !parasha;
+  if (!parasha) return;
+  el("rjsBack").textContent = t().back;
+  el("rjsTitle").textContent = t().rjsTitle(parashaName(parasha));
+  el("rjsSub").textContent = t().rjsSub;
+  const host = el("rjsBody");
+  host.innerHTML = "";
+  if (!state.rjsDays.has(parasha.slug)) { host.appendChild(node("p", "empty", t().rjsNotYet)); return; }
+
+  const slot = node("div", "empty", t().loading);
+  host.append(pdfTools(), slot);
+  const lang = state.lang, wanted = parasha.slug;
+  loadRjs(parasha.slug).then((record) => {
+    if (state.lang !== lang || state.rjs !== wanted) return;
+    const part = record[state.lang] || record.english;
+    const wrap = node("div", "brief");
+    if (part.overview) {
+      const sum = box(t().rjsOverview, null, true);
+      sum.details.dataset.pdf = t().rjsOverview;
+      sum.body.appendChild(node("p", "sumPara", part.overview));
+      wrap.appendChild(sum.details);
+    }
+    const list = part.essays || [];
+    const essays = box(t().rjsEssays, list.length, true);
+    essays.details.dataset.pdf = t().rjsEssays;
+    const bar = node("div", "toolbar");
+    const expand = node("button", null, t().openAll), collapse = node("button", null, t().closeAll);
+    expand.type = collapse.type = "button";
+    expand.onclick = () => essays.body.querySelectorAll("details.qitem").forEach((d) => { d.open = true; });
+    collapse.onclick = () => essays.body.querySelectorAll("details.qitem").forEach((d) => { d.open = false; });
+    bar.append(expand, collapse);
+    essays.body.appendChild(bar);
+    list.forEach((essay, i) => {
+      const item = node("details", "qitem");
+      const summary = node("summary");
+      summary.append(node("span", "n", `${i + 1}.`), node("span", "ttl", essay.title));
+      const body = node("div", "body");
+      body.appendChild(node("p", null, essay.summary));
+      if (essay.quote) body.appendChild(node("blockquote", "rjsquote", essay.quote));
+      body.appendChild(sefariaLink(t().rjsRead, essay.ref));
+      item.append(summary, body);
+      essays.body.appendChild(item);
+    });
+    wrap.appendChild(essays.details);
+    wrap.appendChild(node("p", "credit", t().rjsCredit));
+    slot.replaceWith(wrap);
+  }).catch(() => { slot.textContent = t().loadFailed; });
+}
+
+function openRjs(slug) {
+  state.parasha = state.reading = state.aliyah = state.view = null;
+  state.rjs = slug;
+  writeHash();
+  render();
+  window.scrollTo(0, 0);
 }
 
 function render() {
@@ -496,6 +605,7 @@ function render() {
     b.classList.toggle("on", b.dataset.lang === state.lang));
   renderLatest();
   renderParasha();
+  renderRjs();
   renderBooks();
 }
 
@@ -510,6 +620,7 @@ function writeHash() {
   if (state.reading && state.reading !== state.parasha) params.set("r", state.reading);
   if (state.aliyah) params.set("a", state.aliyah);
   if (state.view) params.set("v", state.view);
+  if (state.rjs) params.set("rjs", state.rjs);
   selfWrite = `#${params}`;
   history.replaceState(null, "", selfWrite);
 }
@@ -520,6 +631,7 @@ function go(parasha, reading, aliyah, view = null) {
   state.reading = reading;
   state.aliyah = aliyah;
   state.view = view;
+  state.rjs = null;
   writeHash();
   render();
   if (moved) window.scrollTo(0, 0);
@@ -533,6 +645,7 @@ function readHash() {
   state.aliyah = Number(params.get("a")) || null;
   state.view = ["summaries", "questions", "all"].includes(params.get("v")) ? params.get("v") : null;
   if (state.view) state.aliyah = null;
+  state.rjs = !state.parasha && findParasha(params.get("rjs")) ? params.get("rjs") : null;
   render();
 }
 
@@ -542,6 +655,7 @@ document.querySelectorAll(".langswitch button").forEach((button) => {
   button.onclick = () => { state.lang = button.dataset.lang; writeHash(); render(); };
 });
 el("back").onclick = () => go(null, null, null);
+el("rjsBack").onclick = () => go(null, null, null);
 document.querySelector(".brand").onclick = (event) => { event.preventDefault(); go(null, null, null); };
 
 load().then(readHash);
