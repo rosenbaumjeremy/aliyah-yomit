@@ -1,0 +1,849 @@
+{
+ "date": "2026-10-19",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 13:5-13:18",
+ "hebrew_date": {
+  "hebrew": "ח׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "8 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Lot's flocks and Abram's flocks grow too large for the land, and a quarrel breaks out between their herders while the Canaanites and Perizzites live in the land. Abram proposes that he and Lot part, and lets Lot choose. Lot sees the well-watered plain of the Jordan, chooses it, and journeys east, settling near Sodom, whose people are very wicked. After Lot leaves, God tells Abram to look in all four directions and promises the land to him and his offspring forever, as many as the dust of the earth. Abram is told to walk the land, and moves to the terebinths of Mamre in Hebron, where he builds an altar.",
+  "questions": [
+   {
+    "title": "Why does the verse say Lot was 'the one who went with Abram'?",
+    "pasuk": {
+     "text": "וְגַם לְלוֹט הַהֹלֵךְ אֶת אַבְרָם",
+     "ref": "Genesis 13:5",
+     "label": "Genesis 13:5"
+    },
+    "question": "Lot's wealth is described with the phrase 'who went with Abram', although we already know who Lot is. What is the verse teaching?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 13:5:1",
+      "era": "rishon",
+      "quote": "מִי גָרַם שֶׁהָיָה לוֹ זֹאת"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 13:5",
+      "era": "acharon",
+      "quote": "והוצרך לפרט ולומר ללוט ההולך את אברם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Lot's wealth came about through his walking with Abram.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 13:5:1",
+        "quote": "הֲלִיכָתוֹ עִם אַבְרָם"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: Lot's blessing was not his own but came from going with Abram, and from Abram's blessing he too was blessed.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 13:5",
+        "quote": "אלא בעבור שהיה הולך את אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It frames the quarrel: Lot's flocks and tents were a fruit of his connection to Abram."
+   },
+   {
+    "title": "Why mention the Canaanites and Perizzites in the middle of the quarrel?",
+    "pasuk": {
+     "text": "וְהַכְּנַעֲנִי וְהַפְּרִזִּי אָז יֹשֵׁב בָּאָרֶץ",
+     "ref": "Genesis 13:7",
+     "label": "Genesis 13:7"
+    },
+    "question": "The verse about the herders' quarrel suddenly adds that the Canaanite and Perizzite were then living in the land. What does this have to do with the quarrel, and why 'living' in the singular and why the Perizzite here?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 13:7:1",
+      "era": "acharon",
+      "quote": "מיותר ובלתי צודק פה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 13:7:1",
+      "era": "acharon",
+      "quote": "וְקָשֶׁה לָמָּה הִזְכִּיר כָּאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Lot's herders grazed on others' fields; when Abram's herders objected, they answered that Lot would inherit the land. The verse replies that the Canaanite is still in the land and Abram has not yet acquired it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 13:7:1",
+        "quote": "וְלֹא זָכָה בָהּ אַבְרָם עֲדַיִן"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Abram feared that the Canaanites and Perizzites living in the land would hear of their large herds and drive them out or kill them.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 13:7:1",
+        "quote": "פֶּן יִשְׁמַע הַכְּנַעֲנִי וְהַפְּרִזִּי יוֹשֵׁב הָאָרֶץ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: a quarrel between two brothers who are strangers makes them stink in the eyes of the residents.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 13:7:2",
+        "quote": "מַבְאִישׁ אֶת רֵיחָם בְּעֵינֵי הַתּוֹשָׁבִים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: they could not widen their grazing area, because the Canaanite and Perizzite were settled in the land.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 13:7:1",
+        "quote": "ולא היה בידם להרחיב מקומם למרעה מקניהם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: so that no one will wonder how a land as good as Eretz Yisrael could not carry two people.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 13:7:1",
+        "quote": "לא תתמה ארץ טובה כארץ ישראל לא תוכל לישא"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: two nations, the Canaanite and Perizzite, lived together without quarrelling, hence 'living' in the singular; Abram argues that brothers should do no worse.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 13:7:1",
+        "quote": "שני עממין כנעני ופריזי היו יחד. ולא היה ריב ביניהם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the quarrel was about robbery, about lack of grazing land, or about how the brothers looked to their neighbours."
+   },
+   {
+    "title": "How can Abram call Lot his brother, when Lot is his nephew?",
+    "pasuk": {
+     "text": "כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ",
+     "ref": "Genesis 13:8",
+     "label": "Genesis 13:8"
+    },
+    "question": "Abram says 'for we are men, brothers'. But Lot is the son of Abram's brother. In what sense are they brothers?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 41:6",
+      "era": "chazal",
+      "quote": "וְכִי אַחִים הָיוּ"
+     },
+     {
+      "name": "Midrash Tanchuma",
+      "ref": "Midrash Tanchuma, Lech Lecha 13:1",
+      "era": "chazal",
+      "quote": "וְכִי אָחִיו הָיָה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah: they were not brothers, but Lot's face looked like Abram's.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 41:6",
+        "quote": "שֶׁהָיָה קְלַסְתֵּר פָּנָיו דּוֹמֶה לוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: 'brothers' means relatives, and the aggadic midrash adds that they resembled each other in their faces.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 13:8:1",
+        "quote": "וּמִדְרַשׁ אַגָּדָה דּוֹמִין בִּקְלַסְתֵּר פָּנִים"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: see Abram's humility; even after the quarrel he still called Lot his brother.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Lech Lecha 13:1",
+        "quote": "רְאֵה עַנְוְתָנוּתוֹ שֶׁל אַבְרָהָם"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: if two nations who are not brothers lived without a quarrel, all the more should there be peace between brothers.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 13:7:1",
+        "quote": "ומכ\"ש שראוי יהיה שלום בינינו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Abram speaks to Lot even in the middle of a quarrel."
+   },
+   {
+    "title": "Why is the plain of the Jordan compared both to the garden of God and to Egypt?",
+    "pasuk": {
+     "text": "כְּגַן יְהֹוָה כְּאֶרֶץ מִצְרַיִם",
+     "ref": "Genesis 13:10",
+     "label": "Genesis 13:10"
+    },
+    "question": "Lot sees the plain, 'like the garden of God, like the land of Egypt'. Why two comparisons?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 13:10:1",
+      "era": "rishon",
+      "quote": "וְהִזְכִּיר שְׁנֵי הַמְּקוֹמוֹת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: it is watered on foot from the Jordan, as in the garden of God and as in Egypt; he names two places, one the best of the lower world and one known for grazing.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 13:10:1",
+        "quote": "הַמָּקוֹם הַטּוֹב בַּתַּחְתּוֹנִים כֵּן הוּא כֻּלּוֹ מַשְׁקֶה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: 'like the garden of God' for trees, 'like the land of Egypt' for crops.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 41:7",
+        "quote": "כְּגַן ה', לְאִילָנוֹת. כְּאֶרֶץ מִצְרַיִם, לִזְרָעִים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what attracted Lot: a land of both trees and crops."
+   },
+   {
+    "title": "Why does God speak to Abram only after Lot has left?",
+    "pasuk": {
+     "text": "וַיהֹוָה אָמַר אֶל אַבְרָם אַחֲרֵי הִפָּרֶד לוֹט מֵעִמּוֹ",
+     "ref": "Genesis 13:14",
+     "label": "Genesis 13:14"
+    },
+    "question": "God had spoken to Abram earlier while Lot was with him. Why does this promise come only 'after Lot parted from him'?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 13:14:1",
+      "era": "acharon",
+      "quote": "וּמַקְשִׁים כָּאן, וַהֲלֹא כְּבָר נֶאֱמַר"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 13:14:1",
+      "era": "acharon",
+      "quote": "טַעַם שֶׁלֹּא הִתְחִיל לוֹמַר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: as long as the wicked one was with him, the divine speech withdrew from him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 13:14:1",
+        "quote": "כָּל זְמַן שֶׁהָרָשָׁע עִמּוֹ הָיָה הַדִּבּוּר פּוֹרֵשׁ מִמֶּנּוּ"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the first promise was to his offspring and Lot's herders used it to justify robbery; this one says 'to you', so it was held back until Lot left.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 13:14:1",
+        "quote": "לֹא נֶאֶמְרָה הַבְטָחָה זוֹ לְאַבְרָם עַד אַחֲרֵי הִפָּרֶד לוֹט מֵעִמּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: not said while Lot was with him, lest Lot and his herders become arrogant and dare to rob.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 13:14:1",
+        "quote": "פֶּן בִּכְבוֹדוֹ יִתְיַמְּרוּ וְיִתְגָּאוּ לוֹט וְרוֹעָיו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: while Lot was with him Abram might have thought Lot shared in the land; now God says it is for him alone.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 13:14:1",
+        "quote": "אַל תַּחְשֹׁב כִּי לְאַחֵר יִהְיֶה חֵלֶק בָּאָרֶץ"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: Lot's reward for helping Abram was set aside; had he stayed, he would have taken a portion within the land.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 13:14:1",
+        "quote": "דכבר נגזר שכר ללוט עבור שסייע את אברם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R' Yehudah): God was angry that Abram was clinging to Lot.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 41:8",
+        "quote": "כַּעַס הָיָה לְאָבִינוּ אַבְרָהָם בְּשָׁעָה שֶׁפֵּרַשׁ לוֹט"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Lot's presence blocked prophecy, endangered Abram, or confused the promise."
+   },
+   {
+    "title": "Why must Abram walk the land after he was already shown it?",
+    "pasuk": {
+     "text": "קוּם הִתְהַלֵּךְ בָּאָרֶץ לְאָרְכָּהּ וּלְרָחְבָּהּ",
+     "ref": "Genesis 13:17",
+     "label": "Genesis 13:17"
+    },
+    "question": "God already said that all the land Abram sees is his. Why now 'Rise, walk about the land through its length and breadth'?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 13:17:1",
+      "era": "acharon",
+      "quote": "וְאַחַר כָּךְ חָזַר מִזֶּה וְאָמַר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Kli Yakar: the first verse implies sight suffices, the second that actual possession (chazakah) is required.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 13:17:1",
+        "quote": "צָּרִיךְ לַעֲשׂוֹת חֲזָקָה מַמָּשׁ"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it may be a permission to walk wherever he wants, for God will be with him and guard him from the nations.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 13:17:1",
+        "quote": "יִתָּכֵן שֶׁזֶּה רְשׁוּת כִּרְצוֹנוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: 'walk about the land' means to take possession of it.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 13:17:1",
+        "quote": "קום התהלך בארץ להחזיק בה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: R' Eliezer learns that walking is possession; the Sages say it was out of love for Abram.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 13:17:1",
+        "quote": "וַחֲכָמִים אוֹמְרִים: לֹא קָנָה עַד שֶׁיַּחְזִיק"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the walking was a sign of acquisition.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 13:17:1",
+        "quote": "פעולת ההילוך עד מקום ראות עיניו הי׳ אות לקנין"
+       }
+      ]
+     }
+    ],
+    "why": "It bears on how the land was acquired: by sight, by walking, or by a permission and protection."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Abarbanel",
+   "Alshekh",
+   "Kli Yakar",
+   "Ramban",
+   "Sforno",
+   "Chizkuni",
+   "Bekhor Shor",
+   "Bereshit Rabbah",
+   "Midrash Tanchuma",
+   "Or HaChaim",
+   "Radak",
+   "Haamek Davar"
+  ]
+ },
+ "hebrew": {
+  "summary": "צאנם ובקרם של לוט ושל אברם מתרבים עד שהארץ לא נושאת אותם, ופורצת מריבה בין רועיהם בשעה שהכנעני והפריזי יושבים בארץ. אברם מציע ללוט להיפרד ונותן לו לבחור. לוט רואה את כיכר הירדן המשקה, בוחר בה ונוסע מקדם, ויושב בעיר סדום, שאנשיה רעים וחטאים לה' מאוד. אחרי פרידת לוט, ה' אומר לאברם לשאת עיניו לארבע רוחות ומבטיח את הארץ לו ולזרעו עד עולם, כעפר הארץ. אברם מצווה להתהלך בארץ, ועובר לאלוני ממרא אשר בחברון ובונה שם מזבח.",
+  "questions": [
+   {
+    "title": "מדוע הכתוב מכנה את לוט 'ההולך את אברם'?",
+    "pasuk": {
+     "text": "וְגַם לְלוֹט הַהֹלֵךְ אֶת אַבְרָם",
+     "ref": "Genesis 13:5",
+     "label": "בראשית יג, ה"
+    },
+    "question": "הכתוב מתאר את עושרו של לוט בתיאור 'ההולך את אברם', אף שכבר ידוע מי הוא לוט. מה בא הכתוב ללמד?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 13:5:1",
+      "era": "rishon",
+      "quote": "מִי גָרַם שֶׁהָיָה לוֹ זֹאת"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 13:5",
+      "era": "acharon",
+      "quote": "והוצרך לפרט ולומר ללוט ההולך את אברם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: העושר בא ללוט בזכות הליכתו עם אברם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 13:5:1",
+        "quote": "הֲלִיכָתוֹ עִם אַבְרָם"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: הברכה של לוט לא הייתה מכוח עצמו אלא בעבור שהיה הולך את אברהם, ומברכתו נתברך גם הוא.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 13:5",
+        "quote": "אלא בעבור שהיה הולך את אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסגר את המריבה: צאנו ואהליו של לוט היו פרי הליכתו עם אברם."
+   },
+   {
+    "title": "מדוע מוזכרים הכנעני והפריזי באמצע המריבה?",
+    "pasuk": {
+     "text": "וְהַכְּנַעֲנִי וְהַפְּרִזִּי אָז יֹשֵׁב בָּאָרֶץ",
+     "ref": "Genesis 13:7",
+     "label": "בראשית יג, ז"
+    },
+    "question": "בפסוק על מריבת הרועים נוסף פתאום שהכנעני והפריזי יושבים אז בארץ. מה לזה ולמריבה, ומדוע 'יושב' בלשון יחיד ולמה הפריזי כאן?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 13:7:1",
+      "era": "acharon",
+      "quote": "מיותר ובלתי צודק פה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 13:7:1",
+      "era": "acharon",
+      "quote": "וְקָשֶׁה לָמָּה הִזְכִּיר כָּאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: רועי לוט הרעו בשדות אחרים ורועי אברם הוכיחום; הם השיבו שלוט יירש את הארץ, והכתוב משיב שהכנעני עדיין בארץ ואברם לא זכה בה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 13:7:1",
+        "quote": "וְלֹא זָכָה בָהּ אַבְרָם עֲדַיִן"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אברם פחד שהכנעני והפריזי יושבי הארץ ישמעו על כובד מקניהם ויגרשום או יהרגו אותם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 13:7:1",
+        "quote": "פֶּן יִשְׁמַע הַכְּנַעֲנִי וְהַפְּרִזִּי יוֹשֵׁב הָאָרֶץ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: מריבה בין שני אחים גרים מבאישה את ריחם בעיני התושבים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 13:7:2",
+        "quote": "מַבְאִישׁ אֶת רֵיחָם בְּעֵינֵי הַתּוֹשָׁבִים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לא היה בידם להרחיב את מקומם למרעה, כי הכנעני והפריזי ישבו בארץ.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 13:7:1",
+        "quote": "ולא היה בידם להרחיב מקומם למרעה מקניהם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כדי שלא תתמה כיצד ארץ טובה כארץ ישראל לא תוכל לשאת שני בני אדם.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 13:7:1",
+        "quote": "לא תתמה ארץ טובה כארץ ישראל לא תוכל לישא"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: שני עמים, כנעני ופריזי, ישבו יחד בלי ריב, ולכן 'יושב' ביחיד; אברם טוען שאחים לא יהיו גרועים מהם.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 13:7:1",
+        "quote": "שני עממין כנעני ופריזי היו יחד. ולא היה ריב ביניהם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מכריע אם המריבה הייתה על גזל, על מחסור במרעה, או על כבודם של האחים בעיני שכניהם."
+   },
+   {
+    "title": "איך אברם קורא ללוט אחיו, והרי לוט בן אחיו?",
+    "pasuk": {
+     "text": "כִּי אֲנָשִׁים אַחִים אֲנָחְנוּ",
+     "ref": "Genesis 13:8",
+     "label": "בראשית יג, ח"
+    },
+    "question": "אברם אומר 'כי אנשים אחים אנחנו', אך לוט הוא בן אחיו. באיזה מובן הם אחים?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 41:6",
+      "era": "chazal",
+      "quote": "וְכִי אַחִים הָיוּ"
+     },
+     {
+      "name": "מדרש תנחומא",
+      "ref": "Midrash Tanchuma, Lech Lecha 13:1",
+      "era": "chazal",
+      "quote": "וְכִי אָחִיו הָיָה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה: לא היו אחים, אלא שקלסתר פניו דומה לו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 41:6",
+        "quote": "שֶׁהָיָה קְלַסְתֵּר פָּנָיו דּוֹמֶה לוֹ"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: 'אחים' פירושו קרובים, ומדרש אגדה: דומים בקלסתר פנים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 13:8:1",
+        "quote": "וּמִדְרַשׁ אַגָּדָה דּוֹמִין בִּקְלַסְתֵּר פָּנִים"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא: ראה ענוותנותו של אברהם, אף אחר המריבה קרא ללוט אחיו.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Lech Lecha 13:1",
+        "quote": "רְאֵה עַנְוְתָנוּתוֹ שֶׁל אַבְרָהָם"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: אם שני עמים שאינם אחים ישבו בלי ריב, קל וחומר ששלום ראוי לאחים.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 13:7:1",
+        "quote": "ומכ\"ש שראוי יהיה שלום בינינו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד אברם מדבר אל לוט גם באמצע מריבה."
+   },
+   {
+    "title": "מדוע כיכר הירדן מושווה גם לגן ה' וגם לארץ מצרים?",
+    "pasuk": {
+     "text": "כְּגַן יְהֹוָה כְּאֶרֶץ מִצְרַיִם",
+     "ref": "Genesis 13:10",
+     "label": "בראשית יג, י"
+    },
+    "question": "לוט רואה את הכיכר 'כגן ה' כארץ מצרים'. מדוע שתי השוואות?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 13:10:1",
+      "era": "rishon",
+      "quote": "וְהִזְכִּיר שְׁנֵי הַמְּקוֹמוֹת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: משקים אותה ברגל מן הירדן כמו בגן ה' וכמו במצרים; הזכיר שני מקומות, אחד הטוב שבתחתונים ואחד ידוע לרעייה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 13:10:1",
+        "quote": "הַמָּקוֹם הַטּוֹב בַּתַּחְתּוֹנִים כֵּן הוּא כֻּלּוֹ מַשְׁקֶה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: 'כגן ה'' לאילנות, 'כארץ מצרים' לזרעים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 41:7",
+        "quote": "כְּגַן ה', לְאִילָנוֹת. כְּאֶרֶץ מִצְרַיִם, לִזְרָעִים"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה משך את לוט: ארץ של אילנות ושל זרעים."
+   },
+   {
+    "title": "מדוע ה' מדבר אל אברם רק אחרי פרידת לוט?",
+    "pasuk": {
+     "text": "וַיהֹוָה אָמַר אֶל אַבְרָם אַחֲרֵי הִפָּרֶד לוֹט מֵעִמּוֹ",
+     "ref": "Genesis 13:14",
+     "label": "בראשית יג, יד"
+    },
+    "question": "ה' כבר דיבר אל אברם כשלוט היה עמו. מדוע ההבטחה הזו באה רק 'אחרי הפרד לוט מעמו'?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 13:14:1",
+      "era": "acharon",
+      "quote": "וּמַקְשִׁים כָּאן, וַהֲלֹא כְּבָר נֶאֱמַר"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 13:14:1",
+      "era": "acharon",
+      "quote": "טַעַם שֶׁלֹּא הִתְחִיל לוֹמַר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כל זמן שהרשע עמו, הדיבור פורש ממנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 13:14:1",
+        "quote": "כָּל זְמַן שֶׁהָרָשָׁע עִמּוֹ הָיָה הַדִּבּוּר פּוֹרֵשׁ מִמֶּנּוּ"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: ההבטחה הראשונה הייתה לזרעו ורועי לוט נשענו עליה לגזל; כאן נאמר 'לך', ולכן נדחתה עד שלוט נפרד.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 13:14:1",
+        "quote": "לֹא נֶאֶמְרָה הַבְטָחָה זוֹ לְאַבְרָם עַד אַחֲרֵי הִפָּרֶד לוֹט מֵעִמּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא נאמר בהיות לוט עמו, פן יתגאו לוט ורועיו ויעזו לגזול.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 13:14:1",
+        "quote": "פֶּן בִּכְבוֹדוֹ יִתְיַמְּרוּ וְיִתְגָּאוּ לוֹט וְרוֹעָיו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: בהיות לוט עמו אולי חשב אברם שגם ללוט חלק בארץ; עתה ה' אומר שהיא לו בלבד.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 13:14:1",
+        "quote": "אַל תַּחְשֹׁב כִּי לְאַחֵר יִהְיֶה חֵלֶק בָּאָרֶץ"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: שכר לוט על שסייע לאברם נקבע; אילו נשאר היה נוטל חלק בתוך הארץ.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 13:14:1",
+        "quote": "דכבר נגזר שכר ללוט עבור שסייע את אברם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' יהודה): כעס היה לה' על שאברם מדבק את לוט.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 41:8",
+        "quote": "כַּעַס הָיָה לְאָבִינוּ אַבְרָהָם בְּשָׁעָה שֶׁפֵּרַשׁ לוֹט"
+       }
+      ]
+     }
+    ],
+    "why": "זה מכריע אם נוכחות לוט מנעה נבואה, סיכנה את אברם, או טישטשה את ההבטחה."
+   },
+   {
+    "title": "מדוע על אברם להתהלך בארץ אחרי שכבר הראו לו אותה?",
+    "pasuk": {
+     "text": "קוּם הִתְהַלֵּךְ בָּאָרֶץ לְאָרְכָּהּ וּלְרָחְבָּהּ",
+     "ref": "Genesis 13:17",
+     "label": "בראשית יג, יז"
+    },
+    "question": "ה' כבר אמר שכל הארץ אשר אברם רואה שלו. מדוע עכשיו 'קום התהלך בארץ לארכה ולרחבה'?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 13:17:1",
+      "era": "acharon",
+      "quote": "וְאַחַר כָּךְ חָזַר מִזֶּה וְאָמַר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כלי יקר: הפסוק הראשון מורה שראייה מספיקה, והשני שנדרשת חזקה ממש.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 13:17:1",
+        "quote": "צָּרִיךְ לַעֲשׂוֹת חֲזָקָה מַמָּשׁ"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אפשר שזו רשות ללכת בכל מקום, כי ה' יהיה עמו וישמרו מרעת הגויים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 13:17:1",
+        "quote": "יִתָּכֵן שֶׁזֶּה רְשׁוּת כִּרְצוֹנוֹ"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: 'התהלך בארץ' – להחזיק בה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 13:17:1",
+        "quote": "קום התהלך בארץ להחזיק בה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: רבי אליעזר לומד שהליכה היא חזקה; חכמים: משום חביבותא דאברהם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 13:17:1",
+        "quote": "וַחֲכָמִים אוֹמְרִים: לֹא קָנָה עַד שֶׁיַּחְזִיק"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: פעולת ההילוך הייתה אות לקניין.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 13:17:1",
+        "quote": "פעולת ההילוך עד מקום ראות עיניו הי׳ אות לקנין"
+       }
+      ]
+     }
+    ],
+    "why": "זה נוגע לדרך הקניין של הארץ: בראייה, בהליכה, או ברשות ובשמירה."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "אברבנאל",
+   "אלשיך",
+   "כלי יקר",
+   "רמב\"ן",
+   "ספורנו",
+   "חזקוני",
+   "בכור שור",
+   "בראשית רבה",
+   "מדרש תנחומא",
+   "אור החיים",
+   "רד\"ק",
+   "העמק דבר"
+  ]
+ }
+}
