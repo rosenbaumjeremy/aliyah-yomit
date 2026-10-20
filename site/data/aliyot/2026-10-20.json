@@ -1,0 +1,1269 @@
+{
+ "date": "2026-10-20",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 14:1-14:20",
+ "hebrew_date": {
+  "hebrew": "ט׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "9 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Four kings led by Amraphel and Chedorlaomer make war on the five kings of the Jordan plain and defeat them in the Valley of Siddim. They take Lot and his possessions from Sodom. A fugitive tells Avram, who musters his 318 trained retainers, pursues the kings as far as Dan, divides his forces at night, and defeats them as far as Hobah. He brings back Lot, the possessions, the women and the people. The king of Sodom comes out to meet him, and Melchizedek king of Salem brings bread and wine, blesses Avram in the name of God Most High, and Avram gives him a tenth of everything.",
+  "questions": [
+   {
+    "title": "Why does the Torah open with a war of kings that has nothing to do with Avraham?",
+    "pasuk": {
+     "text": "ויהי בימי אמרפל מלך שנער",
+     "ref": "Genesis 14:1",
+     "label": "Genesis 14:1"
+    },
+    "question": "The Torah spends two pesukim on the kings who fought each other. Why record a war the Torah does not need to tell?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 14:1:1-2",
+      "era": "acharon",
+      "quote": "למה האריך בספור מלחמות המלכים זה עם זה"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 14:1:1",
+      "era": "chazal",
+      "quote": "וכל אחד ואחד יש לשאול למה היו הצרות הללו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: the account is written to show Avram's wholehearted trust in God, since he pursued four kings with few men.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 14:1:1",
+        "quote": "ונכתב זה הסיפור בתורה להודיע ישר לבב אברם עם האל בוטח בו בכל לב"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: this happened to Avraham to show that four kingdoms will rule the world, and in the end his descendants will overcome them.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 14:1:1",
+        "quote": "המעשה הזה ארע לאברהם להורות כי ארבע מלכויות תעמודנה למשול בעולם"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: it tells us these four kings were mighty, so we learn how great the help of God was that was with Avraham.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 14:1:1",
+        "quote": "לומר כי ארבעה מלכים אלו תקיפים היו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: when you see kingdoms provoking one another, look for the footsteps of the Mashiach; their quarrel brought redemption to Avraham.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 14:1:1",
+        "quote": "אם ראית מלכיות מתגרות זו בזו צפה לרגליו של מלך המשיח"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah reads even a distant war as part of Avraham's story."
+   },
+   {
+    "title": "Why does the Torah give the names of the five kings?",
+    "pasuk": {
+     "text": "עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה",
+     "ref": "Genesis 14:2",
+     "label": "Genesis 14:2"
+    },
+    "question": "If the pasuk only wants to tell who the kings were, why name them, and why leave the king of Bela unnamed?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 14:2:3",
+      "era": "acharon",
+      "quote": "למה הוצרך למכתב שמם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tzror HaMor: the names show their wickedness, for their names point to their evil.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 14:2:1",
+        "quote": "להורות על רשעם ועל פחיתותם כי שמם יורה על רשעתם"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi, on the midrash: Shinav hates his Father in heaven, and Shemever sprouted a wing to fly and rebel against God.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 14:2:1",
+        "quote": "שנאב שונא אביו שבשמים ושמאבר שם אבר לעוף למרוד בהב\"ה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the Torah names a king only when it comes to tell his wickedness, which is why the king of Bela is not named.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 14:2:3",
+        "quote": "אלא כשבא לדרוש להגיד רשעתם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that names in the Torah can carry a verdict on character."
+   },
+   {
+    "title": "Why does the pasuk say \"be'erot be'erot\" and call them pits of \"chemar\"?",
+    "pasuk": {
+     "text": "ועמק השדים בארת בארת חמר",
+     "ref": "Genesis 14:10",
+     "label": "Genesis 14:10"
+    },
+    "question": "Why is the word doubled, and if the pits were full of clay, why is it not said the kings sank in them rather than fell?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 14:10:1",
+      "era": "acharon",
+      "quote": "דקשה לרש\"י למה כפל לשון בארות בארות"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 14:10:1",
+      "era": "acharon",
+      "quote": "דאם לא כן כפל הלשון למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: there were many pits there, from which they took earth for building clay.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:10:1",
+        "quote": "בארות הרבה היו שם שנוטלין משם אדמה לטיט של בנין"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the word \"be'er\" is irregular here because it is in the construct form.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 14:10:1",
+        "quote": "באר בכל המקרא נובעת והיא משונה בעבור הסמיכה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the pits were not full of wet clay; they are named for the earth taken from them to make clay.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 14:10:3",
+        "quote": "הבארת הנזכרים לא שהיו מלאים טיט לח אלא על שם שמוציאין מהן אדמה לעשות טיט"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the plain meaning of one odd phrase decides how the whole battle scene is pictured."
+   },
+   {
+    "title": "How can the miracle of the king of Sodom make anyone believe in Avraham's miracle?",
+    "pasuk": {
+     "text": "ועמק השדים בארת בארת חמר",
+     "ref": "Genesis 14:10",
+     "label": "Genesis 14:10"
+    },
+    "question": "Rashi brings a midrash that the king of Sodom came out of the pit by a miracle, so nations believed Avraham was saved from the furnace. But he was an idol worshipper; why would his miracle strengthen belief?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 14:10:1",
+      "era": "rishon",
+      "quote": "ואני תמה במדרש ההגדה הזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban himself: it is possible he came out of there in the normal way, without a miracle.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 14:10:1",
+        "quote": "ויתכן שיצא משם כראוי בלא נס"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya (explaining the midrash): the king was saved in Avraham's merit, and the miracle was that he came out to meet Avraham and honour him.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 14:10:1-4",
+        "quote": "מלך סדום נצל בזכות אברהם ונעשה לו נס שיצא לקראת אברהם לכבדו ולברכו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: perhaps they did not die there so that people would see the miracle God did for Avraham.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 14:10:3",
+        "quote": "ואולי היתה הסבה שלא מתו שם כדי שיראו בנס שעשה האל לאברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what kind of miracle can serve as proof, and for whom."
+   },
+   {
+    "title": "Why did the fugitive go to tell Avram, and who was he?",
+    "pasuk": {
+     "text": "ויבא הפליט ויגד לאברם העברי",
+     "ref": "Genesis 14:13",
+     "label": "Genesis 14:13"
+    },
+    "question": "If he only wanted to report news, he could have written \"the fugitive came and told that Lot was captured.\" Why does the pasuk say \"told Avram\"?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 14:13:3",
+      "era": "acharon",
+      "quote": "הוי ליה למכתב 'ויבא הפליט ויגד כי נשבה לוט'"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 14:13:3",
+      "era": "acharon",
+      "quote": "אלא לפי המדרש למה אמר לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi (the midrash): he was Og, and he meant for Avram to be killed so that he could take Sarah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:13:1",
+        "quote": "ומתכוין שיהרג אברם וישא את שרה"
+       }
+      ]
+     },
+     {
+      "text": "Radak (plain meaning): after escaping captivity he came and told Avram about his nephew who was captured.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 14:13:1",
+        "quote": "אחר שנמלט מהשבי בא והגיד לאברם על בן אחיו שנשבה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the fugitive did not know that Avraham was Lot's relative, only that he held to the ways of Ever.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 14:13:1",
+        "quote": "לא שידע הפליט שהיה אברהם קרוב ללוט"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the same messenger can be read as a loyal survivor or as a villain."
+   },
+   {
+    "title": "Did Avraham go out with 318 men, or with Eliezer alone?",
+    "pasuk": {
+     "text": "שמנה עשר ושלש מאות",
+     "ref": "Genesis 14:14",
+     "label": "Genesis 14:14"
+    },
+    "question": "Rashi, quoting Chazal, says the number is the gematria of Eliezer. But a pasuk does not leave its plain meaning, and later Avraham speaks of \"the men who went with me.\"",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 14:14:1",
+      "era": "acharon",
+      "quote": "וכי דרך המקרא לומר מספר המורה על איש אחד"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 14:14:1-3",
+      "era": "rishon",
+      "quote": "ואין לנו להוציא המקרא מידי פשוטו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: our Rabbis said Eliezer was there alone, and the number is the gematria of his name.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:14:3",
+        "quote": "רבותינו אמרו אליעזר לבדו היה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the pasuk does not speak in gematria; he trained his men many times in war.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 14:14:2",
+        "quote": "כי אין הכתוב מדבר בגימטריא"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: all the 318 were his household, but when he hurried out he reduced them, so he found himself with Eliezer alone.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 14:14:1-3",
+        "quote": "מיעט אותן וריקנן"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Rashi agrees he took real men, since a person must do all he can by nature, and the miracle fills what nature lacks.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 14:14:1",
+        "quote": "כי חייב כל אדם לעשות בדרך הטבע כל אשר ימצא בכחו לעשות"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether a derash may overrule the plain count of a pasuk."
+   },
+   {
+    "title": "Why does the Torah say Avraham pursued \"until Dan\"?",
+    "pasuk": {
+     "text": "וירדף עד דן",
+     "ref": "Genesis 14:14",
+     "label": "Genesis 14:14"
+    },
+    "question": "The next pasuk already says he pursued them as far as Chovah. Why mention Dan, a place not yet called by that name?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 14:14:2",
+      "era": "acharon",
+      "quote": "דאם לא כן וירדוף עד דן למה לי"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 14:14:3",
+      "era": "acharon",
+      "quote": "דאם לא כן \"עד דן\" למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: there his strength failed, because he saw that his descendants would set up a calf there.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:14:4",
+        "quote": "שם תשש כחו שראה שעתידין בניו להעמיד שם עגל"
+       }
+      ]
+     },
+     {
+      "text": "Radak: when Moshe wrote this it was not yet called that, and it is named for what came later.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 14:14:5",
+        "quote": "כשכתב משה רבנו זה לא נקרא עדין כן"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the place was called Dan only in the days of the Judges.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 14:14:2",
+        "quote": "שנקרא כן בימי השופטים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how one place name opens a question about when the Torah's words were written."
+   },
+   {
+    "title": "Why does the pasuk say \"he divided against them at night\" in this order?",
+    "pasuk": {
+     "text": "ויחלק עליהם לילה",
+     "ref": "Genesis 14:15",
+     "label": "Genesis 14:15"
+    },
+    "question": "The words seem out of order: it should say \"he and his servants divided at night.\" What is meant?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 14:15:1",
+      "era": "acharon",
+      "quote": "הול\"ל ויחלק עליהם הוא ועבדיו בלילה"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 14:15:1",
+      "era": "rishon",
+      "quote": "ומה שאמר ויחלק עליהם ולא אמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi (plain meaning): the verse is reversed and means he and his servants divided against them by night, as pursuers split up after the fleeing.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:15:1",
+        "quote": "סרס המקרא ויחלק הוא ועבדיו עליהם לילה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: pursuing in daylight, when night fell and he could not see where they fled, he split his men into two or three groups.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 14:15:1",
+        "quote": "חלק עמו ועבדיו לשנים או שלשה ראשים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: it was a stratagem, so they would think all the surrounding peoples had risen against them.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 14:15:1",
+        "quote": "לתחבולה כדי שיחשבו שקמו כל הסביבות עליהם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi (midrash): the night itself was divided; a miracle was done in its first half, and the second half was kept for the midnight of Egypt.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:15:2",
+        "quote": "שנחלק הלילה ובחציו הראשון נעשה לו נס"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the word order of one pasuk can be a battle plan or a link to the Exodus."
+   },
+   {
+    "title": "Why did Malki-Tzedek bring out bread and wine?",
+    "pasuk": {
+     "text": "ומלכי צדק מלך שלם הוציא לחם ויין",
+     "ref": "Genesis 14:18",
+     "label": "Genesis 14:18"
+    },
+    "question": "Why does the Torah tell us what he brought, and why cut off the king of Sodom's words with it?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 14:18:3",
+      "era": "acharon",
+      "quote": "ולמה \"לחם ויין\""
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 14:18:2",
+      "era": "acharon",
+      "quote": "ומ\"ט אמר לחם ויין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: this is how they treat those worn out by war, and he showed he had no grievance for the killing of his sons.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 14:18:2",
+        "quote": "כך עושים ליגיעי מלחמה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: it cuts in to teach that Avraham answered the king of Sodom truthfully, for the lads ate from Malki-Tzedek's food.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 14:18:1",
+        "quote": "ללמדנו שאמת השיב אברהם למלך סדום"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: to tell the praise of the righteous against the wicked: the king of Sodom came empty-handed, while Shem brought bread and wine unasked.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 14:18:1",
+        "quote": "להגיד שבח הצדיקים מה בינם לבין הרשעים"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: to feed Avram's men, weary from the war.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 14:18:1",
+        "quote": "להאכיל אנשיו העייפים מן המלחמה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a single detail can serve as hospitality, a message, or evidence for a later claim."
+   },
+   {
+    "title": "Why did Malki-Tzedek bless Avram before blessing God?",
+    "pasuk": {
+     "text": "ויברכהו ויאמר ברוך אברם לאל עליון",
+     "ref": "Genesis 14:19",
+     "label": "Genesis 14:19"
+    },
+    "question": "The order seems wrong: a person should bless God first. Was it an error, and what came of it?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 14:11:1-2",
+      "era": "acharon",
+      "quote": "ולמה הקדים מלכי צדק ברכת אברהם לברכת ה'"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 14:19:4-5",
+      "era": "rishon",
+      "quote": "הקדים מלכי צדק ברכת אברהם לברכת אל עליון וחטא בזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: he spoke rightly and did well to bless Avram first, because he volunteered to rescue the captives; only then did he bless God for helping him.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 14:18:3",
+        "quote": "כי כהוגן דבר ויפה עשה שברך אברם בתחלה בעבור שהתנדב להושיע אשר נשבו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he blessed Avram first because he volunteered to go and rescue his relative.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 14:19:1",
+        "quote": "ברכו תחילה על שם שהתנדב ללכת להושיע את קרובו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: it was a sin, and his punishment was that his priesthood was taken from him and given to Avraham.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 14:19:4-5",
+        "quote": "והיה ענשו שנטלה ממנו כהנתו ונתנה לאברהם"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: he lost the priesthood because he put Avraham's blessing before the blessing of God.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 14:18:2",
+        "quote": "ומפני מה על שהקדים ברכת אברהם לברכת הקב\"ה"
+       }
+      ]
+     }
+    ],
+    "why": "It is a machlokes between reading the order as proper gratitude or as a fault that moved the kehunah."
+   }
+  ],
+  "sources_consulted": [
+   "Malbim",
+   "Midrash Lekach Tov",
+   "Radak",
+   "Ramban",
+   "Or HaChaim",
+   "Gur Aryeh",
+   "Tzror HaMor",
+   "Mizrachi",
+   "Siftei Chakhamim",
+   "Rashi",
+   "Ibn Ezra",
+   "Chizkuni",
+   "Rabbeinu Bahya",
+   "Sforno",
+   "Kli Yakar",
+   "Torah Temimah",
+   "Rashbam",
+   "Bekhor Shor",
+   "Midrash Aggadah"
+  ]
+ },
+ "hebrew": {
+  "summary": "ארבעה מלכים בראשות אמרפל וכדרלעומר עושים מלחמה בחמשת מלכי כיכר הירדן ומנצחים אותם בעמק השדים. הם לוקחים את לוט ורכושו מסדום. פליט מגיד לאברם, והוא מריק את חניכיו ילידי ביתו, שלוש מאות ושמונה עשר, רודף עד דן, מתחלק עליהם לילה ומכה אותם עד חובה. הוא משיב את לוט, את הרכוש, את הנשים ואת העם. מלך סדום יוצא לקראתו, ומלכי צדק מלך שלם מוציא לחם ויין, מברך את אברם לאל עליון, ואברם נותן לו מעשר מכל.",
+  "questions": [
+   {
+    "title": "למה פותחת התורה במלחמת מלכים שאינה נוגעת לאברהם?",
+    "pasuk": {
+     "text": "ויהי בימי אמרפל מלך שנער",
+     "ref": "Genesis 14:1",
+     "label": "בראשית יד, א"
+    },
+    "question": "התורה מאריכה בשני פסוקים במלכים שנלחמו זה בזה. למה לספר מלחמה שאין בה צורך בתורה?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 14:1:1-2",
+      "era": "acharon",
+      "quote": "למה האריך בספור מלחמות המלכים זה עם זה"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 14:1:1",
+      "era": "chazal",
+      "quote": "וכל אחד ואחד יש לשאול למה היו הצרות הללו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: הסיפור נכתב כדי להודיע את ישר לבו של אברם ובטחונו בה', שרדף אחר ארבעה מלכים במעט אנשים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 14:1:1",
+        "quote": "ונכתב זה הסיפור בתורה להודיע ישר לבב אברם עם האל בוטח בו בכל לב"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: המעשה הזה אירע לאברהם להורות שארבע מלכויות תעמודנה למשול בעולם, ובסוף יתגברו בניו עליהן.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 14:1:1",
+        "quote": "המעשה הזה ארע לאברהם להורות כי ארבע מלכויות תעמודנה למשול בעולם"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: לומר שארבעה מלכים אלו תקיפים היו, וללמוד מכך את גודל עזרת ה' שעם אברהם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 14:1:1",
+        "quote": "לומר כי ארבעה מלכים אלו תקיפים היו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: כשאתה רואה מלכיות מתגרות זו בזו, צפה לרגליו של מלך המשיח; ומריבתן הביאה גאולה לאברהם.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 14:1:1",
+        "quote": "אם ראית מלכיות מתגרות זו בזו צפה לרגליו של מלך המשיח"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהתורה רואה גם מלחמה רחוקה כחלק מסיפורו של אברהם."
+   },
+   {
+    "title": "למה התורה מזכירה את שמות חמשת המלכים?",
+    "pasuk": {
+     "text": "עשו מלחמה את ברע מלך סדם ואת ברשע מלך עמרה",
+     "ref": "Genesis 14:2",
+     "label": "בראשית יד, ב"
+    },
+    "question": "אם הפסוק רק רוצה להגיד מי היו המלכים, למה לנקוב בשמותיהם, ולמה לא נקרא שם מלך בלע?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 14:2:3",
+      "era": "acharon",
+      "quote": "למה הוצרך למכתב שמם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "צרור המור: השמות באים להורות על רשעתם ופחיתותם, כי שמם מורה על רשעתם.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 14:2:1",
+        "quote": "להורות על רשעם ועל פחיתותם כי שמם יורה על רשעתם"
+       }
+      ]
+     },
+     {
+      "text": "מזרחי, על פי המדרש: שנאב שונא אביו שבשמים, ושמאבר שם אבר לעוף למרוד בהקב\"ה.",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 14:2:1",
+        "quote": "שנאב שונא אביו שבשמים ושמאבר שם אבר לעוף למרוד בהב\"ה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: הכתוב נוקב בשם המלך רק כשבא להגיד את רשעתו, ולכן מלך בלע אינו נזכר בשמו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 14:2:3",
+        "quote": "אלא כשבא לדרוש להגיד רשעתם"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד ששמות בתורה יכולים להכיל פסק על אופיו של אדם."
+   },
+   {
+    "title": "למה הכתוב אומר \"בארת בארת\" וקורא להן בארות \"חמר\"?",
+    "pasuk": {
+     "text": "ועמק השדים בארת בארת חמר",
+     "ref": "Genesis 14:10",
+     "label": "בראשית יד, י"
+    },
+    "question": "למה הלשון כפול, ואם הבארות היו מלאות טיט, למה כתוב ויפלו ולא נטבעו?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 14:10:1",
+      "era": "acharon",
+      "quote": "דקשה לרש\"י למה כפל לשון בארות בארות"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 14:10:1",
+      "era": "acharon",
+      "quote": "דאם לא כן כפל הלשון למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בארות הרבה היו שם, שנוטלין משם אדמה לטיט של בנין.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:10:1",
+        "quote": "בארות הרבה היו שם שנוטלין משם אדמה לטיט של בנין"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: המילה \"באר\" משונה כאן בגלל הסמיכות.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 14:10:1",
+        "quote": "באר בכל המקרא נובעת והיא משונה בעבור הסמיכה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: הבארות לא היו מלאות טיט לח, אלא נקראו כך על שם שמוציאין מהן אדמה לעשות טיט.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 14:10:3",
+        "quote": "הבארת הנזכרים לא שהיו מלאים טיט לח אלא על שם שמוציאין מהן אדמה לעשות טיט"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך פשט של ביטוי אחד משונה קובע את תמונת הקרב כולה."
+   },
+   {
+    "title": "איך נס מלך סדום יכול להביא להאמין בנס של אברהם?",
+    "pasuk": {
+     "text": "ועמק השדים בארת בארת חמר",
+     "ref": "Genesis 14:10",
+     "label": "בראשית יד, י"
+    },
+    "question": "רש\"י מביא מדרש שמלך סדום יצא מן הבור בנס, והאומות האמינו שאברהם ניצל מכבשן האש. אך הוא היה עובד עבודה זרה; איך נסו יחזק אמונה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 14:10:1",
+      "era": "rishon",
+      "quote": "ואני תמה במדרש ההגדה הזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן עצמו: ייתכן שיצא משם כראוי בלא נס.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 14:10:1",
+        "quote": "ויתכן שיצא משם כראוי בלא נס"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי (בביאור המדרש): מלך סדום ניצל בזכות אברהם, והנס שנעשה לו הוא שיצא לקראת אברהם לכבדו ולברכו.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 14:10:1-4",
+        "quote": "מלך סדום נצל בזכות אברהם ונעשה לו נס שיצא לקראת אברהם לכבדו ולברכו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ואולי הסיבה שלא מתו שם היא כדי שיראו בנס שעשה האל לאברהם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 14:10:3",
+        "quote": "ואולי היתה הסבה שלא מתו שם כדי שיראו בנס שעשה האל לאברהם"
+       }
+      ]
+     }
+    ],
+    "why": "שואל איזה נס יכול לשמש הוכחה, ועבור מי."
+   },
+   {
+    "title": "למה בא הפליט להגיד לאברם, ומי היה?",
+    "pasuk": {
+     "text": "ויבא הפליט ויגד לאברם העברי",
+     "ref": "Genesis 14:13",
+     "label": "בראשית יד, יג"
+    },
+    "question": "אילו בא רק לספר חדשות, היה לכתוב \"ויבא הפליט ויגד כי נשבה לוט\". למה כתוב דווקא \"ויגד לאברם\"?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 14:13:3",
+      "era": "acharon",
+      "quote": "הוי ליה למכתב 'ויבא הפליט ויגד כי נשבה לוט'"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 14:13:3",
+      "era": "acharon",
+      "quote": "אלא לפי המדרש למה אמר לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י (על פי המדרש): זה עוג, ומתכוון היה שיהרג אברם וישא את שרה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:13:1",
+        "quote": "ומתכוין שיהרג אברם וישא את שרה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק (פשט): אחר שנמלט מהשבי בא והגיד לאברם על בן אחיו שנשבה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 14:13:1",
+        "quote": "אחר שנמלט מהשבי בא והגיד לאברם על בן אחיו שנשבה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הפליט לא ידע שאברהם קרוב ללוט, אלא רק שהיה מחזיק בדעות עבר.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 14:13:1",
+        "quote": "לא שידע הפליט שהיה אברהם קרוב ללוט"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך אותו שליח יכול להיקרא כניצול נאמן או כרשע."
+   },
+   {
+    "title": "האם יצא אברהם עם שלוש מאות ושמונה עשר איש, או עם אליעזר לבדו?",
+    "pasuk": {
+     "text": "שמנה עשר ושלש מאות",
+     "ref": "Genesis 14:14",
+     "label": "בראשית יד, יד"
+    },
+    "question": "רש\"י, בשם חז\"ל, אומר שהמספר הוא גימטריא של אליעזר. אך אין מקרא יוצא מידי פשוטו, ובהמשך אברהם מדבר על \"האנשים אשר הלכו אתי\".",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 14:14:1",
+      "era": "acharon",
+      "quote": "וכי דרך המקרא לומר מספר המורה על איש אחד"
+     },
+     {
+      "name": "רבינו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 14:14:1-3",
+      "era": "rishon",
+      "quote": "ואין לנו להוציא המקרא מידי פשוטו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: רבותינו אמרו אליעזר לבדו היה, והמספר הוא גימטריא של שמו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:14:3",
+        "quote": "רבותינו אמרו אליעזר לבדו היה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הכתוב אינו מדבר בגימטריא; הם אנשים שחנכם פעמים רבות במלחמה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 14:14:2",
+        "quote": "כי אין הכתוב מדבר בגימטריא"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: כל השי\"ח היו בני ביתו, אך כשנזדרז לצאת מיעט אותם וריקנן, ומצא עצמו עם אליעזר לבדו.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 14:14:1-3",
+        "quote": "מיעט אותן וריקנן"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: גם רש\"י מודה שלקח אנשים ממש, כי חייב כל אדם לעשות בדרך הטבע כל אשר ימצא בכוחו, והנס משלים את החסר.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 14:14:1",
+        "quote": "כי חייב כל אדם לעשות בדרך הטבע כל אשר ימצא בכחו לעשות"
+       }
+      ]
+     }
+    ],
+    "why": "שואל אם דרש יכול לגבור על המספר הפשוט של פסוק."
+   },
+   {
+    "title": "למה אומרת התורה שאברהם רדף \"עד דן\"?",
+    "pasuk": {
+     "text": "וירדף עד דן",
+     "ref": "Genesis 14:14",
+     "label": "בראשית יד, יד"
+    },
+    "question": "הפסוק הבא כבר אומר שרדפם עד חובה. למה להזכיר את דן, מקום שעדיין לא נקרא בשם זה?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 14:14:2",
+      "era": "acharon",
+      "quote": "דאם לא כן וירדוף עד דן למה לי"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 14:14:3",
+      "era": "acharon",
+      "quote": "דאם לא כן \"עד דן\" למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שם תשש כחו, שראה שעתידין בניו להעמיד שם עגל.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:14:4",
+        "quote": "שם תשש כחו שראה שעתידין בניו להעמיד שם עגל"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: כשכתב משה רבנו זה לא נקרא עדיין כן, והשם ניתן על שם סופו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 14:14:5",
+        "quote": "כשכתב משה רבנו זה לא נקרא עדין כן"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: המקום נקרא דן רק בימי השופטים.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 14:14:2",
+        "quote": "שנקרא כן בימי השופטים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך שם מקום אחד פותח שאלה על זמן כתיבת דברי התורה."
+   },
+   {
+    "title": "למה כתוב \"ויחלק עליהם לילה\" דווקא בסדר זה?",
+    "pasuk": {
+     "text": "ויחלק עליהם לילה",
+     "ref": "Genesis 14:15",
+     "label": "בראשית יד, טו"
+    },
+    "question": "הלשון נראה מסורס: היה לכתוב \"ויחלק עליהם הוא ועבדיו בלילה\". מה הכוונה?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 14:15:1",
+      "era": "acharon",
+      "quote": "הול\"ל ויחלק עליהם הוא ועבדיו בלילה"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 14:15:1",
+      "era": "rishon",
+      "quote": "ומה שאמר ויחלק עליהם ולא אמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י (פשט): הפסוק מסורס, ופירושו שהוא ועבדיו התחלקו עליהם בלילה, כדרך הרודפים שמתפלגים אחר הנרדפים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:15:1",
+        "quote": "סרס המקרא ויחלק הוא ועבדיו עליהם לילה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: רדף ביום, וכשחשך ולא ראה באיזו דרך ברחו, חילק את אנשיו לשניים או שלושה ראשים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 14:15:1",
+        "quote": "חלק עמו ועבדיו לשנים או שלשה ראשים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: זו הייתה תחבולה, כדי שיחשבו שכל הסביבות קמו עליהם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 14:15:1",
+        "quote": "לתחבולה כדי שיחשבו שקמו כל הסביבות עליהם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י (מדרש אגדה): הלילה עצמו נחלק, ובחציו הראשון נעשה לו נס, וחציו השני נשמר לחצות לילה של מצרים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:15:2",
+        "quote": "שנחלק הלילה ובחציו הראשון נעשה לו נס"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך סדר המילים בפסוק אחד יכול להיות תוכנית קרב או קשר ליציאת מצרים."
+   },
+   {
+    "title": "למה הוציא מלכי צדק לחם ויין?",
+    "pasuk": {
+     "text": "ומלכי צדק מלך שלם הוציא לחם ויין",
+     "ref": "Genesis 14:18",
+     "label": "בראשית יד, יח"
+    },
+    "question": "למה התורה מספרת מה הוציא, ולמה היא מפסיקה בזה את דברי מלך סדום?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 14:18:3",
+      "era": "acharon",
+      "quote": "ולמה \"לחם ויין\""
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 14:18:2",
+      "era": "acharon",
+      "quote": "ומ\"ט אמר לחם ויין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כך עושים ליגיעי מלחמה, והראה לו שאין בלבו עליו על שהרג את בניו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 14:18:2",
+        "quote": "כך עושים ליגיעי מלחמה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הפסיק כדי ללמדנו שאמת השיב אברהם למלך סדום, שאכל משל מלכי צדק.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 14:18:1",
+        "quote": "ללמדנו שאמת השיב אברהם למלך סדום"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: כדי להגיד את שבח הצדיקים לעומת הרשעים: מלך סדום יצא בידיים ריקות, ושם הצדיק הקביל פניו בלחם ויין.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 14:18:1",
+        "quote": "להגיד שבח הצדיקים מה בינם לבין הרשעים"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כדי להאכיל את אנשיו העייפים מן המלחמה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 14:18:1",
+        "quote": "להאכיל אנשיו העייפים מן המלחמה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך פרט אחד יכול לשמש הכנסת אורחים, מסר, או ראיה לטענה מאוחרת."
+   },
+   {
+    "title": "למה ברך מלכי צדק את אברם לפני שברך את הקב\"ה?",
+    "pasuk": {
+     "text": "ויברכהו ויאמר ברוך אברם לאל עליון",
+     "ref": "Genesis 14:19",
+     "label": "בראשית יד, יט"
+    },
+    "question": "הסדר נראה שגוי: צריך לברך קודם את הקב\"ה. האם זו הייתה טעות, ומה יצא ממנה?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 14:11:1-2",
+      "era": "acharon",
+      "quote": "ולמה הקדים מלכי צדק ברכת אברהם לברכת ה'"
+     },
+     {
+      "name": "רבינו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 14:19:4-5",
+      "era": "rishon",
+      "quote": "הקדים מלכי צדק ברכת אברהם לברכת אל עליון וחטא בזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: כהוגן דיבר ויפה עשה שברך את אברם בתחילה, מפני שהתנדב להושיע את הנשבים, ואחר כך ברך את ה' שעזרו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 14:18:3",
+        "quote": "כי כהוגן דבר ויפה עשה שברך אברם בתחלה בעבור שהתנדב להושיע אשר נשבו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: ברכו תחילה על שם שהתנדב ללכת להושיע את קרובו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 14:19:1",
+        "quote": "ברכו תחילה על שם שהתנדב ללכת להושיע את קרובו"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: זה היה חטא, ועונשו שנטלה ממנו כהונתו ונתנה לאברהם.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 14:19:4-5",
+        "quote": "והיה ענשו שנטלה ממנו כהנתו ונתנה לאברהם"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: איבד את הכהונה מפני שהקדים ברכת אברהם לברכת הקב\"ה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 14:18:2",
+        "quote": "ומפני מה על שהקדים ברכת אברהם לברכת הקב\"ה"
+       }
+      ]
+     }
+    ],
+    "why": "זו מחלוקת בין הבנת הסדר כהכרת טובה ראויה לבין חטא שהעביר את הכהונה."
+   }
+  ],
+  "sources_consulted": [
+   "מלבי\"ם",
+   "מדרש לקח טוב",
+   "רד\"ק",
+   "רמב\"ן",
+   "אור החיים",
+   "גור אריה",
+   "צרור המור",
+   "מזרחי",
+   "שפתי חכמים",
+   "רש\"י",
+   "אבן עזרא",
+   "חזקוני",
+   "רבינו בחיי",
+   "ספורנו",
+   "כלי יקר",
+   "תורה תמימה",
+   "רשב\"ם",
+   "בכור שור",
+   "מדרש אגדה"
+  ]
+ }
+}
