@@ -1,0 +1,1023 @@
+{
+ "date": "2026-10-21",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 14:21-15:6",
+ "hebrew_date": {
+  "hebrew": "י׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "10 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Avram answers the king of Sodom, swearing by God Most High that he will take nothing of the spoils, not even a thread or a sandal strap, except what his young men ate and the share of his allies Aner, Eshkol and Mamre. Some time later the word of God comes to Avram in a vision: do not fear, I am a shield to you, your reward is very great. Avram replies that he is childless and his steward Eliezer of Damascus will be his heir. God tells him that his own issue will inherit, takes him outside, and tells him to count the stars if he can, for so shall his offspring be. Avram believed in God, and God counted it to him as righteousness.",
+  "questions": [
+   {
+    "title": "Why was Avraham rewarded for the words \"from a thread to a sandal strap\"?",
+    "pasuk": {
+     "text": "אם מחוט ועד שרוך נעל",
+     "ref": "Genesis 14:23",
+     "label": "Genesis 14:23"
+    },
+    "question": "Avram refused every part of the spoils with the words \"from a thread to a sandal strap\". Why do Chazal credit these particular words with reward, and what was so great in refusing the spoils?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 14:23:1",
+      "era": "acharon",
+      "quote": "ויש להבין על מה זכה בשביל זה הלשון"
+     },
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 14:23:1",
+      "era": "acharon",
+      "quote": "מאי רבותי' דאברהם בזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Torah Temimah: by refusing the spoils Avraham sanctified God's name, and that obliged him to give back what he could have kept.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 14:23:1",
+        "quote": "דעשה בזה כדי לקדש השם"
+       }
+      ]
+     },
+     {
+      "text": "Torah Temimah, as another reading: by not taking benefit from the spoils Avraham showed that he did not credit the victory to his own strength.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 14:23:1",
+        "quote": "בזה שלא רצה ליהנות מהשלל הורה שלא תלה נצחונו בכחו ועוצם ידו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the main reward is for the wording itself, which contains great piety.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 14:23:1",
+        "quote": "אלא עיקר השכר הוא בשביל זה הלשון אם מחוט ועד שרוך נעל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Chazal measured in Avraham's refusal: not only generosity but the sanctifying of God's name."
+   },
+   {
+    "title": "What was Avram afraid of, that God told him \"Fear not\"?",
+    "pasuk": {
+     "text": "אל תירא אברם אנכי מגן לך",
+     "ref": "Genesis 15:1",
+     "label": "Genesis 15:1"
+    },
+    "question": "God says \"Fear not, Avram, I am a shield to you\", but the Torah never says what Avram feared. What was the fear, and why did God answer \"I am a shield\"?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 15:1",
+      "era": "rishon",
+      "quote": "כי למה יירא וממי יש לו לירא שהוצרך להבטיחו עליו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 15:1:1",
+      "era": "acharon",
+      "quote": "אם כן למה הרג אותם מתחלה אם ירא היה מן העונש"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "מבואר שהיה מתירא מאיזה דבר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he feared punishment for the lives he had taken, and God promised that he would not be punished.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 15:1:1",
+        "quote": "שלא תענש על כל אותן נפשות שהרגת"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (Rabbi Levi): he feared that among the multitudes he killed there was one righteous, God-fearing man.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 44:4",
+        "quote": "אותן אוכלוסין שהרגתי שהיה בהם צדיק אחד וירא שמים אחד"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (Rabbi Levi, second view): he feared that the sons of the kings he killed would gather armies and wage war on him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 44:4",
+        "quote": "שבניהם מכנסין אוכלוסין ובאים ועושים עמי מלחמה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: do not fear that the four kings will take vengeance on you.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 15:1:1",
+        "quote": "אל תירא שינקמו הארבעה מלכים ממך"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: he feared enemies because of those kings he had killed, and God told him that he would not be punished.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 15:1:1",
+        "quote": "הוא היה ירא שמא יהיו לו שונאים על אותן מלכים שהרג"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: he feared he had struck a righteous man among them, and God said he would not be punished.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 15:1:3",
+        "quote": "אמר שמא הרגשתי צדיק בהם"
+       }
+      ]
+     }
+    ],
+    "why": "The answer decides how to read \"I am a shield\" and \"your reward is very great\": one fear or two."
+   },
+   {
+    "title": "Had Avram already been paid his reward in this world?",
+    "pasuk": {
+     "text": "שכרך הרבה מאד",
+     "ref": "Genesis 15:1",
+     "label": "Genesis 15:1"
+    },
+    "question": "Chazal say Avram feared that he had already received his reward through his miracles. Why would the miracle of the war cost him his reward, and why was Avraham's reward not reduced, as Yaakov's was?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "הרי קבלתי שכרי בעולם הזה ואין לי כלום לעתיד לבא"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "שמא קבלתי שכרי בעולם הזה ואין לי כלום לעולם הבא"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "יש להבין אמאי לא הוקטן שכרו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Mizrachi: God told him that everything done for him in this world was done for free, and his reward is stored for the world to come.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 15:1:1",
+        "quote": "וכל מה שעשיתי לך בעולם הזה חנם עשיתי עמך אבל שכרך מתוקן לעתיד לבא"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: God said, do not fear, your reward is prepared for the future to come.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 15:1:1",
+        "quote": "שכרך מתוקן לעתיד לבוא"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: not only were his merits not diminished by his rescue, but he also has reward for saving the robbed from their oppressors.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 15:1:2",
+        "quote": "לא די שלא התמעטו זכויותיך בשביל מה שהצלתיך"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the rescue of Avraham from the kings was different from the rescue of Yaakov from Lavan, so nothing was deducted from his reward.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 15:1:1",
+        "quote": "משום דמשונה הצלת אברהם מהמלכים מהצלת יעקב מלבן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Chazal read the verse: God answers a worry about reward, not only about danger."
+   },
+   {
+    "title": "Could God not give Avram something greater than a child?",
+    "pasuk": {
+     "text": "מה תתן לי ואנכי הולך ערירי",
+     "ref": "Genesis 15:2",
+     "label": "Genesis 15:2"
+    },
+    "question": "Avram answers \"What will You give me?\" as if there were no reward greater than a child. Could God not have meant the reward of the world to come, and how did Avram know it was a worldly reward?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 15:1",
+      "era": "rishon",
+      "quote": "כאלו לא היה ביד השם מה לתת לו דבר יותר גדול משכר פרי הבטן"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "הלא י\"ל שמכוין על שכר עוה\"ב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: it did not enter his mind that the great reward was the world to come, since that needs no promise.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:2:1",
+        "quote": "ולא עלה בדעתו שיהיה השכר הגדול הזה עולם הבא"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: the word reward and giving apply only to something outside the deed itself, so it must refer to worldly reward.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 15:1:1",
+        "quote": "ובהכרח שמ\"ש לו שכרך הרבה מאד כוון על שכר עוה\"ז"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Avram asked what reward in the world to come God would give him while he went childless, since one who leaves no heir is judged in Gehinnom.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 15:1:1",
+        "quote": "מה שכר תתן לי לעולם הבא ואנכי הולך ערירי"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Avram's complaint was about worldly comfort or about the world to come."
+   },
+   {
+    "title": "Why did Avram doubt a promise he had already been given several times?",
+    "pasuk": {
+     "text": "ואנכי הולך ערירי",
+     "ref": "Genesis 15:2",
+     "label": "Genesis 15:2"
+    },
+    "question": "God had already promised Avram descendants and the land. How can he now say \"I go childless\" and \"my steward is my heir\"?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 15:2:1",
+      "era": "rishon",
+      "quote": "ולמה לא האמין בנבואה הראשונה"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 15:2:1-2",
+      "era": "acharon",
+      "quote": "איך נסתפק אברהם בהבטחת ה' שיהיה לו זרע שהבטיחו כ\"פ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the righteous do not trust themselves, since a sin committed in error could cancel the promise.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:2:1",
+        "quote": "הצדיקים לא יאמינו בעצמם בחטאם בשגגה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he had thought he would merit children through prayer, and when it took long he thought sin had caused the delay.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 15:2:1",
+        "quote": "שמא גרם החטא"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: he thought that God's word \"your seed\" meant members of his household, and that Eliezer might be a relative.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 15:2:1",
+        "quote": "היה סבור אברהם שבני משפחתו קורא זרעו"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: he saw through astrology that he would have no son.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 15:2:1-2",
+        "quote": "באשר ראה באצטגנינות כי לא יהיה לו בן"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Avram says that the mazal presses him, saying that Avram will not father a child, and God answers that Avram will not, but Avraham will.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 44:10",
+        "quote": "אברם לא מוליד אברהם מוליד"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: God told him to go out from his astrology, since Avram has no son but Avraham does.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 15:5:1",
+        "quote": "אברם אין לו בן אבל אברהם יש לו בן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators reconcile a promise with a doubt, by sin, by the meaning of the words or by the stars."
+   },
+   {
+    "title": "What is the merit in believing God?",
+    "pasuk": {
+     "text": "והאמן ביהוה ויחשבה לו צדקה",
+     "ref": "Genesis 15:6",
+     "label": "Genesis 15:6"
+    },
+    "question": "\"He believed in God and He counted it to him as righteousness.\" Why is it a merit to believe God, who is faithful, and what exactly was counted?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 15:6:1",
+      "era": "rishon",
+      "quote": "ואיני מבין מה הזכות הזאת"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 15:6:2",
+      "era": "acharon",
+      "quote": "אינו לא לפי השכל ולא לפי התורה והנביאים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: he had believed before but had doubts, and now, after the stars, he believed completely without doubt, and God counted this as righteousness.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 15:6:2",
+        "quote": "ההאמנה הגמורה שהאמין חשבה לו האל לצדקה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he trusted that God would do what He said, even though it was far from nature, and this trust was counted as merit.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 15:6:2",
+        "quote": "האל יתברך חשב זה הבטחון בו לצדקה וזכות לאברהם"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Avram believed that God would give him offspring by God's own righteousness, not by Avram's merit.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:6:1",
+        "quote": "הקב\"ה יתן לו זרע על כל פנים לא בצדקת אברם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: Avram counted it as righteousness on God's part, since God promised him that his offspring would inherit the land.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 15:6:1",
+        "quote": "אברהם להק' צדקה שצדקה עשה עמו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: Avraham considered that God was not giving him a child for his merit but doing a righteous act for him.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 15:6:2",
+        "quote": "אין הקב\"ה נותן לו בזכותו זרע אלא צדקה עושה לו"
+       }
+      ]
+     }
+    ],
+    "why": "It is the verse on which Jewish thought about faith rests, and the commentators disagree on who is the subject."
+   },
+   {
+    "title": "Why does the verse say \"v'he'emin\" and not \"vaya'amin\"?",
+    "pasuk": {
+     "text": "והאמן ביהוה ויחשבה לו",
+     "ref": "Genesis 15:6",
+     "label": "Genesis 15:6"
+    },
+    "question": "The Torah writes \"והאמן\" and not \"ויאמן\". What does the form tell us about the time of his belief?",
+    "asked_by": [
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 15:6:1",
+      "era": "acharon",
+      "quote": "אם היה כתוב ויאמן היה משמע שעכשיו האמין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Shadal: the form \"v'he'emin\" implies that he already believed in God.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 15:6:1",
+        "quote": "ובאמרו והאמין משמע שכבר היה מאמין בה'"
+       }
+      ]
+     },
+     {
+      "text": "Radak: from the start he also believed in God, but he had doubts until the sign of the stars.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 15:6:1",
+        "quote": "מתחילה היה גם כן מאמין בה'"
+       }
+      ]
+     }
+    ],
+    "why": "It tells us that this was not the first moment of Avraham's faith."
+   }
+  ],
+  "sources_consulted": [
+   "Haamek Davar",
+   "Torah Temimah",
+   "Abarbanel",
+   "Gur Aryeh",
+   "Malbim",
+   "Rashi",
+   "Bereshit Rabbah",
+   "Sforno",
+   "Bekhor Shor",
+   "Midrash Aggadah",
+   "Mizrachi",
+   "Kli Yakar",
+   "Ramban",
+   "Chizkuni",
+   "Shadal",
+   "Radak"
+  ]
+ },
+ "hebrew": {
+  "summary": "אברם משיב למלך סדום ונשבע באל עליון שלא יקח מן השלל כלום, לא חוט ולא שרוך נעל, חוץ ממה שאכלו הנערים וחלקם של בעלי בריתו ענר אשכל וממרא. כעבור זמן בא דבר ה' אל אברם במחזה: אל תירא, אנכי מגן לך, שכרך הרבה מאד. אברם משיב שהוא הולך ערירי ובן משק ביתו אליעזר דמשק יירשו. הקב\"ה משיב שרק היוצא ממעיו יירשנו, מוציאו החוצה ואומר לו לספור את הכוכבים אם יוכל, כה יהיה זרעו. והאמין בה' ויחשבה לו צדקה.",
+  "questions": [
+   {
+    "title": "מדוע זכה אברהם בשכר על הלשון \"מחוט ועד שרוך נעל\"?",
+    "pasuk": {
+     "text": "אם מחוט ועד שרוך נעל",
+     "ref": "Genesis 14:23",
+     "label": "בראשית יד, כג"
+    },
+    "question": "אברהם סירב לכל השלל באמרו \"מחוט ועד שרוך נעל\". מדוע מייחסים חז\"ל שכר דווקא ללשון זו, ומה הרבותא שבכך שלא לקחת מן השלל?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 14:23:1",
+      "era": "acharon",
+      "quote": "ויש להבין על מה זכה בשביל זה הלשון"
+     },
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 14:23:1",
+      "era": "acharon",
+      "quote": "מאי רבותי' דאברהם בזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תורה תמימה: בכך שלא לקח מן השלל קידש אברהם את השם, ומשום כך נתחייב להחזיר את מה שהיה יכול לפטור את עצמו ממנו.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 14:23:1",
+        "quote": "דעשה בזה כדי לקדש השם"
+       }
+      ]
+     },
+     {
+      "text": "תורה תמימה, בדרך אחרת: בכך שלא רצה ליהנות מן השלל הראה שלא תלה את נצחונו בכוחו.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 14:23:1",
+        "quote": "בזה שלא רצה ליהנות מהשלל הורה שלא תלה נצחונו בכחו ועוצם ידו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: עיקר השכר הוא על הלשון עצמה, שיש בה חסידות גדולה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 14:23:1",
+        "quote": "אלא עיקר השכר הוא בשביל זה הלשון אם מחוט ועד שרוך נעל"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד במה מדדו חז\"ל את סירובו של אברהם: לא רק נדיבות אלא קידוש השם."
+   },
+   {
+    "title": "ממה פחד אברם, שנאמר לו \"אל תירא\"?",
+    "pasuk": {
+     "text": "אל תירא אברם אנכי מגן לך",
+     "ref": "Genesis 15:1",
+     "label": "בראשית טו, א"
+    },
+    "question": "הקב\"ה אומר \"אל תירא אברם אנכי מגן לך\", אך התורה לא מספרת ממה פחד אברם. מה היה הפחד, ומדוע ענה לו \"אנכי מגן לך\"?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 15:1",
+      "era": "rishon",
+      "quote": "כי למה יירא וממי יש לו לירא שהוצרך להבטיחו עליו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 15:1:1",
+      "era": "acharon",
+      "quote": "אם כן למה הרג אותם מתחלה אם ירא היה מן העונש"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "מבואר שהיה מתירא מאיזה דבר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: פחד מן העונש על הנפשות שהרג, והקב\"ה הבטיחו שלא יענש.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 15:1:1",
+        "quote": "שלא תענש על כל אותן נפשות שהרגת"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (רבי לוי): פחד שמא היה בין ההרוגים צדיק אחד ויר\"ש אחד.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 44:4",
+        "quote": "אותן אוכלוסין שהרגתי שהיה בהם צדיק אחד וירא שמים אחד"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (רבי לוי, דעה שנייה): פחד שבניהם של המלכים שהרג יכנסו אוכלוסין ויעשו עמו מלחמה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 44:4",
+        "quote": "שבניהם מכנסין אוכלוסין ובאים ועושים עמי מלחמה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אל תירא שינקמו ממך ארבעת המלכים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 15:1:1",
+        "quote": "אל תירא שינקמו הארבעה מלכים ממך"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: פחד שיהיו לו שונאים בגלל המלכים שהרג, והובטח שלא ייענש.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 15:1:1",
+        "quote": "הוא היה ירא שמא יהיו לו שונאים על אותן מלכים שהרג"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: פחד שמא הרג צדיק בהם, ונאמר לו שלא ייענש.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 15:1:3",
+        "quote": "אמר שמא הרגשתי צדיק בהם"
+       }
+      ]
+     }
+    ],
+    "why": "התשובה קובעת איך לקרוא \"אנכי מגן לך\" ו\"שכרך הרבה מאד\": פחד אחד או שניים."
+   },
+   {
+    "title": "האם כבר קיבל אברם את שכרו בעולם הזה?",
+    "pasuk": {
+     "text": "שכרך הרבה מאד",
+     "ref": "Genesis 15:1",
+     "label": "בראשית טו, א"
+    },
+    "question": "חז\"ל אומרים שאברם פחד שמא קיבל את שכרו בניסים שנעשו לו. מדוע ינכה הנס את שכרו, ומדוע לא הוקטן שכרו של אברהם כפי שהוקטן שכרו של יעקב?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "הרי קבלתי שכרי בעולם הזה ואין לי כלום לעתיד לבא"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "שמא קבלתי שכרי בעולם הזה ואין לי כלום לעולם הבא"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "יש להבין אמאי לא הוקטן שכרו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מזרחי: אמר לו הקב\"ה שכל מה שעשה עמו בעולם הזה חינם עשה, ושכרו מתוקן לעתיד לבוא.",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 15:1:1",
+        "quote": "וכל מה שעשיתי לך בעולם הזה חנם עשיתי עמך אבל שכרך מתוקן לעתיד לבא"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אמר לו אל תירא, שכרך מתוקן לעתיד לבוא.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 15:1:1",
+        "quote": "שכרך מתוקן לעתיד לבוא"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא רק שלא התמעטו זכויותיו בשל ההצלה, אלא יש לו שכר גם על שהציל גזולים מיד עושקים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 15:1:2",
+        "quote": "לא די שלא התמעטו זכויותיך בשביל מה שהצלתיך"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הצלת אברהם מן המלכים שונה מהצלת יעקב מלבן, ולכן לא נוכה שכרו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 15:1:1",
+        "quote": "משום דמשונה הצלת אברהם מהמלכים מהצלת יעקב מלבן"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שחז\"ל קוראים את הפסוק כמענה לדאגה על השכר ולא רק על הסכנה."
+   },
+   {
+    "title": "האם לא היה בידי הקב\"ה לתת לאברם דבר גדול מבן?",
+    "pasuk": {
+     "text": "מה תתן לי ואנכי הולך ערירי",
+     "ref": "Genesis 15:2",
+     "label": "בראשית טו, ב"
+    },
+    "question": "אברם משיב \"מה תתן לי\" כאילו אין שכר גדול מבן. האם לא ייתכן שהכוונה לשכר העולם הבא, ומניין ידע שהכוונה לשכר העולם הזה?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 15:1",
+      "era": "rishon",
+      "quote": "כאלו לא היה ביד השם מה לתת לו דבר יותר גדול משכר פרי הבטן"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 15:1:1",
+      "era": "acharon",
+      "quote": "הלא י\"ל שמכוין על שכר עוה\"ב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: לא עלה בדעתו שהשכר הגדול הוא העולם הבא, כי זה אינו צריך הבטחה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:2:1",
+        "quote": "ולא עלה בדעתו שיהיה השכר הגדול הזה עולם הבא"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: לשון שכר ונתינה אינו שייך אלא בדבר שמחוץ למעשה עצמו, ולכן הכוונה לשכר העולם הזה.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 15:1:1",
+        "quote": "ובהכרח שמ\"ש לו שכרך הרבה מאד כוון על שכר עוה\"ז"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אברם שאל איזה שכר יתן לו לעולם הבא והוא הולך ערירי, שהרי מי שאינו מניח בן דינו בגיהנם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 15:1:1",
+        "quote": "מה שכר תתן לי לעולם הבא ואנכי הולך ערירי"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם תלונתו של אברם הייתה על נוחות בעולם הזה או על העולם הבא."
+   },
+   {
+    "title": "מדוע פקפק אברם בהבטחה שכבר ניתנה לו כמה פעמים?",
+    "pasuk": {
+     "text": "ואנכי הולך ערירי",
+     "ref": "Genesis 15:2",
+     "label": "בראשית טו, ב"
+    },
+    "question": "הקב\"ה כבר הבטיח לאברם זרע וארץ. איך אומר עכשיו \"אנכי הולך ערירי\" ו\"בן ביתי יורש אותי\"?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 15:2:1",
+      "era": "rishon",
+      "quote": "ולמה לא האמין בנבואה הראשונה"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 15:2:1-2",
+      "era": "acharon",
+      "quote": "איך נסתפק אברהם בהבטחת ה' שיהיה לו זרע שהבטיחו כ\"פ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הצדיקים אינם מאמינים בעצמם, שמא חטאו בשגגה והחטא יבטל את ההבטחה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:2:1",
+        "quote": "הצדיקים לא יאמינו בעצמם בחטאם בשגגה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: סבר שיזכה לבנים בתפילה, וכשנתאחר הדבר חשב שמא גרם החטא.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 15:2:1",
+        "quote": "שמא גרם החטא"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: סבר שהכתוב \"זרעך\" כולל בני משפחתו, ושמא אליעזר קרוב לו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 15:2:1",
+        "quote": "היה סבור אברהם שבני משפחתו קורא זרעו"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: ראה באצטגנינות שלא יהיה לו בן.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 15:2:1-2",
+        "quote": "באשר ראה באצטגנינות כי לא יהיה לו בן"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: המזל דוחקו ואומר לו שאברם אינו מוליד, והקב\"ה משיב שאברם אינו מוליד אך אברהם מוליד.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 44:10",
+        "quote": "אברם לא מוליד אברהם מוליד"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: אמר לו צא מאצטגנינות שלך, אברם אין לו בן אבל אברהם יש לו בן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 15:5:1",
+        "quote": "אברם אין לו בן אבל אברהם יש לו בן"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך המפרשים מיישבים הבטחה עם ספק: בחטא, בפירוש המילים או בכוכבים."
+   },
+   {
+    "title": "מה הזכות שבהאמנה בה'?",
+    "pasuk": {
+     "text": "והאמן ביהוה ויחשבה לו צדקה",
+     "ref": "Genesis 15:6",
+     "label": "בראשית טו, ו"
+    },
+    "question": "\"והאמן בה' ויחשבה לו צדקה\". מדוע זו זכות להאמין בה', שהוא אל אמונה, ומה בדיוק נחשב?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 15:6:1",
+      "era": "rishon",
+      "quote": "ואיני מבין מה הזכות הזאת"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 15:6:2",
+      "era": "acharon",
+      "quote": "אינו לא לפי השכל ולא לפי התורה והנביאים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: גם קודם האמין אלא שהיה מסופק, ועכשיו האמין אמונה גמורה, והקב\"ה חשבה לו לצדקה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 15:6:2",
+        "quote": "ההאמנה הגמורה שהאמין חשבה לו האל לצדקה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בטח שיעשה מה שאמר אף על פי שהיה רחוק מן הטבע, והבטחון הזה נחשב לו לצדקה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 15:6:2",
+        "quote": "האל יתברך חשב זה הבטחון בו לצדקה וזכות לאברהם"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אברם האמין שהקב\"ה יתן לו זרע בצדקת ה' ולא בצדקת אברם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:6:1",
+        "quote": "הקב\"ה יתן לו זרע על כל פנים לא בצדקת אברם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אברהם חשב להקב\"ה צדקה, שהרי הבטיחו שיוצא מחלציו יירש הארץ.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 15:6:1",
+        "quote": "אברהם להק' צדקה שצדקה עשה עמו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: חשב אברהם שאין הקב\"ה נותן לו זרע בזכותו אלא עושה לו צדקה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 15:6:2",
+        "quote": "אין הקב\"ה נותן לו בזכותו זרע אלא צדקה עושה לו"
+       }
+      ]
+     }
+    ],
+    "why": "זה הפסוק שעליו נשענת ההגות היהודית על האמונה, והמפרשים חלוקים מי הנושא בו."
+   },
+   {
+    "title": "מדוע נאמר \"והאמן\" ולא \"ויאמן\"?",
+    "pasuk": {
+     "text": "והאמן ביהוה ויחשבה לו",
+     "ref": "Genesis 15:6",
+     "label": "בראשית טו, ו"
+    },
+    "question": "התורה כותבת \"והאמן\" ולא \"ויאמן\". מה מלמדת הצורה על זמן האמונה?",
+    "asked_by": [
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 15:6:1",
+      "era": "acharon",
+      "quote": "אם היה כתוב ויאמן היה משמע שעכשיו האמין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שד\"ל: מלשון והאמין משמע שכבר היה מאמין בה'.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 15:6:1",
+        "quote": "ובאמרו והאמין משמע שכבר היה מאמין בה'"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: מתחילה היה גם כן מאמין בה', אלא שהיה מסופק עד שהראהו הכוכבים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 15:6:1",
+        "quote": "מתחילה היה גם כן מאמין בה'"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד שזה לא היה רגע האמונה הראשון של אברהם."
+   }
+  ],
+  "sources_consulted": [
+   "העמק דבר",
+   "תורה תמימה",
+   "אברבנאל",
+   "גור אריה",
+   "מלבי\"ם",
+   "רש\"י",
+   "בראשית רבה",
+   "ספורנו",
+   "בכור שור",
+   "מדרש אגדה",
+   "מזרחי",
+   "כלי יקר",
+   "רמב\"ן",
+   "חזקוני",
+   "שד\"ל",
+   "רד\"ק"
+  ]
+ }
+}
