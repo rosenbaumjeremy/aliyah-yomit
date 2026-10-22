@@ -1,0 +1,979 @@
+{
+ "date": "2026-10-22",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 15:7-17:6",
+ "hebrew_date": {
+  "hebrew": "י״א בְּחֶשְׁוָן תשפ״ז",
+  "english": "11 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Avram asks how he will know he will inherit the land, and God has him bring a heifer, a goat, a ram, a turtledove and a young bird. Avram cuts the animals, a deep sleep falls on him, and God foretells that his descendants will be strangers and enslaved for four hundred years before leaving with great wealth. A smoking oven and a flaming torch pass between the pieces as God makes a covenant giving the land to his descendants. Sarai, still childless, gives her maid Hagar to Avram; Hagar conceives, is harshly treated by Sarai and flees, and an angel tells her to return and that she will bear Ishmael. At ninety-nine Avram is told to walk before God and be complete, and his name becomes Avraham.",
+  "questions": [
+   {
+    "title": "Why does Avram, who just believed God, ask \"how will I know\" he will inherit the land?",
+    "pasuk": {
+     "text": "במה אדע כי אירשנה",
+     "ref": "Genesis 15:8",
+     "label": "Genesis 15:8"
+    },
+    "question": "Avram has been told God brought him out of Ur to give him this land. Why does he ask for a sign, and why did he ask about the land and not about the promise of children?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 15:8:2",
+      "era": "acharon",
+      "quote": "תמהו רבים למה שאל אות על ירשת הארץ ולא שאל אות על הבטחת הזרע"
+     },
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 15:8:1",
+      "era": "rishon",
+      "quote": "אין לומר ששאל אות להק' שכבר האמין ועוד מה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: Avram feared that the gift of the land might depend on deeds (his own, his descendants', or the Canaanites' repentance), so he asked for an assured knowledge that he would inherit it.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:7:1",
+        "quote": "ולכן חשש אברהם פן יהיה בירשת הארץ תנאי המעשים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: perhaps his children would sin and not merit to inherit.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 15:8:1",
+        "quote": "כי אולי יחטאו הבנים ולא יזכו"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: Avram did not doubt that he would inherit; he asked in what way, at what time and through which generation the inheritance would come.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 15:8:1",
+        "quote": "במה אירשנה באיזה זמן ובאיזה דור ומתי יהיה וכמה אירש ממנה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Avram wanted God to cut a covenant with him to silence any claimant, since the land had been divided among the sons of Shem.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 15:8:2",
+        "quote": "שיכרות לו הקדוש ברוך הוא ברית לסלק מעליו כל"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: it was not a challenge; he asked by what merit, and was told: by the atonement offerings that I give you.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 44:14",
+        "quote": "לא כקורא תגר אלא אמר לו באיזו זכות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Avram feared, and what the covenant between the pieces was meant to secure."
+   },
+   {
+    "title": "Why tell Avram, at the moment of the covenant, that his children will be strangers and slaves?",
+    "pasuk": {
+     "text": "ידע תדע כי גר יהיה זרעך",
+     "ref": "Genesis 15:13",
+     "label": "Genesis 15:13"
+    },
+    "question": "The verse opens with \"ידע תדע\" and announces exile and oppression. Why the doubled language, and why give Avram this bad news at all?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 15:8:1",
+      "era": "acharon",
+      "quote": "למה זה הגיד הקדוש ברוך הוא בשורה רעה זו"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 15:13:1",
+      "era": "acharon",
+      "quote": "צריך לדעת למה כפל לומר ידע תדע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Kli Yakar: because Avram asked what he had no need to know, he was told something that grieved him, measure for measure.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 15:8:1",
+        "quote": "על זה אמר שבעון ״במה אדע״ שרצה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: in the very wording that he sinned with (\"how will I know\") the exile was imposed on his descendants, measure for measure.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 15:13:1",
+        "quote": "ידע תדע באותו לשון שחטא לומר במה אדע, נקנס"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: God told him why the inheritance is delayed, and so that the last generation would know by tradition that it was God's word.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 15:13:1",
+        "quote": "הודיע סבת אחור ירשת הבנים, והיא"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 15:13:1",
+        "quote": "למען ידע דור אחרון בקבלה"
+       }
+      ]
+     }
+    ],
+    "why": "It links the sign Avram asked for to the exile that follows, and to the reason the land is delayed."
+   },
+   {
+    "title": "Where do the four hundred years of exile start, and why do the numbers not fit Egypt alone?",
+    "pasuk": {
+     "text": "כי גר יהיה זרעך בארץ לא להם",
+     "ref": "Genesis 15:13",
+     "label": "Genesis 15:13"
+    },
+    "question": "Israel was in Egypt far less than four hundred years. From what point are the four hundred counted, and what do they include?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 15:13:1",
+      "era": "rishon",
+      "quote": "והנה אין אנו מוצאים אלא"
+     },
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 15:13:1",
+      "era": "rishon",
+      "quote": "ואם תאמר במצרים היו ארבע מאות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the four hundred years are counted from the birth of Yitzchak until the exodus (Yitzchak 60 + Yaakov 130 + 210 in Egypt), because the descendants were strangers in a land not theirs from Yitzchak on.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 15:13:1",
+        "quote": "משנולד יצחק עד שיצאו ישראל ממצרים ארבע מאות שנה"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 15:13:2",
+        "quote": "לא נאמר בארץ מצרים, אלא לא להם –"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the verse is out of order; the four hundred years are of being strangers, and the length of the slavery and oppression is not specified.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:13:1",
+        "quote": "זה מקרא מסרס"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:13:1",
+        "quote": "ולא פרש כמה ימי העבדות והענוי"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: strangerhood, slavery and oppression together last four hundred years from the day God spoke with him, without saying how long each part lasts.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 15:13:2",
+        "quote": "יחד גרות ועבדות וענוי יומשך"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the count is from the birth of a child to Avram, and the missing years are explained by counting from the command \"Lech lecha\".",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 15:13:1",
+        "quote": "מיום שיהיה לו זרע"
+       }
+      ]
+     }
+    ],
+    "why": "It sets how long the exile is, and whether \"strangers\" means Egypt only or the whole time before."
+   },
+   {
+    "title": "Whose fourth generation returns: Israel's, or the Amorites'?",
+    "pasuk": {
+     "text": "ודור רביעי ישובו הנה",
+     "ref": "Genesis 15:16",
+     "label": "Genesis 15:16"
+    },
+    "question": "\"In the fourth generation they shall return here\" seems to conflict with the four hundred years. Which generations are meant?",
+    "asked_by": [
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 15:16:1",
+      "era": "rishon",
+      "quote": "- המפרש דור רביעי של ישראל"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 15:16:1",
+      "era": "rishon",
+      "quote": "רובי המפרשים השתבשו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: after they go down to Egypt there will be three generations there, and in the fourth they will return (Yehuda, Peretz, Chetzron, Calev).",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 15:16:1",
+        "quote": "לאחר שיגלו למצרים יהיו שם ג'"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: the fourth generation is of the Amorites; God waits four generations (a generation being one hundred years) before taking the land, in case they repent.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 15:16:1",
+        "quote": "שאחר דור רביעי של אמוריים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: \"dor\" means a dwelling, and the fourth is after the descendants have been strangers; Kehat, Amram and Moshe stayed, and their children returned to Canaan.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 15:16:1",
+        "quote": "פי' דור כמו יושב"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Rashi's reading is not right at all; the fourth generation is the Amorite's, since God punishes the sin of fathers to the third and fourth generations.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:16:1",
+        "quote": "ואיננו נכון כלל"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 15:16:1",
+        "quote": "והנכון בעיני כי \"דור רביעי\""
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the reason for the delay is the Amorites' unfinished sin or a count of Israel's generations."
+   },
+   {
+    "title": "Why does Sarai blame Avram for the wrong Hagar did to her?",
+    "pasuk": {
+     "text": "חמסי עליך אנכי נתתי שפחתי בחיקך",
+     "ref": "Genesis 16:5",
+     "label": "Genesis 16:5"
+    },
+    "question": "Sarai herself gave Hagar to Avram, yet says \"my wrong is on you\". What wrong did Avram do?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 45:5",
+      "era": "chazal",
+      "quote": "חומסני אתה בדברים, למה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah: you wrong me in words, because you hear my shame and stay silent.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 45:5",
+        "quote": "למה, שאתה שומע בקלוני ושותק. רבי"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: when you prayed for yourself only, saying \"I go childless\", you should have prayed for both of us.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 16:5:1",
+        "quote": "לא התפללת אלא עליך"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: the wrong comes to me because of you, since you do not protest my honor.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 16:5:1",
+        "quote": "ואתה אין מוחה על כבודי"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the wrong is what my maidservant does, who does not wish to serve me.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 16:5:1",
+        "quote": "שעושה לי שפחתי שאינה רוצה לשמשני"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators read the tension in the home as it begins."
+   },
+   {
+    "title": "What does \"be wholehearted\" add, if Avraham was already walking before God?",
+    "pasuk": {
+     "text": "התהלך לפני והיה תמים",
+     "ref": "Genesis 17:1",
+     "label": "Genesis 17:1"
+    },
+    "question": "Why command a man who was already faithful to \"walk before Me and be tamim\"? What is lacking?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:1",
+      "era": "rishon",
+      "quote": "התהלך לפני והיה תמים והמאמר הזה יורה שלא היה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: be whole in all my trials; and by the midrash, walk before Me in the commandment of circumcision, since while the foreskin is on you, you are blemished before Me.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:1:3",
+        "quote": "היה שלם בכל נסיונותי"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:1:3",
+        "quote": "שכל זמן שהערלה בך אתה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: do not ask why the circumcision.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 17:1:2",
+        "quote": "שלא תשאל למה המילה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: believe that the Holy One alone has the power, and do not heed diviners and astrologers.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:1:3",
+        "quote": "הקב\"ה לבדו הוא בעל היכלת בתחלה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: there is no flaw in you but the foreskin; remove it and the blemish is gone.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 46:1",
+        "quote": "אין בך פסלת אלא הערלה"
+       }
+      ]
+     }
+    ],
+    "why": "It frames the commandment of circumcision that follows."
+   },
+   {
+    "title": "Why may Avram never be called Avram again, when Yaakov's old name remains in use?",
+    "pasuk": {
+     "text": "ולא יקרא עוד את שמך אברם",
+     "ref": "Genesis 17:5",
+     "label": "Genesis 17:5"
+    },
+    "question": "Both Avraham and Yaakov are told their old name will no longer be used. Why does it become forbidden for Avram but not for Yaakov?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:1",
+      "era": "rishon",
+      "quote": "ולמה לא אמר כן ביעקב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sforno: the meaning of the name Avraham begins today and he is already made father of many nations, so Avram is never called again; not so Yisrael, whose meaning is for the future.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 17:5:2",
+        "quote": "ולא כן היה בשם ישראל"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the added letter is a notarikon of \"av hamon goyim\"; the resh he had before was for father of Aram only, and now father of the whole world.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:5:1",
+        "quote": "לשון נוטריקון של שמו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the name does not remove a letter but adds one, the resh, \"mighty father of a multitude of nations\".",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 17:5:1",
+        "quote": "ולא בא השם לחסר משמו אות, כי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the difference between a name that changes now and one whose meaning is for the future."
+   }
+  ],
+  "sources_consulted": [
+   "Kli Yakar",
+   "Bekhor Shor",
+   "Ramban",
+   "Sforno",
+   "Bereshit Rabbah",
+   "Or HaChaim",
+   "Chizkuni",
+   "Radak",
+   "Rashi",
+   "Haamek Davar",
+   "Rashbam",
+   "Ibn Ezra",
+   "Abarbanel"
+  ]
+ },
+ "hebrew": {
+  "summary": "אברם שואל במה ידע כי יירשנה, וה' מצווה אותו להביא עגלה, עז, איל, תור וגוזל. אברם מבתר את הבהמות, תרדמה נופלת עליו, וה' מודיע שזרעו יהיו גרים ועבדים ארבע מאות שנה ואחר כך יצאו ברכוש גדול. תנור עשן ולפיד אש עוברים בין הגזרים, וה' כורת ברית לתת את הארץ לזרעו. שרי, שעדיין אין לה בנים, נותנת את הגר שפחתה לאברם; הגר מתעברת, שרי מענה אותה והיא בורחת, ומלאך אומר לה לשוב ושתלד את ישמעאל. בהיות אברם בן תשעים ותשע נאמר לו להתהלך לפני ה' ולהיות תמים, ושמו נהפך לאברהם.",
+  "questions": [
+   {
+    "title": "מדוע אברם, שהאמין בה' זה עתה, שואל \"במה אדע\" שיירש את הארץ?",
+    "pasuk": {
+     "text": "במה אדע כי אירשנה",
+     "ref": "Genesis 15:8",
+     "label": "בראשית טו, ח"
+    },
+    "question": "נאמר לאברם שה' הוציאו מאור כשדים לתת לו את הארץ. למה הוא מבקש אות, ולמה שאל על הארץ ולא על הבטחת הזרע?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 15:8:2",
+      "era": "acharon",
+      "quote": "תמהו רבים למה שאל אות על ירשת הארץ ולא שאל אות על הבטחת הזרע"
+     },
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 15:8:1",
+      "era": "rishon",
+      "quote": "אין לומר ששאל אות להק' שכבר האמין ועוד מה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אברם חשש שמא ירושת הארץ תלויה במעשים, שלו, של בניו או בתשובת הכנענים, ולכן ביקש ידיעה ודאית שיירש.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:7:1",
+        "quote": "ולכן חשש אברהם פן יהיה בירשת הארץ תנאי המעשים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: שמא יחטאו הבנים ולא יזכו לירש.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 15:8:1",
+        "quote": "כי אולי יחטאו הבנים ולא יזכו"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אברם לא פקפק שיירש; הוא שאל באיזה אופן, באיזה זמן ובאיזה דור תבוא הירושה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 15:8:1",
+        "quote": "במה אירשנה באיזה זמן ובאיזה דור ומתי יהיה וכמה אירש ממנה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אברם רצה שה' יכרות לו ברית כדי לסלק כל טוען ומערער, שהרי הארץ חולקה לבני שם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 15:8:2",
+        "quote": "שיכרות לו הקדוש ברוך הוא ברית לסלק מעליו כל"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: לא כקורא תגר שאל אלא באיזו זכות, ונענה: בכפרות שאני נותן לבניך.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 44:14",
+        "quote": "לא כקורא תגר אלא אמר לו באיזו זכות"
+       }
+      ]
+     }
+    ],
+    "why": "מה חשש אברם, ומה ביקשה ברית בין הבתרים להבטיח."
+   },
+   {
+    "title": "למה מודיע ה' לאברם, ברגע הברית, שבניו יהיו גרים ועבדים?",
+    "pasuk": {
+     "text": "ידע תדע כי גר יהיה זרעך",
+     "ref": "Genesis 15:13",
+     "label": "בראשית טו, יג"
+    },
+    "question": "הפסוק פותח ב\"ידע תדע\" ומבשר גלות וענוי. למה הכפל, ולמה למסור לאברם בשורה קשה זו?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 15:8:1",
+      "era": "acharon",
+      "quote": "למה זה הגיד הקדוש ברוך הוא בשורה רעה זו"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 15:13:1",
+      "era": "acharon",
+      "quote": "צריך לדעת למה כפל לומר ידע תדע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כלי יקר: מפני שאברם שאל מה שלא היה צורך לדעת, הודיעו ה' דבר שיצער אותו, מידה כנגד מידה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 15:8:1",
+        "quote": "על זה אמר שבעון ״במה אדע״ שרצה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: באותו לשון שחטא (\"במה אדע\") נקנסה על זרעו גרות, מידה כנגד מידה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 15:13:1",
+        "quote": "ידע תדע באותו לשון שחטא לומר במה אדע, נקנס"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: ה' הודיע את סיבת איחור ירושת הבנים, וכדי שידע דור אחרון בקבלה שזה דבר ה'.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 15:13:1",
+        "quote": "הודיע סבת אחור ירשת הבנים, והיא"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 15:13:1",
+        "quote": "למען ידע דור אחרון בקבלה"
+       }
+      ]
+     }
+    ],
+    "why": "קושר בין האות שביקש אברם לגלות שבאה אחריו, ולסיבת עיכוב הארץ."
+   },
+   {
+    "title": "מאיזו נקודה נמנות ארבע מאות השנה, ולמה המספרים לא מתאימים למצרים לבדה?",
+    "pasuk": {
+     "text": "כי גר יהיה זרעך בארץ לא להם",
+     "ref": "Genesis 15:13",
+     "label": "בראשית טו, יג"
+    },
+    "question": "ישראל שהו במצרים הרבה פחות מארבע מאות שנה. מאימתי נמנות הארבע מאות, ומה כלול בהן?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 15:13:1",
+      "era": "rishon",
+      "quote": "והנה אין אנו מוצאים אלא"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 15:13:1",
+      "era": "rishon",
+      "quote": "ואם תאמר במצרים היו ארבע מאות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הארבע מאות נמנות משנולד יצחק עד יציאת מצרים, כי מיצחק ואילך זרעו גרים בארץ לא להם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 15:13:1",
+        "quote": "משנולד יצחק עד שיצאו ישראל ממצרים ארבע מאות שנה"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 15:13:2",
+        "quote": "לא נאמר בארץ מצרים, אלא לא להם –"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: המקרא מסורס; הארבע מאות הן של גרות, ולא פורש כמה ימי העבדות והענוי.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:13:1",
+        "quote": "זה מקרא מסרס"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:13:1",
+        "quote": "ולא פרש כמה ימי העבדות והענוי"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: גרות, עבדות וענוי יחד נמשכים ארבע מאות שנה מיום שנדבר עמו, בלי לפרט כמה כל חלק.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 15:13:2",
+        "quote": "יחד גרות ועבדות וענוי יומשך"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הספירה מיום שיהיה לו זרע, והשנים החסרות מוסברות מציווי \"לך לך\".",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 15:13:1",
+        "quote": "מיום שיהיה לו זרע"
+       }
+      ]
+     }
+    ],
+    "why": "קובע כמה נמשכת הגלות, והאם \"גרים\" הוא מצרים בלבד או כל התקופה."
+   },
+   {
+    "title": "דור רביעי של מי חוזר: של ישראל או של האמורי?",
+    "pasuk": {
+     "text": "ודור רביעי ישובו הנה",
+     "ref": "Genesis 15:16",
+     "label": "בראשית טו, טז"
+    },
+    "question": "\"ודור רביעי ישובו הנה\" נראה כמתנגש בארבע מאות השנה. אילו דורות נתכוונו?",
+    "asked_by": [
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 15:16:1",
+      "era": "rishon",
+      "quote": "- המפרש דור רביעי של ישראל"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 15:16:1",
+      "era": "rishon",
+      "quote": "רובי המפרשים השתבשו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לאחר שיגלו למצרים יהיו שם שלושה דורות, ובדור הרביעי ישובו (יהודה, פרץ, חצרון, כלב).",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 15:16:1",
+        "quote": "לאחר שיגלו למצרים יהיו שם ג'"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הדור הרביעי הוא של האמורים; ה' ממתין ארבעה דורות, דור מאה שנה, שמא יחזרו בתשובה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 15:16:1",
+        "quote": "שאחר דור רביעי של אמוריים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: \"דור\" פירושו יושב, והרביעי הוא אחרי היות הזרע גרים; קהת, עמרם ומשה ישבו, ובניהם שבו לכנען.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 15:16:1",
+        "quote": "פי' דור כמו יושב"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: פירוש רש\"י אינו נכון כלל; הדור הרביעי הוא של האמורי, שה' פוקד עוון על שלשים ועל רבעים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:16:1",
+        "quote": "ואיננו נכון כלל"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 15:16:1",
+        "quote": "והנכון בעיני כי \"דור רביעי\""
+       }
+      ]
+     }
+    ],
+    "why": "קובע אם סיבת העיכוב היא עוון האמורי שלא שלם או מניין דורות של ישראל."
+   },
+   {
+    "title": "למה שרי תולה באברם את החמס שעשתה הגר?",
+    "pasuk": {
+     "text": "חמסי עליך אנכי נתתי שפחתי בחיקך",
+     "ref": "Genesis 16:5",
+     "label": "בראשית טז, ה"
+    },
+    "question": "שרי עצמה נתנה את הגר לאברם, ואומרת \"חמסי עליך\". איזה עוול עשה אברם?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 45:5",
+      "era": "chazal",
+      "quote": "חומסני אתה בדברים, למה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה: חומס אתה אותי בדברים, מפני שאתה שומע בקלוני ושותק.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 45:5",
+        "quote": "למה, שאתה שומע בקלוני ושותק. רבי"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: כשהתפללת לא התפללת אלא עליך, והיה לך להתפלל על שנינו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 16:5:1",
+        "quote": "לא התפללת אלא עליך"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: החמס בא אלי בגללך, שאתה אין מוחה על כבודי.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 16:5:1",
+        "quote": "ואתה אין מוחה על כבודי"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: החמס הוא מה שעושה לי שפחתי, שאינה רוצה לשמשני.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 16:5:1",
+        "quote": "שעושה לי שפחתי שאינה רוצה לשמשני"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך המפרשים קוראים את המתח בבית בראשיתו."
+   },
+   {
+    "title": "מה מוסיף \"והיה תמים\", אם אברהם כבר התהלך לפני ה'?",
+    "pasuk": {
+     "text": "התהלך לפני והיה תמים",
+     "ref": "Genesis 17:1",
+     "label": "בראשית יז, א"
+    },
+    "question": "למה מצווים אדם נאמן \"התהלך לפני והיה תמים\"? מה חסר בו?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:1",
+      "era": "rishon",
+      "quote": "התהלך לפני והיה תמים והמאמר הזה יורה שלא היה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: היה שלם בכל נסיונותי; ולפי מדרשו, התהלך לפני במצוות מילה, שכל זמן שהערלה בך אתה בעל מום.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:1:3",
+        "quote": "היה שלם בכל נסיונותי"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:1:3",
+        "quote": "שכל זמן שהערלה בך אתה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: שלא תשאל למה המילה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 17:1:2",
+        "quote": "שלא תשאל למה המילה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: שיאמין שהקב\"ה לבדו הוא בעל היכולת, ולא ישמע למעוננים ולקוסמים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:1:3",
+        "quote": "הקב\"ה לבדו הוא בעל היכלת בתחלה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אין בך פסולת אלא הערלה; העבר אותה ובטל המום.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 46:1",
+        "quote": "אין בך פסלת אלא הערלה"
+       }
+      ]
+     }
+    ],
+    "why": "מסגר את מצוות המילה שבאה אחר כך."
+   },
+   {
+    "title": "למה אסור לקרוא לאברם \"אברם\" עוד, וכינוי יעקב נשאר בשימוש?",
+    "pasuk": {
+     "text": "ולא יקרא עוד את שמך אברם",
+     "ref": "Genesis 17:5",
+     "label": "בראשית יז, ה"
+    },
+    "question": "גם לאברהם וגם ליעקב נאמר שהשם הישן לא יקרא עוד. למה אצל אברם הדבר אסור ואצל יעקב לא?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:1",
+      "era": "rishon",
+      "quote": "ולמה לא אמר כן ביעקב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ספורנו: עניין השם אברהם מתחיל היום, שכבר נתן אותו לאב המון גויים, ולכן לא יקרא עוד אברם; לא כן בשם ישראל, שעניינו לעתיד לבוא.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 17:5:2",
+        "quote": "ולא כן היה בשם ישראל"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: האות הנוספת נוטריקון של \"אב המון גוים\"; הרי\"ש שהייתה בו לפני כן היה אב לארם בלבד, ועכשיו אב לכל העולם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:5:1",
+        "quote": "לשון נוטריקון של שמו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: השם לא בא לחסר אות אלא להוסיף, תוספת הרי\"ש.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 17:5:1",
+        "quote": "ולא בא השם לחסר משמו אות, כי"
+       }
+      ]
+     }
+    ],
+    "why": "מראה הבדל בין שם שמשתנה עכשיו לשם שעניינו לעתיד."
+   }
+  ],
+  "sources_consulted": [
+   "כלי יקר",
+   "בכור שור",
+   "רמב\"ן",
+   "ספורנו",
+   "בראשית רבה",
+   "אור החיים",
+   "חזקוני",
+   "רד\"ק",
+   "רש\"י",
+   "העמק דבר",
+   "רשב\"ם",
+   "אבן עזרא",
+   "אברבנאל"
+  ]
+ }
+}
