@@ -68,6 +68,8 @@ const UI = {
     hideOthers: "הסתר סיכום ושאלות",
     showOthers: "הצג סיכום ושאלות",
     textCredit: "ביאור: תנ״ך קורן שטיינזלץ המבואר. רש״י: מהדורת רוזנבוים וזילברמן. מתוך ספריא",
+    fullScreen: "מסך מלא",
+    exitFullScreen: "יציאה ממסך מלא",
   },
   english: {
     dir: "ltr",
@@ -132,6 +134,8 @@ const UI = {
     hideOthers: "Hide summary & questions",
     showOthers: "Show summary & questions",
     textCredit: "Explanation: The Steinsaltz Tanakh (Koren). Rashi: translated by M. Rosenbaum and A.M. Silbermann. Via Sefaria",
+    fullScreen: "Full screen",
+    exitFullScreen: "Exit full screen",
   },
 };
 
@@ -585,6 +589,59 @@ function briefBody(record, { summary = true, questions = true, text = null } = {
   return wrap;
 }
 
+/* ---------- full screen: just the aliyah, without the top bar and the parasha's tabs ---------- */
+/* The page hides them itself (body.fullread, app.css) and also asks the browser for full screen
+   where it can, so its own bars go too; where it can't (iPhone), the page alone still works. */
+
+let browserFull = false;  // whether we asked the browser for full screen
+
+function fullButtonsState() {
+  const on = document.body.classList.contains("fullread");
+  document.querySelectorAll(".fullbtn").forEach((b) => {
+    b.querySelector(".text").textContent = on ? t().exitFullScreen : t().fullScreen;
+    b.title = on ? t().exitFullScreen : t().fullScreen;
+    b.setAttribute("aria-pressed", String(on));
+  });
+}
+
+function setFullRead(on) {
+  document.body.classList.toggle("fullread", on);
+  const root = document.documentElement;
+  const current = document.fullscreenElement || document.webkitFullscreenElement;
+  if (on && !current) {
+    const ask = root.requestFullscreen || root.webkitRequestFullscreen;
+    if (ask) {
+      try {
+        const asked = ask.call(root);
+        browserFull = true;
+        if (asked && asked.catch) asked.catch(() => { browserFull = false; });
+      } catch (err) { browserFull = false; }
+    }
+  } else if (!on && current && browserFull) {
+    (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+  }
+  if (!on) browserFull = false;
+  fullButtonsState();
+}
+
+// leaving the browser's full screen (Esc, or the system's own control) leaves the page's too
+["fullscreenchange", "webkitfullscreenchange"].forEach((name) => document.addEventListener(name, () => {
+  if (!(document.fullscreenElement || document.webkitFullscreenElement) && browserFull) setFullRead(false);
+}));
+
+function fullButton() {
+  const button = node("button", "fullbtn");
+  button.type = "button";
+  button.append(node("span", "icon", "⛶"), node("span", "text"));
+  button.querySelector(".icon").setAttribute("aria-hidden", "true");
+  button.onclick = () => {
+    const on = !document.body.classList.contains("fullread");
+    setFullRead(on);
+    if (on) el("brief").scrollIntoView();
+  };
+  return button;
+}
+
 function renderBrief(reading) {
   const host = el("brief");
   host.innerHTML = "";
@@ -593,11 +650,15 @@ function renderBrief(reading) {
   const day = reading.days.get(state.aliyah);
   const range = reading.aliyot[state.aliyah - 1];
   const card = node("article", "briefcard");
-  card.appendChild(pdfHead(node("h3", null, `${t().aliyot[state.aliyah - 1]}${range ? ` — ${rangeLabel(range)}` : ""}`)));
+  const head = node("div", "briefhead");
+  head.appendChild(pdfHead(node("h3", null, `${t().aliyot[state.aliyah - 1]}${range ? ` — ${rangeLabel(range)}` : ""}`)));
+  card.appendChild(head);
   card.appendChild(pdfTools());
   host.appendChild(card);
 
   if (!day) { card.appendChild(node("p", "empty", t().notYet)); return; }
+  head.appendChild(fullButton());
+  fullButtonsState();
 
   const slot = node("div", "empty", t().loading);
   card.appendChild(slot);
@@ -864,6 +925,8 @@ function openRjs(slug) {
 
 function render() {
   const ui = t();
+  // full screen belongs to one aliyah: anywhere else, the page comes back
+  if (!(state.parasha && state.aliyah) && document.body.classList.contains("fullread")) setFullRead(false);
   document.documentElement.lang = state.lang === "hebrew" ? "he" : "en";
   document.documentElement.dir = ui.dir;
   document.title = ui.docTitle;
