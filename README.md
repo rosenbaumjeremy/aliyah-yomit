@@ -21,6 +21,9 @@ site/
   data/parashot.json         the 54 parashiyot and their aliyot (scripts/build_parashot.py)
   data/aliyot/index.json     {"days": [{date, reading, aliyah, range}]}
   data/aliyot/YYYY-MM-DD.json  one day's brief, English and Hebrew
+  data/text/<Book>.<ch>.json   every chapter of the Torah: pesukim, Steinsaltz and Rashi
+                               (Hebrew + English), from scripts/fetch_text.py; the page
+                               cuts each aliyah out of them
 ```
 
 Each reading + aliyah keeps one brief: when the cycle comes round next year the

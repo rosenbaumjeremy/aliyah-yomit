@@ -10,6 +10,7 @@
   --gold-soft: #f6efe0;
   --radius: 8px;
   --qmark: var(--gold);
+  --fs: 1;   /* size of the aliyah's text, set by the A−/A+ buttons */
 }
 
 * { box-sizing: border-box; }
@@ -216,6 +217,97 @@ details.qitem p { margin: 0 0 6px; }
   font-family: "Frank Ruhl Libre", "David Libre", "David", serif;
   font-size: 15.5px; color: var(--muted); quotes: "״" "״"; unicode-bidi: isolate;
 }
+
+/* ---------- the aliyah's text: each pasuk opens its Steinsaltz explanation, its Rashi button his words ---------- */
+
+.chaptertext + .chaptertext { margin-top: 14px; }
+.chapterHead { margin: 0 0 4px; font-size: 14px; color: var(--gold); }
+/* the text box's buttons stay in view while the pesukim scroll under them:
+   below the top bar here, below the box's own title when it scrolls by itself (beside the other boxes) */
+.textbox[open] > .body > .toolbar {
+  position: sticky; top: var(--topbar-h, 66px); z-index: 2; flex-wrap: wrap;
+  margin: -4px -16px 8px; padding: 6px 16px; background: var(--card); border-bottom: 1px solid var(--line);
+}
+/* size of the text, in the text box's toolbar */
+.textbox .toolbar .fontsize { display: inline-flex; gap: 4px; margin-inline-start: auto; }
+.textbox .toolbar .fontsize button { font-weight: 700; min-width: 2.6em; }
+.textbox .toolbar .fontsize button:disabled { opacity: .35; cursor: default; }
+
+.pesukim { display: flex; flex-direction: column; gap: 2px; }
+.prow { display: flex; align-items: flex-start; gap: 6px; }
+.ptext {
+  flex: 1; display: block; text-align: start; border: 0; border-radius: 6px; background: none; cursor: pointer;
+  padding: 3px 6px; color: var(--ink); font-size: calc(19px * var(--fs)); line-height: 1.7;
+  font-family: "Frank Ruhl Libre", "David Libre", "David", serif;
+}
+.ptext:hover, .ptext[aria-expanded="true"] { background: var(--accent-soft); }
+.ptext .pnum { color: var(--qmark); font-size: calc(13px * var(--fs)); font-weight: 700; margin-inline-end: 6px; font-family: system-ui, sans-serif; }
+.rashibtn {
+  flex: none; width: 4.2em; margin-top: calc(6px * var(--fs));
+  border: 1px solid var(--gold); background: var(--gold-soft); color: var(--accent);
+  border-radius: 12px; padding: 1px 0; font: inherit; font-size: 12px; font-weight: 700; cursor: pointer;
+}
+.rashibtn:hover, .rashibtn[aria-expanded="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.rashibtn.none { visibility: hidden; }
+.explain, .rashi {
+  margin: 2px 6px 8px; padding: 8px 12px; border-inline-start: 3px solid var(--qmark); background: var(--bg);
+  border-radius: 6px; font-size: calc(15px * var(--fs)); line-height: 1.65;
+}
+.explain[dir="rtl"], .rashi[dir="rtl"] { font-family: "Frank Ruhl Libre", "David Libre", "David", serif; font-size: calc(17px * var(--fs)); }
+.rashi { border-inline-start-color: var(--accent); }
+.rashi .label { margin: 0 0 2px; font-family: system-ui, sans-serif; font-size: 12px; color: var(--accent); }
+.rashi p { margin: 0 0 6px; }
+.rashi p:last-child { margin: 0; }
+.explain[hidden], .rashi[hidden] { display: none; }
+.brief .credit { font-size: 12px; margin: 12px 0 0; }
+
+/* the button that folds the boxes beside the open text away */
+.sidetoggle {
+  display: none; align-items: center; gap: 8px; margin: 0 0 10px;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--bg);
+  color: var(--accent); font: inherit; font-size: 13px; padding: 6px 10px; cursor: pointer;
+}
+.sidetoggle:hover { border-color: var(--accent); }
+/* The arrow (❯) points the way the boxes go: open, toward the edge they fold into; folded, back
+   toward the text. ❯ is a mirrored character (in Hebrew text the browser draws it ❮), so it is set
+   left to right and only the rotation turns it. The boxes come after the text: on the left in
+   Hebrew (‹ open, › folded), on the right in English (› open, ‹ folded). */
+.sidetoggle .arrow { margin-inline-start: auto; font-size: 12px; line-height: 1; transition: transform .2s;
+  display: inline-block; direction: ltr; unicode-bidi: isolate; }
+html[dir="rtl"] .sidetoggle .arrow { transform: rotate(180deg); }
+html[dir="rtl"] .others-folded .sidetoggle .arrow { transform: none; }
+html[dir="ltr"] .sidetoggle .arrow { transform: none; }
+html[dir="ltr"] .others-folded .sidetoggle .arrow { transform: rotate(180deg); }
+.others-folded .sidetoggle .arrow { margin-inline-start: 0; }
+
+/* tablets and computers: the text on one side, the summary and questions on the other.
+   Only while the text box is open; the page widens for it. The text spans every row; the
+   last row is 1fr so its height goes there and not into gaps between the boxes beside it. */
+@media screen and (min-width: 900px), screen and (min-width: 700px) and (pointer: coarse) {
+  main:has(.brief > .textbox[open]) { max-width: 1400px; }
+  .brief:has(> .textbox[open]) {
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+    grid-template-rows: repeat(4, auto) 1fr; column-gap: 14px; align-items: start;
+  }
+  .brief:has(> .textbox[open]) > * { grid-column: 2; }
+  .brief > .textbox[open] {
+    grid-column: 1; grid-row: 1 / -1;
+    position: sticky; top: calc(var(--topbar-h, 66px) + 10px);
+    max-height: calc(100vh - var(--topbar-h, 66px) - 20px); overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .brief > .textbox[open] > summary { position: sticky; top: 0; background: var(--card); z-index: 3; }
+  .brief > .textbox[open] > .body > .toolbar { top: var(--summary-h, 44px); }
+  .brief:has(> .textbox[open]) > .sidetoggle { display: flex; }
+  .others-folded .brief:has(> .textbox[open]) { grid-template-columns: minmax(0, 1fr) 46px; }
+  .others-folded .brief:has(> .textbox[open]) > :not(.textbox, .sidetoggle) { display: none; }
+  .others-folded .brief > .sidetoggle {
+    position: sticky; top: calc(var(--topbar-h, 66px) + 10px); flex-direction: column; justify-content: flex-start;
+    gap: 6px; padding: 10px 0; margin: 0; height: auto;
+  }
+  .others-folded .brief > .sidetoggle .text { writing-mode: vertical-rl; font-size: 12px; }
+}
+@media print { .fontsize, .sidetoggle, .rashibtn { display: none !important; } }
 
 .aliyahPart { padding-top: 12px; margin-top: 12px; border-top: 1px solid var(--line); }
 .whole .meta + .aliyahPart, .whole h3 + .aliyahPart { border-top: 0; margin-top: 4px; }

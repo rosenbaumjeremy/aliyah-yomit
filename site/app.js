@@ -53,6 +53,21 @@ const UI = {
     rjsQuestions: "השאלות",
     rjsBlocks: "אבני הבניין של הרעיון",
     rjsCredit: "שיג ושיח, תרגום צור ארליך, הוצאת מגיד (CC-BY-NC), באתר ספריא",
+    textTitle: "פסוקי העלייה — לחצו על פסוק לביאור שטיינזלץ",
+    pdfText: "הפסוקים",
+    chapter: (n) => `פרק ${hebrewNumber(n)}`,
+    showAllExplain: "הצג את כל הביאורים",
+    hideAllExplain: "הסתר את כל הביאורים",
+    showAllRashi: "הצג את כל רש״י",
+    hideAllRashi: "הסתר את כל רש״י",
+    rashi: "רש״י",
+    rashiOn: (n) => `רש״י על פסוק ${hebrewNumber(n)}`,
+    noExplain: "אין ביאור לפסוק זה.",
+    fontDown: "הקטן את הפסוקים",
+    fontUp: "הגדל את הפסוקים",
+    hideOthers: "הסתר סיכום ושאלות",
+    showOthers: "הצג סיכום ושאלות",
+    textCredit: "ביאור: תנ״ך קורן שטיינזלץ המבואר. רש״י: מהדורת רוזנבוים וזילברמן. מתוך ספריא",
   },
   english: {
     dir: "ltr",
@@ -102,6 +117,21 @@ const UI = {
     rjsQuestions: "The questions",
     rjsBlocks: "Building blocks of the idea",
     rjsCredit: "Covenant & Conversation, Maggid Books and the Orthodox Union (CC-BY-NC), on Sefaria",
+    textTitle: "The pesukim of the aliyah — click a pasuk for the Steinsaltz explanation",
+    pdfText: "The text",
+    chapter: (n) => `Chapter ${n}`,
+    showAllExplain: "Show all explanations",
+    hideAllExplain: "Hide all explanations",
+    showAllRashi: "Show all Rashi",
+    hideAllRashi: "Hide all Rashi",
+    rashi: "Rashi",
+    rashiOn: (n) => `Rashi on pasuk ${n}`,
+    noExplain: "No explanation for this pasuk.",
+    fontDown: "Smaller pesukim",
+    fontUp: "Larger pesukim",
+    hideOthers: "Hide summary & questions",
+    showOthers: "Show summary & questions",
+    textCredit: "Explanation: The Steinsaltz Tanakh (Koren). Rashi: translated by M. Rosenbaum and A.M. Silbermann. Via Sefaria",
   },
 };
 
@@ -308,15 +338,228 @@ function questionBox(q, i) {
   return details;
 }
 
-function briefBody(record, { summary = true, questions = true } = {}) {
+/* ---------- the aliyah's text: pesukim, Steinsaltz, Rashi (as on the Shnayim LaYom site) ---------- */
+
+const texts = new Map();  // "Genesis.12" -> fetch promise (scripts/fetch_text.py writes the files)
+
+function loadText(book, n) {
+  const path = `data/text/${book}.${n}.json`;
+  if (!texts.has(path)) {
+    texts.set(path, fetch(path)
+      .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch((error) => { texts.delete(path); throw error; }));
+  }
+  return texts.get(path);
+}
+
+/** "Genesis 15:7-17:6" -> [{book, chapter: 15, from: 7, to: null}, {.., 16, 1, null}, {.., 17, 1, 6}]
+    (to: null = to the end of the chapter) */
+function rangeChapters(ref) {
+  const m = ref.match(/^(.+?) (\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/);
+  if (!m) return [];
+  const book = m[1], c1 = Number(m[2]), v1 = Number(m[3]);
+  const c2 = m[4] ? Number(m[4]) : c1, v2 = m[5] ? Number(m[5]) : v1;
+  const parts = [];
+  for (let c = c1; c <= c2; c++) parts.push({ book, chapter: c, from: c === c1 ? v1 : 1, to: c === c2 ? v2 : null });
+  return parts;
+}
+
+/** Text whose only markup is <b>/<i> (fetch_text.py strips the rest), built as nodes. */
+function marked(html) {
+  const out = document.createDocumentFragment();
+  const open = { b: false, i: false };
+  for (const part of html.split(/(<\/?[bi]>)/)) {
+    const tag = part.match(/^<(\/?)([bi])>$/);
+    if (tag) { open[tag[2]] = !tag[1]; continue; }
+    if (!part) continue;
+    // fetch_text.py escapes only these three
+    const text = part.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
+    let n = document.createTextNode(text);
+    if (open.i) { const i = document.createElement("i"); i.appendChild(n); n = i; }
+    if (open.b) { const b = document.createElement("b"); b.appendChild(n); n = b; }
+    out.appendChild(n);
+  }
+  return out;
+}
+
+const pasukNumber = (n) => (state.lang === "hebrew" ? hebrewNumber(n) : String(n));
+
+/** One pasuk: click it to show or hide its Steinsaltz explanation underneath;
+    the Rashi button beside it (when Rashi comments on it) shows his words. */
+function pasukLine(chapter, i, lang) {
+  const line = node("div", "pline");
+  const button = node("button", "ptext");
+  button.type = "button";
+  button.setAttribute("aria-expanded", "false");
+  button.dir = "rtl";
+  button.lang = "he";
+  button.append(node("span", "pnum", pasukNumber(i + 1)), chapter.he[i]);
+  const note = chapter.steinsaltz[lang][i];
+  const explain = node("div", "explain");
+  explain.dir = lang === "hebrew" ? "rtl" : "ltr";
+  explain.lang = lang === "hebrew" ? "he" : "en";
+  if (note) explain.appendChild(marked(note));
+  else explain.textContent = t().noExplain;
+  explain.hidden = true;
+  button.onclick = () => {
+    explain.hidden = !explain.hidden;
+    button.setAttribute("aria-expanded", String(!explain.hidden));
+  };
+  const row = node("div", "prow");
+  row.appendChild(button);
+  line.appendChild(row);
+
+  const comments = (chapter.rashi && chapter.rashi[lang][i]) || [];
+  if (comments.length) {
+    const toggle = node("button", "rashibtn", t().rashi);
+    toggle.type = "button";
+    toggle.title = t().rashiOn(i + 1);
+    toggle.setAttribute("aria-expanded", "false");
+    const rashi = node("div", "rashi");
+    rashi.dir = lang === "hebrew" ? "rtl" : "ltr";
+    rashi.lang = lang === "hebrew" ? "he" : "en";
+    rashi.appendChild(node("div", "label", t().rashi));
+    comments.forEach((c) => { const p = node("p"); p.appendChild(marked(c)); rashi.appendChild(p); });
+    rashi.hidden = true;
+    toggle.onclick = () => {
+      rashi.hidden = !rashi.hidden;
+      toggle.setAttribute("aria-expanded", String(!rashi.hidden));
+    };
+    row.appendChild(toggle);
+    line.append(explain, rashi);
+  } else {
+    row.appendChild(node("span", "rashibtn none"));
+    line.appendChild(explain);
+  }
+  return line;
+}
+
+// size of the aliyah's text (A−/A+ in the text box): --fs in app.css; remembered on this device
+const FONT_KEY = "aliyah-font-scale";
+const FONT_STEPS = [1, 1.15, 1.3, 1.5, 1.75];
+let fontStep = 0;
+function setFontStep(step) {
+  fontStep = Math.max(0, Math.min(FONT_STEPS.length - 1, step));
+  document.documentElement.style.setProperty("--fs", String(FONT_STEPS[fontStep]));
+  document.querySelectorAll(".fontsize").forEach(fontButtonsState);
+}
+function fontButtonsState(group) {
+  group.querySelector(".down").disabled = fontStep === 0;
+  group.querySelector(".up").disabled = fontStep === FONT_STEPS.length - 1;
+}
+function fontButtons() {
+  const group = node("span", "fontsize");
+  group.dir = "ltr";
+  const down = node("button", "down", "A−"), up = node("button", "up", "A+");
+  [[down, t().fontDown, -1], [up, t().fontUp, 1]].forEach(([b, label, delta]) => {
+    b.type = "button";
+    b.title = label;
+    b.setAttribute("aria-label", label);
+    b.onclick = () => {
+      setFontStep(fontStep + delta);
+      try { localStorage.setItem(FONT_KEY, String(fontStep)); } catch (err) { /* private mode */ }
+    };
+  });
+  group.append(down, up);
+  fontButtonsState(group);
+  return group;
+}
+try { setFontStep(Number(localStorage.getItem(FONT_KEY)) || 0); } catch (err) { setFontStep(0); }
+
+// with the text open beside the other boxes, those boxes can fold into a strip
+const OTHERS_FOLDED_KEY = "aliyah-others-folded";
+try { document.body.classList.toggle("others-folded", localStorage.getItem(OTHERS_FOLDED_KEY) === "1"); } catch (err) { /* private mode */ }
+function othersLabels(buttons = document.querySelectorAll(".sidetoggle")) {
+  const folded = document.body.classList.contains("others-folded");
+  const label = folded ? t().showOthers : t().hideOthers;
+  buttons.forEach((b) => {
+    b.title = label;
+    b.setAttribute("aria-expanded", folded ? "false" : "true");
+    b.querySelector(".text").textContent = label;
+  });
+}
+function sideToggle() {
+  const button = node("button", "sidetoggle");
+  button.type = "button";
+  button.append(node("span", "text"), node("span", "arrow", "❯"));
+  button.querySelector(".arrow").setAttribute("aria-hidden", "true");
+  button.onclick = () => {
+    const folded = !document.body.classList.contains("others-folded");
+    document.body.classList.toggle("others-folded", folded);
+    try { localStorage.setItem(OTHERS_FOLDED_KEY, folded ? "1" : "0"); } catch (err) { /* private mode */ }
+    othersLabels();
+  };
+  othersLabels([button]);
+  return button;
+}
+
+// the top bar's height, for what sticks just under it (it wraps on phones)
+if (window.ResizeObserver) {
+  const topbar = document.querySelector(".topbar");
+  new ResizeObserver(() => document.documentElement.style.setProperty("--topbar-h", `${topbar.offsetHeight}px`)).observe(topbar);
+}
+
+/** The aliyah, pasuk by pasuk. Starts closed; on tablets and computers,
+    opening it puts it beside the other boxes (app.css). */
+function textBox(range) {
+  const { details, body } = box(t().textTitle, null, false);
+  details.dataset.pdf = t().pdfText;
+  details.classList.add("textbox");
+  const bar = node("div", "toolbar");
+  // one button each for all the explanations and all of Rashi: shows them all, or hides them if all are showing
+  const toggleAll = (cls, panel, toggleCls, showLabel, hideLabel) => {
+    const b = node("button", cls, showLabel);
+    b.type = "button";
+    b.onclick = () => {
+      const lines = [...body.querySelectorAll(".pline")].filter((l) => l.querySelector(panel));
+      const show = lines.some((l) => l.querySelector(panel).hidden);
+      lines.forEach((l) => {
+        l.querySelector(panel).hidden = !show;
+        l.querySelector(toggleCls).setAttribute("aria-expanded", String(show));
+      });
+      b.textContent = show ? hideLabel : showLabel;
+    };
+    return b;
+  };
+  bar.append(toggleAll("allexplain", ".explain", ".ptext", t().showAllExplain, t().hideAllExplain),
+    toggleAll("allrashi", ".rashi", ".rashibtn", t().showAllRashi, t().hideAllRashi), fontButtons());
+  body.appendChild(bar);
+  // the toolbar sticks just under the title, whose height depends on the width (app.css)
+  if (window.ResizeObserver) {
+    const title = details.querySelector("summary");
+    new ResizeObserver(() => details.style.setProperty("--summary-h", `${title.offsetHeight}px`)).observe(title);
+  }
+
+  const lang = state.lang;
+  const parts = rangeChapters(range);
+  for (const part of parts) {
+    const section = node("section", "chaptertext");
+    if (parts.length > 1) section.appendChild(pdfHead(node("h4", "chapterHead", t().chapter(part.chapter))));
+    const slot = node("div", "empty", t().loading);
+    section.appendChild(slot);
+    body.appendChild(section);
+    loadText(part.book, part.chapter).then((chapter) => {
+      const lines = node("div", "pesukim");
+      const last = Math.min(part.to || chapter.he.length, chapter.he.length);
+      for (let i = part.from - 1; i < last; i++) lines.appendChild(pasukLine(chapter, i, lang));
+      slot.replaceWith(lines);
+    }).catch(() => { slot.textContent = t().loadFailed; });
+  }
+  body.appendChild(node("p", "credit", t().textCredit));
+  return details;
+}
+
+function briefBody(record, { summary = true, questions = true, text = null } = {}) {
   const brief = record[state.lang] || record.english || record.hebrew;
   const wrap = node("div", "brief");
+  if (text) wrap.appendChild(sideToggle());
   if (summary && brief.summary) {
     const sum = box(t().summaryTitle, null, true);
     sum.details.dataset.pdf = t().summaryTitle;
     sum.body.appendChild(node("p", "sumPara", brief.summary));
     wrap.appendChild(sum.details);
   }
+  if (text) wrap.appendChild(textBox(text));
   if (!questions) return wrap;
 
   const list = brief.questions || [];
@@ -372,7 +615,7 @@ function renderBrief(reading) {
     meta.append(` · ${t().published} ${hebrewDate || ""} (${record.date})`);
     card.insertBefore(meta, card.querySelector("[data-pdf-tools]"));
     if (record.note && state.lang === "english") card.insertBefore(node("p", "note", record.note), slot);
-    slot.replaceWith(briefBody(record));
+    slot.replaceWith(briefBody(record, { text: record.range }));
   }).catch(() => { slot.textContent = t().loadFailed; });
 }
 
