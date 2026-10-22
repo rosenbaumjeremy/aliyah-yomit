@@ -68,6 +68,8 @@ const UI = {
     hideOthers: "הסתר סיכום ושאלות",
     showOthers: "הצג סיכום ושאלות",
     textCredit: "ביאור: תנ״ך קורן שטיינזלץ המבואר. רש״י: מהדורת רוזנבוים וזילברמן. מתוך ספריא",
+    prevAliyah: (name) => `→ העלייה הקודמת: ${name}`,
+    nextAliyah: (name) => `העלייה הבאה: ${name} ←`,
     fullScreen: "מסך מלא",
     exitFullScreen: "יציאה ממסך מלא",
   },
@@ -134,6 +136,8 @@ const UI = {
     hideOthers: "Hide summary & questions",
     showOthers: "Show summary & questions",
     textCredit: "Explanation: The Steinsaltz Tanakh (Koren). Rashi: translated by M. Rosenbaum and A.M. Silbermann. Via Sefaria",
+    prevAliyah: (name) => `← Previous aliyah: ${name}`,
+    nextAliyah: (name) => `Next aliyah: ${name} →`,
     fullScreen: "Full screen",
     exitFullScreen: "Exit full screen",
   },
@@ -503,10 +507,55 @@ if (window.ResizeObserver) {
   new ResizeObserver(() => document.documentElement.style.setProperty("--topbar-h", `${topbar.offsetHeight}px`)).observe(topbar);
 }
 
-/** The aliyah, pasuk by pasuk. Starts closed; on tablets and computers,
-    opening it puts it beside the other boxes (app.css). */
-function textBox(range) {
-  const { details, body } = box(t().textTitle, null, false);
+/* ---------- moving on from the text to the aliyah before or after ---------- */
+
+let textStaysOpen = false;  // set by the buttons below: the next aliyah's text opens where the reader was
+
+/** The published aliyot just before and after this day, in reading order (the order they were
+    filed, which runs across parashiyot); null where there is none yet. */
+function neighbours(day) {
+  const i = state.days.indexOf(day);
+  return { prev: i > 0 ? state.days[i - 1] : null, next: i >= 0 && i < state.days.length - 1 ? state.days[i + 1] : null };
+}
+
+const readingKey = (day) => day.reading.slugs.join("+");
+
+/** How a neighbouring aliyah is named on its button: within the same reading just the aliyah,
+    across to another parasha with its name too. */
+function neighbourName(day, from) {
+  const aliyah = t().aliyot[day.aliyah - 1];
+  return readingKey(day) === readingKey(from) ? aliyah : `${readingName(day.reading)} — ${aliyah}`;
+}
+
+function openNeighbour(day) {
+  textStaysOpen = true;
+  go(day.reading.slugs[0], readingKey(day), day.aliyah);
+}
+
+/** The buttons at the top (back only) and the end (back and on) of the pesukim. */
+function aliyahNav(day, { next = true } = {}) {
+  const bar = node("div", "aliyahnav");
+  const { prev, next: after } = neighbours(day);
+  const add = (target, label, cls) => {
+    const b = node("button", cls, label);
+    b.type = "button";
+    b.onclick = () => openNeighbour(target);
+    bar.appendChild(b);
+  };
+  if (prev) add(prev, t().prevAliyah(neighbourName(prev, day)), "prev");
+  if (next && after) add(after, t().nextAliyah(neighbourName(after, day)), "next");
+  return bar.children.length ? bar : null;
+}
+
+/** The aliyah, pasuk by pasuk. Starts closed (unless the reader came from the aliyah before or
+    after); on tablets and computers, opening it puts it beside the other boxes (app.css). */
+function textBox(range, day = null) {
+  const { details, body } = box(t().textTitle, null, textStaysOpen);
+  if (textStaysOpen) {
+    // once it is on the page, bring the new aliyah's card into view
+    requestAnimationFrame(() => { const card = details.closest(".briefcard"); if (card) card.scrollIntoView(); });
+  }
+  textStaysOpen = false;
   details.dataset.pdf = t().pdfText;
   details.classList.add("textbox");
   const bar = node("div", "toolbar");
@@ -536,6 +585,8 @@ function textBox(range) {
 
   const lang = state.lang;
   const parts = rangeChapters(range);
+  const before = day && aliyahNav(day, { next: false });
+  if (before) body.appendChild(before);
   for (const part of parts) {
     const section = node("section", "chaptertext");
     if (parts.length > 1) section.appendChild(pdfHead(node("h4", "chapterHead", t().chapter(part.chapter))));
@@ -549,11 +600,13 @@ function textBox(range) {
       slot.replaceWith(lines);
     }).catch(() => { slot.textContent = t().loadFailed; });
   }
+  const after = day && aliyahNav(day);
+  if (after) body.appendChild(after);
   body.appendChild(node("p", "credit", t().textCredit));
   return details;
 }
 
-function briefBody(record, { summary = true, questions = true, text = null } = {}) {
+function briefBody(record, { summary = true, questions = true, text = null, day = null } = {}) {
   const brief = record[state.lang] || record.english || record.hebrew;
   const wrap = node("div", "brief");
   if (text) wrap.appendChild(sideToggle());
@@ -563,7 +616,7 @@ function briefBody(record, { summary = true, questions = true, text = null } = {
     sum.body.appendChild(node("p", "sumPara", brief.summary));
     wrap.appendChild(sum.details);
   }
-  if (text) wrap.appendChild(textBox(text));
+  if (text) wrap.appendChild(textBox(text, day));
   if (!questions) return wrap;
 
   const list = brief.questions || [];
@@ -676,7 +729,7 @@ function renderBrief(reading) {
     meta.append(` · ${t().published} ${hebrewDate || ""} (${record.date})`);
     card.insertBefore(meta, card.querySelector("[data-pdf-tools]"));
     if (record.note && state.lang === "english") card.insertBefore(node("p", "note", record.note), slot);
-    slot.replaceWith(briefBody(record, { text: record.range }));
+    slot.replaceWith(briefBody(record, { text: record.range, day }));
   }).catch(() => { slot.textContent = t().loadFailed; });
 }
 
