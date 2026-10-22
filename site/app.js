@@ -188,7 +188,7 @@ function hebrewNumber(n) {
 
 /** "Genesis 2:20-3:21" -> "Genesis 2:20–3:21" or "בראשית ב, כ – ג, כא" */
 function rangeLabel(ref) {
-  const m = ref.match(/^(.+?) (\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/);
+  const m = ref.replace(/–/g, "-").match(/^(.+?) (\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/);
   if (!m) return ref;
   const [, book, c1, v1, c2, v2] = m;
   if (state.lang === "english") {
@@ -363,7 +363,7 @@ function loadText(book, n) {
 /** "Genesis 15:7-17:6" -> [{book, chapter: 15, from: 7, to: null}, {.., 16, 1, null}, {.., 17, 1, 6}]
     (to: null = to the end of the chapter) */
 function rangeChapters(ref) {
-  const m = ref.match(/^(.+?) (\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/);
+  const m = ref.replace(/–/g, "-").match(/^(.+?) (\d+):(\d+)(?:-(?:(\d+):)?(\d+))?$/);
   if (!m) return [];
   const book = m[1], c1 = Number(m[2]), v1 = Number(m[3]);
   const c2 = m[4] ? Number(m[4]) : c1, v2 = m[5] ? Number(m[5]) : v1;
@@ -511,14 +511,28 @@ if (window.ResizeObserver) {
 
 let textStaysOpen = false;  // set by the buttons below: the next aliyah's text opens where the reader was
 
-/** The published aliyot just before and after this day, in reading order (the order they were
-    filed, which runs across parashiyot); null where there is none yet. */
-function neighbours(day) {
-  const i = state.days.indexOf(day);
-  return { prev: i > 0 ? state.days[i - 1] : null, next: i >= 0 && i < state.days.length - 1 ? state.days[i + 1] : null };
+const readingKey = (day) => day.reading.slugs.join("+");
+
+/** Every aliyah of the Torah in order, Bereshit Rishon to V'Zot HaBerachah Shevi'i, shaped like
+    a day of the index ({reading, aliyah, range}). */
+let torahOrder = null;
+function aliyahOrder() {
+  if (!torahOrder) {
+    torahOrder = [];
+    for (const book of state.books)
+      for (const p of book.parashot)
+        p.aliyot.forEach((range, i) => torahOrder.push({ reading: { en: p.en, he: p.he, slugs: [p.slug] }, aliyah: i + 1, range }));
+  }
+  return torahOrder;
 }
 
-const readingKey = (day) => day.reading.slugs.join("+");
+/** The aliyot just before and after this one; null at either end. A parasha's own aliyot follow
+    the Torah's order; a joined reading (Vayakhel-Pekudei etc.) the order its days were filed. */
+function neighbours(day) {
+  const list = day.reading.slugs.length === 1 ? aliyahOrder() : state.days;
+  const i = list.findIndex((d) => readingKey(d) === readingKey(day) && d.aliyah === day.aliyah);
+  return { prev: i > 0 ? list[i - 1] : null, next: i >= 0 && i < list.length - 1 ? list[i + 1] : null };
+}
 
 /** How a neighbouring aliyah is named on its button: within the same reading just the aliyah,
     across to another parasha with its name too. */
@@ -709,9 +723,20 @@ function renderBrief(reading) {
   card.appendChild(pdfTools());
   host.appendChild(card);
 
-  if (!day) { card.appendChild(node("p", "empty", t().notYet)); return; }
+  if (!range && !day) { card.appendChild(node("p", "empty", t().notYet)); return; }
   head.appendChild(fullButton());
   fullButtonsState();
+
+  // where this aliyah stands in the reading order, for the buttons to the one before and after
+  const parasha = findParasha(state.parasha);
+  const here = day || { reading: { en: parasha.en, he: parasha.he, slugs: [parasha.slug] }, aliyah: state.aliyah, range };
+  if (!day) {
+    // not published yet: the text is already here, the summary and questions come on its day
+    const wrap = node("div", "brief");
+    wrap.append(sideToggle(), node("p", "empty notyet", t().notYet), textBox(range, here));
+    card.appendChild(wrap);
+    return;
+  }
 
   const slot = node("div", "empty", t().loading);
   card.appendChild(slot);
@@ -729,7 +754,7 @@ function renderBrief(reading) {
     meta.append(` · ${t().published} ${hebrewDate || ""} (${record.date})`);
     card.insertBefore(meta, card.querySelector("[data-pdf-tools]"));
     if (record.note && state.lang === "english") card.insertBefore(node("p", "note", record.note), slot);
-    slot.replaceWith(briefBody(record, { text: record.range, day }));
+    slot.replaceWith(briefBody(record, { text: record.range, day: here }));
   }).catch(() => { slot.textContent = t().loadFailed; });
 }
 

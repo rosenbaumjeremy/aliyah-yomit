@@ -262,6 +262,9 @@ details.qitem p { margin: 0 0 6px; }
 .explain[hidden], .rashi[hidden] { display: none; }
 .brief .credit { font-size: 12px; margin: 12px 0 0; }
 
+/* an aliyah not published yet: its text, and this note where the summary and questions will be */
+.brief > .notyet { margin: 0 0 12px; padding: 10px 14px; border: 1px dashed var(--line); border-radius: var(--radius); }
+
 /* back to the aliyah before, on to the one after: at the top and the end of the pesukim */
 .aliyahnav { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 10px; }
 .chaptertext + .aliyahnav { margin: 16px 0 0; padding-top: 12px; border-top: 1px solid var(--line); }
