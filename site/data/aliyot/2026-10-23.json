@@ -1,0 +1,1270 @@
+{
+ "date": "2026-10-23",
+ "reading": {
+  "en": "Lech-Lecha",
+  "he": "לך לך",
+  "ref": "Genesis 12:1-17:27",
+  "slugs": [
+   "lech-lecha"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 17:7-17:27",
+ "maftir": "Genesis 17:24-17:27",
+ "hebrew_date": {
+  "hebrew": "י״ב בְּחֶשְׁוָן תשפ״ז",
+  "english": "12 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "In the seventh aliyah of Lech-Lecha (Genesis 17:7-27, with the maftir from verse 24), God finishes the covenant with Abraham: it is everlasting, it includes the land of Canaan, and Abraham and his offspring must keep it by circumcising every male at eight days, including slaves born in the house or bought. Sarai becomes Sarah and is promised a son; Abraham falls on his face, laughs, and asks that Ishmael live before God. God answers that Sarah will bear Isaac, with whom the covenant will be kept, while Ishmael is blessed to become a great nation. Abraham then circumcises himself, Ishmael and all the males of his household on that very day.",
+  "questions": [
+   {
+    "title": "Why does God say \"And you, keep My covenant\" right after promising His own?",
+    "pasuk": {
+     "text": "ואתה את בריתי תשמר",
+     "ref": "Genesis 17:9",
+     "label": "Genesis 17:9"
+    },
+    "question": "Verse 7 already gave God's side of the covenant, and verse 9 opens again with a new \"and you\" and then repeats \"you and your offspring.\" What does the extra address add?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 17:9:1",
+      "era": "acharon",
+      "quote": "מהו ואתה ומהו שחזר ואמר אתה וזרעך"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 17:9:1",
+      "era": "acharon",
+      "quote": "אומרו אתה פעם ב' הוא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the \"vav\" adds a second matter — God has bound Himself to Abraham, and now Abraham must be careful to keep it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:9:1",
+        "quote": "מוסיף על ענין ראשון אני הנה בריתי אתך ואתה הוי זהיר לשמרו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: God's covenant stands only if Abraham keeps his part.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 17:9:1",
+        "quote": "אתה שמור בריתי שאם לא כן לא יקום הברית"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the main command was for his descendants, who need the outer circumcision to reach inner purity of heart, while Abraham, whose heart was already pure, keeps it too so that they will follow him.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 17:9:1",
+        "quote": "שעיקר הצווי היה בעבור זרעו"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: Abraham's circumcision counts for all who follow him, as if he were circumcised along with each of them.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 17:9:1",
+        "quote": "כל מי שימול אחריך כאלו אתה נמול עמו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the covenant is two-sided: God's promise depends on the keeping of it."
+   },
+   {
+    "title": "On which part of the body is the circumcision done, if the verse never says?",
+    "pasuk": {
+     "text": "וערל זכר אשר לא ימול את בשר ערלתו",
+     "ref": "Genesis 17:14",
+     "label": "Genesis 17:14"
+    },
+    "question": "The Torah says \"the flesh of your foreskin\" without naming the organ. How did Abraham know where to circumcise, and why is the verse phrased this way?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 46:5",
+      "era": "chazal",
+      "quote": "מהיכן ימול אם ימול מן האזן אינו כשר להקריב"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:9",
+      "era": "acharon",
+      "quote": "וכבר חקרו החכמים איך ידע אברהם מאיזה מקום נמול"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the verse teaches that circumcision is at the very place that distinguishes male from female.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:14:1",
+        "quote": "כאן למד שהמילה באותו מקום שהוא ניכר בין זכר לנקבה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: otherwise \"every male\" in verse 10 would already have been enough, so \"an uncircumcised male\" must teach the place.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 17:14:1",
+        "quote": "אלא למד שהמילה במקום שמבדיל בין זכר לנקיבה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the verse says \"flesh of your foreskin\" so the matter would not be left in doubt; only the flesh that covers the corona fits.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:14:1",
+        "quote": "כי לא אמר ונמלתם את ערלתכם שיהיה הדבר בספק"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Yishmael (Bereshit Rabbah): Abraham was a high priest, so the circumcision could not be in the ear, mouth or heart, which would disqualify him from offering — it must be the body.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 46:5",
+        "quote": "הוי אומר זו ערלת הגוף"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the command is exact and physical, not only a symbol."
+   },
+   {
+    "title": "Why is Sarai's name changed, and what is different from Abraham's change?",
+    "pasuk": {
+     "text": "לא תקרא את שמה שרי כי שרה שמה",
+     "ref": "Genesis 17:15",
+     "label": "Genesis 17:15"
+    },
+    "question": "Why does the Torah say \"her name shall be Sarah\" as if it already were, and why is a letter removed from her name when Abraham's was only added to?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "ומאין היה שמה שרה אם לא שיקראנה עתה ככה"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 17:15:1-2",
+      "era": "acharon",
+      "quote": "למה לא אמר שרי אשתך לא תקרא שמה שרי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"Sarai\" meant \"mine\" and not others'; plain \"Sarah\" makes her a princess over all.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:15:1",
+        "quote": "שרי לי ולא לאחרים כי שרה סתם שמה שתהא שרה על כל"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: \"Sarai\" meant a princess for her own nation only, \"Sarah\" for the whole world.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 17:15:1",
+        "quote": "לפי ששרי משמע לאומתה לבד אבל לא תקרא את שמה אלא שרה משמע לכל העולם כולו"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: now that Abraham is the father of many nations, she is Sarah, a general rule rather than one personal to him.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 17:15:1-2",
+        "quote": "עתה שאתה נעשית אב המון גוים כן היא שרה שמה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: this too is a correction of her name, which is why she is no longer called Sarai.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 17:15:1",
+        "quote": "גם זה תיקון השם"
+       }
+      ]
+     }
+    ],
+    "why": "The name change prepares for her new role as mother of the line."
+   },
+   {
+    "title": "Why does God say \"I will bless her\" twice?",
+    "pasuk": {
+     "text": "וברכתי אותה וגם נתתי ממנה לך בן וברכתיה",
+     "ref": "Genesis 17:16",
+     "label": "Genesis 17:16"
+    },
+    "question": "The verse says \"I will bless her\" and then \"I will bless her\" again, and also \"indeed, I have given you a son.\" What does each blessing add?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "וברכתיה אחרי שכבר אמר וברכתי אותה שהוא כפל"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 17:15:1-2",
+      "era": "acharon",
+      "quote": "בכפל וברכתי וברכתיה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 17:16:1",
+      "era": "acharon",
+      "quote": "דאם לא כן וברכתיה למה לי הרי כבר נאמר וברכתי אותה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the first blessing is that she returned to youth; the second is nursing at Isaac's feast.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:16:1",
+        "quote": "ומה היא הברכה שחזרה לנעורתה"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:16:2",
+        "quote": "בהנקת שדים כשנצרכה לכך ביום משתה של יצחק"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the blessing is the reverse of Eve's curse — pregnancy, birth and raising the child without pain.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 17:16:1",
+        "quote": "הפך קללת חוה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the main blessing is being blessed from the very source of blessing; nursing was only where it showed.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 17:16:1",
+        "quote": "אבל עיקר הברכה להתברך מן מקור הברכה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that Sarah is blessed in her own right, not only as Abraham's wife."
+   },
+   {
+    "title": "Why did Abraham laugh at the news — was it doubt or joy?",
+    "pasuk": {
+     "text": "ויפל אברהם על פניו ויצחק",
+     "ref": "Genesis 17:17",
+     "label": "Genesis 17:17"
+    },
+    "question": "Abraham fell on his face and laughed. If it was disbelief it is hard to understand from a prophet, and if it was joy, why then did he ask \"can a child be born?\"",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "איך ספק אברהם ביעוד האלהי ויצחק כמלעיג ממנו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 17:17:1-2",
+      "era": "acharon",
+      "quote": "אם הוא לשון שחוק היתכן ישחק למאמרו ית'"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Abraham believed and rejoiced, Sarah did not believe and mocked — which is why only she was reproved.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:17:1",
+        "quote": "למדת שאברהם האמין ושמח ושרה לא האמינה ולגלגה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: laughter can be joy; Abraham filled his mouth with laughter at such a wonder.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:17:1",
+        "quote": "שמח ומלא שחוק פיו"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: his falling and bowing prove he believed.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 17:17:1",
+        "quote": "נפילתו והשתחווייתו מוכיחים שהאמין"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Abraham could not have doubted God's ability, heaven forbid.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 17:19:1",
+        "quote": "וכי היה אברהם מספק ביכולת האל חלילה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the first laughter of Isaac's name was faith or mockery."
+   },
+   {
+    "title": "Why is a hundred-year-old fathering a child such a wonder, when he fathered more later?",
+    "pasuk": {
+     "text": "הלבן מאה שנה יולד ואם שרה הבת תשעים שנה תלד",
+     "ref": "Genesis 17:17",
+     "label": "Genesis 17:17"
+    },
+    "question": "Abraham later had many sons with Keturah, so what is wondrous about a man of a hundred begetting a child?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "לא היה פלא שיוליד מבן מאה שנה שעדין לא הגיע לשני שלישי ימיו"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 17:17:2",
+      "era": "rishon",
+      "quote": "אין הפלא בבן מאה שנה שיוליד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the wonder is that he, who had not fathered in his youth with this woman, would do so after her menstrual way had ceased.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:17:2",
+        "quote": "שלא הוליד בבחרותו מן האשה הזאת יוליד ממנה עתה"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: in Abraham's days years had already shortened and strength declined.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:17:3",
+        "quote": "בימי אברהם נתמעטו השנים כבר ובא תשות כח לעולם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: a woman may conceive after youth, but only with a young man, not an old one.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 17:17:1",
+        "quote": "זה יקרה לה במשכב אדם בחור אבל לא במשכב אדם זקן"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: three wonders — his age, her barrenness, and her age of ninety.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 17:17:1",
+        "quote": "הלא יש בזה שלש פליאות"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes what exactly the miracle was."
+   },
+   {
+    "title": "Why does Abraham ask \"O that Ishmael might live before You\"?",
+    "pasuk": {
+     "text": "לו ישמעאל יחיה לפניך",
+     "ref": "Genesis 17:18",
+     "label": "Genesis 17:18"
+    },
+    "question": "Why would Ishmael not live, and what does \"before You\" add to the request?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 17:17:1-2",
+      "era": "acharon",
+      "quote": "מה הם החיים אשר שאל ממנו"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 17:15:1-2",
+      "era": "acharon",
+      "quote": "ולמה אמר לו ישמעאל יחיה ומהו מלת לפניך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"I am not worthy of such a reward\"; may Ishmael live in Your fear.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:18:1",
+        "quote": "הלואי שיחיה ישמעאל איני כדאי לקבל מתן שכר כזה"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:18:2",
+        "quote": "יחיה ביראתך כמו התהלך לפני"
+       }
+      ]
+     },
+     {
+      "text": "Ramban argues: not so, since God answered \"I have heeded you\"; it means that his offspring survive forever.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:18:1",
+        "quote": "ואיננו נכון בעבור שאמר ולישמעאל שמעתיך"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:18:1",
+        "quote": "יחיה ויתקיים זרעו כל ימי עולם"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he prayed that Ishmael walk righteously before God, since the righteous are called living.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 17:18:1",
+        "quote": "שיהיה ישמעאל הולך בצדק לפני ה"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: a miracle is not done in vain, so Abraham thought Ishmael must die or become wicked.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 17:18:1",
+        "quote": "שישמעאל עתיד למות או שיהיה רשע"
+       }
+      ]
+     }
+    ],
+    "why": "It shows Abraham's care for Ishmael even as the covenant passes to Isaac."
+   },
+   {
+    "title": "What does God's \"avaL\" (\"nevertheless\") answer?",
+    "pasuk": {
+     "text": "אבל שרה אשתך יולדת לך בן",
+     "ref": "Genesis 17:19",
+     "label": "Genesis 17:19"
+    },
+    "question": "God begins His reply with \"avaL,\" a word that implies a contrast. What is He contrasting, since God already said Sarah would bear a son?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 17:19:1",
+      "era": "acharon",
+      "quote": "צריך לדעת טעם אמרו אבל כי אין לה משמעות"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 17:17:1-2",
+      "era": "acharon",
+      "quote": "מה בא לשלול במלת אבל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"avaL\" means the truth of the words — truly.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:19:1",
+        "quote": "לשון אמתת דברים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it means \"only\" — only the son I am announcing will carry the covenant.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:19:1",
+        "quote": "כטעם רק אמר רק הבן אשר אני מבשרך עליו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Abraham could settle for Ishmael for himself, but Sarah is to bear a son, so he may not give up what is hers.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 17:19:2",
+        "quote": "אם הנתינה היא בשבילך לבד יש לך פה לומר שאתה מסתפק בישמעאל"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Abraham took \"son\" to mean an adopted child, so God answered that Sarah will truly give birth.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 17:19:1",
+        "quote": "שתביא אסופי מן השוק ותגדלנו על ברכה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why Ishmael, though blessed, does not carry the covenant."
+   },
+   {
+    "title": "Why does the Torah stress that they were circumcised \"on that very day\"?",
+    "pasuk": {
+     "text": "בעצם היום הזה נמול אברהם וישמעאל בנו",
+     "ref": "Genesis 17:26",
+     "label": "Genesis 17:26"
+    },
+    "question": "The Torah already said Abraham circumcised them that day. Why repeat \"on that very day,\" and why list their ages?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 17:26:1",
+      "era": "rishon",
+      "quote": "ומה טעם להזכיר זה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 17:26:1",
+      "era": "acharon",
+      "quote": "קשה למה ימחו בו ליצני הדור"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he did it by day and not by night, fearing neither the nations nor the scoffers.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 17:23:1",
+        "quote": "לא נתירא לא מן הגוים ולא מן הלצנים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the verse tells of Abraham's fear of God and that all his household hurried to the mitzvot.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 17:26:1",
+        "quote": "סיפר הכתוב מעלתו ביראת ה' ומעלת כל בני ביתו שכלם זריזים מקדימין למצות"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: \"on that very day\" hints at Yom Kippur, as the same phrase is said of it.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 17:26:1",
+        "quote": "בעשרה לחדש ביום הכפורים הזה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: \"on that very day\" means he did not delay.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 17:23:1",
+        "quote": "בעצם היום הזה שלא אחר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the zeal of Abraham's response to the command."
+   }
+  ],
+  "sources_consulted": [
+   "Kli Yakar",
+   "Alshich",
+   "Rashi",
+   "Sforno",
+   "Bereshit Rabbah",
+   "Abarbanel",
+   "Gur Aryeh",
+   "Ramban",
+   "Malbim",
+   "Midrash Aggadah",
+   "Bekhor Shor",
+   "Or HaChaim"
+  ]
+ },
+ "hebrew": {
+  "summary": "בעלייה השביעית של פרשת לך לך (בראשית יז, ז–כז, והמפטיר מפסוק כד) משלים הקב\"ה את הברית עם אברהם: ברית עולם, הכוללת את ארץ כנען, שעליה לשמור אברהם וזרעו במילת כל זכר בן שמונה ימים, ובכלל זה עבדים יליד בית ומקנת כסף. שרי נעשית שרה ומובטח לה בן; אברהם נופל על פניו, צוחק, ומבקש שישמעאל יחיה לפני ה'. הקב\"ה משיב ששרה תלד את יצחק ואתו יקים את בריתו, וישמעאל יתברך להיות גוי גדול. אברהם מל את עצמו, את ישמעאל ואת כל זכרי ביתו בעצם היום הזה.",
+  "questions": [
+   {
+    "title": "מדוע נאמר \"ואתה את בריתי תשמר\" מיד אחרי שהקב\"ה הבטיח את בריתו שלו?",
+    "pasuk": {
+     "text": "ואתה את בריתי תשמר",
+     "ref": "Genesis 17:9",
+     "label": "בראשית יז, ט"
+    },
+    "question": "בפסוק ז כבר נאמר חלקו של הקב\"ה בברית, ופסוק ט פותח שוב ב\"ואתה\" וחוזר ואומר \"אתה וזרעך\". מה מוסיפה הפנייה הנוספת?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 17:9:1",
+      "era": "acharon",
+      "quote": "מהו ואתה ומהו שחזר ואמר אתה וזרעך"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 17:9:1",
+      "era": "acharon",
+      "quote": "אומרו אתה פעם ב' הוא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ה\"ו\" מוסיפה ענין נוסף — הקב\"ה כבר התחייב לאברהם, ועתה על אברהם להיזהר לשמור את הברית.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:9:1",
+        "quote": "מוסיף על ענין ראשון אני הנה בריתי אתך ואתה הוי זהיר לשמרו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: ברית ה' מתקיימת רק אם אברהם שומר את חלקו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 17:9:1",
+        "quote": "אתה שמור בריתי שאם לא כן לא יקום הברית"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: עיקר הציווי היה בעבור זרעו, שצריכים למילה החיצונית כדי להגיע למילת הלב, ואברהם, שלבו כבר טהור, שומר גם הוא כדי שהם יראו ממנו ויעשו כמותו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 17:9:1",
+        "quote": "שעיקר הצווי היה בעבור זרעו"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: מילת אברהם נחשבת לכל הנמולים אחריו, כאילו נמול עמהם.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 17:9:1",
+        "quote": "כל מי שימול אחריך כאלו אתה נמול עמו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהברית דו־צדדית: הבטחת ה' תלויה בקיומה."
+   },
+   {
+    "title": "באיזה אבר נעשית המילה, אם הפסוק אינו אומר?",
+    "pasuk": {
+     "text": "וערל זכר אשר לא ימול את בשר ערלתו",
+     "ref": "Genesis 17:14",
+     "label": "בראשית יז, יד"
+    },
+    "question": "התורה אומרת \"בשר ערלתכם\" בלי לנקוב באבר. מנין ידע אברהם היכן למול, ולמה נוסח הפסוק כך?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 46:5",
+      "era": "chazal",
+      "quote": "מהיכן ימול אם ימול מן האזן אינו כשר להקריב"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:9",
+      "era": "acharon",
+      "quote": "וכבר חקרו החכמים איך ידע אברהם מאיזה מקום נמול"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הפסוק מלמד שהמילה היא במקום שניכר בו הזכר מהנקבה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:14:1",
+        "quote": "כאן למד שהמילה באותו מקום שהוא ניכר בין זכר לנקבה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: אילולא כן, כבר נאמר \"כל זכר\" בפסוק י, ולכן \"וערל זכר\" בא ללמד את המקום.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 17:14:1",
+        "quote": "אלא למד שהמילה במקום שמבדיל בין זכר לנקיבה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הכתוב אומר \"בשר ערלתכם\" כדי שלא יהיה הדבר בספק; ואין אלא הבשר החופה את העטרה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:14:1",
+        "quote": "כי לא אמר ונמלתם את ערלתכם שיהיה הדבר בספק"
+       }
+      ]
+     },
+     {
+      "text": "רבי ישמעאל (בראשית רבה): אברהם היה כהן גדול, ולכן המילה לא יכלה להיות באוזן, בפה או בלב, שהיו פוסלים אותו מלהקריב — אלא בגוף.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 46:5",
+        "quote": "הוי אומר זו ערלת הגוף"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהציווי מדויק וגופני, ולא רק סמל."
+   },
+   {
+    "title": "מדוע משתנה שמה של שרי, ובמה שונה השינוי משינוי שמו של אברהם?",
+    "pasuk": {
+     "text": "לא תקרא את שמה שרי כי שרה שמה",
+     "ref": "Genesis 17:15",
+     "label": "בראשית יז, טו"
+    },
+    "question": "מדוע נאמר \"כי שרה שמה\" כאילו כבר כך שמה, ולמה נגרעת אות משמה כשאצל אברהם רק נוספה אות?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "ומאין היה שמה שרה אם לא שיקראנה עתה ככה"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 17:15:1-2",
+      "era": "acharon",
+      "quote": "למה לא אמר שרי אשתך לא תקרא שמה שרי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"שרי\" משמעו שלי ולא של אחרים; \"שרה\" סתם — שרה על הכל.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:15:1",
+        "quote": "שרי לי ולא לאחרים כי שרה סתם שמה שתהא שרה על כל"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: \"שרי\" משמע לאומתה בלבד, \"שרה\" לכל העולם.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 17:15:1",
+        "quote": "לפי ששרי משמע לאומתה לבד אבל לא תקרא את שמה אלא שרה משמע לכל העולם כולו"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: עתה שאברהם נעשה אב המון גוים, היא שרה — שררה כללית ולא פרטית.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 17:15:1-2",
+        "quote": "עתה שאתה נעשית אב המון גוים כן היא שרה שמה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: גם זה תיקון השם, ולכן אינה נקראת עוד שרי.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 17:15:1",
+        "quote": "גם זה תיקון השם"
+       }
+      ]
+     }
+    ],
+    "why": "שינוי השם מכין את תפקידה החדש כאם הדורות."
+   },
+   {
+    "title": "מדוע נאמר \"וברכתי אותה\" ואחר כך \"וברכתיה\"?",
+    "pasuk": {
+     "text": "וברכתי אותה וגם נתתי ממנה לך בן וברכתיה",
+     "ref": "Genesis 17:16",
+     "label": "בראשית יז, טז"
+    },
+    "question": "הפסוק אומר \"וברכתי אותה\" ושוב \"וברכתיה\", וגם \"וגם נתתי ממנה לך בן\". מה מוסיפה כל ברכה?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "וברכתיה אחרי שכבר אמר וברכתי אותה שהוא כפל"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 17:15:1-2",
+      "era": "acharon",
+      "quote": "בכפל וברכתי וברכתיה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 17:16:1",
+      "era": "acharon",
+      "quote": "דאם לא כן וברכתיה למה לי הרי כבר נאמר וברכתי אותה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הברכה הראשונה שחזרה לנעוריה; השנייה — הנקת שדיים ביום משתה יצחק.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:16:1",
+        "quote": "ומה היא הברכה שחזרה לנעורתה"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:16:2",
+        "quote": "בהנקת שדים כשנצרכה לכך ביום משתה של יצחק"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הברכה היא היפוך קללת חוה — הריון, לידה וגידול הבן ללא צער.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 17:16:1",
+        "quote": "הפך קללת חוה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: עיקר הברכה להתברך ממקור הברכה; הנקת השדיים רק המקום שבו נראתה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 17:16:1",
+        "quote": "אבל עיקר הברכה להתברך מן מקור הברכה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה ששרה מתברכת בזכות עצמה, ולא רק כאשתו של אברהם."
+   },
+   {
+    "title": "מדוע צחק אברהם על הבשורה — ספק או שמחה?",
+    "pasuk": {
+     "text": "ויפל אברהם על פניו ויצחק",
+     "ref": "Genesis 17:17",
+     "label": "בראשית יז, יז"
+    },
+    "question": "אברהם נפל על פניו וצחק. אם היה זה אי־אמון קשה לראותו מנביא, ואם שמחה — מדוע שאל \"הלבן מאה שנה יולד\"?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "איך ספק אברהם ביעוד האלהי ויצחק כמלעיג ממנו"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 17:17:1-2",
+      "era": "acharon",
+      "quote": "אם הוא לשון שחוק היתכן ישחק למאמרו ית'"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אברהם האמין ושמח, ושרה לא האמינה ולגלגה — ולכן הקפיד הקב\"ה על שרה ולא על אברהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:17:1",
+        "quote": "למדת שאברהם האמין ושמח ושרה לא האמינה ולגלגה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: שחוק יכול להיות שמחה; אברהם מילא שחוק פיו מרוב פלא.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:17:1",
+        "quote": "שמח ומלא שחוק פיו"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: נפילתו והשתחוויתו מוכיחות שהאמין.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 17:17:1",
+        "quote": "נפילתו והשתחווייתו מוכיחים שהאמין"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אי אפשר שאברהם היה מסופק ביכולת ה', חלילה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 17:19:1",
+        "quote": "וכי היה אברהם מספק ביכולת האל חלילה"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הצחוק שבשם יצחק היה אמונה או לגלוג."
+   },
+   {
+    "title": "מה הפלא בבן מאה שמוליד, והלא הוליד עוד אחר כך?",
+    "pasuk": {
+     "text": "הלבן מאה שנה יולד ואם שרה הבת תשעים שנה תלד",
+     "ref": "Genesis 17:17",
+     "label": "בראשית יז, יז"
+    },
+    "question": "אברהם הוליד אחר כך בנים רבים מקטורה, ומה הפלא בבן מאה שמוליד?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 17:15",
+      "era": "acharon",
+      "quote": "לא היה פלא שיוליד מבן מאה שנה שעדין לא הגיע לשני שלישי ימיו"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 17:17:2",
+      "era": "rishon",
+      "quote": "אין הפלא בבן מאה שנה שיוליד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הפלא הוא שמי שלא הוליד בבחרותו מאשה זו יוליד ממנה עתה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:17:2",
+        "quote": "שלא הוליד בבחרותו מן האשה הזאת יוליד ממנה עתה"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: בימי אברהם כבר נתמעטו השנים ובא תשות כוח לעולם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:17:3",
+        "quote": "בימי אברהם נתמעטו השנים כבר ובא תשות כח לעולם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אשה יכולה להתעבר אחרי ימי בחרות, אך עם בחור ולא עם זקן.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 17:17:1",
+        "quote": "זה יקרה לה במשכב אדם בחור אבל לא במשכב אדם זקן"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: שלוש פליאות — גילו, עקרותה, וגילה תשעים.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 17:17:1",
+        "quote": "הלא יש בזה שלש פליאות"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מהו בדיוק הנס."
+   },
+   {
+    "title": "מדוע מבקש אברהם \"לו ישמעאל יחיה לפניך\"?",
+    "pasuk": {
+     "text": "לו ישמעאל יחיה לפניך",
+     "ref": "Genesis 17:18",
+     "label": "בראשית יז, יח"
+    },
+    "question": "מדוע לא יחיה ישמעאל, ומה מוסיף \"לפניך\" לבקשה?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 17:17:1-2",
+      "era": "acharon",
+      "quote": "מה הם החיים אשר שאל ממנו"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 17:15:1-2",
+      "era": "acharon",
+      "quote": "ולמה אמר לו ישמעאל יחיה ומהו מלת לפניך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"איני כדאי\" לקבל מתן שכר כזה; ושיחיה ישמעאל ביראתך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:18:1",
+        "quote": "הלואי שיחיה ישמעאל איני כדאי לקבל מתן שכר כזה"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:18:2",
+        "quote": "יחיה ביראתך כמו התהלך לפני"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן חולק: אינו נכון, שהרי השיבו \"שמעתיך\"; אלא שיתקיים זרעו כל ימי עולם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:18:1",
+        "quote": "ואיננו נכון בעבור שאמר ולישמעאל שמעתיך"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:18:1",
+        "quote": "יחיה ויתקיים זרעו כל ימי עולם"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: התפלל שילך ישמעאל בצדק לפני ה', כי הצדיקים קרויים חיים.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 17:18:1",
+        "quote": "שיהיה ישמעאל הולך בצדק לפני ה"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: ה' אינו עושה נס לבטלה, ולכן חשב אברהם שישמעאל עתיד למות או להיות רשע.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 17:18:1",
+        "quote": "שישמעאל עתיד למות או שיהיה רשע"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את דאגת אברהם לישמעאל גם כשהברית עוברת ליצחק."
+   },
+   {
+    "title": "על מה משיב \"אבל\" של הקב\"ה?",
+    "pasuk": {
+     "text": "אבל שרה אשתך יולדת לך בן",
+     "ref": "Genesis 17:19",
+     "label": "בראשית יז, יט"
+    },
+    "question": "הקב\"ה פותח את תשובתו ב\"אבל\", לשון הניגוד. מה הניגוד, והלא כבר נאמר ששרה תלד בן?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 17:19:1",
+      "era": "acharon",
+      "quote": "צריך לדעת טעם אמרו אבל כי אין לה משמעות"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 17:17:1-2",
+      "era": "acharon",
+      "quote": "מה בא לשלול במלת אבל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"אבל\" לשון אמתת דברים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:19:1",
+        "quote": "לשון אמתת דברים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: כמו \"רק\" — רק הבן שאני מבשרך עליו ייקח את הברית.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:19:1",
+        "quote": "כטעם רק אמר רק הבן אשר אני מבשרך עליו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: אברהם יכול להסתפק בישמעאל לעצמו, אך שרה יולדת, ואינו רשאי לוותר על שלה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 17:19:2",
+        "quote": "אם הנתינה היא בשבילך לבד יש לך פה לומר שאתה מסתפק בישמעאל"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אברהם הבין \"בן\" כמאומץ, ולכן השיב הקב\"ה ששרה תלד ממש.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 17:19:1",
+        "quote": "שתביא אסופי מן השוק ותגדלנו על ברכה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע ישמעאל, אף שנתברך, אינו נושא הברית."
+   },
+   {
+    "title": "מדוע מדגיש הכתוב שנמלו \"בעצם היום הזה\"?",
+    "pasuk": {
+     "text": "בעצם היום הזה נמול אברהם וישמעאל בנו",
+     "ref": "Genesis 17:26",
+     "label": "בראשית יז, כו"
+    },
+    "question": "התורה כבר סיפרה שאברהם מל אותם באותו יום. מדוע לחזור על \"בעצם היום הזה\" ולמנות את גילם?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 17:26:1",
+      "era": "rishon",
+      "quote": "ומה טעם להזכיר זה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 17:26:1",
+      "era": "acharon",
+      "quote": "קשה למה ימחו בו ליצני הדור"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ביום ולא בלילה; לא נתיירא לא מן הגוים ולא מן הלצנים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 17:23:1",
+        "quote": "לא נתירא לא מן הגוים ולא מן הלצנים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הכתוב מספר מעלת אברהם ביראת ה' ומעלת כל בני ביתו, שכולם זריזים מקדימין למצוות.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 17:26:1",
+        "quote": "סיפר הכתוב מעלתו ביראת ה' ומעלת כל בני ביתו שכלם זריזים מקדימין למצות"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: \"בעצם היום הזה\" רומז ליום הכיפורים, שנאמר בו אותו לשון.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 17:26:1",
+        "quote": "בעשרה לחדש ביום הכפורים הזה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: \"בעצם היום הזה\" — שלא איחר.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 17:23:1",
+        "quote": "בעצם היום הזה שלא אחר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את זריזות אברהם בקיום הציווי."
+   }
+  ],
+  "sources_consulted": [
+   "כלי יקר",
+   "אלשיך",
+   "רש\"י",
+   "ספורנו",
+   "בראשית רבה",
+   "אברבנאל",
+   "גור אריה",
+   "רמב\"ן",
+   "מלבי\"ם",
+   "מדרש אגדה",
+   "בכור שור",
+   "אור החיים"
+  ]
+ }
+}
