@@ -1,0 +1,957 @@
+{
+ "date": "2026-10-24",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 18:1-18:14",
+ "hebrew_date": {
+  "hebrew": "י״ג בְּחֶשְׁוָן תשפ״ז",
+  "english": "13 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Genesis 18:1-14. God appears to Abraham by the terebinths of Mamre as he sits at the tent entrance in the heat of the day. Three men stand near him, and he runs to greet them, bows, and urges them to rest and eat. He has Sarah bake cakes, takes a calf, and serves them curds, milk and meat under the tree. They ask where Sarah is, and one says he will return next year and Sarah will have a son. Sarah, listening at the tent entrance, laughs to herself. God asks Abraham why she laughed, and says 'Is anything too wondrous for God?'",
+  "questions": [
+   {
+    "title": "Why does the verse say 'God appeared to him' instead of 'God appeared to Abraham'?",
+    "pasuk": {
+     "text": "וירא אליו יהוה באלני ממרא",
+     "ref": "Genesis 18:1",
+     "label": "Genesis 18:1"
+    },
+    "question": "Earlier appearances read 'God appeared to Abram'. Why does this verse put 'to him' first and leave Abraham unnamed?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 18:1:1",
+      "era": "acharon",
+      "quote": "יש לדעת למה שנה הכתוב להקדים הרואה קדם הנראה"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 18:1:3",
+      "era": "rishon",
+      "quote": "שאלולי כן היה ראוי שיאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Because the appearance came in the merit of the milah.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 18:1:3",
+        "quote": "כי בזכות המילה נראה לו השם"
+       }
+      ]
+     },
+     {
+      "text": "So that no one would say God reveals Himself mostly to the great because of their greatness; it was Abraham's own humble essence.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 18:1:1",
+        "quote": "וכדי שלא יאמרו שהקדוש ברוך הוא נגלה ביותר על הגדולים"
+       }
+      ]
+     },
+     {
+      "text": "The Shechinah rested on him so that he became a chariot for it.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 18:1:3",
+        "quote": "ונעשה מרכבה לשכינה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what kind of revelation this was."
+   },
+   {
+    "title": "Why did God appear to Abraham here, if nothing is said to him?",
+    "pasuk": {
+     "text": "וירא אליו יהוה באלני ממרא",
+     "ref": "Genesis 18:1",
+     "label": "Genesis 18:1"
+    },
+    "question": "The verse records an appearance but no message. What was the appearance for?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 18:1:2",
+      "era": "acharon",
+      "quote": "עוד צריך לדעת מה נאמר לאברהם בנבואה זו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "To visit the sick: it was the third day after his circumcision.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:1:1",
+        "quote": "לבקר את החולה. אמר רבי חמא בר חנינא, יום שלישי למילתו היה"
+       }
+      ]
+     },
+     {
+      "text": "It was a reward for a mitzvah already done, not a command.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 18:1:2",
+        "quote": "אלא גמול המצוה הנעשית כבר"
+       }
+      ]
+     },
+     {
+      "text": "To tell him about Sodom, since Abraham was the greatest of his generation.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 18:1:1",
+        "quote": "להודיע דבר סדום, לפי שאברהם היה גדול שבעולם"
+       }
+      ]
+     },
+     {
+      "text": "God showed His presence to His people at the covenant.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 18:1:1",
+        "quote": "הופיע האל יתברך שכינתו לעמו בברית"
+       }
+      ]
+     }
+    ],
+    "why": "The answers differ on whether this was kindness, reward, or preparation for what follows."
+   },
+   {
+    "title": "Did Abraham really take advice from Mamre about the milah?",
+    "pasuk": {
+     "text": "וירא אליו יהוה באלני ממרא",
+     "ref": "Genesis 18:1",
+     "label": "Genesis 18:1"
+    },
+    "question": "Rashi says Mamre gave Abraham advice about milah. How could Abraham ask advice about a command from God?",
+    "asked_by": [
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 18:1:1",
+      "era": "rishon",
+      "quote": "ותימה וכי אדם חשוב וצדיק כאברהם"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 18:1:2",
+      "era": "rishon",
+      "quote": "ואם תאמר היאך יתכן לומר על איש גדול וקדוש"
+     },
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 18:1:2",
+      "era": "rishon",
+      "quote": "וקשה וכי היה לו לאברהם ליקח עצה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He did not ask whether to circumcise, only whether to do it quietly or in public.",
+      "sources": [
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 18:1:1",
+        "quote": "חס ושלום שישאל עצה אם ימול אם לאו אלא אם יעשה בצנעה או בפרהסיא"
+       }
+      ]
+     },
+     {
+      "text": "He did not rest his decision on others; he only weighed their views.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 18:1:2",
+        "quote": "אלא יש לנו לומר בודאי אברהם לא תלה דעתו בדעת אחרים לעשות רצון בוראו"
+       }
+      ]
+     },
+     {
+      "text": "He asked so that no one could say he acted without advice.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 18:1:3",
+        "quote": "שעשה זה כדי שלא יאמרו שאברהם עשה בלא עצה"
+       }
+      ]
+     },
+     {
+      "text": "He took no advice except on which organ to circumcise.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 18:1:2",
+        "quote": "שלא לקח עצה אלא מאיזה מהאיברים ימול"
+       }
+      ]
+     }
+    ],
+    "why": "It touches the line between obeying God and seeking counsel."
+   },
+   {
+    "title": "Why did God tell Abraham to sit, and what is the sign?",
+    "pasuk": {
+     "text": "והוא יושב פתח האהל",
+     "ref": "Genesis 18:1",
+     "label": "Genesis 18:1"
+    },
+    "question": "Rashi says Abraham wanted to stand for the Shechinah and was told to sit. Why not let him stand?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 18:1:6",
+      "era": "acharon",
+      "quote": "ולמה הושיבו הקב\"ה אחר שרצה לעמוד"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 18:1:6",
+      "era": "acharon",
+      "quote": "מה ענין ישיבה זו לישיבת הדינים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Because it is a sign for his children: God will stand among the judges while they sit.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:1:3",
+        "quote": "בקש לעמד, אמר לו הקב\"ה שב ואני אעמד, ואתה סימן לבניך"
+       }
+      ]
+     },
+     {
+      "text": "So that it would be a sign for his descendants.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 18:1:6",
+        "quote": "משום כך לא הניחו לעמוד כדי שיהיה סימן לבניו"
+       }
+      ]
+     },
+     {
+      "text": "The point of the vision was to tell Abraham of the wickedness of Sodom.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 18:1:6",
+        "quote": "ודאי תכלית מראה זו היתה לאברהם להודיעו רשעת אנשי סדום"
+       }
+      ]
+     }
+    ],
+    "why": "Two readings: a lesson for later generations, or a lead-in to Sodom."
+   },
+   {
+    "title": "Why does the verse mention the heat of the day?",
+    "pasuk": {
+     "text": "והוא יושב פתח האהל כחם היום",
+     "ref": "Genesis 18:1",
+     "label": "Genesis 18:1"
+    },
+    "question": "What does the Torah teach by telling us it was 'the heat of the day'?",
+    "asked_by": [
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 18:1:2",
+      "era": "rishon",
+      "quote": "מה צורך לכתוב היום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It shows why Abraham did not invite them to stay overnight, unlike Lot.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 18:1:2",
+        "quote": "להודיעך כי בלוט כתיב: ויבאו המלאכים סדומה בערב"
+       }
+      ]
+     },
+     {
+      "text": "God took the sun out of its sheath so Abraham would not be troubled with guests.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:1:5",
+        "quote": "הוציא הקב\"ה חמה מנרתיקה, שלא להטריחו באורחים"
+       }
+      ]
+     },
+     {
+      "text": "It is the time when travelers eat.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 18:1:2",
+        "quote": "והוא עת האוכל לעוברי דרכים"
+       }
+      ]
+     },
+     {
+      "text": "God made that day hot like the day of judgment.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Vayera 4:5",
+        "quote": "שהרתיח הקב\"ה אותו היום כיום הדין"
+       }
+      ]
+     }
+    ],
+    "why": "A small detail that Peshat and Midrash read in opposite ways."
+   },
+   {
+    "title": "Why did God change Sarah's words 'my husband is old'?",
+    "pasuk": {
+     "text": "האף אמנם אלד ואני זקנתי",
+     "ref": "Genesis 18:13",
+     "label": "Genesis 18:13"
+    },
+    "question": "Sarah said 'my husband is old', but God told Abraham she said 'I am old'. Why the change?",
+    "asked_by": [
+     {
+      "name": "Rosh",
+      "ref": "Rosh on Torah, Genesis 18:13:1",
+      "era": "rishon",
+      "quote": "וקשה כמו כן אמרה עליה אחרי בלותי"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 18:13:1",
+      "era": "rishon",
+      "quote": "כי היה ראוי שיאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The verse changed it for the sake of peace between them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:13:2",
+        "quote": "שנה הכתוב מפני השלום, שהרי היא אמרה ואדני זקן"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 48:18",
+        "quote": "גדול השלום שאף הכתובים דברו בדאית בשביל להטיל שלום בין אברהם לשרה"
+       }
+      ]
+     },
+     {
+      "text": "'I am old' means the same as her 'after I have withered'; her words were true, and God softened them for peace.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 18:13:1",
+        "quote": "ואני זקנתי הוא פרוש אחרי בלותי"
+       }
+      ]
+     },
+     {
+      "text": "God is saying: you make yourselves young and others old, but I have grown old of working miracles.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 48:17",
+        "quote": "ואני זקנתי מלעשות נסים"
+       }
+      ]
+     }
+    ],
+    "why": "The Torah shows how far one goes to protect a marriage."
+   },
+   {
+    "title": "Why did Sarah laugh, and why was she rebuked when Abraham was not?",
+    "pasuk": {
+     "text": "ותצחק שרה בקרבה",
+     "ref": "Genesis 18:12",
+     "label": "Genesis 18:12"
+    },
+    "question": "Abraham also laughed earlier and was not rebuked. Why is Sarah's laughter questioned?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 18:12:1-2",
+      "era": "acharon",
+      "quote": "למה צחקה שרה ולא האמינה לדברי המלאך"
+     },
+     {
+      "name": "Saadia Gaon",
+      "ref": "Saadia Gaon on Genesis 18:13:1",
+      "era": "rishon",
+      "quote": "כאילו הוא מוכיח אותה על כך, והלא אברהם כבר צחק קודם לכן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "She did believe; she laughed from joy that her cycle had returned.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 18:12:1-2",
+        "quote": "ובודאי האמינה לדברי"
+       }
+      ]
+     },
+     {
+      "text": "She thought it was only a prophet's blessing, not God's own promise.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 18:12:1",
+        "quote": "שחשבה שהיה דבר המלאך ברכת נביא בלבד"
+       }
+      ]
+     },
+     {
+      "text": "Abraham deserved the same rebuke, but the verse delayed it until it happened with Sarah.",
+      "sources": [
+       {
+        "name": "Saadia Gaon",
+        "ref": "Saadia Gaon on Genesis 18:13:1",
+        "quote": "ראוי היה אברהם לנזיפה, כמו שנזף בשרה"
+       }
+      ]
+     },
+     {
+      "text": "Her laughter of mockery became laughter of joy after teshuvah.",
+      "sources": [
+       {
+        "name": "Chatam Sofer",
+        "ref": "Chatam Sofer on Torah, Vayera 4",
+        "quote": "נעשה מצחוק שהוא שחוק, צחוק שהוא שמחה"
+       }
+      ]
+     },
+     {
+      "text": "Her doubt is not surprising; God answers it directly.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 18:14:1",
+        "quote": "אינו מן התימה שצחקה שרה כמספקת"
+       }
+      ]
+     }
+    ],
+    "why": "Same laughter, different judgments."
+   }
+  ],
+  "sources_consulted": [
+   "Or HaChaim",
+   "Rabbeinu Bahya",
+   "Kli Yakar",
+   "Rashi",
+   "Ramban",
+   "Radak",
+   "Sforno",
+   "Da'at Zekenim",
+   "Chizkuni",
+   "Hadar Zekenim",
+   "Gur Aryeh",
+   "Rashbam",
+   "Bekhor Shor",
+   "Midrash Tanchuma Buber",
+   "Rosh",
+   "Bereshit Rabbah",
+   "Malbim",
+   "Saadia Gaon",
+   "Chatam Sofer",
+   "Alshich"
+  ]
+ },
+ "hebrew": {
+  "summary": "בראשית י״ח, א–יד: ה׳ נראה אל אברהם באלוני ממרא, והוא יושב פתח האהל כחום היום. שלושה אנשים ניצבים עליו, והוא רץ לקראתם, משתחווה ומפציר בהם לנוח ולאכול. הוא מבקש משרה להכין עוגות, לוקח בן בקר, ומגיש להם חמאה וחלב ובשר תחת העץ. הם שואלים איפה שרה, ואחד אומר שישוב אליו כעת חיה ולשרה בן. שרה שומעת בפתח האוהל ותצחק בקרבה. ה׳ שואל את אברהם למה צחקה שרה, ואומר: היפלא מה׳ דבר?",
+  "questions": [
+   {
+    "title": "מדוע נאמר ״וירא אליו ה׳״ ולא ״וירא ה׳ אל אברהם״?",
+    "pasuk": {
+     "text": "וירא אליו יהוה באלני ממרא",
+     "ref": "Genesis 18:1",
+     "label": "בראשית יח, א"
+    },
+    "question": "בהופעות הקודמות נאמר ״וירא ה׳ אל אברם״. מדוע כאן ״אליו״ קודם, ואברהם אינו נזכר?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 18:1:1",
+      "era": "acharon",
+      "quote": "יש לדעת למה שנה הכתוב להקדים הרואה קדם הנראה"
+     },
+     {
+      "name": "רבינו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 18:1:3",
+      "era": "rishon",
+      "quote": "שאלולי כן היה ראוי שיאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כי ההתגלות באה בזכות המילה.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 18:1:3",
+        "quote": "כי בזכות המילה נראה לו השם"
+       }
+      ]
+     },
+     {
+      "text": "כדי שלא יאמרו שהקב״ה מתגלה בעיקר לגדולים מצד גדולתם; ההתגלות היתה לפי ענוותנותו של אברהם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 18:1:1",
+        "quote": "וכדי שלא יאמרו שהקדוש ברוך הוא נגלה ביותר על הגדולים"
+       }
+      ]
+     },
+     {
+      "text": "השכינה שרתה עליו עד שנעשה מרכבה לה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 18:1:3",
+        "quote": "ונעשה מרכבה לשכינה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד איזו התגלות היתה כאן."
+   },
+   {
+    "title": "לשם מה נראה ה׳ אל אברהם, אם לא נאמר לו דבר?",
+    "pasuk": {
+     "text": "וירא אליו יהוה באלני ממרא",
+     "ref": "Genesis 18:1",
+     "label": "בראשית יח, א"
+    },
+    "question": "הפסוק מספר על התגלות בלי דבור. לשם מה היתה?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 18:1:2",
+      "era": "acharon",
+      "quote": "עוד צריך לדעת מה נאמר לאברהם בנבואה זו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לבקר את החולה: היה זה יום שלישי למילתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:1:1",
+        "quote": "לבקר את החולה. אמר רבי חמא בר חנינא, יום שלישי למילתו היה"
+       }
+      ]
+     },
+     {
+      "text": "זה גמול על מצוה שכבר נעשתה, ולא ציווי.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 18:1:2",
+        "quote": "אלא גמול המצוה הנעשית כבר"
+       }
+      ]
+     },
+     {
+      "text": "להודיעו על סדום, כי אברהם היה גדול דורו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 18:1:1",
+        "quote": "להודיע דבר סדום, לפי שאברהם היה גדול שבעולם"
+       }
+      ]
+     },
+     {
+      "text": "הקב״ה הראה שכינתו לעמו בשעת הברית.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 18:1:1",
+        "quote": "הופיע האל יתברך שכינתו לעמו בברית"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות חלוקות אם זו חסד, שכר או הכנה למה שיבוא."
+   },
+   {
+    "title": "האם אברהם באמת לקח עצה מממרא על המילה?",
+    "pasuk": {
+     "text": "וירא אליו יהוה באלני ממרא",
+     "ref": "Genesis 18:1",
+     "label": "בראשית יח, א"
+    },
+    "question": "רש״י אומר שממרא נתן לאברהם עצה על המילה. איך יתכן שאברהם יבקש עצה על ציווי מהקב״ה?",
+    "asked_by": [
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 18:1:1",
+      "era": "rishon",
+      "quote": "ותימה וכי אדם חשוב וצדיק כאברהם"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 18:1:2",
+      "era": "rishon",
+      "quote": "ואם תאמר היאך יתכן לומר על איש גדול וקדוש"
+     },
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 18:1:2",
+      "era": "rishon",
+      "quote": "וקשה וכי היה לו לאברהם ליקח עצה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא לא שאל אם למול, אלא אם לעשות בצנעה או בפרהסיא.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 18:1:1",
+        "quote": "חס ושלום שישאל עצה אם ימול אם לאו אלא אם יעשה בצנעה או בפרהסיא"
+       }
+      ]
+     },
+     {
+      "text": "הוא לא תלה את דעתו באחרים, אלא שקל את דעתם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 18:1:2",
+        "quote": "אלא יש לנו לומר בודאי אברהם לא תלה דעתו בדעת אחרים לעשות רצון בוראו"
+       }
+      ]
+     },
+     {
+      "text": "הוא שאל כדי שלא יאמרו שעשה בלי עצה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 18:1:3",
+        "quote": "שעשה זה כדי שלא יאמרו שאברהם עשה בלא עצה"
+       }
+      ]
+     },
+     {
+      "text": "הוא לא לקח עצה אלא מאיזה אבר ימול.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 18:1:2",
+        "quote": "שלא לקח עצה אלא מאיזה מהאיברים ימול"
+       }
+      ]
+     }
+    ],
+    "why": "זה נוגע בגבול בין קיום דבר ה׳ לבין בקשת עצה."
+   },
+   {
+    "title": "למה אמר ה׳ לאברהם לשבת, ומה הסימן?",
+    "pasuk": {
+     "text": "והוא יושב פתח האהל",
+     "ref": "Genesis 18:1",
+     "label": "בראשית יח, א"
+    },
+    "question": "רש״י אומר שאברהם רצה לעמוד לפני השכינה ונאמר לו לשבת. למה לא הניחו לעמוד?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 18:1:6",
+      "era": "acharon",
+      "quote": "ולמה הושיבו הקב\"ה אחר שרצה לעמוד"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 18:1:6",
+      "era": "acharon",
+      "quote": "מה ענין ישיבה זו לישיבת הדינים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כי זה סימן לבניו: הקב״ה יעמוד בעדת הדינים והם יושבים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:1:3",
+        "quote": "בקש לעמד, אמר לו הקב\"ה שב ואני אעמד, ואתה סימן לבניך"
+       }
+      ]
+     },
+     {
+      "text": "כדי שיהיה סימן לבניו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 18:1:6",
+        "quote": "משום כך לא הניחו לעמוד כדי שיהיה סימן לבניו"
+       }
+      ]
+     },
+     {
+      "text": "תכלית המראה היתה להודיעו את רשעת אנשי סדום.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 18:1:6",
+        "quote": "ודאי תכלית מראה זו היתה לאברהם להודיעו רשעת אנשי סדום"
+       }
+      ]
+     }
+    ],
+    "why": "שתי דרכים: לימוד לדורות, או הקדמה לסדום."
+   },
+   {
+    "title": "למה הוזכר חום היום?",
+    "pasuk": {
+     "text": "והוא יושב פתח האהל כחם היום",
+     "ref": "Genesis 18:1",
+     "label": "בראשית יח, א"
+    },
+    "question": "מה מלמדת התורה באמרה ״כחם היום״?",
+    "asked_by": [
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 18:1:2",
+      "era": "rishon",
+      "quote": "מה צורך לכתוב היום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כדי להודיע למה לא הזמין אברהם את האורחים ללון, בניגוד ללוט.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 18:1:2",
+        "quote": "להודיעך כי בלוט כתיב: ויבאו המלאכים סדומה בערב"
+       }
+      ]
+     },
+     {
+      "text": "הקב״ה הוציא חמה מנרתיקה כדי שלא להטריח את אברהם באורחים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:1:5",
+        "quote": "הוציא הקב\"ה חמה מנרתיקה, שלא להטריחו באורחים"
+       }
+      ]
+     },
+     {
+      "text": "זו עת האוכל לעוברי דרכים.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 18:1:2",
+        "quote": "והוא עת האוכל לעוברי דרכים"
+       }
+      ]
+     },
+     {
+      "text": "הקב״ה הרתיח אותו היום כיום הדין.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא בובער",
+        "ref": "Midrash Tanchuma Buber, Vayera 4:5",
+        "quote": "שהרתיח הקב\"ה אותו היום כיום הדין"
+       }
+      ]
+     }
+    ],
+    "why": "פרט קטן שהפשט והמדרש קוראים בו בדרכים הפוכות."
+   },
+   {
+    "title": "למה שינה ה׳ את דברי שרה ״ואדני זקן״?",
+    "pasuk": {
+     "text": "האף אמנם אלד ואני זקנתי",
+     "ref": "Genesis 18:13",
+     "label": "בראשית יח, יג"
+    },
+    "question": "שרה אמרה ״ואדני זקן״, אך ה׳ אמר לאברהם שאמרה ״ואני זקנתי״. למה השינוי?",
+    "asked_by": [
+     {
+      "name": "הרא\"ש",
+      "ref": "Rosh on Torah, Genesis 18:13:1",
+      "era": "rishon",
+      "quote": "וקשה כמו כן אמרה עליה אחרי בלותי"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 18:13:1",
+      "era": "rishon",
+      "quote": "כי היה ראוי שיאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכתוב שינה מפני השלום ביניהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:13:2",
+        "quote": "שנה הכתוב מפני השלום, שהרי היא אמרה ואדני זקן"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 48:18",
+        "quote": "גדול השלום שאף הכתובים דברו בדאית בשביל להטיל שלום בין אברהם לשרה"
+       }
+      ]
+     },
+     {
+      "text": "״ואני זקנתי״ הוא פירוש ״אחרי בלותי״; דבריה אמת, וה׳ ריכך אותם מפני השלום.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 18:13:1",
+        "quote": "ואני זקנתי הוא פרוש אחרי בלותי"
+       }
+      ]
+     },
+     {
+      "text": "הקב״ה אומר: אתם מילדים עצמכם ומזקינים את חבריכם, ואני זקנתי מלעשות נסים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 48:17",
+        "quote": "ואני זקנתי מלעשות נסים"
+       }
+      ]
+     }
+    ],
+    "why": "התורה מראה עד כמה משתדלים לשמור על שלום בית."
+   },
+   {
+    "title": "למה צחקה שרה, ולמה הוכחה והרי אברהם לא הוכח?",
+    "pasuk": {
+     "text": "ותצחק שרה בקרבה",
+     "ref": "Genesis 18:12",
+     "label": "בראשית יח, יב"
+    },
+    "question": "גם אברהם צחק קודם ולא הוכח. למה צחוקה של שרה מוקשה?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 18:12:1-2",
+      "era": "acharon",
+      "quote": "למה צחקה שרה ולא האמינה לדברי המלאך"
+     },
+     {
+      "name": "רס\"ג",
+      "ref": "Saadia Gaon on Genesis 18:13:1",
+      "era": "rishon",
+      "quote": "כאילו הוא מוכיח אותה על כך, והלא אברהם כבר צחק קודם לכן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "היא האמינה; צחקה משמחה שחזרה לה הוסת.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 18:12:1-2",
+        "quote": "ובודאי האמינה לדברי"
+       }
+      ]
+     },
+     {
+      "text": "היא חשבה שזו רק ברכת נביא, ולא הבטחת ה׳ עצמו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 18:12:1",
+        "quote": "שחשבה שהיה דבר המלאך ברכת נביא בלבד"
+       }
+      ]
+     },
+     {
+      "text": "אברהם ראוי היה לאותה נזיפה, אך הכתוב המתין עד שקרה הדבר בשרה.",
+      "sources": [
+       {
+        "name": "רס\"ג",
+        "ref": "Saadia Gaon on Genesis 18:13:1",
+        "quote": "ראוי היה אברהם לנזיפה, כמו שנזף בשרה"
+       }
+      ]
+     },
+     {
+      "text": "צחוק הליצנות נהפך לצחוק של שמחה אחרי תשובה.",
+      "sources": [
+       {
+        "name": "חתם סופר",
+        "ref": "Chatam Sofer on Torah, Vayera 4",
+        "quote": "נעשה מצחוק שהוא שחוק, צחוק שהוא שמחה"
+       }
+      ]
+     },
+     {
+      "text": "אין תימה שצחקה כמספקת, וה׳ עונה על כך ישירות.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 18:14:1",
+        "quote": "אינו מן התימה שצחקה שרה כמספקת"
+       }
+      ]
+     }
+    ],
+    "why": "אותו צחוק, שני דינים."
+   }
+  ],
+  "sources_consulted": [
+   "אור החיים",
+   "רבינו בחיי",
+   "כלי יקר",
+   "רש\"י",
+   "רמב\"ן",
+   "רד\"ק",
+   "ספורנו",
+   "דעת זקנים",
+   "חזקוני",
+   "הדר זקנים",
+   "גור אריה",
+   "רשב\"ם",
+   "בכור שור",
+   "מדרש תנחומא בובער",
+   "הרא\"ש",
+   "בראשית רבה",
+   "מלבי\"ם",
+   "רס\"ג",
+   "חתם סופר",
+   "אלשיך"
+  ]
+ }
+}
