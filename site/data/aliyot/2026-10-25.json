@@ -1,0 +1,991 @@
+{
+ "date": "2026-10-25",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 18:15-18:33",
+ "hebrew_date": {
+  "hebrew": "י״ד בְּחֶשְׁוָן תשפ״ז",
+  "english": "14 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Genesis 18:15-33. Sarah denies that she laughed and is told, \"You did laugh.\" The agents rise and look down toward Sodom while Abraham walks with them. God asks whether He should hide from Abraham what He is about to do, explaining that Abraham is to become a great nation and will command his household to keep the way of God. God tells of the outcry of Sodom and Gomorrah and says He will go down to see. Abraham stands before God and asks, \"Shall not the Judge of all the earth deal justly?\" He bargains from fifty innocent down to ten, and God agrees each time, after which God departs and Abraham returns to his place.",
+  "questions": [
+   {
+    "title": "Why did Sarah deny laughing when God asked about it?",
+    "pasuk": {
+     "text": "לא צחקתי כי יראה",
+     "ref": "Genesis 18:15",
+     "label": "Genesis 18:15"
+    },
+    "question": "Alshich asks why Sarah denied the words of God, and why she says it was out of fear when fear should have led her to admit it. Three different answers are given.",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 18:15:1",
+      "era": "acharon",
+      "quote": "ראוי לשים לב למה כחשה מאמר ה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sarah feared a quarrel if she admitted the laughter, since her stated reason was true only in part.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 18:15:1",
+        "quote": "רק כי יראה פן יתקוטט עמה אם תודה בצחוק"
+       }
+      ]
+     },
+     {
+      "text": "To her the laughter was joy, not mockery; she denied only the mockery that the word 'tzachak' can imply.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 18:15:1",
+        "quote": "היה זה שמחה וגיל אצלה"
+       }
+      ]
+     },
+     {
+      "text": "After Yom Kippur Sarah's repentance from love turned mockery into joy, and only then did God speak of it.",
+      "sources": [
+       {
+        "name": "Chatam Sofer",
+        "ref": "Chatam Sofer on Torah, Vayera 4",
+        "quote": "נעשה מצחוק שהוא שחוק, צחוק שהוא שמחה"
+       }
+      ]
+     }
+    ],
+    "why": "Her denial shows what she thought her laughter meant."
+   },
+   {
+    "title": "Why does God say He must not hide from Abraham what He is about to do?",
+    "pasuk": {
+     "text": "המכסה אני מאברהם אשר אני עושה",
+     "ref": "Genesis 18:17",
+     "label": "Genesis 18:17"
+    },
+    "question": "Malbim lists the difficulty: what reasons does the verse give, and why should Abraham be told at all? The sources give different grounds.",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 18:17:1-2",
+      "era": "acharon",
+      "quote": "שאלות מה הטעמים שנתן שלא יכסה מאברהם"
+     },
+     {
+      "name": "Midrash Tanchuma Buber",
+      "ref": "Midrash Tanchuma Buber, Vayera 7:3",
+      "era": "chazal",
+      "quote": "למה גילה הקב\"ה לאברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The cities are part of the land God gave Abraham, so He may not destroy them without his knowledge.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:17:2",
+        "quote": "אני נתתי לו את הארץ הזאת וחמשה כרכין הללו שלו הן"
+       }
+      ]
+     },
+     {
+      "text": "Abraham was troubled about the generation of the Flood, so God told him in order to answer his doubt.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Vayera 7:3",
+        "quote": "לפי שהיה מהרהר בלבו על דור המבול"
+       }
+      ]
+     },
+     {
+      "text": "So that Abraham would know that if a number of righteous were among the wicked, God would lean toward mercy and give even the wicked time to repent.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 18:17:2",
+        "quote": "הייתי מטה כלפי חסד להאריך אפילו לרשעים"
+       }
+      ]
+     },
+     {
+      "text": "The land of those cities belongs to Abraham's children, so God would not uproot it without his consent.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 18:17:1",
+        "quote": "ואיך אחריב קרקע שלו וקרקע בניו שלא מדעתו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why Abraham was entitled to plead for Sodom."
+   },
+   {
+    "title": "How can 'yeda'tiv' mean 'I know him' when the verse continues with 'in order that'?",
+    "pasuk": {
+     "text": "כי ידעתיו למען אשר יצוה את בניו",
+     "ref": "Genesis 18:19",
+     "label": "Genesis 18:19"
+    },
+    "question": "If 'yeda'tiv' means 'I know that he will command', the word 'lema'an' (in order that) does not fit. What then does the verse mean?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 18:19:1",
+      "era": "acharon",
+      "quote": "אם כן למה כתב לשון למען"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 18:19:2",
+      "era": "acharon",
+      "quote": "ולמה ידעתיו למען אשר יצוה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "'Yeda'tiv' is a word of affection: God raised him up so that he would command his children.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 18:19:1",
+        "quote": "גדלתיו ורוממתיו בעבור אשר יצוה את בניו"
+       }
+      ]
+     },
+     {
+      "text": "God has singled him out because he commands his children to keep His ways.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:19:2",
+        "quote": "לפי שהוא מצוה את בניו עלי לשמור דרכי"
+       }
+      ]
+     },
+     {
+      "text": "'Yeda'tiv' means 'I will inform him', so the reason is to make known to later generations why the wicked were punished.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 18:19:1",
+        "quote": "אודיעהו את הדבר אשר אני עושה"
+       }
+      ]
+     }
+    ],
+    "why": "It tells what Abraham was chosen for."
+   },
+   {
+    "title": "If Noah was saved from the Flood, why would the world say 'this is His way'?",
+    "pasuk": {
+     "text": "להמית צדיק עם רשע",
+     "ref": "Genesis 18:25",
+     "label": "Genesis 18:25"
+    },
+    "question": "Mizrachi and Gur Aryeh ask: in the Flood God did not sweep away Noah and his sons, so how could Abraham argue that people would say He destroys everyone?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 18:25:1",
+      "era": "acharon",
+      "quote": "והלא בדור המבול לא שטף את נח ובניו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 18:25:1",
+      "era": "acharon",
+      "quote": "שהרי נח היה ניצול"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The world would say this is His way: He sweeps away the righteous and wicked alike, as in the generations of the Flood and the Dispersion.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:25:1",
+        "quote": "יאמרו כך הוא אומנותו שוטף הכל"
+       }
+      ]
+     },
+     {
+      "text": "This is the third such time, so people would say it is how He always acts, not that the righteous were righteous only in appearance.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 18:25:1",
+        "quote": "יאמרו שכך אומנתו שאחר שזה פעם שלישית"
+       }
+      ]
+     },
+     {
+      "text": "Abraham spoke so that people in the world would not say that He destroys generations in cruelty, as He did with Enosh, the Flood and the Dispersion.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Vayera 10:1",
+        "quote": "שלא יאמרו באי עולם כך אומנתו שהוא מאבד את הדורות במדת אכזריות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Abraham feared for God's name."
+   },
+   {
+    "title": "Why does the verse say Abraham stood before God when God had come to him?",
+    "pasuk": {
+     "text": "ואברהם עודנו עמד לפני יהוה",
+     "ref": "Genesis 18:22",
+     "label": "Genesis 18:22"
+    },
+    "question": "It was God who came to Abraham, not Abraham who went to stand before Him, so the verse should have said God was still standing by Abraham.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 18:22:2",
+      "era": "rishon",
+      "quote": "והלא לא הלך לעמוד לפניו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 18:22:2",
+      "era": "acharon",
+      "quote": "הרא\"ם הקשה דמה חילוק יש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It is a correction of the scribes: the text was originally written the other way around.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:22:2",
+        "quote": "תקון סופרים הוא זה"
+       }
+      ]
+     },
+     {
+      "text": "Abraham was standing within the prophetic vision, which had not yet ended.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 18:22:2",
+        "quote": "כי מראה הנבואה לא נגמרה עדיין"
+       }
+      ]
+     },
+     {
+      "text": "He stood before the angel to seek his favor.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 18:22:1",
+        "quote": "לפני המלאך לבקש פניו"
+       }
+      ]
+     }
+    ],
+    "why": "It shapes how the plea for Sodom is understood."
+   },
+   {
+    "title": "Why did Abraham stop at ten?",
+    "pasuk": {
+     "text": "אולי ימצאון שם עשרה",
+     "ref": "Genesis 18:32",
+     "label": "Genesis 18:32"
+    },
+    "question": "Ibn Ezra quotes the question: why did he not go lower than ten? Lekach Tov asks why ten, and the sources give several reasons.",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 18:29:1",
+      "era": "rishon",
+      "quote": "למה לא הפחית מעשרה"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 18:32:1",
+      "era": "chazal",
+      "quote": "למה עשרה שהיה סבור"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The generation of the Flood had eight righteous and they did not save their generation, so he asked for no fewer than ten.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:32:1",
+        "quote": "על הפחות לא בקש"
+       }
+      ]
+     },
+     {
+      "text": "He thought ten were there: Lot, his wife, four daughters and four sons-in-law.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 18:32:1",
+        "quote": "שהיה סבור שיש שם עשרה"
+       }
+      ]
+     },
+     {
+      "text": "Our sages taught that public prayer needs ten, and this verse supports our faith.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 18:29:1",
+        "quote": "שאין תפלה בצבור פחות מעשרה"
+       }
+      ]
+     },
+     {
+      "text": "Once the number was ten, he reasoned that if fewer remained, God would remove the righteous from among them and destroy the wicked.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 18:28:1",
+        "quote": "אם יש שם פחות מעשרה זקנים יוציא מביניהם הצדיקים"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the limit of the merit of the righteous."
+   },
+   {
+    "title": "If ten righteous per city would have saved each, why did Abraham need to pray so many times?",
+    "pasuk": {
+     "text": "אולי יש חמשים צדיקם בתוך העיר",
+     "ref": "Genesis 18:24",
+     "label": "Genesis 18:24"
+    },
+    "question": "Rashi explains the numbers as ten for each of five cities. Ramban is astonished: what then was the point of the prayer?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 18:24:1",
+      "era": "rishon",
+      "quote": "ואני תמה אם כן מה התפלה והתחנה הזאת"
+     },
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 18:24:1",
+      "era": "chazal",
+      "quote": "ולמה פתח בחמשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Fifty was ten for each of the five cities.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 18:24:1",
+        "quote": "לפי שהיו חמשה עיירות כדי שתהא לכל אחת ואחת עשרה צדיקים"
+       }
+      ]
+     },
+     {
+      "text": "Many doing a good deed are not like few doing it, so the smaller numbers did not carry the same weight.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 18:29:1",
+        "quote": "אין דומים מרובים העושים מצוה למעוטים העושים מצוה"
+       }
+      ]
+     },
+     {
+      "text": "The merit of the many is not like the merit of the few, which settles the doubt.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 18:29:1",
+        "quote": "אינו דומה זכות הרבים לזכות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why the numbers went down step by step."
+   },
+   {
+    "title": "Why does it say God left 'when He finished speaking to Abraham', and not when Abraham finished?",
+    "pasuk": {
+     "text": "וילך יהוה כאשר כלה לדבר אל אברהם",
+     "ref": "Genesis 18:33",
+     "label": "Genesis 18:33"
+    },
+    "question": "Mizrachi and Gur Aryeh note that the verse should have said 'when Abraham finished speaking to God'.",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 18:33:1",
+      "era": "acharon",
+      "quote": "כאשר כלה אברהם לדבר אל ה מיבעי ליה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 18:33:1",
+      "era": "acharon",
+      "quote": "והקשה הרא\"ם דאם כן הוי למכתב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "When the advocate fell silent, the judge left.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 18:33:1",
+        "quote": "כיון שנשתתק הסניגור הלך לו הדיין"
+       }
+      ]
+     },
+     {
+      "text": "It means God left when He had answered all of Abraham's requests and Abraham asked no more.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 18:33:1",
+        "quote": "כאשר השיב על כל בקשת אברהם"
+       }
+      ]
+     },
+     {
+      "text": "The judge waits while the advocate argues for merit; when the advocate stops, the judge goes, and the angels wait in case Abraham finds merit.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 18:33:1",
+        "quote": "כל זמן שהסניגור מלמד זכות הוא ממתין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the dialogue ended."
+   }
+  ],
+  "sources_consulted": [
+   "Alshich",
+   "Malbim",
+   "Chatam Sofer",
+   "Midrash Tanchuma Buber",
+   "Rashi",
+   "Sforno",
+   "Rashbam",
+   "Gur Aryeh",
+   "Mizrachi",
+   "Ramban",
+   "HaKtav VeHaKabalah",
+   "Radak",
+   "Ibn Ezra",
+   "Midrash Lekach Tov",
+   "Bekhor Shor",
+   "Midrash Aggadah"
+  ]
+ },
+ "hebrew": {
+  "summary": "בראשית יח, טו–לג: שרה מכחשת שצחקה, ונאמר לה: \"לא כי צחקת\". האנשים קמים וַיַּשקיפו על פני סדום, ואברהם הולך עמהם לשלחם. ה' אומר אם יכסה מאברהם את אשר הוא עושה, כי אברהם עתיד להיות לגוי גדול ויצווה את בניו לשמור את דרך ה'. ה' מספר על זעקת סדום ועמורה ואומר שירד לראות. אברהם עומד לפני ה' ושואל: \"השופט כל הארץ לא יעשה משפט?\". הוא מתמקח מחמישים צדיקים עד עשרה, וה' מסכים בכל פעם, ואחר כך ה' הולך ואברהם שב למקומו.",
+  "questions": [
+   {
+    "title": "למה כחשה שרה בצחוקה כשה' שאל עליו?",
+    "pasuk": {
+     "text": "לא צחקתי כי יראה",
+     "ref": "Genesis 18:15",
+     "label": "בראשית יח, טו"
+    },
+    "question": "האלשיך שואל למה כחשה שרה את דבר ה', ואומרת כי יראה, שהרי היראה הייתה צריכה להביאה להודות. נאמרו שלוש תשובות שונות.",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 18:15:1",
+      "era": "acharon",
+      "quote": "ראוי לשים לב למה כחשה מאמר ה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שרה פחדה שיתקוטט עמה אם תודה בצחוק, כי הטעם שאמרה היה אמת רק בחלקו.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 18:15:1",
+        "quote": "רק כי יראה פן יתקוטט עמה אם תודה בצחוק"
+       }
+      ]
+     },
+     {
+      "text": "הצחוק אצלה היה שמחה וגיל ולא לעג, והיא הכחישה רק את הלעג שמשמעות הלשון 'צחק' עלולה להורות.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 18:15:1",
+        "quote": "היה זה שמחה וגיל אצלה"
+       }
+      ]
+     },
+     {
+      "text": "אחרי יום הכיפורים תשובתה של שרה מאהבה הפכה את השחוק לשמחה, ורק אז דיבר הקב\"ה על כך.",
+      "sources": [
+       {
+        "name": "חתם סופר",
+        "ref": "Chatam Sofer on Torah, Vayera 4",
+        "quote": "נעשה מצחוק שהוא שחוק, צחוק שהוא שמחה"
+       }
+      ]
+     }
+    ],
+    "why": "התשובה מגלה מה הבינה שרה בצחוקה."
+   },
+   {
+    "title": "למה אומר ה' שאינו מכסה מאברהם את אשר הוא עושה?",
+    "pasuk": {
+     "text": "המכסה אני מאברהם אשר אני עושה",
+     "ref": "Genesis 18:17",
+     "label": "בראשית יח, יז"
+    },
+    "question": "המלבי\"ם מונה את הקושי: מה הטעמים שהכתוב נותן, ולמה צריך להודיע לאברהם. המקורות נותנים טעמים שונים.",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 18:17:1-2",
+      "era": "acharon",
+      "quote": "שאלות מה הטעמים שנתן שלא יכסה מאברהם"
+     },
+     {
+      "name": "מדרש תנחומא בובר",
+      "ref": "Midrash Tanchuma Buber, Vayera 7:3",
+      "era": "chazal",
+      "quote": "למה גילה הקב\"ה לאברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכרכים האלה הם חלק מהארץ שנתן ה' לאברהם, ולכן אין לעשות בהם דבר שלא מדעתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:17:2",
+        "quote": "אני נתתי לו את הארץ הזאת וחמשה כרכין הללו שלו הן"
+       }
+      ]
+     },
+     {
+      "text": "אברהם היה מהרהר על דור המבול, ולכן גילה לו ה' כדי להשיב על ספקו.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא בובר",
+        "ref": "Midrash Tanchuma Buber, Vayera 7:3",
+        "quote": "לפי שהיה מהרהר בלבו על דור המבול"
+       }
+      ]
+     },
+     {
+      "text": "כדי שיֵדע אברהם שאם יש בין הרשעים מניין צדיקים, ה' יטה כלפי חסד ויאריך גם לרשעים אולי ישובו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 18:17:2",
+        "quote": "הייתי מטה כלפי חסד להאריך אפילו לרשעים"
+       }
+      ]
+     },
+     {
+      "text": "אדמת הערים האלה היא נחלת בני אברהם, ולכן לא יהפכה ה' שלא מדעתו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 18:17:1",
+        "quote": "ואיך אחריב קרקע שלו וקרקע בניו שלא מדעתו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר מדוע היה לאברהם מקום להתפלל על סדום."
+   },
+   {
+    "title": "איך 'ידעתיו' יכול להיות 'יודע אני בו' כשהכתוב ממשיך 'למען'?",
+    "pasuk": {
+     "text": "כי ידעתיו למען אשר יצוה את בניו",
+     "ref": "Genesis 18:19",
+     "label": "בראשית יח, יט"
+    },
+    "question": "אם 'ידעתיו' פירושו 'יודע אני שיצווה', אין 'למען' נופל על הלשון. אם כן מה פירוש הכתוב?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 18:19:1",
+      "era": "acharon",
+      "quote": "אם כן למה כתב לשון למען"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 18:19:2",
+      "era": "acharon",
+      "quote": "ולמה ידעתיו למען אשר יצוה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "'ידעתיו' הוא לשון חיבה: גידלתיו ורוממתיו כדי שיצווה את בניו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 18:19:1",
+        "quote": "גדלתיו ורוממתיו בעבור אשר יצוה את בניו"
+       }
+      ]
+     },
+     {
+      "text": "הקב\"ה בחר בו מפני שהוא מצווה את בניו לשמור את דרכיו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:19:2",
+        "quote": "לפי שהוא מצוה את בניו עלי לשמור דרכי"
+       }
+      ]
+     },
+     {
+      "text": "'ידעתיו' פירושו 'אודיעהו', כדי שדורות הבאים ידעו מדוע נענשו הרשעים.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 18:19:1",
+        "quote": "אודיעהו את הדבר אשר אני עושה"
+       }
+      ]
+     }
+    ],
+    "why": "הכתוב אומר למה נבחר אברהם."
+   },
+   {
+    "title": "אם נח ניצל מן המבול, למה יאמרו 'כך היא אומנתו'?",
+    "pasuk": {
+     "text": "להמית צדיק עם רשע",
+     "ref": "Genesis 18:25",
+     "label": "בראשית יח, כה"
+    },
+    "question": "המזרחי וגור אריה שואלים: במבול לא שטף ה' את נח ובניו, ואם כן איך טען אברהם שיאמרו שהוא מאבד את כולם?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 18:25:1",
+      "era": "acharon",
+      "quote": "והלא בדור המבול לא שטף את נח ובניו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 18:25:1",
+      "era": "acharon",
+      "quote": "שהרי נח היה ניצול"
+     }
+    ],
+    "answers": [
+     {
+      "text": "העולם יאמרו שזו אומנותו: שוטף הכל צדיקים ורשעים, כמו בדור המבול ובדור הפלגה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:25:1",
+        "quote": "יאמרו כך הוא אומנותו שוטף הכל"
+       }
+      ]
+     },
+     {
+      "text": "זו הפעם השלישית, ולכן יאמרו שכך הוא תמיד נוהג, ולא יתלו שהצדיקים היו צדיקים רק בנראה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 18:25:1",
+        "quote": "יאמרו שכך אומנתו שאחר שזה פעם שלישית"
+       }
+      ]
+     },
+     {
+      "text": "אברהם אמר זאת כדי שלא יאמרו באי עולם שהקב\"ה מאבד דורות במדת אכזריות, כמו דור אנוש, המבול והפלגה.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא בובר",
+        "ref": "Midrash Tanchuma Buber, Vayera 10:1",
+        "quote": "שלא יאמרו באי עולם כך אומנתו שהוא מאבד את הדורות במדת אכזריות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה על מה חשש אברהם בכבוד שמו."
+   },
+   {
+    "title": "למה כתוב שאברהם עמד לפני ה' כשהקב\"ה בא אליו?",
+    "pasuk": {
+     "text": "ואברהם עודנו עמד לפני יהוה",
+     "ref": "Genesis 18:22",
+     "label": "בראשית יח, כב"
+    },
+    "question": "הקב\"ה בא אל אברהם, ולא אברהם הלך לעמוד לפניו, ולכן היה צריך לכתוב שה' עודנו עומד על אברהם.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 18:22:2",
+      "era": "rishon",
+      "quote": "והלא לא הלך לעמוד לפניו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 18:22:2",
+      "era": "acharon",
+      "quote": "הרא\"ם הקשה דמה חילוק יש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "זה תיקון סופרים: במקור היה כתוב אחרת.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:22:2",
+        "quote": "תקון סופרים הוא זה"
+       }
+      ]
+     },
+     {
+      "text": "אברהם עמד עדיין בתוך מראה הנבואה, והיא לא נגמרה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 18:22:2",
+        "quote": "כי מראה הנבואה לא נגמרה עדיין"
+       }
+      ]
+     },
+     {
+      "text": "עמד לפני המלאך כדי לבקש את פניו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 18:22:1",
+        "quote": "לפני המלאך לבקש פניו"
+       }
+      ]
+     }
+    ],
+    "why": "זה משפיע על הבנת התפילה על סדום."
+   },
+   {
+    "title": "למה עצר אברהם בעשרה?",
+    "pasuk": {
+     "text": "אולי ימצאון שם עשרה",
+     "ref": "Genesis 18:32",
+     "label": "בראשית יח, לב"
+    },
+    "question": "אבן עזרא מביא את השאלה: למה לא הפחית מעשרה. מדרש לקח טוב שואל למה עשרה, והמקורות נותנים כמה טעמים.",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 18:29:1",
+      "era": "rishon",
+      "quote": "למה לא הפחית מעשרה"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 18:32:1",
+      "era": "chazal",
+      "quote": "למה עשרה שהיה סבור"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בדור המבול היו שמונה צדיקים ולא הצילו על דורם, ולכן לא ביקש פחות מעשרה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:32:1",
+        "quote": "על הפחות לא בקש"
+       }
+      ]
+     },
+     {
+      "text": "הוא חשב שיש שם עשרה: לוט, אשתו, ארבע בנותיו וארבעה חתניו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 18:32:1",
+        "quote": "שהיה סבור שיש שם עשרה"
+       }
+      ]
+     },
+     {
+      "text": "חכמינו למדו שאין תפילה בציבור פחות מעשרה, והפסוק הזה מחזק את אמונתנו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 18:29:1",
+        "quote": "שאין תפלה בצבור פחות מעשרה"
+       }
+      ]
+     },
+     {
+      "text": "כשהעמידם על עשרה חשב שאם יהיו פחות, יוציא ה' מביניהם את הצדיקים וימית את הרשעים.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 18:28:1",
+        "quote": "אם יש שם פחות מעשרה זקנים יוציא מביניהם הצדיקים"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את גבול זכות הצדיקים."
+   },
+   {
+    "title": "אם עשרה צדיקים בכל עיר היו מצילים אותה, למה היה צריך אברהם להתפלל כל כך הרבה פעמים?",
+    "pasuk": {
+     "text": "אולי יש חמשים צדיקם בתוך העיר",
+     "ref": "Genesis 18:24",
+     "label": "בראשית יח, כד"
+    },
+    "question": "רש\"י מסביר את המספרים כעשרה לכל אחת מחמש הערים. הרמב\"ן תמה: אם כן מה התפילה והתחנונים האלה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 18:24:1",
+      "era": "rishon",
+      "quote": "ואני תמה אם כן מה התפלה והתחנה הזאת"
+     },
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 18:24:1",
+      "era": "chazal",
+      "quote": "ולמה פתח בחמשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חמישים היו עשרה לכל אחת מחמש הערים.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 18:24:1",
+        "quote": "לפי שהיו חמשה עיירות כדי שתהא לכל אחת ואחת עשרה צדיקים"
+       }
+      ]
+     },
+     {
+      "text": "אין דומים מרובים העושים מצוה למעטים העושים מצוה, ולכן המספרים הקטנים לא הצילו באותו משקל.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 18:29:1",
+        "quote": "אין דומים מרובים העושים מצוה למעוטים העושים מצוה"
+       }
+      ]
+     },
+     {
+      "text": "אין זכות הרבים כזכות המועטים, וכך הותר הספק.",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 18:29:1",
+        "quote": "אינו דומה זכות הרבים לזכות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר מדוע ירדו המספרים בהדרגה."
+   },
+   {
+    "title": "למה כתוב שה' הלך 'כאשר כלה לדבר אל אברהם' ולא כאשר כלה אברהם לדבר?",
+    "pasuk": {
+     "text": "וילך יהוה כאשר כלה לדבר אל אברהם",
+     "ref": "Genesis 18:33",
+     "label": "בראשית יח, לג"
+    },
+    "question": "המזרחי וגור אריה מעירים שהיה צריך לכתוב 'כאשר כלה אברהם לדבר אל ה''.",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 18:33:1",
+      "era": "acharon",
+      "quote": "כאשר כלה אברהם לדבר אל ה מיבעי ליה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 18:33:1",
+      "era": "acharon",
+      "quote": "והקשה הרא\"ם דאם כן הוי למכתב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כשנשתתק הסניגור הלך לו הדיין.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 18:33:1",
+        "quote": "כיון שנשתתק הסניגור הלך לו הדיין"
+       }
+      ]
+     },
+     {
+      "text": "פירושו שה' הלך כשהשיב על כל בקשות אברהם ואברהם לא שאל עוד.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 18:33:1",
+        "quote": "כאשר השיב על כל בקשת אברהם"
+       }
+      ]
+     },
+     {
+      "text": "הדיין ממתין כל זמן שהסניגור מלמד זכות; כשנשתתק הסניגור עמד הדיין, והמלאכים המתינו שמא ימצא אברהם זכות.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 18:33:1",
+        "quote": "כל זמן שהסניגור מלמד זכות הוא ממתין"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך הסתיים השיח."
+   }
+  ],
+  "sources_consulted": [
+   "אלשיך",
+   "מלבי\"ם",
+   "חתם סופר",
+   "מדרש תנחומא בובר",
+   "רש\"י",
+   "ספורנו",
+   "רשב\"ם",
+   "גור אריה",
+   "מזרחי",
+   "רמב\"ן",
+   "הכתב והקבלה",
+   "רד\"ק",
+   "אבן עזרא",
+   "מדרש לקח טוב",
+   "בכור שור",
+   "מדרש אגדה"
+  ]
+ }
+}
