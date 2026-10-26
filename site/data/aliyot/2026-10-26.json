@@ -1,0 +1,1169 @@
+{
+ "date": "2026-10-26",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 19:1-19:20",
+ "hebrew_date": {
+  "hebrew": "ט״ו בְּחֶשְׁוָן תשפ״ז",
+  "english": "15 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Two angels arrive in Sodom in the evening and Lot, sitting at the city gate, insists on hosting them. Before the guests lie down, the men of the city, young and old, surround the house and demand them. Lot offers his daughters instead, the crowd turns on him, and the guests pull him inside and strike the mob with blindness. They tell Lot to gather his family because God is destroying the city; his sons-in-law think he is joking. At dawn the angels hurry him, seize the hands of Lot, his wife and daughters, and bring them out. Lot pleads not to flee to the mountain and asks for the small nearby town (Tzoar).",
+  "questions": [
+   {
+    "title": "Why are the guests called angels in Sodom but men at Abraham's tent?",
+    "pasuk": {
+     "text": "ויבאו שני המלאכים סדמה בערב",
+     "ref": "Genesis 19:1",
+     "label": "Genesis 19:1"
+    },
+    "question": "Earlier the Torah called the visitors 'men'; here, with Lot, it calls them 'angels'. What changed, and why does the Torah later call them 'men' again?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 19:1:2",
+      "era": "rishon",
+      "quote": "ולהלן קראם אנשים"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:1:1",
+      "era": "acharon",
+      "quote": "ולמה יקרא אותם אנשים"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 19:1:1",
+      "era": "acharon",
+      "quote": "ואיני מבין זה דאף בלא שכינ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: when the Shechinah was with them they were called men; or, to Abraham, whose strength was great, angels were a constant presence and looked like men.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:1:2",
+        "quote": "כשהיתה שכינה עמהם קראם אנשים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: they are called angels here because they did the work of angels, saving Lot and destroying the place.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 19:15:2",
+        "quote": "קראם מלאכים לפי שעשו מעשה מלאכים"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: where they acted as men they are called men; where they acted as God's agents they are called angels.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 19:1",
+        "quote": "ובמקומות שעשו מעשה אלהים נקראו מלאכים"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: while they are sent to people and busy with their affairs the Torah says 'men'; after their mission is done it says 'angels'.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 19:1:1",
+        "quote": "כאשר משתלחים לבני אדם והם משתדלים בעניניהם יזכירם בלשון אנשים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the Torah means by a messenger of God appearing as a man."
+   },
+   {
+    "title": "Why did the angels reach Sodom only in the evening?",
+    "pasuk": {
+     "text": "ויבאו שני המלאכים סדמה בערב",
+     "ref": "Genesis 19:1",
+     "label": "Genesis 19:1"
+    },
+    "question": "The angels left Abraham at midday. Why did the trip from Hebron to Sodom take until evening?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 19:1:3",
+      "era": "rishon",
+      "quote": "וכי כל כך שהו המלאכים מחברון לסדום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they were angels of mercy and waited in case Abraham could still plead for Sodom.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:1:3",
+        "quote": "מלאכי רחמים היו וממתינים שמא יוכל אברהם ללמד עליהם סנגוריא"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: they did not enter Sodom before evening because Abraham's pleas had already run out and the verdict was sealed.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 19:1:1",
+        "quote": "שכבר נסתתמו טענות אברהם המליץ ונגמר הדין"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: evening gave Lot the chance to host them and earn his rescue, since by day the townspeople might not have let him.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 19:1:1",
+        "quote": "למצא הכנה ללוט להכניסם ולזכות בהצלתו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: 'evening' because the Sodomites' deeds were dark as night.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Vayera 15:1",
+        "quote": "שהיו הסדומים חשוכים כלילה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how long the heavenly court waited before the sentence was carried out."
+   },
+   {
+    "title": "Why does Lot, who lives in Sodom, run after guests?",
+    "pasuk": {
+     "text": "ולוט ישב בשער סדם",
+     "ref": "Genesis 19:1",
+     "label": "Genesis 19:1"
+    },
+    "question": "Lot lived among the wicked of Sodom and was not careful with mitzvot. Why does he rise to meet strangers and press them to come in?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 19:1:4",
+      "era": "acharon",
+      "quote": "למה הי מחזר אחר האורחים והלא לא הי מחזר אחר המצות"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:1:6",
+      "era": "acharon",
+      "quote": "למה היה מפציר להכניס אורחים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he learned from Abraham's house to seek out guests.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:1:5",
+        "quote": "מבית אברהם למד לחזור על האורחים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he feared they would sleep in the street, as was then the custom where no one took guests in, and the town's wicked would harm them.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 19:1:2",
+        "quote": "ויזיקו להם רשעי העיר"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he recognized them as familiar from living near Abraham as servants of the Most High, and risked his life for them.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 19:1:2",
+        "quote": "הכיר בהם כי הם מהמוכרים אצלו למשרתי עליון"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: some remnants of Abraham's house remained with him.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 19:1:1",
+        "quote": "ועם כל זה נשארו לו שיריים מבית אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how much of Abraham's influence lasted in Lot."
+   },
+   {
+    "title": "Why did Sodom turn on Lot for 'acting as judge'?",
+    "pasuk": {
+     "text": "האחד בא לגור וישפט שפוט",
+     "ref": "Genesis 19:9",
+     "label": "Genesis 19:9"
+    },
+    "question": "Lot had just been made a judge in Sodom. Why do the townspeople resent him for judging?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 19:9:1",
+      "era": "acharon",
+      "quote": "ולמה התרעמו עליו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Kli Yakar: the doubled phrase means he wants to rule on a matter already ruled on, since Sodom had set a law that no stranger enters anyone's home.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 19:9:1",
+        "quote": "שאתה רוצה לשפוט דבר שפוט כבר"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: a resident alien who breaks the city's laws is punished more severely than a citizen, and a judge more than a layman.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 19:9:1",
+        "quote": "הגר שמניחים אותו לגור במדינה והוא עובר על חוקי המדינה ענשו יותר גדול מן האזרח"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: after answering his offer of his daughters with 'Stand back', they spoke to him harshly: 'one came to sojourn and he acts as judge'.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 19:9:1",
+        "quote": "ואחר כך התחילו לדבר עמו קשות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that Sodom's cruelty was written into its law."
+   },
+   {
+    "title": "Why did the blinded mob still search for the door?",
+    "pasuk": {
+     "text": "וילאו למצא הפתח",
+     "ref": "Genesis 19:11",
+     "label": "Genesis 19:11"
+    },
+    "question": "After being struck with blindness, why would they still try to find the door, instead of fleeing?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 19:10:1",
+      "era": "acharon",
+      "quote": "ואחר שהוכו בסנורים למה בקשו הפתח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Alshich: being blind, they chose to flee through the courtyard gate, the largest and most recognizable opening.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 19:10:1",
+        "quote": "בחרו לברוח וילאו למצוא הפתח הגדול היותר מסויים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: they labored to find the door to break it down. The Sages said the wicked do not repent even at the gates of Gehinnom.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 19:11:1",
+        "quote": "רשעים אפילו עומדים בפתחו של גיהנם אינם חוזרים בתשובה"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: their ways of repentance were already closed to them.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 19:11:1",
+        "quote": "נסתמו מהם דרכי התשובה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: blindness is a madness: one thinks he sees, and going toward the door he walks elsewhere.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 19:11:1",
+        "quote": "סבור לראות ואינו רואה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the people of Sodom could still repent."
+   },
+   {
+    "title": "Why were the small struck before the great?",
+    "pasuk": {
+     "text": "מקטן ועד גדול",
+     "ref": "Genesis 19:11",
+     "label": "Genesis 19:11"
+    },
+    "question": "The verse could have said simply that all the men were struck. Why does it say 'from small to great'?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:11:2",
+      "era": "acharon",
+      "quote": "אם לא כן למה קטנים תחלה"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 19:11:1",
+      "era": "acharon",
+      "quote": "קשה מנ\"ל האי דלמא דטעמא דבקלקלה מתחילין מן הקטן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the young began the sin first, as 'young and old' says, so the punishment began with them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:11:3",
+        "quote": "הקטנים התחילו בעבירה תחלה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: whoever began the sin, the punishment begins with him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 50:8",
+        "quote": "מי שהתחיל בעבירה ממנו התחילה הפורענות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that judgment begins with whoever started the wrongdoing."
+   },
+   {
+    "title": "Why does the angel speak of Lot's 'sons' when he has none?",
+    "pasuk": {
+     "text": "חתן ובניך ובנתיך",
+     "ref": "Genesis 19:12",
+     "label": "Genesis 19:12"
+    },
+    "question": "The angels tell Lot to bring out a son-in-law, sons and daughters. But Lot had only daughters. Who are the 'sons'?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:12:2",
+      "era": "acharon",
+      "quote": "ואם כן למה אמר ובניך"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 19:12:1",
+      "era": "acharon",
+      "quote": "ובנים לא היו לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the sons of your married daughters.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:12:3",
+        "quote": "בני בנותיך הנשואות"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: or sons-in-law who are like sons.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 19:12:2",
+        "quote": "או חתנים שהם כבניך וכבנותיך"
+       }
+      ]
+     },
+     {
+      "text": "Radak: if he had sons and they were in the city, the Torah would have called them sons-in-law, as it does later; so Lot had no sons.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 19:12:2",
+        "quote": "בני בנותיך כי לא היו לו בנים"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: the angels knew what would happen: Lot would father two sons by his daughters, Ammon and Moab.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 19:12:1",
+        "quote": "ובנים הן עמון ומואב"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the angels' words already pointed to what came later."
+   },
+   {
+    "title": "Two angels say 'we destroy', yet one rescues and one destroys. Which is it?",
+    "pasuk": {
+     "text": "כי משחתים אנחנו את המקום הזה",
+     "ref": "Genesis 19:13",
+     "label": "Genesis 19:13"
+    },
+    "question": "The angels say 'we are destroying this place', but one was sent to rescue Lot and only one to overturn Sodom. Why speak in the plural?",
+    "asked_by": [
+     {
+      "name": "Tur HaAroch",
+      "ref": "Tur HaArokh, Genesis 19:16:1",
+      "era": "rishon",
+      "quote": "תימה לי והלא לא היה מציל אלא אחד"
+     },
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 19:13:1",
+      "era": "rishon",
+      "quote": "והלא לא היה אלא אחד לשחתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: one was sent to save him and the other to overturn Sodom, which is why it says 'and he said' in the singular.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:16:2",
+        "quote": "אחד מהם היה שליח להצילו וחברו להפוך סדום"
+       }
+      ]
+     },
+     {
+      "text": "Tur HaAroch: the destroyer could do nothing until Lot was saved, so the rescue also served the destruction and he helped in it.",
+      "sources": [
+       {
+        "name": "Tur HaAroch",
+        "ref": "Tur HaArokh, Genesis 19:16:1",
+        "quote": "כיון שלא היה המשחית יכול לעשות דבר עד שיהא לוט ניצול"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: since the two were together they spoke in the plural, so that what stood before him would not look like a mere attendant.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 19:13:1",
+        "quote": "לצד שהיו שניהם יחד היו אומרים לשון רבים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: both of them spoke to Lot; he argues against those who say one went to rescue Lot.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 19:12:2",
+        "quote": "והנה פה טענה על האומר כי האחד הלך להציל את לט"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Sages and commentators read the roles of the two angels."
+   },
+   {
+    "title": "Why must Lot not look back?",
+    "pasuk": {
+     "text": "המלט על נפשך אל תביט אחריך",
+     "ref": "Genesis 19:17",
+     "label": "Genesis 19:17"
+    },
+    "question": "Why is Lot forbidden to look back, and why does his wife become a pillar of salt for doing so?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 19:17:1",
+      "era": "acharon",
+      "quote": "קשה למה נענשה דוקא בפעם הזאת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashbam: so he would not linger on the road out of grief for his sons-in-law, nor stare needlessly at the angels at their work.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 19:17:1",
+        "quote": "המביט אחריו מתעכב בדרך"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the calamity would spread behind him without harming him, but if he lingered to look it would cling to him, as happened to his wife.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 19:17:1",
+        "quote": "אבל אם תתעכב להביט תדבק בך"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: a man's face answers for his deeds; turning toward the city he would be recognized as one of them and have no merit to be saved.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 19:17:1",
+        "quote": "הכרת פני האדם תענה בו מה פעל"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the verse is read 'do not stand in the plain and do not look back, after you are saved', for until Lot reached the mountain no harm would descend on them.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 19:17:1",
+        "quote": "כי עד הֱיוֹת לוֹט בָּהָר לֹא תֵּרֵד עֲלֵיהֶם רָעָה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the line between waiting for the punishment and being swept up in it."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Gur Aryeh",
+   "Mizrachi",
+   "Radak",
+   "Abarbanel",
+   "Rabbeinu Bahya",
+   "Sforno",
+   "Or HaChaim",
+   "Midrash Tanchuma Buber",
+   "Tzror HaMor",
+   "Kli Yakar",
+   "Malbim",
+   "Alshich",
+   "Bekhor Shor",
+   "Siftei Chakhamim",
+   "Bereshit Rabbah",
+   "Ibn Ezra",
+   "Tur HaAroch",
+   "Hadar Zekenim",
+   "Rashbam",
+   "Ramban"
+  ]
+ },
+ "hebrew": {
+  "summary": "שני מלאכים באים לסדום בערב, ולוט היושב בשער סדום מפציר בהם להיכנס לביתו. בטרם ישכבו נסבו אנשי העיר, מנער ועד זקן, על הבית ודרשו את האורחים. לוט מציע להם את בנותיו, והם מתרעמים עליו, והאורחים מושכים אותו הביתה ומכים את האנשים בסנוורים. הם אומרים ללוט להוציא את משפחתו כי ה' משחית את העיר, וחתניו סבורים שהוא מצחק. עם עלות השחר מאיצים בו המלאכים, מחזיקים בידו וביד אשתו ושתי בנותיו ומוציאים אותם. לוט מבקש שלא לברוח ההרה, ומבקש את העיר הקטנה הקרובה (צוער).",
+  "questions": [
+   {
+    "title": "מדוע נקראו האורחים כאן מלאכים ואצל אברהם אנשים?",
+    "pasuk": {
+     "text": "ויבאו שני המלאכים סדמה בערב",
+     "ref": "Genesis 19:1",
+     "label": "בראשית יט, א"
+    },
+    "question": "בפרשה הקודמת כינתה התורה את האורחים 'אנשים', וכאן אצל לוט היא קוראת להם 'מלאכים'. מה השתנה, ומדוע היא חוזרת וקוראת להם אחר כך 'אנשים'?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 19:1:2",
+      "era": "rishon",
+      "quote": "ולהלן קראם אנשים"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:1:1",
+      "era": "acharon",
+      "quote": "ולמה יקרא אותם אנשים"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 19:1:1",
+      "era": "acharon",
+      "quote": "ואיני מבין זה דאף בלא שכינ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כשהייתה שכינה עמהם קראם אנשים; ואחרת — אצל אברהם שכוחו גדול והמלאכים היו תדירין אצלו כאנשים, ואצל לוט קראם מלאכים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:1:2",
+        "quote": "כשהיתה שכינה עמהם קראם אנשים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: כאן קראם מלאכים לפי שעשו מעשה מלאכים להציל את לוט ולשחת את כל המקום.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 19:15:2",
+        "quote": "קראם מלאכים לפי שעשו מעשה מלאכים"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: במקומות שעשו מעשה אנשים נקראו אנשים, ובמקומות שעשו מעשה אלהים נקראו מלאכים.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 19:1",
+        "quote": "ובמקומות שעשו מעשה אלהים נקראו מלאכים"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: כשהם משתלחים לבני אדם ומשתדלים בעניינם יזכירם בלשון אנשים, ואחר שעשו שליחותם בלשון מלאכים.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 19:1:1",
+        "quote": "כאשר משתלחים לבני אדם והם משתדלים בעניניהם יזכירם בלשון אנשים"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד מה פירוש הדבר שמלאך ה' נראה כאדם."
+   },
+   {
+    "title": "מדוע הגיעו המלאכים לסדום רק בערב?",
+    "pasuk": {
+     "text": "ויבאו שני המלאכים סדמה בערב",
+     "ref": "Genesis 19:1",
+     "label": "בראשית יט, א"
+    },
+    "question": "המלאכים נפרדו מאברהם בצהריים. מדוע הגיעו מחברון לסדום רק בערב?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 19:1:3",
+      "era": "rishon",
+      "quote": "וכי כל כך שהו המלאכים מחברון לסדום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מלאכי רחמים היו וממתינים שמא יוכל אברהם ללמד עליהם סניגוריא.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:1:3",
+        "quote": "מלאכי רחמים היו וממתינים שמא יוכל אברהם ללמד עליהם סנגוריא"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא נכנסו בסדום עד הערב, שכבר נסתתמו טענות אברהם המליץ ונגמר הדין.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 19:1:1",
+        "quote": "שכבר נסתתמו טענות אברהם המליץ ונגמר הדין"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: בא בערב כדי למצוא הכנה ללוט להכניסם ולזכות בהצלתו, שאילו באו ביום אפשר שלא היו מניחים אותו בני העיר.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 19:1:1",
+        "quote": "למצא הכנה ללוט להכניסם ולזכות בהצלתו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא: 'בערב' — שהיו הסדומים חשוכים כלילה.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא (בובר)",
+        "ref": "Midrash Tanchuma Buber, Vayera 15:1",
+        "quote": "שהיו הסדומים חשוכים כלילה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כמה המתין בית הדין של מעלה לפני ביצוע הגזר."
+   },
+   {
+    "title": "מדוע לוט, היושב בסדום, מחזר אחר אורחים?",
+    "pasuk": {
+     "text": "ולוט ישב בשער סדם",
+     "ref": "Genesis 19:1",
+     "label": "בראשית יט, א"
+    },
+    "question": "לוט ישב בין רשעי סדום ולא הקפיד על המצוות. מדוע הוא קם לקראת עוברי דרך ומפציר בהם להיכנס?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 19:1:4",
+      "era": "acharon",
+      "quote": "למה הי מחזר אחר האורחים והלא לא הי מחזר אחר המצות"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:1:6",
+      "era": "acharon",
+      "quote": "למה היה מפציר להכניס אורחים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מבית אברהם למד לחזור על האורחים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:1:5",
+        "quote": "מבית אברהם למד לחזור על האורחים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: פן ילינו ברחוב, כמו שהיה אז המנהג בשאר הערים כשאין מכניס אורחים, ויזיקו להם רשעי העיר.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 19:1:2",
+        "quote": "ויזיקו להם רשעי העיר"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: הכיר בהם כי הם מהמוכרים אצלו למשרתי עליון בהיותו בשכנות אברהם, ולכן מסר נפשו עליהם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 19:1:2",
+        "quote": "הכיר בהם כי הם מהמוכרים אצלו למשרתי עליון"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: עם כל זה נשארו לו שיריים מבית אברהם.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 19:1:1",
+        "quote": "ועם כל זה נשארו לו שיריים מבית אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כמה מהשפעת אברהם נשארה בלוט."
+   },
+   {
+    "title": "מדוע התרעמו אנשי סדום על לוט שהוא 'שופט'?",
+    "pasuk": {
+     "text": "האחד בא לגור וישפט שפוט",
+     "ref": "Genesis 19:9",
+     "label": "בראשית יט, ט"
+    },
+    "question": "לוט מונה באותו יום לשופט בסדום. מדוע מתרעמים עליו אנשי העיר על שהוא שופט?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 19:9:1",
+      "era": "acharon",
+      "quote": "ולמה התרעמו עליו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כלי יקר: כפל הלשון 'וישפט שפוט' — שאתה רוצה לשפוט דבר שפוט כבר, שהרי שמו חוק שאורח ברגליו לא יבוא אל היכלו של שום אחד.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 19:9:1",
+        "quote": "שאתה רוצה לשפוט דבר שפוט כבר"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: הגר שמניחים אותו לגור במדינה והוא עובר על חוקי המדינה — עונשו יותר גדול מן האזרח, וכן השופט יותר מההדיוט.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 19:9:1",
+        "quote": "הגר שמניחים אותו לגור במדינה והוא עובר על חוקי המדינה ענשו יותר גדול מן האזרח"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: אחרי ש'גש הלאה' בלשון נחת, התחילו לדבר עמו קשות 'האחד בא לגור וישפוט שפוט'.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 19:9:1",
+        "quote": "ואחר כך התחילו לדבר עמו קשות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שאכזריות סדום הייתה קבועה בחוקיה."
+   },
+   {
+    "title": "מדוע המשיכו אנשי סדום המוכים בעיוורון לחפש את הפתח?",
+    "pasuk": {
+     "text": "וילאו למצא הפתח",
+     "ref": "Genesis 19:11",
+     "label": "בראשית יט, יא"
+    },
+    "question": "אחרי שהוכו בסנוורים, מדוע המשיכו לחפש את הפתח ולא ברחו?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 19:10:1",
+      "era": "acharon",
+      "quote": "ואחר שהוכו בסנורים למה בקשו הפתח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אלשיך: בהיותם סומים בחרו לברוח, וילאו למצוא הפתח הגדול היותר מסויים הוא פתח החצר להמלט על נפשם.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 19:10:1",
+        "quote": "בחרו לברוח וילאו למצוא הפתח הגדול היותר מסויים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: טרחו למצוא הפתח כדי לשבור הדלת, כאמרם רשעים אפילו עומדים בפתחו של גיהנם אינם חוזרים בתשובה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 19:11:1",
+        "quote": "רשעים אפילו עומדים בפתחו של גיהנם אינם חוזרים בתשובה"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: לפי רוב עונם כבר נסתמו מהם דרכי התשובה.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 19:11:1",
+        "quote": "נסתמו מהם דרכי התשובה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: סנורים הוא דרך שגעון ועורון, סבור לראות ואינו רואה, וכשיש לו ללכת אל הפתח הולך במקום אחר.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 19:11:1",
+        "quote": "סבור לראות ואינו רואה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה אם יכלו אנשי סדום עדיין לשוב."
+   },
+   {
+    "title": "מדוע הוכו הקטנים לפני הגדולים?",
+    "pasuk": {
+     "text": "מקטן ועד גדול",
+     "ref": "Genesis 19:11",
+     "label": "בראשית יט, יא"
+    },
+    "question": "הפסוק יכול היה לומר שכל האנשים הוכו. מדוע נאמר 'מקטן ועד גדול'?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:11:2",
+      "era": "acharon",
+      "quote": "אם לא כן למה קטנים תחלה"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 19:11:1",
+      "era": "acharon",
+      "quote": "קשה מנ\"ל האי דלמא דטעמא דבקלקלה מתחילין מן הקטן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הקטנים התחילו בעבירה תחילה, ולפיכך התחילה הפורענות מהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:11:3",
+        "quote": "הקטנים התחילו בעבירה תחלה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: מי שהתחיל בעבירה ממנו התחילה הפורענות.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 50:8",
+        "quote": "מי שהתחיל בעבירה ממנו התחילה הפורענות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שהדין מתחיל במי שהתחיל בעבירה."
+   },
+   {
+    "title": "מדוע המלאכים אומרים ללוט 'ובניך' כשאין לו בנים?",
+    "pasuk": {
+     "text": "חתן ובניך ובנתיך",
+     "ref": "Genesis 19:12",
+     "label": "בראשית יט, יב"
+    },
+    "question": "המלאכים אומרים ללוט להוציא חתן ובנים ובנות, אך לוט לא היו לו אלא בנות. מי הם 'בניך'?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:12:2",
+      "era": "acharon",
+      "quote": "ואם כן למה אמר ובניך"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 19:12:1",
+      "era": "acharon",
+      "quote": "ובנים לא היו לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בני בנותיך הנשואות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:12:3",
+        "quote": "בני בנותיך הנשואות"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: או חתנים שהם כבניך וכבנותיך.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 19:12:2",
+        "quote": "או חתנים שהם כבניך וכבנותיך"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ובניך — בני בנותיך, כי לא היו לו בנים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 19:12:2",
+        "quote": "בני בנותיך כי לא היו לו בנים"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: ובנים הן עמון ומואב, ובנותיך הן השתי בנות.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 19:12:1",
+        "quote": "ובנים הן עמון ומואב"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד דברי המלאכים כבר רמזו למה שיבוא."
+   },
+   {
+    "title": "שני מלאכים אומרים 'משחיתים אנחנו', אך אחד מציל ואחד מחריב. כיצד?",
+    "pasuk": {
+     "text": "כי משחתים אנחנו את המקום הזה",
+     "ref": "Genesis 19:13",
+     "label": "בראשית יט, יג"
+    },
+    "question": "המלאכים אומרים 'כי משחיתים אנחנו', אך אחד נשלח להציל את לוט ואחד בלבד להפוך את סדום. מדוע לשון רבים?",
+    "asked_by": [
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 19:16:1",
+      "era": "rishon",
+      "quote": "תימה לי והלא לא היה מציל אלא אחד"
+     },
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 19:13:1",
+      "era": "rishon",
+      "quote": "והלא לא היה אלא אחד לשחתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אחד מהם היה שליח להצילו וחברו להפוך סדום, לכך נאמר ויאמר ולא נאמר ויאמרו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:16:2",
+        "quote": "אחד מהם היה שליח להצילו וחברו להפוך סדום"
+       }
+      ]
+     },
+     {
+      "text": "טור הארוך: כיון שלא היה המשחית יכול לעשות דבר עד שיהא לוט ניצול, נמצא ההצלה צורך ההשחתה ולכך היה מסייע בהצלה.",
+      "sources": [
+       {
+        "name": "טור הארוך",
+        "ref": "Tur HaArokh, Genesis 19:16:1",
+        "quote": "כיון שלא היה המשחית יכול לעשות דבר עד שיהא לוט ניצול"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: לצד שהיו שניהם יחד היו אומרים לשון רבים, שלא יהיה נראה כי מה שלפניו אינו אלא שמש בעלמא.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 19:13:1",
+        "quote": "לצד שהיו שניהם יחד היו אומרים לשון רבים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: יש כאן טענה על האומר כי האחד הלך להציל את לוט, כי הנה שניהם דברו אליו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 19:12:2",
+        "quote": "והנה פה טענה על האומר כי האחד הלך להציל את לט"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד הבינו חז\"ל והמפרשים את תפקידי שני המלאכים."
+   },
+   {
+    "title": "מדוע נאסר על לוט להביט אחריו?",
+    "pasuk": {
+     "text": "המלט על נפשך אל תביט אחריך",
+     "ref": "Genesis 19:17",
+     "label": "בראשית יט, יז"
+    },
+    "question": "מדוע נאסר על לוט להביט אחריו, ומדוע אשתו נעשית נציב מלח על כך?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 19:17:1",
+      "era": "acharon",
+      "quote": "קשה למה נענשה דוקא בפעם הזאת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רשב\"ם: בשביל צער חתניך שבעיר, ועוד כי המביט אחריו מתעכב בדרך, וגם שלא להסתכל במלאכים ובמעשיהם.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 19:17:1",
+        "quote": "המביט אחריו מתעכב בדרך"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כי הרעה תתפשט עדיך כמהלכת אחריך ולא תזיקך, אבל אם תתעכב להביט תדבק בך, כמו שקרה לאשתו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 19:17:1",
+        "quote": "אבל אם תתעכב להביט תדבק בך"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: הכרת פני האדם תענה בו מה פעל, לכן לא יחזיר פניו למול העיר.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 19:17:1",
+        "quote": "הכרת פני האדם תענה בו מה פעל"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אל תעמוד בכל הככר ואל תביט אחריך אחר שתנצל, כי עד היות לוט בהר לא תרד עליהם רעה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 19:17:1",
+        "quote": "כי עד הֱיוֹת לוֹט בָּהָר לֹא תֵּרֵד עֲלֵיהֶם רָעָה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה את הגבול בין המתנה לפורענות לבין היסחפות בה."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "גור אריה",
+   "מזרחי",
+   "רד\"ק",
+   "אברבנאל",
+   "רבינו בחיי",
+   "ספורנו",
+   "אור החיים",
+   "מדרש תנחומא (בובר)",
+   "צרור המור",
+   "כלי יקר",
+   "מלבי\"ם",
+   "אלשיך",
+   "בכור שור",
+   "שפתי חכמים",
+   "בראשית רבה",
+   "אבן עזרא",
+   "טור הארוך",
+   "הדר זקנים",
+   "רשב\"ם",
+   "רמב\"ן"
+  ]
+ }
+}
