@@ -1,0 +1,1067 @@
+{
+ "date": "2026-10-27",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 19:21-21:4",
+ "hebrew_date": {
+  "hebrew": "ט״ז בְּחֶשְׁוָן תשפ״ז",
+  "english": "16 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "God grants Lot's request to flee to the small town of Zoar, and as the sun rises burning sulfur and fire rain down from heaven on Sodom and Gomorrah and overturn the cities. Lot's wife looks back and becomes a pillar of salt. Abraham goes to the place where he stood before the Lord and sees smoke rising like a furnace, and God remembers Abraham and sends Lot out. Lot settles in a cave with his two daughters, who make him drunk to bear children; Moab and Ben-Ammi are born. Abraham moves to Gerar, where Avimelech takes Sarah, is warned by God in a dream, returns her with gifts and is healed through Abraham's prayer. God remembers Sarah, she bears Isaac, and Abraham circumcises him at eight days.",
+  "questions": [
+   {
+    "title": "Why does the angel say 'I cannot do anything until you arrive' when he is a messenger who simply does what he is sent to do?",
+    "pasuk": {
+     "text": "כי לא אוכל לעשות דבר עד באך שמה",
+     "ref": "Genesis 19:22",
+     "label": "Genesis 19:22"
+    },
+    "question": "Lot is told to flee, and the angel adds that he cannot act until Lot reaches Zoar. Why would the destruction be held back for Lot, and why is the angel speaking as if it were up to him?",
+    "asked_by": [
+     {
+      "name": "Chatam Sofer",
+      "ref": "Chatam Sofer on Torah, Vayera 25",
+      "era": "acharon",
+      "quote": "וצ\"ע שהרי אמרו וישלחנו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:22:1",
+      "era": "acharon",
+      "quote": "למה להו למימר כי לא אוכל לעשות דבר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: this was the angels' punishment for saying 'we are about to destroy this place' - they spoke as if it were in their own hands, so they were made to say that it is not in their power.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:22:1",
+        "quote": "זה ענשן של מלאכים על שאמרו כי משחיתים אנחנו"
+       }
+      ]
+     },
+     {
+      "text": "Chatam Sofer, citing the Ramban: it shows that, unlike what Avraham feared, even a whole city was saved for the sake of one righteous man. The Chatam Sofer himself adds that the angels had to admit that Zoar was saved for Lot alone.",
+      "sources": [
+       {
+        "name": "Chatam Sofer, citing Ramban",
+        "ref": "Chatam Sofer on Torah, Vayera 25",
+        "quote": "כי בזה הראה דלא כאשר חשב אאע\"ה שיספה צדיק עם רשע"
+       },
+       {
+        "name": "Chatam Sofer",
+        "ref": "Chatam Sofer on Torah, Vayera 25",
+        "quote": "הוצרכו להודות שממלט צוער בשביל לוט לחוד"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a messenger speaks about his mission, and whether one righteous person can hold back a decree."
+   },
+   {
+    "title": "Why was Lot's wife turned into salt, and why did she suffer more than everyone else in the city?",
+    "pasuk": {
+     "text": "ותבט אשתו מאחריו ותהי נציב מלח",
+     "ref": "Genesis 19:26",
+     "label": "Genesis 19:26"
+    },
+    "question": "She only looked back. Why does the Torah say she became a pillar of salt, and why did the punishment reach her when the angel had said nothing could happen until Lot arrived in Zoar?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:26:2",
+      "era": "acharon",
+      "quote": "דאם לא כן למה לקתה במלח"
+     },
+     {
+      "name": "Tur HaArokh",
+      "ref": "Tur HaArokh, Genesis 19:26:2",
+      "era": "rishon",
+      "quote": "למה לקתה יותר מכל בני העיר"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 19:23",
+      "era": "acharon",
+      "quote": "כי היה לו לומר ומתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: she sinned with salt and was struck with salt - Lot asked her to give a little salt to the guests and she refused.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:26:2",
+        "quote": "במלח חטאה ובמלח לקתה"
+       }
+      ]
+     },
+     {
+      "text": "Tur HaArokh (Rabbi Yisrael): the punishment began only after Lot reached Zoar; she was walking behind him, and her looking back delayed her until it caught her.",
+      "sources": [
+       {
+        "name": "Tur HaArokh",
+        "ref": "Tur HaArokh, Genesis 19:26:2",
+        "quote": "ההבטה גרמה לה העכוב"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: she looked back because she was busy trying to save the flocks and the property, the opposite of what Lot was told, so she did not go with her husband and was struck like the city.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 19:23",
+        "quote": "שהתעסק להציל הצאן והבקר ושאר הנכסים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the salt matches the destruction itself - the land was burned with sulfur and salt, and she was struck with it.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 19:26:2",
+        "quote": "כי נשרפו עצמית בגפרית"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether the punishment was measure for measure or a result of lingering, and what the command not to look back was about."
+   },
+   {
+    "title": "In whose merit was Lot saved - what does it mean that God 'remembered Abraham'?",
+    "pasuk": {
+     "text": "ויזכר אלהים את אברהם וישלח את לוט מתוך ההפכה",
+     "ref": "Genesis 19:29",
+     "label": "Genesis 19:29"
+    },
+    "question": "The verse says God remembered Abraham and sent Lot out of the overturning. What exactly did God remember of Abraham in connection with Lot?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 19:29:1",
+      "era": "rishon",
+      "quote": "מהו זכירתו של אברהם על לוט"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:29:1",
+      "era": "acharon",
+      "quote": "מהו זכירתו של אברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Lot knew that Sarah was Abraham's wife and heard him say 'she is my sister' in Egypt, yet he did not reveal it - he spared Abraham, so God spared him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:29:1",
+        "quote": "ולא גלה הדבר שהיה חס עליו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Lot went with the righteous Abraham out of kindness, and that is why Lot was settled in Sodom at all - so he had merit to be saved in Abraham's merit.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 19:29:1",
+        "quote": "ולכן היה לו זכות להצילו בזכות אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the reason given by Chazal cannot be that Lot went with Abraham, since he went only for his own benefit; the meaning is the hidden connection of Lot to Abraham, in that he did not reveal Abraham's secret.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 19:29:1",
+        "quote": "לא הלך רק לטובתו"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 19:29:1",
+        "quote": "בפנימית הענין יש ללוט צרוף וייחוס אל אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It sets two explanations side by side - loyalty in travelling with Abraham (Ramban) or silence about Sarah (Rashi) - and Gur Aryeh weighs them."
+   },
+   {
+    "title": "Why is 'bekumah' dotted - and if Lot did know when she rose, why does the verse say he did not know?",
+    "pasuk": {
+     "text": "ולא ידע בשכבה ובקומה",
+     "ref": "Genesis 19:33",
+     "label": "Genesis 19:33"
+    },
+    "question": "The verse says Lot did not know when she lay down or when she rose, but the word 'when she rose' carries dots above it. What do the dots teach, and how can the verse say he did not know when the dots say he did?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 19:33:3",
+      "era": "acharon",
+      "quote": "למה נקוד על ו' מן ובקומה של בכירה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 19:33:4",
+      "era": "acharon",
+      "quote": "ואם תאמר אם כן למה נכתב ולא ידע בקומה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the dot says that when she rose he did know, and even so he did not guard himself from drinking on the second night.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 19:33:3",
+        "quote": "שבקומה ידע ואעפ\"כ לא נשמר"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: he did not know whether it had actually been intercourse; he saw her rise but did not know whether she rose from having been with him, or merely rose after lying beside him.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 19:33:4",
+        "quote": "שלא ידע אם בעילה ממש היה או לאו בעילה היה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a single dotted letter shapes how much responsibility Lot bears for what happened."
+   },
+   {
+    "title": "Why did Abraham leave Hebron and move to Gerar?",
+    "pasuk": {
+     "text": "ויסע משם אברהם ארצה הנגב",
+     "ref": "Genesis 20:1",
+     "label": "Genesis 20:1"
+    },
+    "question": "The Torah does not say why Abraham moved on. What drove him to leave?",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 20:1:1",
+      "era": "chazal",
+      "quote": "ויסע משם אברהם למה נסע"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 20:1:1-3",
+      "era": "acharon",
+      "quote": "שאלות למה נסע משם"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 20:1:1",
+      "era": "acharon",
+      "quote": "דלפירוש הראשון יקשה לכתוב זה למעלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: when he saw the cities destroyed and passers-by stopped coming, he left; another view: to get away from Lot, about whom a bad name had gone out.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 20:1:1",
+        "quote": "כשראה שחרבו הכרכים ופסקו העוברים והשבים"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 20:1:1",
+        "quote": "להתרחק מלוט שיצא עליו שם רע"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: because of the bad name of Lot, people saying that Lot, Abraham's nephew, had come upon his daughters; and, since the road traffic stopped, Abraham asked why he should stop giving charity from his house, and pitched a tent in Gerar.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 20:1:1",
+        "quote": "מפני שם רע של לוט"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 20:1:2",
+        "quote": "למה אני מפסיק צדקה מביתי"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: the main thing is that he knew it was God's will that he not settle in one place but keep travelling to spread faith in God, living as a guest in the land.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 20:1:1-3",
+        "quote": "שלא ישב במק\"א רק הלוך ונסוע לפרסם אמונת ה'"
+       }
+      ]
+     }
+    ],
+    "why": "Several reasons are given, and Gur Aryeh questions where the first one fits in the sequence."
+   },
+   {
+    "title": "Why does Avimelech need Abraham's prayer, if he never touched Sarah?",
+    "pasuk": {
+     "text": "ועתה השב אשת האיש כי נביא הוא ויתפלל בעדך וחיה",
+     "ref": "Genesis 20:7",
+     "label": "Genesis 20:7"
+    },
+    "question": "God told Avimelech to return the woman because Abraham is a prophet and will pray for him. Why does he need prayer at all, and why does it matter that Abraham is a prophet?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 20:7:1",
+      "era": "acharon",
+      "quote": "ולא נתבאר עדיין למה הוא צריך לתפלה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 20:7:1",
+      "era": "acharon",
+      "quote": "וכי אם לא יתפלל לא ישיב לו"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 20:1:1-3",
+      "era": "acharon",
+      "quote": "ולמה הוצרך שיתפלל בעדו אחר שלא נגע בה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: a prophet knows you did not touch her, therefore he will pray for you; and do not think she became repulsive to Abraham or that he will hate you and not pray.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 20:7:2",
+        "quote": "ויודע שלא נגעת בה לפיכך"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 20:7:1",
+        "quote": "ואל תהא סבור שמא תתגנה בעיניו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the real sin was the pain caused to Abraham, and one who wrongs another also sins against heaven, so even after being appeased he still needs forgiveness from God through Abraham's prayer.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 20:7:2",
+        "quote": "החוטא בין אדם לחבירו הוא חטא בין אדם לשמים"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: God answers Avimelech's concern about appeasing Sarah's husband - why should it trouble you, he knows already, for he is a prophet.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma Buber, Vayera 25:3",
+        "quote": "מה איכפת לך מפיוס"
+       }
+      ]
+     }
+    ],
+    "why": "It joins the nature of prophecy to the idea that wronging a person needs both his forgiveness and God's."
+   },
+   {
+    "title": "What does 'a covering of the eyes' mean in Avimelech's words to Sarah?",
+    "pasuk": {
+     "text": "הנה הוא לך כסות עינים לכל אשר אתך",
+     "ref": "Genesis 20:16",
+     "label": "Genesis 20:16"
+    },
+    "question": "Avimelech tells Sarah that the money or her husband is 'a covering of the eyes' for all who are with her. Who covers whose eyes, and how?",
+    "asked_by": [
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 20:16:1",
+      "era": "acharon",
+      "quote": "המכוון במקרא קשה מאד"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 20:1:1-3",
+      "era": "acharon",
+      "quote": "ולשרה אמר וכו' נלחצו בו המבארים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the money and honor given to Abraham will make people shut their eyes so they do not despise her - if he had sent her back empty-handed, they would say he returned her after abusing her.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 20:16:2",
+        "quote": "יכסו עיניהם שלא יקלוך"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the gift covers the eyes of all who look at her beauty, so that people will fear her, saying the king redeemed himself for laying a hand on a prophet's wife.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 20:16:1",
+        "quote": "כסות עיני כל המביטים ביפיך"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the more correct reading is that Abraham himself is a covering of the eyes for her and for the servants with her.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 20:16:1",
+        "quote": "אברהם הוא כסות עינים לך ולעבדים"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: Avimelech took a royal garment and dressed her in it, making her a noblewoman, so that no one would ever seek her.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma Buber, Vayera 27:1",
+        "quote": "נטל לבוש מלכות והלבישה ועשאה מטרונה"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: like the covering a husband makes over the eyes of men in eastern lands, so that they do not look at his wife; had Abraham made known that he was her husband, others would have been kept from desiring her.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 20:16:1",
+        "quote": "הבעל עושה כסות ומכסה לעיני כל אנשים מלהביט באשתו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how widely the commentators differ over a phrase the Torah leaves undefined."
+   },
+   {
+    "title": "Why does the verse repeat itself - 'as He said' and 'as He spoke'?",
+    "pasuk": {
+     "text": "וה' פקד את שרה כאשר אמר ויעש ה' לשרה כאשר דבר",
+     "ref": "Genesis 21:1",
+     "label": "Genesis 21:1"
+    },
+    "question": "The verse says God remembered Sarah as He said, and did for Sarah as He spoke. What is the difference between the two halves, and between 'saying' and 'speaking'?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 21:1",
+      "era": "acharon",
+      "quote": "השאלה הא' בהכפל וה' פקד את שרה כאשר אמר ויעש ה' לשרה כאשר דבר"
+     },
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 21:1:3",
+      "era": "rishon",
+      "quote": "והיכן היא אמירה והיכן הוא דבור"
+     },
+     {
+      "name": "Chatam Sofer",
+      "ref": "Chatam Sofer on Torah, Vayera 36",
+      "era": "acharon",
+      "quote": "כפל הלשון וה' פקד את שרה כאשר אמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'remembered as He said' refers to the pregnancy; 'as He spoke' refers to the birth.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:1:2",
+        "quote": "פקד את שרה כאשר אמר בהריון"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:1:3",
+        "quote": "כאשר דבר בלידה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: 'pekidah' is only a word for remembering and watching over the one remembered, as with Rachel and Chanah - He remembered Sarah and did for her as He had said.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 21:1:1",
+        "quote": "אלא לשון זכירה והשגחה על הנפקד"
+       }
+      ]
+     }
+    ],
+    "why": "Abarbanel rejects both Rashi's and Ramban's answers, which shows how hard the verse's repetition is to explain."
+   }
+  ],
+  "sources_consulted": [
+   "Chatam Sofer",
+   "Gur Aryeh",
+   "Rashi",
+   "Chatam Sofer, citing Ramban",
+   "Tur HaArokh",
+   "Abarbanel",
+   "Ibn Ezra",
+   "Ramban",
+   "Torah Temimah",
+   "Midrash Lekach Tov",
+   "Malbim",
+   "Haamek Davar",
+   "Midrash Tanchuma",
+   "HaKtav VeHaKabalah"
+  ]
+ },
+ "hebrew": {
+  "summary": "ה' נענה לבקשת לוט להימלט לצוער העיר הקטנה, ועם זריחת השמש יורדים מן השמים גפרית ואש על סדום ועמורה והערים נהפכות. אשת לוט מביטה לאחור והופכת לנציב מלח. אברהם משכים אל המקום אשר עמד שם לפני ה' ורואה קיטור כקיטור הכבשן, ואלהים זוכר את אברהם ושולח את לוט. לוט יושב במערה עם שתי בנותיו, שמשקות אותו יין כדי להוליד ממנו בנים, ונולדים מואב ובן עמי. אברהם נוסע לגרר, ושם לוקח אבימלך את שרה, נוזף בו האלהים בחלום, והוא משיבה בצירוף מתנות ונרפא בתפילת אברהם. ה' פוקד את שרה, היא יולדת את יצחק, ואברהם מל אותו בן שמונת ימים.",
+  "questions": [
+   {
+    "title": "למה אומר המלאך 'כי לא אוכל לעשות דבר עד באך שמה', והלא שליח עושה את שליחותו?",
+    "pasuk": {
+     "text": "כי לא אוכל לעשות דבר עד באך שמה",
+     "ref": "Genesis 19:22",
+     "label": "בראשית יט, כב"
+    },
+    "question": "המלאך מורה ללוט להימלט ומוסיף שאינו יכול לעשות דבר עד שיגיע לצוער. מדוע נעצרת ההפיכה בשביל לוט, ומדוע מדבר המלאך כאילו הדבר בידו?",
+    "asked_by": [
+     {
+      "name": "חתם סופר",
+      "ref": "Chatam Sofer on Torah, Vayera 25",
+      "era": "acharon",
+      "quote": "וצ\"ע שהרי אמרו וישלחנו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:22:1",
+      "era": "acharon",
+      "quote": "למה להו למימר כי לא אוכל לעשות דבר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: זה עונשם של המלאכים על שאמרו 'כי משחיתים אנחנו' ותלו את הדבר בעצמם, ולכן הוזקקו לומר שאין הדבר ברשותם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:22:1",
+        "quote": "זה ענשן של מלאכים על שאמרו כי משחיתים אנחנו"
+       }
+      ]
+     },
+     {
+      "text": "החתם סופר מביא את הרמב\"ן: בזה הראה שלא כמו שחשב אברהם שיספה צדיק עם רשע, שהרי עיר שלמה ניצלה בשביל לוט. והחתם סופר מוסיף שהמלאכים הוצרכו להודות שצוער ניצלה בשביל לוט לבדו.",
+      "sources": [
+       {
+        "name": "חתם סופר בשם הרמב\"ן",
+        "ref": "Chatam Sofer on Torah, Vayera 25",
+        "quote": "כי בזה הראה דלא כאשר חשב אאע\"ה שיספה צדיק עם רשע"
+       },
+       {
+        "name": "חתם סופר",
+        "ref": "Chatam Sofer on Torah, Vayera 25",
+        "quote": "הוצרכו להודות שממלט צוער בשביל לוט לחוד"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מלמדת איך מדבר שליח על שליחותו, והאם צדיק אחד יכול לעכב גזירה."
+   },
+   {
+    "title": "מדוע נהפכה אשת לוט לנציב מלח, ולמה לקתה יותר משאר העיר?",
+    "pasuk": {
+     "text": "ותבט אשתו מאחריו ותהי נציב מלח",
+     "ref": "Genesis 19:26",
+     "label": "בראשית יט, כו"
+    },
+    "question": "היא רק הביטה לאחור. מדוע נהפכה דווקא לנציב מלח, ולמה פגע בה העונש כשהמלאך אמר שלא יעשה דבר עד שיגיע לוט לצוער?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:26:2",
+      "era": "acharon",
+      "quote": "דאם לא כן למה לקתה במלח"
+     },
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 19:26:2",
+      "era": "rishon",
+      "quote": "למה לקתה יותר מכל בני העיר"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 19:23",
+      "era": "acharon",
+      "quote": "כי היה לו לומר ומתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: במלח חטאה ובמלח לקתה - אמר לה לוט תני מעט מלח לאורחים הללו, והיא סירבה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:26:2",
+        "quote": "במלח חטאה ובמלח לקתה"
+       }
+      ]
+     },
+     {
+      "text": "טור הארוך (ר' ישראל): המכה התחילה רק אחרי שבא לוט לצוער, והיא באה אחריו, והבטתה גרמה לה עיכוב עד שהדביקה אותה המכה.",
+      "sources": [
+       {
+        "name": "טור הארוך",
+        "ref": "Tur HaArokh, Genesis 19:26:2",
+        "quote": "ההבטה גרמה לה העכוב"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: היא הביטה לאחור כי התעסקה בהצלת הצאן והבקר והנכסים, הפך מה שנצטווה לוט, ולכן לא הלכה עם בעלה ונדבקה בה הרעה כמו שאר העיר.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 19:23",
+        "quote": "שהתעסק להציל הצאן והבקר ושאר הנכסים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: המלח מתאים לאופי ההפיכה עצמה - הארץ נשרפה בגפרית ומלח, והיא לקתה בכך.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 19:26:2",
+        "quote": "כי נשרפו עצמית בגפרית"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה היא אם העונש היה מידה כנגד מידה או תוצאה של התעכבות, ומה היה ענין האיסור להביט אחורה."
+   },
+   {
+    "title": "בזכות מה ניצל לוט - מהי 'זכירתו' של אברהם?",
+    "pasuk": {
+     "text": "ויזכר אלהים את אברהם וישלח את לוט מתוך ההפכה",
+     "ref": "Genesis 19:29",
+     "label": "בראשית יט, כט"
+    },
+    "question": "הפסוק אומר שהשם זכר את אברהם ושלח את לוט מתוך ההפכה. מה בדיוק זכר השם לאברהם בקשר ללוט?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 19:29:1",
+      "era": "rishon",
+      "quote": "מהו זכירתו של אברהם על לוט"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:29:1",
+      "era": "acharon",
+      "quote": "מהו זכירתו של אברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לוט ידע ששרה אשתו של אברהם ושמע שאמר 'אחותי היא' במצרים ולא גילה, שהיה חס עליו, ולכן חס הקב\"ה עליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:29:1",
+        "quote": "ולא גלה הדבר שהיה חס עליו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: לוט התחסד עם הצדיק ללכת עמו, ולכן היה לו זכות להצילו בזכות אברהם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 19:29:1",
+        "quote": "ולכן היה לו זכות להצילו בזכות אברהם"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: זכירת אברהם אינה מפני שהלך עמו, שהרי לא הלך רק לטובתו; הכוונה לצירוף וייחוס הפנימי של לוט אל אברהם, שלא גילה סוד אברהם.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 19:29:1",
+        "quote": "לא הלך רק לטובתו"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 19:29:1",
+        "quote": "בפנימית הענין יש ללוט צרוף וייחוס אל אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מעמידה זו מול זו שתי סיבות - נאמנות בהליכה עם אברהם (רמב\"ן) או שתיקה על שרה (רש\"י) - והגור אריה שוקל ביניהן."
+   },
+   {
+    "title": "מדוע נקוד 'ובקומה', ואם ידע בקומה מדוע כתוב שלא ידע?",
+    "pasuk": {
+     "text": "ולא ידע בשכבה ובקומה",
+     "ref": "Genesis 19:33",
+     "label": "בראשית יט, לג"
+    },
+    "question": "הפסוק אומר שלוט לא ידע בשכבה ובקומה, אך על המילה 'ובקומה' יש נקודות. מה באות הנקודות ללמד, ואיך אפשר לומר שלא ידע כשהנקודות באות לומר שידע?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 19:33:3",
+      "era": "acharon",
+      "quote": "למה נקוד על ו' מן ובקומה של בכירה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 19:33:4",
+      "era": "acharon",
+      "quote": "ואם תאמר אם כן למה נכתב ולא ידע בקומה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הנקודה באה לומר שבקומה ידע, ואף על פי כן לא נשמר מלשתות בלילה השני.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 19:33:3",
+        "quote": "שבקומה ידע ואעפ\"כ לא נשמר"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: לא ידע אם בעילה ממש היה או לאו בעילה היה; ראה שקמה מאצלו, אך לא ידע אם קמה מן התשמיש או שקמה אחרי ששכבה עמו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 19:33:4",
+        "quote": "שלא ידע אם בעילה ממש היה או לאו בעילה היה"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מראה איך אות נקודה אחת משפיעה על מידת האחריות של לוט למה שאירע."
+   },
+   {
+    "title": "למה נסע אברהם משם ועבר לגרר?",
+    "pasuk": {
+     "text": "ויסע משם אברהם ארצה הנגב",
+     "ref": "Genesis 20:1",
+     "label": "בראשית כ, א"
+    },
+    "question": "התורה אינה אומרת מדוע נסע אברהם. מה גרם לו לעזוב?",
+    "asked_by": [
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 20:1:1",
+      "era": "chazal",
+      "quote": "ויסע משם אברהם למה נסע"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 20:1:1-3",
+      "era": "acharon",
+      "quote": "שאלות למה נסע משם"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 20:1:1",
+      "era": "acharon",
+      "quote": "דלפירוש הראשון יקשה לכתוב זה למעלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כשראה שחרבו הכרכים ופסקו העוברים והשבים נסע משם; דבר אחר: להתרחק מלוט שיצא עליו שם רע.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 20:1:1",
+        "quote": "כשראה שחרבו הכרכים ופסקו העוברים והשבים"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 20:1:1",
+        "quote": "להתרחק מלוט שיצא עליו שם רע"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: מפני שם רע של לוט, שהיו אומרים לוט בן אחי אברהם בא על בנותיו; ומשפסקו העוברים והשבים אמר אברהם למה אני מפסיק צדקה מביתי, והלך ונטה אהל בגרר.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 20:1:1",
+        "quote": "מפני שם רע של לוט"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 20:1:2",
+        "quote": "למה אני מפסיק צדקה מביתי"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: העיקר שידע רצון ה' שלא ישב במקום אחד אלא ילך ויסע לפרסם אמונת ה', ויהיה גר בארץ כאורח.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 20:1:1-3",
+        "quote": "שלא ישב במק\"א רק הלוך ונסוע לפרסם אמונת ה'"
+       }
+      ]
+     }
+    ],
+    "why": "ניתנו כמה טעמים, והגור אריה מקשה על מקום הטעם הראשון בסדר הפרשיות."
+   },
+   {
+    "title": "למה צריך אבימלך את תפילת אברהם אם לא נגע בשרה?",
+    "pasuk": {
+     "text": "ועתה השב אשת האיש כי נביא הוא ויתפלל בעדך וחיה",
+     "ref": "Genesis 20:7",
+     "label": "בראשית כ, ז"
+    },
+    "question": "הקב\"ה אמר לאבימלך להשיב את האשה כי אברהם נביא ויתפלל בעדו. למה הוא צריך תפילה, ומה משמעות הדבר שאברהם נביא?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 20:7:1",
+      "era": "acharon",
+      "quote": "ולא נתבאר עדיין למה הוא צריך לתפלה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 20:7:1",
+      "era": "acharon",
+      "quote": "וכי אם לא יתפלל לא ישיב לו"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 20:1:1-3",
+      "era": "acharon",
+      "quote": "ולמה הוצרך שיתפלל בעדו אחר שלא נגע בה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נביא יודע שלא נגעת בה, לפיכך יתפלל בעדך; ואל תהא סבור שמא תתגנה בעיניו או שישנאך ולא יתפלל עליך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 20:7:2",
+        "quote": "ויודע שלא נגעת בה לפיכך"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 20:7:1",
+        "quote": "ואל תהא סבור שמא תתגנה בעיניו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: עיקר החטא היה צערו של אברהם, והחוטא בין אדם לחבירו חוטא גם בין אדם לשמים, ולכן גם אחרי הפיוס הוא צריך תפילת אברהם שיימחל לו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 20:7:2",
+        "quote": "החוטא בין אדם לחבירו הוא חטא בין אדם לשמים"
+       }
+      ]
+     },
+     {
+      "text": "תנחומא: הקב\"ה משיב לאבימלך על דאגתו מפיוס בעלה של שרה - מה איכפת לך, יודע הוא, כי נביא הוא.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma Buber, Vayera 25:3",
+        "quote": "מה איכפת לך מפיוס"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מחברת בין מהות הנבואה לבין הרעיון שפגיעה באדם דורשת גם סליחתו וגם סליחת ה'."
+   },
+   {
+    "title": "מהו 'כסות עינים' בדברי אבימלך לשרה?",
+    "pasuk": {
+     "text": "הנה הוא לך כסות עינים לכל אשר אתך",
+     "ref": "Genesis 20:16",
+     "label": "בראשית כ, טז"
+    },
+    "question": "אבימלך אומר לשרה שהממון או בעלה הוא 'כסות עינים' לכל אשר אתה. מי מכסה את עיני מי, ואיך?",
+    "asked_by": [
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 20:16:1",
+      "era": "acharon",
+      "quote": "המכוון במקרא קשה מאד"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 20:1:1-3",
+      "era": "acharon",
+      "quote": "ולשרה אמר וכו' נלחצו בו המבארים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הממון והכבוד יגרמו שיכסו עיניהם ולא יקלו בה - שאילו השיבה ריקנית יאמרו שהחזירה אחרי שנתעלל בה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 20:16:2",
+        "quote": "יכסו עיניהם שלא יקלוך"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הכסף מכסה את עיני כל המביטים ביפיה, וייראו ממנה בראותם שהמלך פדה נפשו על שלחו יד באשת הנביא.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 20:16:1",
+        "quote": "כסות עיני כל המביטים ביפיך"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הנכון יותר שאברהם עצמו הוא כסות עינים לה ולעבדים אשר אתה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 20:16:1",
+        "quote": "אברהם הוא כסות עינים לך ולעבדים"
+       }
+      ]
+     },
+     {
+      "text": "תנחומא: נטל לבוש מלכות והלבישה ועשאה מטרונה, כדי שלא יתבע אותה אדם בעולם.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma Buber, Vayera 27:1",
+        "quote": "נטל לבוש מלכות והלבישה ועשאה מטרונה"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: כמו שהבעל עושה כסות ומכסה לעיני כל אנשים מלהביט באשתו; אילו פרסם אברהם שהוא בעלה היו נמנעים אחרים מלחשוק בה.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 20:16:1",
+        "quote": "הבעל עושה כסות ומכסה לעיני כל אנשים מלהביט באשתו"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מראה עד כמה נחלקו המפרשים בענין ביטוי שהתורה אינה מגדירה."
+   },
+   {
+    "title": "מדוע הפסוק כופל - 'כאשר אמר' ו'כאשר דבר'?",
+    "pasuk": {
+     "text": "וה' פקד את שרה כאשר אמר ויעש ה' לשרה כאשר דבר",
+     "ref": "Genesis 21:1",
+     "label": "בראשית כא, א"
+    },
+    "question": "הפסוק אומר שה' פקד את שרה כאשר אמר ועשה לה כאשר דבר. מה ההבדל בין שני חלקי הפסוק, ובין 'אמירה' ל'דיבור'?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 21:1",
+      "era": "acharon",
+      "quote": "השאלה הא' בהכפל וה' פקד את שרה כאשר אמר ויעש ה' לשרה כאשר דבר"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 21:1:3",
+      "era": "rishon",
+      "quote": "והיכן היא אמירה והיכן הוא דבור"
+     },
+     {
+      "name": "חתם סופר",
+      "ref": "Chatam Sofer on Torah, Vayera 36",
+      "era": "acharon",
+      "quote": "כפל הלשון וה' פקד את שרה כאשר אמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: 'פקד כאשר אמר' - בהריון; 'כאשר דבר' - בלידה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:1:2",
+        "quote": "פקד את שרה כאשר אמר בהריון"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:1:3",
+        "quote": "כאשר דבר בלידה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אין פקידה אלא לשון זכירה והשגחה על הנפקד, כמו ברחל ובחנה - זכר את שרה ועשה לה כאשר דיבר.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 21:1:1",
+        "quote": "אלא לשון זכירה והשגחה על הנפקד"
+       }
+      ]
+     }
+    ],
+    "why": "אברבנאל דוחה את תירוצי רש\"י והרמב\"ן, ומכאן שכפל הלשון קשה לביאור."
+   }
+  ],
+  "sources_consulted": [
+   "חתם סופר",
+   "גור אריה",
+   "רש\"י",
+   "חתם סופר בשם הרמב\"ן",
+   "טור הארוך",
+   "אברבנאל",
+   "אבן עזרא",
+   "רמב\"ן",
+   "תורה תמימה",
+   "מדרש לקח טוב",
+   "מלבי\"ם",
+   "העמק דבר",
+   "מדרש תנחומא",
+   "הכתב והקבלה"
+  ]
+ }
+}
