@@ -1,0 +1,1387 @@
+{
+ "date": "2026-10-28",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 21:5-21:21",
+ "hebrew_date": {
+  "hebrew": "י״ז בְּחֶשְׁוָן תשפ״ז",
+  "english": "17 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Avraham is a hundred years old when Yitzchak is born, and Sarah rejoices that everyone who hears will laugh with her. At the feast made on the day Yitzchak is weaned, Sarah sees the son of Hagar the Egyptian 'metzachek' and demands that Hagar and her son be driven out so that he will not inherit with Yitzchak. Avraham is greatly distressed, but God tells him to listen to Sarah, since his offspring will be called through Yitzchak, and that Ishmael too will become a nation. Avraham rises early and sends Hagar and the boy off with bread and a skin of water. When the water runs out in the wilderness of Be'er Sheva, Hagar sets the boy beneath a bush and sits at a distance. God hears the boy's voice, an angel calls to Hagar, her eyes are opened to a well, and Ishmael grows up in the wilderness of Paran as an archer.",
+  "questions": [
+   {
+    "title": "What was the 'metzachek' that Sarah saw in Ishmael?",
+    "pasuk": {
+     "text": "אשר ילדה לאברהם מצחק",
+     "ref": "Genesis 21:9",
+     "label": "Genesis 21:9"
+    },
+    "question": "The verse says only that Sarah saw Hagar's son 'metzachek', and the next verse has her demanding that he be sent away. What exactly did she see that justified expelling him?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 21:9:1",
+      "era": "rishon",
+      "quote": "חס ושלום שיהא בביתו של צדיק כך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, citing the Sages: idolatry, immorality or murder; Ishmael quarrelled with Yitzchak over the inheritance, claiming to be the firstborn who takes a double share.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:9:1",
+        "quote": "שהיה מריב עם יצחק על הירושה ואומר אני בכור ונוטל פי שנים"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 53:11",
+        "quote": "אין מצחק אלא גילוי עריות"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: Ishmael took a bow and shot an arrow at Yitzchak to kill him.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 30:1",
+        "quote": "וראה את יצחק יושב לבדו וירה חץ להרגו"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: he had grown up and Sarah did not want him kept in the house, lest he claim a share of Avraham's inheritance with Yitzchak.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 21:9:1",
+        "quote": "פן ירצה להחזיק בירושת אביו עם יצחק"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it was simply a boy's ordinary play, and Sarah was jealous because he was older than her son.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 21:9:1",
+        "quote": "כי כן מנהג כל נער ותקנא בו בעבור היותו גדול מבנה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he played as other children do while Yitzchak was too small to do the same, so Sarah became jealous.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 21:9:1",
+        "quote": "מצחק כמנהג שאר ילדים ויצחק היה קטן"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he mocked the feast held in Avraham's house, saying that Sarah had conceived from Avimelech.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 21:9:2",
+        "quote": "מלעיג על המשתה שנעשה בבית אברהם באמרו שנתעברה מאבימלך"
+       }
+      ]
+     }
+    ],
+    "why": "The answer shapes how we read Sarah's demand: a mortal threat to Yitzchak, a dispute over inheritance, or jealousy."
+   },
+   {
+    "title": "Why expel Ishmael rather than just leave the inheritance to Yitzchak?",
+    "pasuk": {
+     "text": "גרש האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק",
+     "ref": "Genesis 21:10",
+     "label": "Genesis 21:10"
+    },
+    "question": "Sarah says Ishmael must be driven out so that he will not inherit with Yitzchak. But Avraham could have given Yitzchak everything while still alive, and being expelled does not stop a son from returning to claim his inheritance. Why expulsion?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 21:10:1-2",
+      "era": "acharon",
+      "quote": "והלא הי' אפשר לתקן שיתן את כל אשר לו ליצחק מעתה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 21:10:1",
+      "era": "acharon",
+      "quote": "וכי בעבור שגרשו אי אפשר לו לחזור לירושתו אחרי מות אביו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Kli Yakar: Sarah means the inheritance of deeds, not property. She feared Yitzchak would learn from Ishmael's conduct.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 21:10:1",
+        "quote": "ונראה שעל ירושת המעשים הוא מדבר"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: so that after their death Ishmael would not say 'I too am Avraham's son' and come to inherit.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 21:10:1",
+        "quote": "שמא לאחר מיתתינו יאמר גם אני בן אברהם ויבוא לירש"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Ishmael had acted on his mother's advice so that her son would inherit everything, so he deserved to be driven out.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 21:10:1",
+        "quote": "כי בעצתה עשה הבן שהוציא דבה למען יירש בנה את הכל"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: expelling him publicly shows everyone that Yitzchak is Avraham's true heir.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 21:10:1",
+        "quote": "ובזה ידעו הכל כי יצחק בנך הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether the issue was money or character, and so what Avraham was protecting."
+   },
+   {
+    "title": "Why does Sarah say 'with my son, with Yitzchak'?",
+    "pasuk": {
+     "text": "עם בני עם יצחק",
+     "ref": "Genesis 21:10",
+     "label": "Genesis 21:10"
+    },
+    "question": "Sarah could have said 'with Yitzchak' or 'with my son'. Why does she say both, 'with my son, with Yitzchak'?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 21:10:1",
+      "era": "acharon",
+      "quote": "ומפני שכתב עם עם תרי פעמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: since he is my son, even if he were not as worthy as Yitzchak, or worthy like Yitzchak though not my son, he should not inherit with him; all the more so when he is both.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:10:1",
+        "quote": "מכיון שהוא בני אפילו אם אינו הגון כיצחק"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: even if Yitzchak were not there and I had another son, he would not inherit with him; all the more so with Yitzchak, to whom God made the promise.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 21:10:1",
+        "quote": "עם בני אפילו לא היה יצחק והיה לי בן אחר"
+       }
+      ]
+     }
+    ],
+    "why": "A doubled word in Sarah's mouth becomes a measure of how clear the exclusion was."
+   },
+   {
+    "title": "Why was it 'very evil' to Avraham, and on whose account?",
+    "pasuk": {
+     "text": "וירע הדבר מאד בעיני אברהם על אודת בנו",
+     "ref": "Genesis 21:11",
+     "label": "Genesis 21:11"
+    },
+    "question": "Avraham was distressed 'al odot beno', on account of his son. Does this mean he hated the idea of sending his son away, or that the son had gone astray, or something else?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 21:11:1",
+      "era": "acharon",
+      "quote": "דאם לא כן מאי על אודות בנו דקאמר"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 21:10:1-2",
+      "era": "acharon",
+      "quote": "כי אומר על אודות בנו היא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he heard that Ishmael had gone out to a bad culture; the plain meaning is that Sarah told him to send him away.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:11:1",
+        "quote": "ששמע שיצא לתרבות רעה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Scripture is honouring Avraham; he would have sent Hagar away, but he was deeply troubled only because of his son.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 21:11:1",
+        "quote": "כי הכתוב ספר בכבוד אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he feared that his son would go out to a bad culture and sink into evil beliefs once he left Avraham's house.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 21:11:1",
+        "quote": "לבל יצא לתרבות רעה וישתקע באמונות רעות"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: sending Hagar was hard, but sending his son was very hard.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 21:11:1",
+        "quote": "על הגר היה קשה בעיניו אבל על בנו היה לו קשה מאד"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: of all the evils that befell Avraham, this one distressed him most.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 30:2",
+        "quote": "ומכל הרעות שבאו על אברהם הרע בעיניו הדבר הזה מאד"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Avraham's pain was a father's love or a father's worry about his son's path."
+   },
+   {
+    "title": "Why must Avraham obey Sarah, and how can God command expulsion?",
+    "pasuk": {
+     "text": "כל אשר תאמר אליך שרה שמע בקולה",
+     "ref": "Genesis 21:12",
+     "label": "Genesis 21:12"
+    },
+    "question": "God tells Avraham to listen to Sarah in everything she says. Why should Avraham defer to her, and how can God command sending away a son merely so that he not inherit with Yitzchak?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 21:10:1-2",
+      "era": "acharon",
+      "quote": "וגם על ה' יפלא האם לבל יירש עם יצחק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: we learn that Avraham was secondary to Sarah in prophecy.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:12:1",
+        "quote": "למדנו שהיה אברהם טפל לשרה בנביאות"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the holy spirit is in her voice, for the voice is spirit.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 21:12:1",
+        "quote": "כי רוח הקודש הוא בקולה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: she was right to say it.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 21:12:2",
+        "quote": "כי בדין אמרה לעשות כך"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: God told Avraham that everything Sarah said she said truthfully.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 30:3",
+        "quote": "כל מה שדברה שרה באמת הגידה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the tradition weighs Sarah's role, and whether the expulsion rests on prophecy or on justice."
+   },
+   {
+    "title": "How could Avraham send his son and Hagar off with only bread and water?",
+    "pasuk": {
+     "text": "ויקח לחם וחמת מים ויתן אל הגר שם על שכמה ואת הילד וישלחה",
+     "ref": "Genesis 21:14",
+     "label": "Genesis 21:14"
+    },
+    "question": "Avraham, famous for generosity, sends Hagar and his son into the wilderness with only bread and a skin of water. Why so little, and why did he send them without escort?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 21:14:1",
+      "era": "rishon",
+      "quote": "ורבים יתמהו מאברהם איך גרש בנו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 21:14:1",
+      "era": "acharon",
+      "quote": "ישלח איש את אשתו ואת בנו ערירים ימותו במדברות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: Avraham did exactly as God commanded; and after Sarah's death he gave gifts to the sons of Ishmael.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 21:14:1",
+        "quote": "כי אברהם עשה ככל אשר צוהו ד'"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: bread and water, but not silver and gold, because he hated Ishmael for going out to a bad culture.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:14:1",
+        "quote": "ולא כסף וזהב לפי שהיה שונאו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Sarah commanded immediate expulsion, and Avraham had been told to do all she said, so he could not give silver, gold, servants or camels.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 21:15:1",
+        "quote": "ובמצותה לא נתן להם כסף וזהב ועבדים וגמלים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he intended to give them gifts after Sarah's death.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 21:14:1",
+        "quote": "דעתו היה ליתן לו מתנות אחרי מות שרה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the water skin on her shoulder marked servitude, but the righteous man did not stop giving them what they lacked.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 21:14:1",
+        "quote": "אבל לא חדל הצדיק מתת להם די מחסורם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Avraham's house was one of generosity; he rose early and gave to Hagar himself.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 53:13",
+        "quote": "ביתו של אבינו אברהם ותרנים היו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he rose early to fulfil God's command.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 21:14:1",
+        "quote": "לעשות מצות האל"
+       }
+      ]
+     }
+    ],
+    "why": "It tests how a righteous man's generosity coexists with a command he does not choose."
+   },
+   {
+    "title": "Why was a boy of fourteen carried, and why did Hagar 'throw' him?",
+    "pasuk": {
+     "text": "ותשלך את הילד תחת אחד השיחם",
+     "ref": "Genesis 21:15",
+     "label": "Genesis 21:15"
+    },
+    "question": "Ishmael was not a small child, yet the verse has him placed on Hagar's shoulder and then 'thrown' under a bush. Why was he carried, and what does 'vatashlekh' mean?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 21:14:3",
+      "era": "rishon",
+      "quote": "וא\"ת הא אמרי' עד יעקב לא הוה חולשא"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 21:14:1",
+      "era": "acharon",
+      "quote": "ועוד שהיל\"ל ותשם על שכמה ולא שם על שכמה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, from Bereshit Rabbah: Sarah cast an evil eye on him and a fever seized him, so he could not walk.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:14:2",
+        "quote": "שהכניסה בו שרה עין רעה ואחזתו חמה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 53:13",
+        "quote": "אלא מלמד שהכניסה בו שרה עין רעה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he was not on her shoulder from the start; she lifted him when he fell ill, and threw him down when she saw his life leaving.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 21:15:2",
+        "quote": "לא מפני שהיה על שכמה משעה שיצאה מבית אברהם אלא כשחלה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: she took him to her bosom, and when she saw his soul going out from thirst she cast him down.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 21:14:2",
+        "quote": "ואחר שלקחתהו בחיקה וראתה שנפשו יוצאה בצמא השליכתו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he did not want to leave his father's house, so Avraham bound him like a child and set him on her shoulder.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 21:14:1",
+        "quote": "לזה עקדו כילד ושמו על שכמה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: only once he collapsed from thirst did she begin to carry him.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 21:15:1",
+        "quote": "משנתעלף בצמא התחילה לנושאו"
+       }
+      ]
+     }
+    ],
+    "why": "The explanations disagree on whether Ishmael was carried from the start or only once he collapsed."
+   },
+   {
+    "title": "Why is Ishmael judged 'where he is' when his descendants will cause suffering?",
+    "pasuk": {
+     "text": "כי שמע אלהים אל קול הנער באשר הוא שם",
+     "ref": "Genesis 21:17",
+     "label": "Genesis 21:17"
+    },
+    "question": "God hears the boy 'ba'asher hu sham', as he is now. Yet elsewhere a rebellious son is put to death for what he will become. How can Ishmael be judged by the present alone?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 21:17:2",
+      "era": "rishon",
+      "quote": "והא אמרינן בן סורר על שם סופו הוא נהרג"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 21:17:2",
+      "era": "acharon",
+      "quote": "ולא קשה מבן סורר ומורה שהוא נדון על שם סופו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: a person is judged by the deeds he does now, not by what he will do; the ministering angels accused, and God asked if he is now righteous or wicked.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:17:2",
+        "quote": "לפי מעשים שהוא עושה עכשיו הוא נדון ולא לפי מה שהוא עתיד לעשות"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: God said, 'I judge a person only at his own time'.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 53:14",
+        "quote": "אינו דן את האדם אלא בשעתו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the rebellious son is wicked from the start; Ishmael, from the start, was righteous in that matter.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 21:17:2",
+        "quote": "אבל הכא מתחלתו ישמעאל היה צדיק"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the heavenly court differs from the earthly court.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 21:17:2",
+        "quote": "שאני דין בית דין התחתון מדין בית דין העליון"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the plain meaning is simply 'in the very place where he is' - God would give him water right there.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 21:17:1",
+        "quote": "שמע אלהים אל קול הנער במקום אשר הוא שם"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: since she could not see him, the verse had to say that the water was given 'in the place where he is'.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 21:17:1",
+        "quote": "הוצרך לומר במקום אשר הוא שם נתן לו את המים"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether divine judgment looks at the present or the future."
+   },
+   {
+    "title": "Is 'mi mille l'Avraham' praise, or incredulity?",
+    "pasuk": {
+     "text": "מי מלל לאברהם היניקה בנים שרה",
+     "ref": "Genesis 21:7",
+     "label": "Genesis 21:7"
+    },
+    "question": "Rashi reads 'who would have said to Avraham' as praise of God. But the word 'mi' elsewhere signals contempt. What does Sarah mean, and why 'banim', in the plural?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 21:7:1",
+      "era": "rishon",
+      "quote": "ולא מצינו מלת מי בערך כזה למעלה וכבוד רק לבזיון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: a language of praise and importance - see who He is, how He keeps His promise.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:7:1",
+        "quote": "לשון שבח וחשיבות"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Sarah fills the listener's mouth with joy at the wonder - no one in the world would ever have told Avraham that Sarah would nurse children.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 21:7:1",
+        "quote": "כי אמרה צחק עשה לי אלהים כל השמע יצחק לי"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: everyone should know who is God, who spoke to Avraham that he would have a son from Sarah.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 21:7:1",
+        "quote": "מי האלהים שמלל לאברהם להיות לו בן משרה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: who would have told Avraham that this would happen? He would not have believed it.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 21:7:1",
+        "quote": "מי היה אומר לאברהם שאירע דבר זה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: defends Rashi; the verse ties it to what God spoke to Avraham, otherwise it would say 'who told Sarah'.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 21:7:1",
+        "quote": "דאם כן למה תולה דבר זה באברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows a real difference between Rashi and Ramban on reading Sarah's joy."
+   }
+  ],
+  "sources_consulted": [
+   "Ramban",
+   "Rashi",
+   "Bereshit Rabbah",
+   "Pirkei DeRabbi Eliezer",
+   "Rashbam",
+   "Ibn Ezra",
+   "Chizkuni",
+   "Sforno",
+   "Alshich",
+   "Kli Yakar",
+   "Bekhor Shor",
+   "Haamek Davar",
+   "Gur Aryeh",
+   "Midrash Lekach Tov",
+   "Or HaChaim",
+   "Radak"
+  ]
+ },
+ "hebrew": {
+  "summary": "אברהם בן מאה שנה בהיוולד לו יצחק, ושרה שמחה שכל השומע יצחק לה. במשתה שעושה אברהם ביום גמילת יצחק רואה שרה את בן הגר המצרית מצחק, ודורשת לגרש את הגר ובנה כדי שלא יירש עם יצחק. הדבר רע מאוד בעיני אברהם, אך ה' אומר לו לשמוע בקול שרה, כי ביצחק יקרא לו זרע, וגם את בן האמה לגוי ישים. אברהם משכים בבוקר ושולח את הגר והנער עם לחם וחמת מים. כשכלו המים במדבר באר שבע משליכה הגר את הילד תחת אחד השיחים וישבה מנגד. אלהים שומע את קול הנער, מלאך קורא להגר, עיניה נפקחות ובאר מים נגלית לה, וישמעאל גדל במדבר פארן ורובה קשת.",
+  "questions": [
+   {
+    "title": "מהו ה'מצחק' שראתה שרה בישמעאל?",
+    "pasuk": {
+     "text": "אשר ילדה לאברהם מצחק",
+     "ref": "Genesis 21:9",
+     "label": "בראשית כא, ט"
+    },
+    "question": "הפסוק אומר רק ששרה ראתה את בן הגר 'מצחק', ובפסוק הבא היא דורשת לגרשו. מה בדיוק ראתה שהצדיק גירוש?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 21:9:1",
+      "era": "rishon",
+      "quote": "חס ושלום שיהא בביתו של צדיק כך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י על פי חז\"ל: עבודה זרה, גילוי עריות או רציחה; ישמעאל היה מריב עם יצחק על הירושה ואומר שהוא הבכור הנוטל פי שניים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:9:1",
+        "quote": "שהיה מריב עם יצחק על הירושה ואומר אני בכור ונוטל פי שנים"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 53:11",
+        "quote": "אין מצחק אלא גילוי עריות"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: ישמעאל נטל קשת וחצים וירה חץ בכוונה להרוג את יצחק.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 30:1",
+        "quote": "וראה את יצחק יושב לבדו וירה חץ להרגו"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הוא כבר גדל והיא לא רצתה להשהותו, פן ירצה להחזיק בירושת אביו עם יצחק.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 21:9:1",
+        "quote": "פן ירצה להחזיק בירושת אביו עם יצחק"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: זה מנהג כל נער, ושרה קינאה בו מפני שהיה גדול מבנה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 21:9:1",
+        "quote": "כי כן מנהג כל נער ותקנא בו בעבור היותו גדול מבנה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: הוא שיחק כמנהג שאר ילדים, ויצחק היה קטן ולא יכול לעשות כך, ולכן קנאה בו שרה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 21:9:1",
+        "quote": "מצחק כמנהג שאר ילדים ויצחק היה קטן"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הוא לעג למשתה שנעשה בבית אברהם, באומרו שנתעברה מאבימלך.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 21:9:2",
+        "quote": "מלעיג על המשתה שנעשה בבית אברהם באמרו שנתעברה מאבימלך"
+       }
+      ]
+     }
+    ],
+    "why": "התשובה קובעת איך לקרוא את דרישת שרה: סכנת נפשות, מחלוקת ירושה או קנאה."
+   },
+   {
+    "title": "מדוע לגרש את ישמעאל ולא פשוט להוריש הכול ליצחק?",
+    "pasuk": {
+     "text": "גרש האמה הזאת ואת בנה כי לא יירש בן האמה הזאת עם בני עם יצחק",
+     "ref": "Genesis 21:10",
+     "label": "בראשית כא, י"
+    },
+    "question": "שרה אומרת שיש לגרש את ישמעאל כדי שלא יירש עם יצחק. אך אברהם יכול היה לתת ליצחק הכול עוד בחייו, וגירוש אינו מונע מבן לחזור ולתבוע ירושה. מדוע דווקא גירוש?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:10:1-2",
+      "era": "acharon",
+      "quote": "והלא הי' אפשר לתקן שיתן את כל אשר לו ליצחק מעתה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 21:10:1",
+      "era": "acharon",
+      "quote": "וכי בעבור שגרשו אי אפשר לו לחזור לירושתו אחרי מות אביו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כלי יקר: שרה מדברת על ירושת המעשים ולא על הממון; היא חששה שיצחק ילמד ממעשיו של ישמעאל.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 21:10:1",
+        "quote": "ונראה שעל ירושת המעשים הוא מדבר"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: שמא לאחר מיתתם יאמר ישמעאל 'גם אני בן אברהם' ויבוא לירש.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 21:10:1",
+        "quote": "שמא לאחר מיתתינו יאמר גם אני בן אברהם ויבוא לירש"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הבן פעל בעצת אמו כדי שיירש בנה את הכול, ולכן ראוי לגרשו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 21:10:1",
+        "quote": "כי בעצתה עשה הבן שהוציא דבה למען יירש בנה את הכל"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: בגירושו יידעו הכול שיצחק הוא בנו של אברהם.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 21:10:1",
+        "quote": "ובזה ידעו הכל כי יצחק בנך הוא"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה בודקת אם העניין היה ממון או אופי, ומה אברהם ביקש להגן עליו."
+   },
+   {
+    "title": "מדוע אומרת שרה 'עם בני עם יצחק'?",
+    "pasuk": {
+     "text": "עם בני עם יצחק",
+     "ref": "Genesis 21:10",
+     "label": "בראשית כא, י"
+    },
+    "question": "שרה יכלה לומר 'עם יצחק' או 'עם בני'. מדוע היא אומרת את שניהם, 'עם בני עם יצחק'?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 21:10:1",
+      "era": "acharon",
+      "quote": "ומפני שכתב עם עם תרי פעמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מכיוון שהוא בני, אפילו אינו הגון כיצחק, או הגון כיצחק אפילו אינו בני, אין זה כדאי לירש עמו; קל וחומר כשהוא גם בני וגם יצחק.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:10:1",
+        "quote": "מכיון שהוא בני אפילו אם אינו הגון כיצחק"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: אפילו לא היה יצחק והיה לי בן אחר לא יירש עמו; קל וחומר עם יצחק שהבטיחך הקב\"ה בו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 21:10:1",
+        "quote": "עם בני אפילו לא היה יצחק והיה לי בן אחר"
+       }
+      ]
+     }
+    ],
+    "why": "כפל לשון בפי שרה מלמד עד כמה הייתה ברורה ההרחקה."
+   },
+   {
+    "title": "מדוע 'וירע הדבר מאד' לאברהם, ובשביל מי?",
+    "pasuk": {
+     "text": "וירע הדבר מאד בעיני אברהם על אודת בנו",
+     "ref": "Genesis 21:11",
+     "label": "בראשית כא, יא"
+    },
+    "question": "אברהם הצטער 'על אודות בנו'. האם הכוונה שקשה היה לו לשלח את בנו, או שהבן יצא לתרבות רעה, או משהו אחר?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 21:11:1",
+      "era": "acharon",
+      "quote": "דאם לא כן מאי על אודות בנו דקאמר"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:10:1-2",
+      "era": "acharon",
+      "quote": "כי אומר על אודות בנו היא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ששמע שיצא לתרבות רעה, ופשוטו על שאמרה לו לשלחו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:11:1",
+        "quote": "ששמע שיצא לתרבות רעה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הכתוב מספר בכבודו של אברהם; את האמה היה מגרש, אך מפני בנו חרה לו מאוד.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 21:11:1",
+        "quote": "כי הכתוב ספר בכבוד אברהם"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: שמא יצא ישמעאל לתרבות רעה וישתקע באמונות רעות בצאתו מבית אביו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 21:11:1",
+        "quote": "לבל יצא לתרבות רעה וישתקע באמונות רעות"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: על הגר היה קשה בעיניו, אבל על בנו היה קשה לו מאוד.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 21:11:1",
+        "quote": "על הגר היה קשה בעיניו אבל על בנו היה לו קשה מאד"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: מכל הרעות שבאו על אברהם, זה הרע בעיניו מאוד.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 30:2",
+        "quote": "ומכל הרעות שבאו על אברהם הרע בעיניו הדבר הזה מאד"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת אם כאבו של אברהם היה אהבת אב או דאגת אב לדרכו של בנו."
+   },
+   {
+    "title": "מדוע צריך אברהם לשמוע לשרה, וכיצד יצווה ה' על גירוש?",
+    "pasuk": {
+     "text": "כל אשר תאמר אליך שרה שמע בקולה",
+     "ref": "Genesis 21:12",
+     "label": "בראשית כא, יב"
+    },
+    "question": "ה' אומר לאברהם לשמוע בקול שרה בכל אשר תאמר. מדוע יישמע אברהם לה, וכיצד יצווה ה' לשלח בן רק כדי שלא יירש עם יצחק?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:10:1-2",
+      "era": "acharon",
+      "quote": "וגם על ה' יפלא האם לבל יירש עם יצחק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: למדנו שהיה אברהם טפל לשרה בנבואה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:12:1",
+        "quote": "למדנו שהיה אברהם טפל לשרה בנביאות"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: רוח הקודש היא בקולה, כי הקול הוא רוח.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 21:12:1",
+        "quote": "כי רוח הקודש הוא בקולה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כי בדין אמרה לעשות כך.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 21:12:2",
+        "quote": "כי בדין אמרה לעשות כך"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: ה' אמר לאברהם שכל מה שדיברה שרה באמת הגידה.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 30:3",
+        "quote": "כל מה שדברה שרה באמת הגידה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איך המסורת שוקלת את מעמדה של שרה, והאם הגירוש נשען על נבואה או על צדק."
+   },
+   {
+    "title": "איך שלח אברהם את בנו ואת הגר עם לחם ומים בלבד?",
+    "pasuk": {
+     "text": "ויקח לחם וחמת מים ויתן אל הגר שם על שכמה ואת הילד וישלחה",
+     "ref": "Genesis 21:14",
+     "label": "בראשית כא, יד"
+    },
+    "question": "אברהם, הידוע בנדיבותו, שולח את הגר ובנו למדבר עם לחם וחמת מים בלבד. מדוע כל כך מעט, ומדוע בלי מלווה?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 21:14:1",
+      "era": "rishon",
+      "quote": "ורבים יתמהו מאברהם איך גרש בנו"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:14:1",
+      "era": "acharon",
+      "quote": "ישלח איש את אשתו ואת בנו ערירים ימותו במדברות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: אברהם עשה ככל אשר צוהו ה', ואחרי מות שרה נתן מתנות לבני ישמעאל.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 21:14:1",
+        "quote": "כי אברהם עשה ככל אשר צוהו ד'"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: לחם ומים ולא כסף וזהב, מפני ששנאו על שיצא לתרבות רעה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:14:1",
+        "quote": "ולא כסף וזהב לפי שהיה שונאו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: שרה ציוותה להוציאו מיד, ואברהם צווה לעשות ככל אשר תאמר, ולכן לא נתן כסף וזהב ועבדים וגמלים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 21:15:1",
+        "quote": "ובמצותה לא נתן להם כסף וזהב ועבדים וגמלים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: דעתו היה ליתן לו מתנות אחרי מות שרה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 21:14:1",
+        "quote": "דעתו היה ליתן לו מתנות אחרי מות שרה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: החמת על שכמה לאות שפחות, אך לא חדל הצדיק מתת להם די מחסורם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 21:14:1",
+        "quote": "אבל לא חדל הצדיק מתת להם די מחסורם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: ביתו של אברהם היה בית נדיבות; הוא השכים ונתן להגר בעצמו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 53:13",
+        "quote": "ביתו של אבינו אברהם ותרנים היו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: השכים כדי לעשות מצות האל.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 21:14:1",
+        "quote": "לעשות מצות האל"
+       }
+      ]
+     }
+    ],
+    "why": "היא בוחנת איך נדיבותו של צדיק מתיישבת עם ציווי שלא בחר בו."
+   },
+   {
+    "title": "מדוע נישא נער בן ארבע עשרה, ולמה 'ותשלך' אותו הגר?",
+    "pasuk": {
+     "text": "ותשלך את הילד תחת אחד השיחם",
+     "ref": "Genesis 21:15",
+     "label": "בראשית כא, טו"
+    },
+    "question": "ישמעאל לא היה ילד קטן, ובכל זאת הפסוק מניח אותו על שכמה של הגר ואחר כך 'ותשלך' אותו תחת שיח. מדוע נישא, ומה פירוש 'ותשלך'?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 21:14:3",
+      "era": "rishon",
+      "quote": "וא\"ת הא אמרי' עד יעקב לא הוה חולשא"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:14:1",
+      "era": "acharon",
+      "quote": "ועוד שהיל\"ל ותשם על שכמה ולא שם על שכמה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י על פי בראשית רבה: שרה הכניסה בו עין רעה ואחזתו חמה, ולא יכול ללכת ברגליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:14:2",
+        "quote": "שהכניסה בו שרה עין רעה ואחזתו חמה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 53:13",
+        "quote": "אלא מלמד שהכניסה בו שרה עין רעה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לא היה על שכמה משעה שיצאה מבית אברהם, אלא כשחלה נתנתו על שכמה, ובראותה שנפשו יוצאת השליכתו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 21:15:2",
+        "quote": "לא מפני שהיה על שכמה משעה שיצאה מבית אברהם אלא כשחלה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: לקחתו בחיקה, וכשראתה שנפשו יוצאת בצמא השליכתו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 21:14:2",
+        "quote": "ואחר שלקחתהו בחיקה וראתה שנפשו יוצאה בצמא השליכתו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: מפני שלא רצה לצאת מבית אביו, עקדו כילד ושמו על שכמה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 21:14:1",
+        "quote": "לזה עקדו כילד ושמו על שכמה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: משנתעלף בצמא התחילה לנושאו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 21:15:1",
+        "quote": "משנתעלף בצמא התחילה לנושאו"
+       }
+      ]
+     }
+    ],
+    "why": "המפרשים נחלקים אם ישמעאל נישא מתחילה או רק משעה שהתעלף."
+   },
+   {
+    "title": "מדוע נדון ישמעאל 'באשר הוא שם' אף שזרעו יצער את ישראל?",
+    "pasuk": {
+     "text": "כי שמע אלהים אל קול הנער באשר הוא שם",
+     "ref": "Genesis 21:17",
+     "label": "בראשית כא, יז"
+    },
+    "question": "ה' שומע את קול הנער 'באשר הוא שם'. אך בן סורר ומורה נהרג על שם סופו. כיצד נדון ישמעאל לפי הווה בלבד?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 21:17:2",
+      "era": "rishon",
+      "quote": "והא אמרינן בן סורר על שם סופו הוא נהרג"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 21:17:2",
+      "era": "acharon",
+      "quote": "ולא קשה מבן סורר ומורה שהוא נדון על שם סופו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לפי מעשים שהוא עושה עכשיו הוא נדון, ולא לפי מה שעתיד לעשות; המלאכים קטרגו, ו-ה' שאל מה הוא עכשיו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:17:2",
+        "quote": "לפי מעשים שהוא עושה עכשיו הוא נדון ולא לפי מה שהוא עתיד לעשות"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אמר להם ה': 'איני דן את האדם אלא בשעתו'.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 53:14",
+        "quote": "אינו דן את האדם אלא בשעתו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: בן סורר רשע מתחילתו, אך ישמעאל מתחילתו היה צדיק.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 21:17:2",
+        "quote": "אבל הכא מתחלתו ישמעאל היה צדיק"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: דין בית דין התחתון שונה מדין בית דין העליון.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 21:17:2",
+        "quote": "שאני דין בית דין התחתון מדין בית דין העליון"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: פשט הכתוב הוא 'במקום אשר הוא שם' - ירווה שם צמאו מיד.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 21:17:1",
+        "quote": "שמע אלהים אל קול הנער במקום אשר הוא שם"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: מפני שלא ראתה אותו, הוצרך לומר 'במקום אשר הוא שם'.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 21:17:1",
+        "quote": "הוצרך לומר במקום אשר הוא שם נתן לו את המים"
+       }
+      ]
+     }
+    ],
+    "why": "היא שואלת אם הדין האלוקי מביט בהווה או בעתיד."
+   },
+   {
+    "title": "האם 'מי מלל לאברהם' הוא שבח או תמיהה?",
+    "pasuk": {
+     "text": "מי מלל לאברהם היניקה בנים שרה",
+     "ref": "Genesis 21:7",
+     "label": "בראשית כא, ז"
+    },
+    "question": "רש\"י מפרש 'מי מלל לאברהם' כלשון שבח. אך המילה 'מי' משמשת במקומות אחרים לבזיון. מה כוונת שרה, ולמה 'בנים' ברבים?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 21:7:1",
+      "era": "rishon",
+      "quote": "ולא מצינו מלת מי בערך כזה למעלה וכבוד רק לבזיון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לשון שבח וחשיבות - ראו מי הוא וכמה הוא שומר הבטחתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:7:1",
+        "quote": "לשון שבח וחשיבות"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: שרה ממלאת את פי השומע בשמחה על הפלא - אין אדם בעולם שיאמר לאברהם שתניק שרה בנים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 21:7:1",
+        "quote": "כי אמרה צחק עשה לי אלהים כל השמע יצחק לי"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: ידעו ויבינו כל השומעים מי האלהים שמלל לאברהם להיות לו בן משרה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 21:7:1",
+        "quote": "מי האלהים שמלל לאברהם להיות לו בן משרה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: מי היה אומר לאברהם שאירע דבר זה - לא היה מאמין.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 21:7:1",
+        "quote": "מי היה אומר לאברהם שאירע דבר זה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: מגן על רש\"י; הכתוב תולה בדיבור ה' לאברהם, שאם לא כן היה כותב 'מי מילל לשרה'.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 21:7:1",
+        "quote": "דאם כן למה תולה דבר זה באברהם"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה מחלוקת של ממש בין רש\"י לרמב\"ן בקריאת שמחת שרה."
+   }
+  ],
+  "sources_consulted": [
+   "רמב\"ן",
+   "רש\"י",
+   "בראשית רבה",
+   "פרקי דרבי אליעזר",
+   "רשב\"ם",
+   "אבן עזרא",
+   "חזקוני",
+   "ספורנו",
+   "אלשיך",
+   "כלי יקר",
+   "בכור שור",
+   "העמק דבר",
+   "גור אריה",
+   "מדרש לקח טוב",
+   "אור החיים",
+   "רד\"ק"
+  ]
+ }
+}
