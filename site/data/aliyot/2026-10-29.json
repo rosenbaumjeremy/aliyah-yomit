@@ -1,0 +1,961 @@
+{
+ "date": "2026-10-29",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 21:22-21:34",
+ "hebrew_date": {
+  "hebrew": "י״ח בְּחֶשְׁוָן תשפ״ז",
+  "english": "18 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Abimelech and Phicol, his chief of staff, tell Abraham that God is with him in all he does and ask him to swear that he will deal loyally with them, their son and their grandson, as Abimelech dealt with him. Abraham agrees to swear, but reproves Abimelech about a well that Abimelech's servants seized, and Abimelech says he did not know of it. Abraham gives Abimelech sheep and cattle and they make a covenant. He sets seven ewes apart as a witness that he dug the well, and the place is called Be'er Sheva because the two swore there. Abimelech and Phicol return to the land of the Philistines, and Abraham plants an eshel in Be'er Sheva, calls there on the name of the Lord, God of the world, and stays in the land of the Philistines many days.",
+  "questions": [
+   {
+    "title": "Why do Abimelech and Phicol open with 'God is with you' before asking for anything?",
+    "pasuk": {
+     "text": "אלהים עמך בכל אשר אתה עושה",
+     "ref": "Genesis 21:22",
+     "label": "Genesis 21:22"
+    },
+    "question": "Abimelech has come to ask for an oath, yet he begins with a statement about God being with Abraham. How does this connect to what he asks, and what is he afraid of?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "איך מתייחס אל שאלתו או' אלהים עמך"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 21:22:2",
+      "era": "acharon",
+      "quote": "אינו מובן יראה זו מה היא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they saw that Abraham left the neighbourhood of Sodom in peace, defeated the kings, and that his wife was remembered with a son.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:22:1",
+        "quote": "לפי שראו שיצא משכונת סדום לשלום"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: because of this I fear you, not because of your might and wealth, and so I ask that you swear to me.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 21:22:1",
+        "quote": "לפיכך אני ירא ממך לא מגבורתך ועשרך"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar rejects Sforno's reading and says Abimelech feared for his descendants, since he knew God had sworn the land to Abraham's seed.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 21:22:2",
+        "quote": "והיה ירא שלא יכלו את זרעו"
+       }
+      ]
+     },
+     {
+      "text": "The Midrash: the nations had said that if Abraham were righteous he would not have fathered a child so late, then that he would not have listened to Sarah or sent away his firstborn; once they saw his deeds they said God is with him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 54:2",
+        "quote": "אילו היה צדיק לא היה מוליד"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 21:22:2",
+        "quote": "האומות אומרים אילולי היה אברהם צדיק"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: they put it first to head off an objection, that an oath is pointless if God might command otherwise; they say God's will follows Abraham's deeds.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 21:22:1",
+        "quote": "רצון האלהים נמשך אחר מעשיך"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Abimelech took Abraham's standing to mean for the land and for his own descendants."
+   },
+   {
+    "title": "Why does Abimelech ask for an oath that reaches his grandchildren, when Abraham's kindness was only to him?",
+    "pasuk": {
+     "text": "אם תשקר לי ולניני ולנכדי",
+     "ref": "Genesis 21:23",
+     "label": "Genesis 21:23"
+    },
+    "question": "Abimelech asks Abraham to deal loyally with him, his son and his grandson, 'as I have dealt with you'. But the kindness he did was only to Abraham himself. Why the three generations?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "כי אשר עשה עמו אינו לנינו ולנכדו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bekhor Shor: Abimelech knew Abraham's offspring would inherit the land and drive his own offspring out, so he asked that they not do so.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 21:23:1",
+        "quote": "יודע היה אבימלך שאברהם יירש את הארץ ויגרש זרעו אותו משם"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he could ask no further than the grandson, because God had told Abraham that in the fourth generation his children would return to the land.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 21:22:1",
+        "quote": "אבל יותר לא היה אבימלך יכול לישאל… ודור רביעי ישובו הנה"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: the oath is that Abraham would not take the land from him, nor from his son, nor from his grandson.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 21:22",
+        "quote": "שלא יקח את ארצו מידו ולא מיד בנו ולא מיד בן בנו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he asked for an oath because he knew Abraham would keep it and his sons and grandsons would see the oath and keep it too.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 21:23:1",
+        "quote": "גם בניך ובני בניך יראו משבועתך וישמרוה"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the oath was really for the whole nation and its kingship, so he asked it on behalf of his son who would reign after him.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 21:23:1",
+        "quote": "עיקר השבועה היה בשביל כלל האומה והמלכות"
+       }
+      ]
+     }
+    ],
+    "why": "Several of them read the request as a worry about who would hold the land in later generations."
+   },
+   {
+    "title": "Why does Abraham say 'I will swear' and then, instead of swearing, reprove Abimelech?",
+    "pasuk": {
+     "text": "ויאמר אברהם אנכי אשבע",
+     "ref": "Genesis 21:24",
+     "label": "Genesis 21:24"
+    },
+    "question": "Abraham agrees at once to swear, but the next verse has him raising the matter of the well. Why promise first and what exactly is he agreeing to?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "אנכי אשבע למה ייעד ולא עשה מיד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: he was afraid Abimelech would think the reproof was meant to cancel the oath, so he said 'I will swear' first and reproved afterwards.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 21:24:2",
+        "quote": "לזה הקדים לומר אנכי אשבע ואחר כך הוכיחו"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: he saw Abimelech's claims were right in many things, so he did not begin with reproof but agreed to his words at once.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 21:22:1",
+        "quote": "לא רצה להוכיחו בראשונה אלא מיד הודה לדבריו"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: Abraham would swear only for himself and not for his descendants, because he knew his seed would inherit the land.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 21:22",
+        "quote": "שאברהם לא רצה לישבע אלא על עצמו לא על נינו ונכדו"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: he was ready to swear that he would not harm Abimelech or his offspring, but he had a complaint against him about the well.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 21:24:1",
+        "quote": "אני מוכן להישבע שלא ארע לך ולזרעך"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: Abraham wanted the oath to bind both sides, so he swore for his part and then showed that Abimelech too must be bound, since his servants had wronged him.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 21:24:1",
+        "quote": "ויאמר אברהם אנכי מצדי אשבע"
+       }
+      ]
+     }
+    ],
+    "why": "The order of the verses decides whether the reproof is a condition on the oath or a separate matter."
+   },
+   {
+    "title": "How can the verse say Abraham 'reproved' a king, and why does Rashi call it an argument?",
+    "pasuk": {
+     "text": "והוכח אברהם את אבימלך",
+     "ref": "Genesis 21:25",
+     "label": "Genesis 21:25"
+    },
+    "question": "Rashi explains 'vehokhiach' as 'he argued with him'. Why not simply 'rebuked', and what is gained by the rebuke or argument?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 21:25:1",
+      "era": "acharon",
+      "quote": "אין זה דרך כבוד להוכיח את המלך"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 21:25:1",
+      "era": "acharon",
+      "quote": "דאין זה דרך כבוד לנהוג עם מלך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he argued with him about it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:25:1",
+        "quote": "נתווכח עמו על כך"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: it was an argument, because Abimelech had asked him to show kindness to his grandson, and Abraham argued over what Abimelech's servants had done.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 21:25:1",
+        "quote": "אלא נתווכח עמו מפני שאמר לו שיעשה חסד עם נינו ונכדו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: any peace that has no reproof with it is not peace.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 54:3",
+        "quote": "כל שלום שאין עמו תוכחה אינו שלום"
+       }
+      ]
+     },
+     {
+      "text": "Torah Temimah: the verse that follows, 'and the two of them made a covenant', teaches that reproof brings peace.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 21:28:1",
+        "quote": "מלמד שהתוכחה מביאה לידי שלום"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the tone for how the covenant was reached, by honest complaint rather than silence."
+   },
+   {
+    "title": "Why is 'I do not know who did this' a sufficient answer from Abimelech?",
+    "pasuk": {
+     "text": "לא ידעתי מי עשה את הדבר הזה",
+     "ref": "Genesis 21:26",
+     "label": "Genesis 21:26"
+    },
+    "question": "Abimelech says he did not know who seized the well, and adds that Abraham did not tell him either. A king is responsible for his servants, so how does this answer the complaint?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "שיורה שידע הגזלה ונעלם ממנו מי היה העושה ואין זה התנצלות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tzror HaMor: he turns the blame back, saying Abraham knew and did not tell him, and it was not right to keep it in his heart as a grudge, since friends should be of one heart.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 21:26:1",
+        "quote": "ולא היה ראוי לך להעלים הדבר בלבך בדרך נטירה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how each side understood the duty of friends to speak up."
+   },
+   {
+    "title": "Why does Abraham set seven ewes apart, and what are they for?",
+    "pasuk": {
+     "text": "ויצב אברהם את שבע כבשת הצאן לבדהן",
+     "ref": "Genesis 21:28",
+     "label": "Genesis 21:28"
+    },
+    "question": "Abraham had already given Abimelech sheep and cattle. Why does he stand seven ewes apart, and what do they witness?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 21:28:1",
+      "era": "acharon",
+      "quote": "ראוי לשום לב מה ענין שבע כבשות הצאן אשר הציב לבדן"
+     },
+     {
+      "name": "Tur HaAroch",
+      "ref": "Tur HaArokh, Genesis 21:28:1",
+      "era": "rishon",
+      "quote": "ולמה שבע כבשות על שם השבועה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: the word for seven falls on the word for an oath.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 21:28:1",
+        "quote": "לשון שבע נופל על לשון שבועה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: because the word for oath comes from seven, Abraham set up seven ewes and named the place Be'er Sheva after the oath.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 21:23:1-4",
+        "quote": "לכך הציב אברהם שבע כבשות הצאן"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Abraham's shepherds and Abimelech's disputed the well, and the shepherds said whoever's flock the water rises to water is the owner; the water rose for Abraham's.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 54:5",
+        "quote": "כל מי שהמים עולים להשקות את צאנו שלו היא הבאר"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: God said Abraham gave the seven ewes without His consent, and so He would delay the joy of his children for seven generations.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 54:4",
+        "quote": "חייך שאני משהה בשמחת בניך שבעה דורות"
+       }
+      ]
+     }
+    ],
+    "why": "The gift of seven ewes both seals the oath and, in the Midrash, carries a cost for later generations."
+   },
+   {
+    "title": "What was the 'eshel' Abraham planted, and does it matter?",
+    "pasuk": {
+     "text": "ויטע אשל בבאר שבע",
+     "ref": "Genesis 21:33",
+     "label": "Genesis 21:33"
+    },
+    "question": "The sages disagree whether the eshel was an orchard or an inn, and a tree is 'planted' but an inn is not. What is at stake in the dispute?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 21:33:1",
+      "era": "acharon",
+      "quote": "ויש לתמוה מה נפקא לי מיניה אם פרדס היה או היה פונדק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Rav and Shmuel disagree; one says an orchard for fruit for guests, the other an inn for lodging, and 'planting' is also said of tents.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 21:33:1",
+        "quote": "ומצינו לשון נטיעה באהלים"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: it was an orchard, where he could pray.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 21:33:1",
+        "quote": "פרדס היה להתפלל שם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah adds a third view: the eshel was a Sanhedrin.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 54:6",
+        "quote": "רבי עזריה בשם רבי יהודה בר סימון אשל סנהדרין"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: each view fits Abraham: the orchard because he was the first planting of the world, the inn because he was the father of a multitude who gathers and feeds all.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 21:33:1",
+        "quote": "כך אברהם הוא הנטיעה הראשונה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the sages took Abraham's settling in Be'er Sheva to be for."
+   }
+  ],
+  "sources_consulted": [
+   "Alshekh",
+   "Haamek Davar",
+   "Rashi",
+   "Sforno",
+   "Bereshit Rabbah",
+   "Midrash Lekach Tov",
+   "Malbim",
+   "Bekhor Shor",
+   "Chizkuni",
+   "Abarbanel",
+   "Radak",
+   "Or HaChaim",
+   "Tzror HaMor",
+   "Shadal",
+   "Siftei Chakhamim",
+   "Gur Aryeh",
+   "Torah Temimah",
+   "Tur HaAroch",
+   "Rabbeinu Bahya",
+   "Rashbam"
+  ]
+ },
+ "hebrew": {
+  "summary": "אבימלך ופיכל שר צבאו אומרים לאברהם שאלהים עמו בכל אשר הוא עושה, ומבקשים שישבע להם שלא ישקר להם, לניניהם ולנכדיהם, כחסד שעשה אבימלך עמו. אברהם מסכים להישבע, אך מוכיח את אבימלך על באר מים שעבדיו גזלו, ואבימלך אומר שלא ידע. אברהם נותן לאבימלך צאן ובקר והם כורתים ברית. הוא מציב שבע כבשות לבדן לעדות שחפר את הבאר, והמקום נקרא באר שבע כי שם נשבעו שניהם. אבימלך ופיכל חוזרים לארץ פלשתים, ואברהם נוטע אשל בבאר שבע, קורא שם בשם ה' אל עולם, וגר בארץ פלשתים ימים רבים.",
+  "questions": [
+   {
+    "title": "למה פותחים אבימלך ופיכל ב'אלהים עמך' לפני שמבקשים משהו?",
+    "pasuk": {
+     "text": "אלהים עמך בכל אשר אתה עושה",
+     "ref": "Genesis 21:22",
+     "label": "בראשית כא, כב"
+    },
+    "question": "אבימלך בא לבקש שבועה, ובכל זאת הוא פותח באמירה שאלהים עם אברהם. איך זה קשור לבקשתו, ממה הוא מפחד?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "איך מתייחס אל שאלתו או' אלהים עמך"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 21:22:2",
+      "era": "acharon",
+      "quote": "אינו מובן יראה זו מה היא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ראו שאברהם יצא בשלום משכנות סדום, נלחם במלכים ונפלו בידו, ואשתו נפקדה בבן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:22:1",
+        "quote": "לפי שראו שיצא משכונת סדום לשלום"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לכן אני ירא ממך, לא מגבורתך ועושרך, ולכן אני מבקש שתשבע לי.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 21:22:1",
+        "quote": "לפיכך אני ירא ממך לא מגבורתך ועשרך"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר דוחה את פירוש הספורנו וסובר שאבימלך חשש לזרעו, כי ידע שה' נשבע לתת את הארץ לזרע אברהם.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 21:22:2",
+        "quote": "והיה ירא שלא יכלו את זרעו"
+       }
+      ]
+     },
+     {
+      "text": "המדרש: אומות העולם אמרו שאילו היה צדיק לא היה מוליד, ואחר כך שלא היה שומע לשרה ודוחה את בנו; כשראו מעשיו אמרו לו אלהים עמך.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 54:2",
+        "quote": "אילו היה צדיק לא היה מוליד"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 21:22:2",
+        "quote": "האומות אומרים אילולי היה אברהם צדיק"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: הקדימו זאת כדי לענות על טענה שהשבועה לא תועיל אם ה' יצוה אחרת; הם אומרים שרצון ה' נמשך אחר מעשי אברהם.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 21:22:1",
+        "quote": "רצון האלהים נמשך אחר מעשיך"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה הבין אבימלך ממעמדו של אברהם, לגבי הארץ ולגבי צאצאיו."
+   },
+   {
+    "title": "למה מבקש אבימלך שבועה שמגיעה עד נכדיו, והרי חסדו של אברהם נעשה רק עמו?",
+    "pasuk": {
+     "text": "אם תשקר לי ולניני ולנכדי",
+     "ref": "Genesis 21:23",
+     "label": "בראשית כא, כג"
+    },
+    "question": "אבימלך מבקש מאברהם שיעשה חסד עמו, עם בנו ועם נכדו, 'כחסד אשר עשיתי עמך'. אך החסד שעשה היה רק לאברהם עצמו. למה שלושה דורות?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "כי אשר עשה עמו אינו לנינו ולנכדו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בכור שור: אבימלך ידע שאברהם יירש את הארץ וזרעו יגרש את זרעו משם, ולכן ביקש שלא יעשו כן.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 21:23:1",
+        "quote": "יודע היה אבימלך שאברהם יירש את הארץ ויגרש זרעו אותו משם"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לא יכול היה לשאול יותר מנכד, כי הקב\"ה אמר לאברהם שבדור הרביעי ישובו בניו לארץ.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 21:22:1",
+        "quote": "אבל יותר לא היה אבימלך יכול לישאל… ודור רביעי ישובו הנה"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: השבועה היא שלא יקח אברהם את הארץ ממנו, לא מבנו ולא מבן בנו.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 21:22",
+        "quote": "שלא יקח את ארצו מידו ולא מיד בנו ולא מיד בן בנו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ביקש שבועה כי ידע שאברהם ישמור אותה, וגם בניו ובני בניו יראו את שבועתו וישמרו אותה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 21:23:1",
+        "quote": "גם בניך ובני בניך יראו משבועתך וישמרוה"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: עיקר השבועה היה בשביל כלל האומה והמלכות, ולכן ביקש עבור בנו יורש העצר.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 21:23:1",
+        "quote": "עיקר השבועה היה בשביל כלל האומה והמלכות"
+       }
+      ]
+     }
+    ],
+    "why": "כמה מהם מבינים את הבקשה כדאגה לשאלה מי ישלוט בארץ בדורות הבאים."
+   },
+   {
+    "title": "למה אומר אברהם 'אנכי אשבע' ואז, במקום להישבע, מוכיח את אבימלך?",
+    "pasuk": {
+     "text": "ויאמר אברהם אנכי אשבע",
+     "ref": "Genesis 21:24",
+     "label": "בראשית כא, כד"
+    },
+    "question": "אברהם מסכים מיד להישבע, אך בפסוק הבא הוא מעלה את עניין הבאר. למה מבטיח קודם, ולמה בדיוק הוא מסכים?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "אנכי אשבע למה ייעד ולא עשה מיד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: חשש שאבימלך יחשוב שהתוכחה באה לבטל את השבועה, ולכן הקדים 'אנכי אשבע' ואחר כך הוכיחו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 21:24:2",
+        "quote": "לזה הקדים לומר אנכי אשבע ואחר כך הוכיחו"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: ראה שטענות אבימלך צודקות בדברים רבים, ולכן לא התחיל בתוכחה אלא הודה לדבריו מיד.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 21:22:1",
+        "quote": "לא רצה להוכיחו בראשונה אלא מיד הודה לדבריו"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: אברהם לא רצה להישבע אלא על עצמו ולא על צאצאיו, כי ידע שזרעו יירש את הארץ.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 21:22",
+        "quote": "שאברהם לא רצה לישבע אלא על עצמו לא על נינו ונכדו"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: היה מוכן להישבע שלא יפגע באבימלך ובזרעו, אך היתה לו טרוניה עליו בעניין הבאר.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 21:24:1",
+        "quote": "אני מוכן להישבע שלא ארע לך ולזרעך"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: אברהם רצה שהשבועה תחייב את שניהם, ולכן נשבע מצדו ואחר כך הראה שגם אבימלך צריך להתחייב, כי עבדיו עשו לו עוול.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 21:24:1",
+        "quote": "ויאמר אברהם אנכי מצדי אשבע"
+       }
+      ]
+     }
+    ],
+    "why": "סדר הפסוקים קובע אם התוכחה היא תנאי בשבועה או עניין נפרד."
+   },
+   {
+    "title": "איך הכתוב אומר שאברהם 'הוכיח' מלך, ולמה רש\"י מכנה זאת ויכוח?",
+    "pasuk": {
+     "text": "והוכח אברהם את אבימלך",
+     "ref": "Genesis 21:25",
+     "label": "בראשית כא, כה"
+    },
+    "question": "רש\"י מפרש 'והוכיח' כ'נתווכח עמו'. למה לא פשוט 'נזף', ומה מרוויחים מהתוכחה או מהוויכוח?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 21:25:1",
+      "era": "acharon",
+      "quote": "אין זה דרך כבוד להוכיח את המלך"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 21:25:1",
+      "era": "acharon",
+      "quote": "דאין זה דרך כבוד לנהוג עם מלך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נתווכח עמו על כך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:25:1",
+        "quote": "נתווכח עמו על כך"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: זה היה ויכוח, כי אבימלך ביקש שיעשה חסד עם נינו ונכדו, ואברהם התווכח על מה שעשו לו עבדיו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 21:25:1",
+        "quote": "אלא נתווכח עמו מפני שאמר לו שיעשה חסד עם נינו ונכדו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: כל שלום שאין עמו תוכחה אינו שלום.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 54:3",
+        "quote": "כל שלום שאין עמו תוכחה אינו שלום"
+       }
+      ]
+     },
+     {
+      "text": "תורה תמימה: הפסוק הבא, 'ויכרתו שניהם ברית', מלמד שהתוכחה מביאה לידי שלום.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 21:28:1",
+        "quote": "מלמד שהתוכחה מביאה לידי שלום"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את אופן כריתת הברית, בתלונה גלויה ולא בשתיקה."
+   },
+   {
+    "title": "למה 'לא ידעתי מי עשה' הוא מענה מספק מצד אבימלך?",
+    "pasuk": {
+     "text": "לא ידעתי מי עשה את הדבר הזה",
+     "ref": "Genesis 21:26",
+     "label": "בראשית כא, כו"
+    },
+    "question": "אבימלך אומר שלא ידע מי גזל את הבאר, ומוסיף שגם אברהם לא הגיד לו. מלך אחראי לעבדיו, אז איך זה עונה על התלונה?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:22:1",
+      "era": "acharon",
+      "quote": "שיורה שידע הגזלה ונעלם ממנו מי היה העושה ואין זה התנצלות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "צרור המור: הוא מחזיר את האשמה ואומר שאברהם ידע ולא הגיד, ולא היה ראוי להעלים זאת בלבו בדרך נטירה, כי אוהבים צריכים להיות בלב אחד.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 21:26:1",
+        "quote": "ולא היה ראוי לך להעלים הדבר בלבך בדרך נטירה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך כל צד הבין את חובת החברים לדבר בגלוי."
+   },
+   {
+    "title": "למה מציב אברהם שבע כבשות לבד, ולמה הן?",
+    "pasuk": {
+     "text": "ויצב אברהם את שבע כבשת הצאן לבדהן",
+     "ref": "Genesis 21:28",
+     "label": "בראשית כא, כח"
+    },
+    "question": "אברהם כבר נתן לאבימלך צאן ובקר. למה מציב שבע כבשות לבדן, ומה הן מעידות?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 21:28:1",
+      "era": "acharon",
+      "quote": "ראוי לשום לב מה ענין שבע כבשות הצאן אשר הציב לבדן"
+     },
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 21:28:1",
+      "era": "rishon",
+      "quote": "ולמה שבע כבשות על שם השבועה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: לשון שבע נופל על לשון שבועה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 21:28:1",
+        "quote": "לשון שבע נופל על לשון שבועה"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: מפני שלשון שבועה נגזר מ'שבע', הציב אברהם שבע כבשות וקרא למקום על שם השבועה.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 21:23:1-4",
+        "quote": "לכך הציב אברהם שבע כבשות הצאן"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רועי אברהם ורועי אבימלך התדיינו על הבאר, ורועי אברהם אמרו שהמים יעלו להשקות את צאן מי שהבאר שלו, והמים עלו לצאן אברהם.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 54:5",
+        "quote": "כל מי שהמים עולים להשקות את צאנו שלו היא הבאר"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אמר לו הקב\"ה שאברהם נתן שבע כבשות בלי רצונו, ולכן ישהה את שמחת בניו שבעה דורות.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 54:4",
+        "quote": "חייך שאני משהה בשמחת בניך שבעה דורות"
+       }
+      ]
+     }
+    ],
+    "why": "נתינת שבע הכבשות גם חותמת את השבועה, ובמדרש גם מטילה מחיר על דורות הבאים."
+   },
+   {
+    "title": "מהו ה'אשל' שנטע אברהם, והאם זה משנה?",
+    "pasuk": {
+     "text": "ויטע אשל בבאר שבע",
+     "ref": "Genesis 21:33",
+     "label": "בראשית כא, לג"
+    },
+    "question": "חכמים חלוקים אם האשל היה פרדס או פונדק, ועץ 'נוטעים' אך פונדק לא. מה על הפרק במחלוקת?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 21:33:1",
+      "era": "acharon",
+      "quote": "ויש לתמוה מה נפקא לי מיניה אם פרדס היה או היה פונדק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: רב ושמואל חלוקים; אחד אומר פרדס להביא פירות לאורחים, והשני פונדק לאכסניה, ויש לשון נטיעה גם באהלים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 21:33:1",
+        "quote": "ומצינו לשון נטיעה באהלים"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: היה פרדס, להתפלל שם.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 21:33:1",
+        "quote": "פרדס היה להתפלל שם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה מוסיף דעה שלישית: אשל היה סנהדרין.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 54:6",
+        "quote": "רבי עזריה בשם רבי יהודה בר סימון אשל סנהדרין"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: כל דעה מתאימה לאברהם: פרדס כי הוא הנטיעה הראשונה בעולם, פונדק כי הוא אב המון שמאסף ומפרנס את הכל.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 21:33:1",
+        "quote": "כך אברהם הוא הנטיעה הראשונה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה ראו חכמים בישיבת אברהם בבאר שבע."
+   }
+  ],
+  "sources_consulted": [
+   "אלשיך",
+   "העמק דבר",
+   "רש\"י",
+   "ספורנו",
+   "בראשית רבה",
+   "מדרש לקח טוב",
+   "מלבי\"ם",
+   "בכור שור",
+   "חזקוני",
+   "אברבנאל",
+   "רד\"ק",
+   "אור החיים",
+   "צרור המור",
+   "שד\"ל",
+   "שפתי חכמים",
+   "גור אריה",
+   "תורה תמימה",
+   "טור הארוך",
+   "רבנו בחיי",
+   "רשב\"ם"
+  ]
+ }
+}
