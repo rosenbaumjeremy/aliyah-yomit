@@ -1,0 +1,1090 @@
+{
+ "date": "2026-10-30",
+ "reading": {
+  "en": "Vayera",
+  "he": "וירא",
+  "ref": "Genesis 18:1-22:24",
+  "slugs": [
+   "vayera"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 22:1-22:24",
+ "maftir": "Genesis 22:20-22:24",
+ "hebrew_date": {
+  "hebrew": "י״ט בְּחֶשְׁוָן תשפ״ז",
+  "english": "19 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Abraham is tested by God: take your son Isaac to Moriah and offer him as a burnt offering. He rises early, walks three days, leaves his servants behind, and binds Isaac on the altar. A messenger of God stops his hand from heaven, he offers a ram caught in a thicket instead, and receives an oath of blessing for his descendants. He returns to Beer-sheba, and is then told that Milcah has borne sons to his brother Nahor, among them Bethuel, the father of Rebekah.",
+  "questions": [
+   {
+    "title": "Why does God test Abraham if He already knows his heart?",
+    "pasuk": {
+     "text": "והאלהים נסה את אברהם",
+     "ref": "Genesis 22:1",
+     "label": "Genesis 22:1"
+    },
+    "question": "The Torah says God tested Abraham, but God searches hearts and knew Abraham would obey. Who gains from a test, and what is it for?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 22:1:1",
+      "era": "rishon",
+      "quote": "הַנִּסָּיוֹן קָשֶׁה מְאֹד לְסַפְּרוֹ עַל הָאֵל, כִּי הוּא חוֹקֵר לֵב וּמֵבִין כְּלָיוֹת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban says a test is called such from the side of the one tested; God commands it so the deed leaves potential and becomes action, and the person earns the reward of a good deed, not only of a good heart.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 22:1:1",
+        "quote": "לִהְיוֹת לוֹ שְׂכַר מַעֲשֶׂה טוֹב, לֹא שְׂכַר לֵב טוֹב בִּלְבַד"
+       }
+      ]
+     },
+     {
+      "text": "Sforno says the test makes Abraham actually loving and fearing, as he was before only in potential, and so more like his Creator who is good in actuality.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 22:1:1",
+        "quote": "שֶׁיִּהְיֶה בְּפֹעַל אוֹהֵב וְיָרֵא כְּמוֹ שֶׁהָיָה בַּכֹּחַ"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor says it was done so that no Satan or accuser could say Abraham feared God for nothing.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 22:1:2",
+        "quote": "שלא יוכל שטן ומקטרג ובעל הדין לומר עליו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva in Bereshit Rabbah says God tested him so that people would not say he was confused and rushed into it.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 55:6",
+        "quote": "נסה אותו בודאי שלא יהיו אומרין הממו ערבבו"
+       }
+      ]
+     }
+    ],
+    "why": "The answers differ on whether the test is for Abraham, for the world, or for his accuser."
+   },
+   {
+    "title": "Why does God pile up four descriptions before naming Isaac?",
+    "pasuk": {
+     "text": "קח נא את בנך את יחידך אשר אהבת את יצחק",
+     "ref": "Genesis 22:2",
+     "label": "Genesis 22:2"
+    },
+    "question": "God could have said \"take Isaac.\" Why does He say \"your son, your only one, whom you love,\" and only then name Isaac?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 22:2:2",
+      "era": "rishon",
+      "quote": "ולמה לא גלה לו מתחלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says God did not reveal it at once so as not to confuse him suddenly and unsettle his mind, to make the command dear to him, and to give him reward for each word.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:2:2",
+        "quote": "שלא לערבבו פתאום ותזוח דעתו עליו ותטרף, וכדי לחבב עליו את המצוה ולתן לו שכר על כל דבור ודבור"
+       }
+      ]
+     },
+     {
+      "text": "Ramban says \"your only one\" is said because Isaac was the son of the mistress of the house and the only one called his seed, so the wording makes the command greater.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 22:2:1",
+        "quote": "ובא הלשון להגדיל המצוה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim reads the three phrases as three loves: with all your heart, all your soul, all your might.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 22:2:4",
+        "quote": "כאן רמז לשלש אהבות"
+       }
+      ]
+     }
+    ],
+    "why": "Rashi and Ramban differ on whether the stacked wording is kindness to Abraham or measures the size of the command."
+   },
+   {
+    "title": "Why does the command lead to a three-day walk instead of happening at once?",
+    "pasuk": {
+     "text": "ביום השלישי וישא אברהם את עיניו",
+     "ref": "Genesis 22:4",
+     "label": "Genesis 22:4"
+    },
+    "question": "Abraham was told to offer Isaac \"on one of the heights.\" Why not on the spot, and why did God let three days pass before he saw the place?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 22:4:1",
+      "era": "rishon",
+      "quote": "למה אחר מלהראותו מיד"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 22:2:4",
+      "era": "rishon",
+      "quote": "ולמה אמר להעלותו במקום רחוק שלשה ימים, ולא אמר לו להעלותו מיד שם במקומו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says it was delayed so people would not say he was stunned and confused and lost his mind; had he had time to reconsider he would not have done it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:4:1",
+        "quote": "כדי שלא יאמרו הממו וערבבו פתאום וטרף דעתו"
+       }
+      ]
+     },
+     {
+      "text": "Radak gives two reasons; first, that three days gave Abraham hours to think and he still hurried to do God's will, which magnifies his love.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 22:2:4",
+        "quote": "היה לו שעות להתבונן בדבר ועם כל זה מהר לעשות רצון האל"
+       }
+      ]
+     },
+     {
+      "text": "Aggadat Bereshit says God made him suffer three days seeking the place so that all would know he offered his son with intent and love, not out of terror at a sudden revelation.",
+      "sources": [
+       {
+        "name": "Aggadat Bereshit",
+        "ref": "Aggadat Bereshit 31:3",
+        "quote": "כדי שידעו הכל שבדעתו ובאהבה הקריבו ולא חזר בו"
+       }
+      ]
+     }
+    ],
+    "why": "The same three days serve opposite fears: that he acted in confusion, or that he acted in fright."
+   },
+   {
+    "title": "How could Abraham say \"we will return\" if he meant to offer Isaac?",
+    "pasuk": {
+     "text": "שבו לכם פה עם החמור ואני והנער נלכה עד כה ונשתחוה ונשובה אליכם",
+     "ref": "Genesis 22:5",
+     "label": "Genesis 22:5"
+    },
+    "question": "Abraham tells his servants that he and the boy will worship and both return. Was that untrue, and why send the servants away at all?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 22:5:1",
+      "era": "rishon",
+      "quote": "י\"א איך אמר אברהם ונשובה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra reports that Abraham put them off with words so they would not turn away before he came back, and so Isaac would not notice and flee.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 22:5:1",
+        "quote": "ואברהם דחם בדברים כדי שלא יסורו עד שובו, ושלא ירגיש יצחק ויברח"
+       }
+      ]
+     },
+     {
+      "text": "Rashi says he prophesied that both would return.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:5:2",
+        "quote": "נתנבא שישובו שניהם"
+       }
+      ]
+     },
+     {
+      "text": "Alshich says Abraham trusted that perhaps God would be gracious and be satisfied without a slaughter.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 22:5:1",
+        "quote": "כי אולי יחנן ה' ויתרצה מבלי שישחט"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni says a statement may be changed according to the need of the hour.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 22:5:3",
+        "quote": "שלפי צורך השעה אפשר לשנות הדבור"
+       }
+      ]
+     }
+    ],
+    "why": "Whether \"we will return\" was a lie, a prophecy or a hope is the whole question; Ibn Ezra, Rashi and Alshich each pick one."
+   },
+   {
+    "title": "Why does the angel say \"do not send your hand\" and not \"do not slaughter him\"?",
+    "pasuk": {
+     "text": "אל תשלח ידך אל הנער ואל תעש לו מאומה",
+     "ref": "Genesis 22:12",
+     "label": "Genesis 22:12"
+    },
+    "question": "The command stops short of the word for slaughter and adds \"do nothing to him.\" What was it keeping Abraham from, and what did Abraham already complete?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 22:11:1-2",
+      "era": "acharon",
+      "quote": "ועוד למה לא אמר אל תשחטהו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says Abraham asked whether he came for nothing and proposed to draw a little blood; the angel said do not make a blemish.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:12:1",
+        "quote": "אעשה בו חבלה ואוציא ממנו מעט דם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor says the words mean the mitzvah was already done, for God commanded only to bring him up, and Abraham had brought him up above the wood.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 22:12:1",
+        "quote": "כי לא צוה לך רק להעלותו ואתה העלית אותו מעל לעצים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah tells that three tears fell from the ministering angels and spoiled the knife, so Abraham said he would strangle him, then draw a drop of blood.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 56:7",
+        "quote": "נשרו שלש דמעות ממלאכי השרת ושחת הסכין"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar says that since Abraham acted willingly Isaac was consecrated as a burnt offering, and so he might have been permitted to blemish him afterward; hence the warning.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 22:12:4",
+        "quote": "נתקדש לעולה והיה רשאי אח\"כ להטיל בו מום"
+       }
+      ]
+     }
+    ],
+    "why": "Four answers, from the knife to the law of an offering, on what \"do nothing to him\" prevented."
+   },
+   {
+    "title": "What does \"now I know\" mean if God knew all along?",
+    "pasuk": {
+     "text": "כי עתה ידעתי כי ירא אלהים אתה",
+     "ref": "Genesis 22:12",
+     "label": "Genesis 22:12"
+    },
+    "question": "The angel says \"for now I know that you fear God.\" Did God not know it before, and if He did, what changed?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 22:12:2",
+      "era": "acharon",
+      "quote": "והלא כבר נודע אפי׳ לכל אדם אשר אברהם ירא ואוהב את ה׳"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 22:12:1",
+      "era": "acharon",
+      "quote": "וכי קדם זה לא שאל ממנו היראה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban says at first the fear was in potential and had not reached action; now it showed in the deed, and his merit and reward were complete.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 22:12:1",
+        "quote": "מתחלה היתה יראתו בכח לא יצא לפעל במעשה הגדול הזה"
+       }
+      ]
+     },
+     {
+      "text": "Rashi says now he has an answer for Satan and the nations who wondered how dear Abraham was to Him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:12:3",
+        "quote": "מעתה יש לי מה להשיב לשטן ולאמות התמהים"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor says God speaks in human language: He made Himself as if not knowing, and now \"I know\" to make it known to all.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 22:12:2",
+        "quote": "עשיתי עצמי כאילו לא ידעתי ועתה ידעתי להודיע לכל"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni and Kli Yakar read \"I know\" as \"I made known\"; Kli Yakar adds that \"now\" does not cut off the time before it.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 22:12:1",
+        "quote": "הכל גלוי לפניו אלא פירש עתה הודעתי"
+       },
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 22:12:1",
+        "quote": "אין כל לשון עתה ממעט הזמן הקודם לו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno says Abraham now fears God in actuality, as God had known beforehand that he did in potential.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 22:12:2",
+        "quote": "שאתה בפעל ירא אלהים כמו שהיה האל יודע קודם לכן שהיית ירא אלהים בכח"
+       }
+      ]
+     }
+    ],
+    "why": "Whether \"now I know\" is for God, the accuser or the world is the same question as the first one in this aliyah."
+   },
+   {
+    "title": "How did Abraham know the ram was meant for him?",
+    "pasuk": {
+     "text": "וישא אברהם את עיניו וירא והנה איל אחר נאחז בסבך בקרניו",
+     "ref": "Genesis 22:13",
+     "label": "Genesis 22:13"
+    },
+    "question": "Abraham saw a ram caught in a thicket and took it. What told him it was God's provision and not someone else's animal?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 22:13:1-2",
+      "era": "acharon",
+      "quote": "מה ראה אברהם לדעת שחפץ ה' היה להמיר את יצחק באיל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sforno says he understood the ram came by God's will and without any theft, since there was no ram there before and then he at once saw this one caught.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 22:13:1",
+        "quote": "ובזה הבין שנזדמן לו האיל ברצון האל"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor says Abraham would not take another's animal; only after it was caught by its horns did he know it was a sign for him.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 22:13:1",
+        "quote": "ולא היה פושט ידו בשל אחרים"
+       }
+      ]
+     },
+     {
+      "text": "Rashi says it was prepared for this since the six days of creation.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:13:1",
+        "quote": "מוכן היה לכך מששת ימי בראשית"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer says this ram was created at twilight and came to take Isaac's place while Samael tried to stop it.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 31:11",
+        "quote": "אותו האיל שנברא בין השמשות היה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah on \"another\": after all generations Israel is caught in sins, and in the end is redeemed by the ram's horn.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 56:9",
+        "quote": "וסופן לגאל בקרנו של איל"
+       }
+      ]
+     }
+    ],
+    "why": "The answers move from reassurance about theft to the ram's place in history."
+   },
+   {
+    "title": "Why does the Torah end the Akedah with Nahor's family?",
+    "pasuk": {
+     "text": "ויהי אחרי הדברים האלה ויגד לאברהם לאמר הנה ילדה מלכה",
+     "ref": "Genesis 22:20",
+     "label": "Genesis 22:20"
+    },
+    "question": "After the Akedah, Abraham is told about Milcah's sons and Reumah's. Why list names that seem unconnected, and why do they come \"after these things\"?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 22:20:1",
+      "era": "acharon",
+      "quote": "טעם ספור זה, גם טעם אמרו אחרי הדברים"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 22:20:1",
+      "era": "acharon",
+      "quote": "דבאמת לכאורה פלא וכי כך דרכו של א\"א"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says Abraham reflected on the way back that, had Isaac been slaughtered, he would have had no children, so God announced that Rebekah, Isaac's mate, was born.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:20:1",
+        "quote": "בשרו הקב\"ה שנולדה רבקה בת זוגו"
+       }
+      ]
+     },
+     {
+      "text": "Rashi adds that all these genealogies were written only for the sake of one verse, that Bethuel fathered Rebekah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 22:23:1",
+        "quote": "כל היחוסין הללו לא נכתבו אלא בשביל פסוק זה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban says it may have been written to show all Nahor's lineage, since all were fit to join Abraham's seed.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 22:24:1",
+        "quote": "כי כלם ראויים להדבק בזרעו של אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno says Maacah, the concubine's daughter, was also fit for Isaac if he did not choose Rebekah, so he would not need a Canaanite wife.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 22:24:1",
+        "quote": "שהיתה כמו כן ראויה לבנו אם לא יבחר ברבקה"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar says that only once Abraham had risen to cleave to God was he permitted to remember and ask about his family.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 22:20:1",
+        "quote": "הותר לו לזכור מהם ולחקור עליהם"
+       }
+      ]
+     }
+    ],
+    "why": "Whether the list is a message about Rebekah, about Nahor's line, or about Abraham himself is the dispute."
+   }
+  ],
+  "sources_consulted": [
+   "Radak",
+   "Ramban",
+   "Sforno",
+   "Bekhor Shor",
+   "Bereshit Rabbah",
+   "Rashi",
+   "Or HaChaim",
+   "Aggadat Bereshit",
+   "Ibn Ezra",
+   "Alshich",
+   "Chizkuni",
+   "Haamek Davar",
+   "Kli Yakar",
+   "Pirkei DeRabbi Eliezer"
+  ]
+ },
+ "hebrew": {
+  "summary": "אברהם נבחן על ידי האלהים: קח את בנך יצחק לארץ המוריה והעלהו שם לעולה. הוא משכים בבוקר, הולך שלושה ימים, משאיר את נעריו, ועוקד את יצחק על המזבח. מלאך ה' קורא אליו מן השמים ועוצר את ידו, הוא מקריב איל שנאחז בסבך תחתיו, ומקבל שבועת ברכה לזרעו. הוא שב לבאר שבע, ושם מוגד לו שמלכה ילדה בנים לנחור אחיו, ובהם בתואל אבי רבקה.",
+  "questions": [
+   {
+    "title": "מדוע ה' מנסה את אברהם, והרי הוא יודע מה בלבו?",
+    "pasuk": {
+     "text": "והאלהים נסה את אברהם",
+     "ref": "Genesis 22:1",
+     "label": "בראשית כב, א"
+    },
+    "question": "הכתוב אומר שהאלהים ניסה את אברהם, אך הקב\"ה חוקר לבבות וידע שאברהם יקיים את מצוותו. למי מועילה הבחינה, ולשם מה היא?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 22:1:1",
+      "era": "rishon",
+      "quote": "הַנִּסָּיוֹן קָשֶׁה מְאֹד לְסַפְּרוֹ עַל הָאֵל, כִּי הוּא חוֹקֵר לֵב וּמֵבִין כְּלָיוֹת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן: \"נסיון\" נקרא מצד המנוסה; הקב\"ה מצווה כדי להוציא את הדבר מהכוח אל הפועל, ויהיה לאדם שכר מעשה טוב ולא רק שכר לב טוב.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 22:1:1",
+        "quote": "לִהְיוֹת לוֹ שְׂכַר מַעֲשֶׂה טוֹב, לֹא שְׂכַר לֵב טוֹב בִּלְבַד"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הנסיון מביא את אברהם להיות אוהב ויראה בפועל כפי שהיה בכוח, ובכך הוא דומה יותר לבוראו שהוא טוב בפועל.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 22:1:1",
+        "quote": "שֶׁיִּהְיֶה בְּפֹעַל אוֹהֵב וְיָרֵא כְּמוֹ שֶׁהָיָה בַּכֹּחַ"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כדי שלא יוכל שטן או מקטרג לומר על אברהם שיראתו חינם.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 22:1:2",
+        "quote": "שלא יוכל שטן ומקטרג ובעל הדין לומר עליו"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא בבראשית רבה: ניסה אותו כדי שלא יאמרו שהוא נבהל ונתבלבל.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 55:6",
+        "quote": "נסה אותו בודאי שלא יהיו אומרין הממו ערבבו"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות נחלקות אם הנסיון לטובת אברהם, לטובת העולם או כדי להשתיק מקטרג."
+   },
+   {
+    "title": "מדוע ה' מונה ארבעה תיאורים לפני שהוא מזכיר את יצחק בשמו?",
+    "pasuk": {
+     "text": "קח נא את בנך את יחידך אשר אהבת את יצחק",
+     "ref": "Genesis 22:2",
+     "label": "בראשית כב, ב"
+    },
+    "question": "הקב\"ה יכול היה לומר \"קח את יצחק\". מדוע הוא אומר \"את בנך את יחידך אשר אהבת\" ורק אחר כך \"את יצחק\"?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 22:2:2",
+      "era": "rishon",
+      "quote": "ולמה לא גלה לו מתחלה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כדי לא לערבבו פתאום ותטרף דעתו, כדי לחבב עליו את המצווה, ולתת לו שכר על כל דיבור ודיבור.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:2:2",
+        "quote": "שלא לערבבו פתאום ותזוח דעתו עליו ותטרף, וכדי לחבב עליו את המצוה ולתן לו שכר על כל דבור ודבור"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: \"יחידך\" כי הוא בן הגבירה והיחיד שיקרא לו זרע, והלשון בא להגדיל את המצווה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 22:2:1",
+        "quote": "ובא הלשון להגדיל המצוה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: שלוש הלשונות רומזות לשלוש אהבות: בכל לבבך, בכל נפשך ובכל מאודך.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 22:2:4",
+        "quote": "כאן רמז לשלש אהבות"
+       }
+      ]
+     }
+    ],
+    "why": "רש\"י ורמב\"ן נחלקים אם הלשון המצטבר חסד כלפי אברהם או מדידת גודל המצווה."
+   },
+   {
+    "title": "מדוע המצווה כרוכה בהליכה של שלושה ימים ולא מתבצעת מיד?",
+    "pasuk": {
+     "text": "ביום השלישי וישא אברהם את עיניו",
+     "ref": "Genesis 22:4",
+     "label": "בראשית כב, ד"
+    },
+    "question": "אברהם נצטווה להעלות את יצחק \"על אחד ההרים\". מדוע לא במקום, ולמה עברו שלושה ימים עד שראה את המקום?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 22:4:1",
+      "era": "rishon",
+      "quote": "למה אחר מלהראותו מיד"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 22:2:4",
+      "era": "rishon",
+      "quote": "ולמה אמר להעלותו במקום רחוק שלשה ימים, ולא אמר לו להעלותו מיד שם במקומו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כדי שלא יאמרו שהמום ובלבלו ותר דעתו, ואילו היה לו זמן להתייעץ בליבו לא היה עושה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:4:1",
+        "quote": "כדי שלא יאמרו הממו וערבבו פתאום וטרף דעתו"
+       }
+      ]
+     },
+     {
+      "text": "הרד\"ק מביא שתי סיבות; הראשונה, שבשלושה ימים היו לאברהם שעות להתבונן ובכל זאת מיהר לעשות רצון ה', וזה מגדיל את אהבתו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 22:2:4",
+        "quote": "היה לו שעות להתבונן בדבר ועם כל זה מהר לעשות רצון האל"
+       }
+      ]
+     },
+     {
+      "text": "אגדת בראשית: הקב\"ה גרם לו לשלושה ימים של צער ובקשת המקום כדי שידעו הכל שהקריב בדעתו ובאהבה, ולא מתוך פחד מגילוי פתאומי.",
+      "sources": [
+       {
+        "name": "אגדת בראשית",
+        "ref": "Aggadat Bereshit 31:3",
+        "quote": "כדי שידעו הכל שבדעתו ובאהבה הקריבו ולא חזר בו"
+       }
+      ]
+     }
+    ],
+    "why": "שלושת הימים עונים על שני חששות הפוכים: שפעל בבלבול, או שפעל מתוך פחד."
+   },
+   {
+    "title": "איך אמר אברהם \"ונשובה\" אם התכוון להעלות את יצחק?",
+    "pasuk": {
+     "text": "שבו לכם פה עם החמור ואני והנער נלכה עד כה ונשתחוה ונשובה אליכם",
+     "ref": "Genesis 22:5",
+     "label": "בראשית כב, ה"
+    },
+    "question": "אברהם אומר לנעריו שהוא והנער ישתחוו וישובו. האם זה לא היה אמת, ולמה בכלל הותיר אותם מאחור?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 22:5:1",
+      "era": "rishon",
+      "quote": "י\"א איך אמר אברהם ונשובה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: אברהם דחה אותם בדברים כדי שלא יסורו עד שובו וכדי שיצחק לא ירגיש ויברח.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 22:5:1",
+        "quote": "ואברהם דחם בדברים כדי שלא יסורו עד שובו, ושלא ירגיש יצחק ויברח"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: נתנבא ששניהם ישובו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:5:2",
+        "quote": "נתנבא שישובו שניהם"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: אברהם בטח שאולי ה' יחנן ויתרצה מבלי שישחט.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 22:5:1",
+        "quote": "כי אולי יחנן ה' ויתרצה מבלי שישחט"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לפי צורך השעה אפשר לשנות את הדיבור.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 22:5:3",
+        "quote": "שלפי צורך השעה אפשר לשנות הדבור"
+       }
+      ]
+     }
+    ],
+    "why": "האם \"ונשובה\" היה שקר, נבואה או תקווה היא כל השאלה; אבן עזרא, רש\"י ואלשיך בוחרים כל אחד דרך אחרת."
+   },
+   {
+    "title": "מדוע אומר המלאך \"אל תשלח ידך\" ולא \"אל תשחטהו\"?",
+    "pasuk": {
+     "text": "אל תשלח ידך אל הנער ואל תעש לו מאומה",
+     "ref": "Genesis 22:12",
+     "label": "בראשית כב, יב"
+    },
+    "question": "הציווי נמנע מלשון שחיטה ומוסיף \"ואל תעש לו מאומה\". ממה נמנע אברהם ומה כבר השלים?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 22:11:1-2",
+      "era": "acharon",
+      "quote": "ועוד למה לא אמר אל תשחטהו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אברהם אמר שבא לחינם ויעשה חבלה ויוציא מעט דם; אמר לו המלאך אל תעש בו מום.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:12:1",
+        "quote": "אעשה בו חבלה ואוציא ממנו מעט דם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כבר קיים את המצווה, שכן נצטווה רק להעלותו והוא העלהו מעל העצים.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 22:12:1",
+        "quote": "כי לא צוה לך רק להעלותו ואתה העלית אותו מעל לעצים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: שלוש דמעות נשרו ממלאכי השרת ושחתו את הסכין, ואברהם אמר שיחנקנו ואחר כך שיוציא טיפת דם.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 56:7",
+        "quote": "נשרו שלש דמעות ממלאכי השרת ושחת הסכין"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: כיוון שאברהם עשה ברצון נתקדש יצחק לעולה, והיה רשאי להטיל בו מום אחר כך, ולכן הזהירו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 22:12:4",
+        "quote": "נתקדש לעולה והיה רשאי אח\"כ להטיל בו מום"
+       }
+      ]
+     }
+    ],
+    "why": "ארבע תשובות, מהסכין ועד דיני קרבן, על מה שמנעה האזהרה \"ואל תעש לו מאומה\"."
+   },
+   {
+    "title": "מה פירוש \"עתה ידעתי\" אם הקב\"ה ידע מראש?",
+    "pasuk": {
+     "text": "כי עתה ידעתי כי ירא אלהים אתה",
+     "ref": "Genesis 22:12",
+     "label": "בראשית כב, יב"
+    },
+    "question": "המלאך אומר \"כי עתה ידעתי כי ירא אלהים אתה\". האם לא ידע קודם, ואם ידע, מה השתנה?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 22:12:2",
+      "era": "acharon",
+      "quote": "והלא כבר נודע אפי׳ לכל אדם אשר אברהם ירא ואוהב את ה׳"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 22:12:1",
+      "era": "acharon",
+      "quote": "וכי קדם זה לא שאל ממנו היראה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: בתחילה היתה יראתו בכוח ולא יצאה לפועל, ועתה נודעה במעשה וזכותו שלמה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 22:12:1",
+        "quote": "מתחלה היתה יראתו בכח לא יצא לפעל במעשה הגדול הזה"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: עכשיו יש לו מה להשיב לשטן ולאומות התמהים מה חביבותו אצלו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:12:3",
+        "quote": "מעתה יש לי מה להשיב לשטן ולאמות התמהים"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: הקב\"ה מדבר כלשון בני אדם, עשה עצמו כאילו לא ידע ועתה ידע כדי להודיע לכל.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 22:12:2",
+        "quote": "עשיתי עצמי כאילו לא ידעתי ועתה ידעתי להודיע לכל"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני וכלי יקר מפרשים \"ידעתי\" כמו \"הודעתי\"; כלי יקר מוסיף ש\"עתה\" אינו ממעט את הזמן שלפניו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 22:12:1",
+        "quote": "הכל גלוי לפניו אלא פירש עתה הודעתי"
+       },
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 22:12:1",
+        "quote": "אין כל לשון עתה ממעט הזמן הקודם לו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אברהם ירא אלהים עכשיו בפועל כפי שה' ידע קודם שהוא ירא בכוח.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 22:12:2",
+        "quote": "שאתה בפעל ירא אלהים כמו שהיה האל יודע קודם לכן שהיית ירא אלהים בכח"
+       }
+      ]
+     }
+    ],
+    "why": "אם \"עתה ידעתי\" נאמר בשביל הקב\"ה, המקטרג או העולם, זו אותה שאלה כבשאלה הראשונה בעלייה."
+   },
+   {
+    "title": "איך ידע אברהם שהאיל מיועד לו?",
+    "pasuk": {
+     "text": "וישא אברהם את עיניו וירא והנה איל אחר נאחז בסבך בקרניו",
+     "ref": "Genesis 22:13",
+     "label": "בראשית כב, יג"
+    },
+    "question": "אברהם ראה איל נאחז בסבך ולקח אותו. מה הבהיר לו שזו הזמנה מה' ולא רכוש של אחר?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 22:13:1-2",
+      "era": "acharon",
+      "quote": "מה ראה אברהם לדעת שחפץ ה' היה להמיר את יצחק באיל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ספורנו: הבין שהאיל נזדמן ברצון האל ושלא היה בו חשש גזל, כיוון שלא היה שם איל קודם ואחר כך ראה אותו נאחז.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 22:13:1",
+        "quote": "ובזה הבין שנזדמן לו האיל ברצון האל"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אברהם לא היה פושט יד בשל אחרים, ורק כשנאחז בקרניו ידע שהוא אות עבורו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 22:13:1",
+        "quote": "ולא היה פושט ידו בשל אחרים"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: האיל היה מוכן לכך מששת ימי בראשית.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:13:1",
+        "quote": "מוכן היה לכך מששת ימי בראשית"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: האיל נברא בין השמשות ובא להתקרב תחת יצחק, וסמאל ניסה למנוע.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 31:11",
+        "quote": "אותו האיל שנברא בין השמשות היה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה על \"אחר\": אחרי כל הדורות ישראל נאחזים בעבירות, וסופם להיגאל בקרנו של איל.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 56:9",
+        "quote": "וסופן לגאל בקרנו של איל"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות נעות מהרגעה בענין גזל ועד מקומו של האיל בהיסטוריה."
+   },
+   {
+    "title": "מדוע התורה מסיימת את העקדה בשושלת נחור?",
+    "pasuk": {
+     "text": "ויהי אחרי הדברים האלה ויגד לאברהם לאמר הנה ילדה מלכה",
+     "ref": "Genesis 22:20",
+     "label": "בראשית כב, כ"
+    },
+    "question": "אחרי העקדה מספרים לאברהם על בני מלכה ובני ראומה. מדוע נמנים שמות שלכאורה אינם קשורים, ומדוע הם באים \"אחר הדברים האלה\"?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 22:20:1",
+      "era": "acharon",
+      "quote": "טעם ספור זה, גם טעם אמרו אחרי הדברים"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 22:20:1",
+      "era": "acharon",
+      "quote": "דבאמת לכאורה פלא וכי כך דרכו של א\"א"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אברהם הרהר בשובו שאילו נשחט יצחק היה הולך בלא בנים, ולכן בישרו הקב\"ה שנולדה רבקה בת זוגו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:20:1",
+        "quote": "בשרו הקב\"ה שנולדה רבקה בת זוגו"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י מוסיף שכל היחוסין נכתבו רק בשביל פסוק אחד: ובתואל ילד את רבקה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 22:23:1",
+        "quote": "כל היחוסין הללו לא נכתבו אלא בשביל פסוק זה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: ייתכן שנכתב להודיע כל יחוס נחור, כי כולם ראויים להידבק בזרעו של אברהם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 22:24:1",
+        "quote": "כי כלם ראויים להדבק בזרעו של אברהם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: גם מעכה בת הפילגש היתה ראויה ליצחק אם לא יבחר ברבקה, ולא יצטרך לזרע כנען.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 22:24:1",
+        "quote": "שהיתה כמו כן ראויה לבנו אם לא יבחר ברבקה"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: רק כשהתעלה אברהם לדבקות בה' הותר לו לזכור את משפחתו ולחקור עליה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 22:20:1",
+        "quote": "הותר לו לזכור מהם ולחקור עליהם"
+       }
+      ]
+     }
+    ],
+    "why": "המחלוקת היא אם הרשימה מבשרת על רבקה, על משפחת נחור או על אברהם עצמו."
+   }
+  ],
+  "sources_consulted": [
+   "רד\"ק",
+   "רמב\"ן",
+   "ספורנו",
+   "בכור שור",
+   "בראשית רבה",
+   "רש\"י",
+   "אור החיים",
+   "אגדת בראשית",
+   "אבן עזרא",
+   "אלשיך",
+   "חזקוני",
+   "העמק דבר",
+   "כלי יקר",
+   "פרקי דרבי אליעזר"
+  ]
+ }
+}
