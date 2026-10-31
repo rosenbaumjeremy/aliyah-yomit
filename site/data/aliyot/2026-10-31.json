@@ -1,0 +1,909 @@
+{
+ "date": "2026-10-31",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 23:1-23:16",
+ "hebrew_date": {
+  "hebrew": "כ׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "20 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Sarah dies at 127 years in Kiriath-arba, which is Hebron, and Avraham comes to mourn and weep for her. He rises and asks the Hittites, as a resident alien, for a burial site. They offer him their choicest grave, and he asks them to intercede with Ephron son of Zohar for the cave of Machpelah at the edge of his field. Ephron offers the field and cave as a gift in front of the people. Avraham insists on paying, Ephron names four hundred shekels of silver, and Avraham weighs it out at the going merchants' rate.",
+  "questions": [
+   {
+    "title": "Why is Hebron called Kiryat Arba, 'the city of four'?",
+    "pasuk": {
+     "text": "בקרית ארבע הוא חברון",
+     "ref": "Genesis 23:2",
+     "label": "Genesis 23:2"
+    },
+    "question": "The verse names the place of Sarah's death 'Kiryat Arba, that is Hebron'. What does the 'four' refer to, and is there a reason the Torah uses this name here?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 23:2:1",
+      "quote": "ולא ידעתי מי הכריחם למדרש קרית ארבע על שם ארבע ענקים",
+      "era": "acharon"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 23:2:1",
+      "quote": "ואמרתי לתן טוב טעם ודעת על ארבע שמות אלו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it is named for the four giants who were there, Achiman, Sheshai, Talmai and their father.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:2:1",
+        "quote": "על שם ארבע ענקים שהיו שם אחימן ששי ותלמי ואביהם"
+       }
+      ]
+     },
+     {
+      "text": "Another reading in Rashi: it is named for the four couples buried there, Adam and Chava, Avraham and Sarah, Yitzchak and Rivka, Yaakov and Leah. A midrash says the city had four owners.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:2:1",
+        "quote": "על שם ארבע זוגות שנקברו שם איש ואשתו אדם וחוה"
+       },
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 23:2:1",
+        "quote": "שהיתה לארבעה בעלים"
+       }
+      ]
+     },
+     {
+      "text": "Radak and Ibn Ezra: Arba is the name of a man, a great one among the giants, and the city was named for him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 23:2:2",
+        "quote": "ארבע הוא שם איש"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 23:2:1",
+        "quote": "שם אדם גדול בענקים"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the place was set aside for burial, so it has four names (Eshkol, Mamre, Kiryat Arba, Hebron) that point to the four ways death comes.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 23:2:1",
+        "quote": "המורים על ארבע דרכים שהמיתה מצויה בהם"
+       }
+      ]
+     }
+    ],
+    "why": "The name hints at the family of the Avot and Imahot who will lie in this place."
+   },
+   {
+    "title": "Where was Avraham when Sarah died, and why 'vayavo'?",
+    "pasuk": {
+     "text": "ויבא אברהם לספד לשרה ולבכתה",
+     "ref": "Genesis 23:2",
+     "label": "Genesis 23:2"
+    },
+    "question": "The verse says Avraham 'came' to mourn Sarah. Where did he come from, if he was living with her in Hebron?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 23:2:1",
+      "quote": "כי איך תהיה שרה בחברון",
+      "era": "rishon"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 23:2:1",
+      "quote": "וכאשר מתה שרה היה אברהם במקום אחר ע\"כ אמר ויבא אברהם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he came from Beer Sheva.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:2:2",
+        "quote": "ויבא אברהם מבאר שבע"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: he came from Mount Moriah, after the Akeidah.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 23:2:3",
+        "quote": "מהיכן בא מהר המוריה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he was not with her in the house at the time of her death, or not in Hebron at that hour.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 23:2:3",
+        "quote": "בא מן החוץ כי לא היה עמה בבית בעת מיתתה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the other mefarshim say he was elsewhere and came from there; but he suggests that 'vayavo' may mean that Avraham was moved to begin the mourning.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 23:2:1",
+        "quote": "כי אברהם היה במקום אחר ובא משם"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 23:2:1",
+        "quote": "שנתעורר אברהם להספד הזה"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the timing of Sarah's death relative to the Akeidah and to where Avraham lived."
+   },
+   {
+    "title": "Why does the verse put the eulogy before the weeping?",
+    "pasuk": {
+     "text": "ויבא אברהם לספד לשרה ולבכתה",
+     "ref": "Genesis 23:2",
+     "label": "Genesis 23:2"
+    },
+    "question": "Normally one weeps first and eulogises afterwards. Why does the Torah write 'to mourn Sarah' before 'and to weep for her'?",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 23:2:1",
+      "quote": "מן הדין היה לו לקחת לבכתה קודם לספוד",
+      "era": "rishon"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 23:2:2",
+      "quote": "דרך העולם תחלה לבכות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hadar Zekenim: when Avraham arrived he found the household already eulogising her, since three days had passed, so he joined the eulogy and wept afterwards.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 23:2:1",
+        "quote": "כשבא אברהם מצא בני ביתו סופדים אותה"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: he came from far away and a crowd had gathered around the house, so he hurried to eulogise publicly first.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 23:2:2",
+        "quote": "משום שהיה אברהם בא ממקום רחוק לשם ובין כה וכה נתקבצו המון העם"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar, a second reason: Sarah's death did not change Avraham's way of life, since Yitzchak was already grown, so the praise of her came before the weeping.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 23:2:2",
+        "quote": "מיתת שרה לא גרם לאברהם שנוי בהליכות עולמו"
+       }
+      ]
+     }
+    ],
+    "why": "The order of the words teaches how Avraham mourned."
+   },
+   {
+    "title": "How can Avraham call himself both 'ger' and 'toshav'?",
+    "pasuk": {
+     "text": "גר ותושב אנכי עמכם",
+     "ref": "Genesis 23:4",
+     "label": "Genesis 23:4"
+    },
+    "question": "A ger and a toshav seem to be two different statuses. Why does Avraham say both to the Hittites?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 23:4:1",
+      "quote": "אבל לבי מגמגם בזה דאם כן היה לו לומר גר הייתי ונתיישבתי עמכם",
+      "era": "acharon"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 23:4:1",
+      "quote": "ודקדק לומר גר ולא הספיק לומר תושב",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi (peshat): a stranger from another land who has settled among you.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:4:1",
+        "quote": "גר מארץ אחרת ונתיישבתי עמכם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi (midrash aggadah): if you want, I am a ger; if not, I am a toshav and I will take it by right, since God promised the land to my seed.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:4:1",
+        "quote": "אם תרצו הריני גר ואם לאו אהיה תושב"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: as a ger toshav he is entitled to a free gift, so he said ger, even though he is not one of them he is a resident.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 23:4:1",
+        "quote": "הגם שאני גר ואיני מכם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: because I am a stranger I have no grave here, and I ask to buy because I am a toshav who came to settle.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 23:4:1",
+        "quote": "והטעם שאני מבקש לקנותו הוא מפני שאני תושב עמכם"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: treat me as you wish, as a ger or as a toshav, and let me buy a burial plot.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 23:4:1",
+        "quote": "הריני לפניכם כגר וכתושב"
+       }
+      ]
+     }
+    ],
+    "why": "It frames Avraham's request, a legal one, for a burial plot as a resident."
+   },
+   {
+    "title": "Why does Avraham refuse a free gift and insist on paying?",
+    "pasuk": {
+     "text": "נתתי כסף השדה קח ממני",
+     "ref": "Genesis 23:13",
+     "label": "Genesis 23:13"
+    },
+    "question": "Ephron offers the field and the cave outright. Why does Avraham insist on paying full price instead of accepting?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 23:11:1",
+      "quote": "ואברהם לא עשה כן",
+      "era": "rishon"
+     },
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 23:13:1",
+      "quote": "אתה אומר לי לשמוע לך ולקח בחנם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: I do not want it for free.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:13:1",
+        "quote": "אני אי אפשי בכך"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: even after paying, Avraham took possession in front of all the townspeople and the merchants, so the sale would stand.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 23:11:1",
+        "quote": "גם אחרי שפרע הכסף מלא החזיק תחלה בשדה ובמערה"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: Avraham did not want the owner to come tomorrow and bury his dead next to Sarah, leaving no room for Avraham himself; he wanted a burial plot of his own.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 23:4:1",
+        "quote": "אבל אברהם לא היה חפץ שלמחר יבוא בעל הקבר ויקבור את מתיו אצל שרה"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: a gift would give only the right to bury the dead, not an ancestral burial plot.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 23:15:1",
+        "quote": "ורק את מתך קבור לא לאחוזת קבר"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: a burial plot can only exist with the consent of all the townspeople, as it was established after the purchase.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 23:4:2",
+        "quote": "וקם לו לאחוזת קבר מאת כל בני חת"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why Avraham's ownership of the Cave of Machpelah was clear and undisputed."
+   },
+   {
+    "title": "Why is Ephron's name written without a vav?",
+    "pasuk": {
+     "text": "וישקל אברהם לעפרן",
+     "ref": "Genesis 23:16",
+     "label": "Genesis 23:16"
+    },
+    "question": "Ephron's name is spelled defectively. What does that teach about how he behaved, after offering a gift and then naming 400 shekels?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 23:16:1",
+      "quote": "חסר וי\"ו לפי שאמר הרבה",
+      "era": "rishon"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 23:16:1",
+      "quote": "חסר וי״ו כתב בעל הטורים לפי שהיה רע עין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he spoke much and did not do even a little, and took large shekels.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:16:1",
+        "quote": "לפי שאמר הרבה ואפילו מעט לא עשה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: Ephron was giving the field as a gift, then raised the price to 400 kentarin, so his name was diminished.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 23:13:1",
+        "quote": "עפרון היה נותן השדה במתנה אחרי כן העלה בדמים ארבע מאות קונטורין"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Ephron was ra ayin, and the defective spelling equals the numerical value of 'ra ayin'.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 23:16:1",
+        "quote": "ועפרן חסר וי״ו עולה למספר ר״ע ע״ין"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the Rabbis say Ephron set the price at will, at a great cost; or the price of land there may simply have been fixed.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 23:15:1",
+        "quote": "עפרון קצב דמים כרצונו ביקר גדול"
+       }
+      ]
+     }
+    ],
+    "why": "The defective spelling is a verdict on Ephron's character."
+   }
+  ],
+  "sources_consulted": [
+   "Siftei Chakhamim",
+   "Kli Yakar",
+   "Rashi",
+   "Midrash Aggadah",
+   "Radak",
+   "Ibn Ezra",
+   "Ramban",
+   "Midrash Lekach Tov",
+   "Hadar Zekenim",
+   "Haamek Davar",
+   "Mizrachi",
+   "Or HaChaim",
+   "Sforno",
+   "Shadal",
+   "Malbim",
+   "Rashbam"
+  ]
+ },
+ "hebrew": {
+  "summary": "שרה מתה בת מאה עשרים ושבע שנים בקרית ארבע היא חברון, ואברהם בא לספוד לה ולבכתה. הוא קם מעל פני מתו ומבקש מבני חת, כגר ותושב, אחוזת קבר. הם מציעים לו את מבחר קבריהם, והוא מבקש שיפגעו לו בעפרון בן צחר במערת המכפלה בקצה שדהו. עפרון מציע את השדה והמערה במתנה לעיני בני עמו, ואברהם מתעקש לשלם. עפרון קוצב ארבע מאות שקל כסף, ואברהם שוקל לו עובר לסוחר.",
+  "questions": [
+   {
+    "title": "מדוע נקראת חברון קרית ארבע?",
+    "pasuk": {
+     "text": "בקרית ארבע הוא חברון",
+     "ref": "Genesis 23:2",
+     "label": "בראשית כג, ב"
+    },
+    "question": "הכתוב קורא למקום מיתת שרה 'קרית ארבע היא חברון'. למה מכוון ה'ארבע', ומה טעם הזכרת השם הזה כאן?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 23:2:1",
+      "quote": "ולא ידעתי מי הכריחם למדרש קרית ארבע על שם ארבע ענקים",
+      "era": "acharon"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 23:2:1",
+      "quote": "ואמרתי לתן טוב טעם ודעת על ארבע שמות אלו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: על שם ארבעה ענקים שהיו שם: אחימן, ששי, תלמי ואביהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:2:1",
+        "quote": "על שם ארבע ענקים שהיו שם אחימן ששי ותלמי ואביהם"
+       }
+      ]
+     },
+     {
+      "text": "דבר אחר ברש\"י: על שם ארבע זוגות שנקברו שם, אדם וחוה, אברהם ושרה, יצחק ורבקה, יעקב ולאה. ובמדרש אגדה: שהיתה לארבעה בעלים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:2:1",
+        "quote": "על שם ארבע זוגות שנקברו שם איש ואשתו אדם וחוה"
+       },
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 23:2:1",
+        "quote": "שהיתה לארבעה בעלים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק ואבן עזרא: ארבע הוא שם איש, גדול בענקים, והעיר נקראה על שמו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 23:2:2",
+        "quote": "ארבע הוא שם איש"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 23:2:1",
+        "quote": "שם אדם גדול בענקים"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: המקום הוקצה לקברות, ולכן יש לו ארבעה שמות (אשכול, ממרא, קרית ארבע, חברון) המורים על ארבע דרכים שהמיתה מצויה בהן.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 23:2:1",
+        "quote": "המורים על ארבע דרכים שהמיתה מצויה בהם"
+       }
+      ]
+     }
+    ],
+    "why": "השם רומז למשפחת האבות והאמהות שייקברו במקום."
+   },
+   {
+    "title": "היכן היה אברהם כשמתה שרה, ומה משמעות 'ויבא'?",
+    "pasuk": {
+     "text": "ויבא אברהם לספד לשרה ולבכתה",
+     "ref": "Genesis 23:2",
+     "label": "בראשית כג, ב"
+    },
+    "question": "הכתוב אומר שאברהם 'בא' לספוד לשרה. מאין בא, אם גר עמה בחברון?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 23:2:1",
+      "quote": "כי איך תהיה שרה בחברון",
+      "era": "rishon"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 23:2:1",
+      "quote": "וכאשר מתה שרה היה אברהם במקום אחר ע\"כ אמר ויבא אברהם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מבאר שבע.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:2:2",
+        "quote": "ויבא אברהם מבאר שבע"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: בא מהר המוריה, אחרי העקדה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 23:2:3",
+        "quote": "מהיכן בא מהר המוריה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: לא היה עמה בבית בעת מיתתה, או לא היה בחברון באותה שעה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 23:2:3",
+        "quote": "בא מן החוץ כי לא היה עמה בבית בעת מיתתה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: דעת המפרשים שהיה במקום אחר ובא משם; ולדעתו אפשר ש'ויבא' פירושו שנתעורר אברהם להספד.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 23:2:1",
+        "quote": "כי אברהם היה במקום אחר ובא משם"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 23:2:1",
+        "quote": "שנתעורר אברהם להספד הזה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את זמן מיתת שרה ביחס לעקדה ולמקום מושבו של אברהם."
+   },
+   {
+    "title": "מדוע קודם ההספד לבכי?",
+    "pasuk": {
+     "text": "ויבא אברהם לספד לשרה ולבכתה",
+     "ref": "Genesis 23:2",
+     "label": "בראשית כג, ב"
+    },
+    "question": "דרך העולם לבכות תחילה ואחר כך להספיד. מדוע כתבה התורה 'לספוד' לפני 'ולבכתה'?",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 23:2:1",
+      "quote": "מן הדין היה לו לקחת לבכתה קודם לספוד",
+      "era": "rishon"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 23:2:2",
+      "quote": "דרך העולם תחלה לבכות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הדר זקנים: כשבא אברהם מצא את בני ביתו סופדים, שכבר עברו שלושה ימים, והצטרף להספד ואחר כך בכה.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 23:2:1",
+        "quote": "כשבא אברהם מצא בני ביתו סופדים אותה"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אברהם בא ממקום רחוק ונתקבצו המון העם סביב הבית, ולכן נזדרז להספיד ברבים תחילה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 23:2:2",
+        "quote": "משום שהיה אברהם בא ממקום רחוק לשם ובין כה וכה נתקבצו המון העם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר, טעם נוסף: מיתת שרה לא שינתה את הליכות עולמו של אברהם, ולכן ההספד קודם.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 23:2:2",
+        "quote": "מיתת שרה לא גרם לאברהם שנוי בהליכות עולמו"
+       }
+      ]
+     }
+    ],
+    "why": "סדר המילים מלמד איך התאבל אברהם."
+   },
+   {
+    "title": "איך אומר אברהם על עצמו גם 'גר' וגם 'תושב'?",
+    "pasuk": {
+     "text": "גר ותושב אנכי עמכם",
+     "ref": "Genesis 23:4",
+     "label": "בראשית כג, ד"
+    },
+    "question": "גר ותושב נראים שני מעמדות שונים. מדוע אומר אברהם לבני חת את שניהם?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 23:4:1",
+      "quote": "אבל לבי מגמגם בזה דאם כן היה לו לומר גר הייתי ונתיישבתי עמכם",
+      "era": "acharon"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 23:4:1",
+      "quote": "ודקדק לומר גר ולא הספיק לומר תושב",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י (פשט): גר מארץ אחרת ונתיישבתי עמכם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:4:1",
+        "quote": "גר מארץ אחרת ונתיישבתי עמכם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י (מדרש אגדה): אם תרצו הריני גר, ואם לאו אהיה תושב ואטלנה מן הדין, שהבטיח לי הקב\"ה לזרעך אתן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:4:1",
+        "quote": "אם תרצו הריני גר ואם לאו אהיה תושב"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: ככל גר תושב ראוי לו מתנת חינם, ולכן אמר גר, שאף שאינו מהם הרי הוא תושב.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 23:4:1",
+        "quote": "הגם שאני גר ואיני מכם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: מפני שאני גר אין לי קבר כאן, ואני מבקש לקנות כי אני תושב שבא להשתקע.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 23:4:1",
+        "quote": "והטעם שאני מבקש לקנותו הוא מפני שאני תושב עמכם"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: התייחסו אלי כרצונכם, כגר או כתושב, והניחו לי לקנות אחוזת קבר.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 23:4:1",
+        "quote": "הריני לפניכם כגר וכתושב"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסגר את בקשת אברהם כבקשה משפטית לקבלת אחוזת קבר כתושב."
+   },
+   {
+    "title": "מדוע מסרב אברהם למתנה ומתעקש לשלם?",
+    "pasuk": {
+     "text": "נתתי כסף השדה קח ממני",
+     "ref": "Genesis 23:13",
+     "label": "בראשית כג, יג"
+    },
+    "question": "עפרון מציע את השדה והמערה במתנה. מדוע מתעקש אברהם לשלם מחיר מלא ולא לקבל?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 23:11:1",
+      "quote": "ואברהם לא עשה כן",
+      "era": "rishon"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 23:13:1",
+      "quote": "אתה אומר לי לשמוע לך ולקח בחנם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: איני רוצה לקבל בחינם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:13:1",
+        "quote": "אני אי אפשי בכך"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אף אחרי ששילם החזיק אברהם בשדה ובמערה לעיני בני העיר והסוחרים, כדי שהקנין יתקיים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 23:11:1",
+        "quote": "גם אחרי שפרע הכסף מלא החזיק תחלה בשדה ובמערה"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: לא רצה אברהם שלמחר יבוא בעל הקבר ויקבור את מתיו אצל שרה, וכל חפצו לקנות קבר מיוחד לו ולצאצאיו.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 23:4:1",
+        "quote": "אבל אברהם לא היה חפץ שלמחר יבוא בעל הקבר ויקבור את מתיו אצל שרה"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: מתנה נותנת רק רשות לקבור את המת, ולא אחוזת קבר.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 23:15:1",
+        "quote": "ורק את מתך קבור לא לאחוזת קבר"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: אחוזת קבר אינה יכולה להיות אלא ברצון כל בני העיר, וכך נעשה אחרי הקנין.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 23:4:2",
+        "quote": "וקם לו לאחוזת קבר מאת כל בני חת"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מדוע בעלות אברהם על מערת המכפלה ברורה ובלתי מעורערת."
+   },
+   {
+    "title": "מדוע שמו של עפרון כתוב חסר וא\"ו?",
+    "pasuk": {
+     "text": "וישקל אברהם לעפרן",
+     "ref": "Genesis 23:16",
+     "label": "בראשית כג, טז"
+    },
+    "question": "שמו של עפרון כתוב חסר. מה מלמד הדבר על התנהגותו, אחרי שהציע מתנה ואחר כך קצב ארבע מאות שקל?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 23:16:1",
+      "quote": "חסר וי\"ו לפי שאמר הרבה",
+      "era": "rishon"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 23:16:1",
+      "quote": "חסר וי״ו כתב בעל הטורים לפי שהיה רע עין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אמר הרבה ואפילו מעט לא עשה, ונטל שקלים גדולים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:16:1",
+        "quote": "לפי שאמר הרבה ואפילו מעט לא עשה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: עפרון היה נותן השדה במתנה, ואחר כך העלה בדמים ארבע מאות קונטורין, ולכן נחסר שמו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 23:13:1",
+        "quote": "עפרון היה נותן השדה במתנה אחרי כן העלה בדמים ארבע מאות קונטורין"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: עפרון היה רע עין, וחסר וי\"ו עולה למספר רע עין.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 23:16:1",
+        "quote": "ועפרן חסר וי״ו עולה למספר ר״ע ע״ין"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: רבותינו אמרו שעפרון קצב דמים כרצונו ביוקר גדול; ואולי היו דמי השדה קצובים כן במקום ההוא.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 23:15:1",
+        "quote": "עפרון קצב דמים כרצונו ביקר גדול"
+       }
+      ]
+     }
+    ],
+    "why": "הכתיב החסר הוא פסק דין על אופיו של עפרון."
+   }
+  ],
+  "sources_consulted": [
+   "שפתי חכמים",
+   "כלי יקר",
+   "רש\"י",
+   "מדרש אגדה",
+   "רד\"ק",
+   "אבן עזרא",
+   "רמב\"ן",
+   "מדרש לקח טוב",
+   "הדר זקנים",
+   "העמק דבר",
+   "מזרחי",
+   "אור החיים",
+   "ספורנו",
+   "שד\"ל",
+   "מלבי\"ם",
+   "רשב\"ם"
+  ]
+ }
+}
