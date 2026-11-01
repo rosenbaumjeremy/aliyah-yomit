@@ -1,0 +1,298 @@
+{
+ "slug": "chayei-sara",
+ "parasha": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה"
+ },
+ "date": "2026-11-01",
+ "english": {
+  "overview": "Rabbi Sacks’ essays on Chayei Sara look at the death of Sarah, the purchase of a burial plot, and the search for a wife for Isaac. They read these as lessons that the promises of land and children call for human action. They also take Isaac’s evening meditation as the model for minḥa and prayer as conversation. The last two essays ask who may choose a marriage partner, and what the midrashim on Abraham’s second marriage say about Judaism and Islam.",
+  "essays": [
+   {
+    "title": "Land and Children",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Chayei Sara, Land and Children",
+    "questions": [
+     {
+      "text": "Why does the Torah narrate the burial-field purchase and the search for Isaac’s wife at such length?",
+      "quote": "The focus on these two issues thus requires closer attention."
+     },
+     {
+      "text": "What is the reality of the two divine promises, land and children, when Sarah dies?",
+      "quote": "What, though, is the reality at the time Sarah dies?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Abraham receives two promises, each stated five times: a land and children.",
+      "quote": "The first is of a land."
+     },
+     {
+      "text": "When Sarah dies, Abraham owns no land and has only one son who will carry the covenant.",
+      "quote": "Abraham owns no land and has only one son"
+     },
+     {
+      "text": "Buying the field is a tense bargaining in which the Hittites’ generosity is a façade for hard bargaining and an inflated price.",
+      "quote": "this elaborate generosity is a façade for some extremely hard bargaining"
+     },
+     {
+      "text": "Finding a wife for Isaac likewise takes money and hard negotiation, with Laban playing a role like Ephron’s.",
+      "quote": "Laban, Rebecca’s brother, plays a role not unlike that of Ephron"
+     },
+     {
+      "text": "The promises will come true, but not soon, easily, or without human effort.",
+      "quote": "But these things will not happen soon, or suddenly, or easily."
+     },
+     {
+      "text": "Where it lands: the divine promise is an invitation to act, not a reason to leave the future to God.",
+      "quote": "Faith does not mean passivity."
+     }
+    ]
+   },
+   {
+    "title": "Prayer and Conversation",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Chayei Sara, Prayer and Conversation",
+    "questions": [
+     {
+      "text": "Were the three daily prayers instituted by the patriarchs or to replace the sacrifices?",
+      "quote": "regarding the origin of the three daily prayers"
+     },
+     {
+      "text": "Is Jewish prayer the personal dialogue of the soul or the collective worship of the nation?",
+      "quote": "Is Jewish prayer the personal dialogue of the soul or the collective worship of the nation?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Isaac’s meditation in the field is taken by the Talmud as the origin of minḥa, the afternoon prayer.",
+      "quote": "he instituted minḥa, the afternoon prayer"
+     },
+     {
+      "text": "The Talmud records a dispute: R. Yose says the patriarchs instituted the prayers, R. Joshua son of Levi says they replace the sacrifices.",
+      "quote": "the prayers were instituted by the patriarchs"
+     },
+     {
+      "text": "Patriarchal and prophetic prayer is spontaneous, while the priest’s service is fixed; the prophet represents the now, the priest eternity.",
+      "quote": "If the prophet represents the “now,”"
+     },
+     {
+      "text": "In practice it is both: the silent Amida is private like the patriarchs, and the reader’s repetition is public like the sacrifices.",
+      "quote": "The silent prayer belongs to the world of Abraham, Isaac and Jacob"
+     },
+     {
+      "text": "Each patriarch’s verb gives a different prayer: Abraham stands, Jacob encounters, and Isaac’s siḥa means conversation.",
+      "quote": "the word siḥa means not only meditation but also, and primarily, conversation"
+     },
+     {
+      "text": "Where it lands: there are three modes of spirituality each day, the human quest, the divine encounter, and the dialogue.",
+      "quote": "There is the human quest (Abraham, morning prayer)"
+     }
+    ]
+   },
+   {
+    "title": "Parental Authority and the Choice of a Marriage Partner",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Chayei Sara, Parental Authority and the Choice of a Marriage Partner",
+    "questions": [
+     {
+      "text": "Does a parent have a right in Judaism to determine whom their child will marry?",
+      "quote": "Does a parent have a right, in Judaism, to determine who their child will marry?"
+     },
+     {
+      "text": "In case of conflict between child and parent over a spouse, whose view do we follow?",
+      "quote": "In the case of conflict, whose view do we follow?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Isaac takes no part in the choice of his wife; Abraham sends his servant without consulting him.",
+      "quote": "Isaac takes no part in the process."
+     },
+     {
+      "text": "Medieval society expected children to obey, yet the halakhists did not follow that line.",
+      "quote": "Strikingly, though, the halakhists did not follow this line."
+     },
+     {
+      "text": "Rashba argues that marriage is a mitzva, so God’s wishes take precedence over a parent’s.",
+      "quote": "parental wishes cannot override the desire of a child to marry"
+     },
+     {
+      "text": "Maharik and Capsali add that honouring parents covers their welfare, not the choice of a spouse, and love of neighbour overrides obedience.",
+      "quote": "The command to love your neighbour overrides the command to obey your parents."
+     },
+     {
+      "text": "Rashba says Isaac was an exception, since he could not leave the Land of Israel; Rema rules the son need not listen to his father.",
+      "quote": "the son is not obliged to listen to his father"
+     },
+     {
+      "text": "Where it lands: the Jewish family rests on mutual respect, as God makes space for His children, and Korczak’s child-rights work belongs to this tradition.",
+      "quote": "To be a Jewish parent is to make space for your child"
+     }
+    ]
+   },
+   {
+    "title": "On Judaism and Islam",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Chayei Sara, On Judaism and Islam",
+    "questions": [
+     {
+      "text": "What is Be’er-laḥai-ro’i, the place Isaac comes from, and why does it matter?",
+      "quote": "What is this third location, Be’er-laḥai-ro’i, and what is its significance?"
+     },
+     {
+      "text": "What is the significance of Abraham’s second marriage to Keturah?",
+      "quote": "What then is the significance of Abraham’s second marriage"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "The Torah is fraught with background; three clues hint at a hidden story in the parasha.",
+      "quote": "There are three clues in the text."
+     },
+     {
+      "text": "Unexpectedly, after Isaac marries, Abraham marries Keturah and has six children, with nothing else said of her.",
+      "quote": "Abraham marries a woman named Keturah and has six children by her"
+     },
+     {
+      "text": "Ishmael appears at Abraham’s funeral without explanation, though he had been sent away.",
+      "quote": "Ishmael’s presence at the funeral is surprising."
+     },
+     {
+      "text": "The sages link Be’er-laḥai-ro’i to Hagar’s well, and say Isaac went to bring Hagar back to his father.",
+      "quote": "I will go and return Hagar to him."
+     },
+     {
+      "text": "They identify Keturah as Hagar, named for her fragrant acts, so Hagar did not end as an outcast.",
+      "quote": "her acts gave forth fragrance like incense"
+     },
+     {
+      "text": "Where it lands: a midrash of Abraham’s visit to Ishmael (and Fatimah) points to reconciliation, so between Judaism and Islam there can be friendship.",
+      "quote": "Between Judaism and Islam there can be friendship and mutual respect."
+     }
+    ]
+   }
+  ]
+ },
+ "hebrew": {
+  "overview": "מאמרי המהדורה העברית על פרשת חיי שרה מתארים את אברהם שאחרי מות שרה, שקם מעל פני מתו ופועל. הם לומדים מכך שהבטחות גדולות מתממשות בהתחלות קטנות ובמעשה, ושבונים עתיד לפני שמתאבלים על העבר. המאמר האחרון עוסק בתפילת מנחה של יצחק ובשיחה כצורה של תפילה.",
+  "essays": [
+   {
+    "title": "מתחילים במסע",
+    "ref": "Covenant and Conversation; Hebrew Edition, Chayei Sarah, 1",
+    "questions": [
+     {
+      "text": "מה עושה אברהם מיד אחרי מות שרה?",
+      "quote": "הוא מתאבל על שרה – ומיד מתחיל לפעול."
+     },
+     {
+      "text": "מדוע התורה מפרטת כל כך את קניית השדה ואת חיפוש הכלה?",
+      "quote": "כמו בקניית השדה, גם כאן מהלך האירועים מתואר בפרטנות"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "אברהם מתאבל על שרה ומיד פותח במשא ומתן לרכישת חלקת קבר.",
+      "quote": "הוא פותח במשא ומתן פרטני לרכישת חלקת קרקע לקבורתה"
+     },
+     {
+      "text": "בני חת מנסים להניאו, אך אברהם נחוש לקנות ומשלם מחיר מופקע של ארבע מאות שקלי כסף.",
+      "quote": "ארבע מאות שקלי כסף"
+     },
+     {
+      "text": "אחר כך הוא פועל למצוא כלה ליצחק, והתורה מתארת גם זאת בפירוט רב.",
+      "quote": "אברהם איננו משאיר שום דבר ליד המקרה"
+     },
+     {
+      "text": "ה׳ הבטיח ארץ וזרע, אך כששרה מתה אין לאברהם קרקע משלו ויש לו רק בן אחד.",
+      "quote": "אין לאברהם אפילו אמה על אמה של קרקע משלו"
+     },
+     {
+      "text": "ה׳ מבטיח, אך אנחנו צריכים לפעול; ה׳ מקיים ביחד איתנו.",
+      "quote": "ה׳ מבטיח, אבל מקיים ביחד איתנו."
+     },
+     {
+      "text": "המסקנה: הבטחות גדולות מתממשות באמצעות התחלות קטנות, ודי בכך שהתחלנו ויצרנו ממשיכים.",
+      "quote": "הבטחות גדולות – ארץ, ילדים לאין ספור – מתממשות באמצעות התחלות קטנות"
+     }
+    ]
+   },
+   {
+    "title": "להאמין בעתיד",
+    "ref": "Covenant and Conversation; Hebrew Edition, Chayei Sarah, 2",
+    "questions": [
+     {
+      "text": "איך התגבר אברהם על הטראומה ועל האבדן?",
+      "quote": "איך התגבר אברהם על הטראומה ועל האבדן?"
+     },
+     {
+      "text": "מה נתן לאברהם את הנחישות ואת היכולת להמשיך?",
+      "quote": "מה נתן לאברהם את הנחישות, את היכולת להמשיך, את שלמות הרוח?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "אברהם חווה את העקדה ואחריה את מות שרה, ויכול היה לשבת ולרחם על עצמו.",
+      "quote": "לאברהם היו כל הסיבות שבעולם לשבת ולרחם על עצמו."
+     },
+     {
+      "text": "אבל אחרי חמש מילות אבל הוא קם מעל פני מתו ופועל בקדחת של עשייה.",
+      "quote": "וַיָּקָם אַבְרָהָם מֵעַל פְּנֵי מֵתוֹ"
+     },
+     {
+      "text": "ניצולי שואה בנו תחילה חיים חדשים ורק אחרי עשרות שנים דיברו על העבר.",
+      "quote": "תחילה עליכם לבנות את העתיד, ורק אז תוכלו לחזור ולהתאבל על העבר"
+     },
+     {
+      "text": "נוח ואשת לוט הביטו לאחור; מי שהופך את הסדר נעשה אסיר העבר.",
+      "quote": "הוא אינו יכול לזוז. הוא נציב מלח."
+     },
+     {
+      "text": "ויקטור פראנקל נתן לאסירים עתיד, משימה שמחכה להם, וכך עזר להם לשרוד.",
+      "quote": "המחשבה על המשימה המחכה בעתיד נתנה לאסירים כוח לשרוד בהווה"
+     },
+     {
+      "text": "המסקנה: אלוהים קורא לנו מן העתיד, ודרכו של אברהם היא לבנות את העתיד ורק אז להתאבל על העבר.",
+      "quote": "בְּנֵה את העתיד – ורק אז פְּנֵה להתאבל על העבר"
+     }
+    ]
+   },
+   {
+    "title": "תפילה ושיחה",
+    "ref": "Covenant and Conversation; Hebrew Edition, Chayei Sarah, 3",
+    "questions": [
+     {
+      "text": "האם תפילות החול תוקנו כנגד האבות או כנגד קרבנות התמיד?",
+      "quote": "אם תפילות החול תוקנו כנגד שלושת האבות, או כנגד קרבנות התמיד"
+     },
+     {
+      "text": "האם התפילה היא שיח לב היחיד או פולחן לאומי קולקטיבי?",
+      "quote": "האם התפילה היא שיח לב היחיד, או פולחן לאומי קולקטיבי?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "יצחק יצא לשוח בשדה, ולפי חז״ל זה רגע הולדתה של תפילת מנחה.",
+      "quote": "הוא, על פי מדרש חז״ל, רגע הולדתה של תפילת מנחה"
+     },
+     {
+      "text": "במקרא שתי מסורות: האבות והנביאים שהתפללו לפי הצורך, והכוהן שעבודתו נקבעה בכללים קבועים.",
+      "quote": "קרבנות התמיד, כשמם כן הם, הועלו כסדרם וכהלכתם"
+     },
+     {
+      "text": "הנביא מייצג דינמיות והכוהן את הנצח; בלי ספונטניות הנפש מתייבשת ובלי מבנה היא גולשת לכאוס.",
+      "quote": "בלי ספונטניות, הנפש מתייבשת"
+     },
+     {
+      "text": "שתי התשובות נתקבלו: תפילת הלחש היא תפילת היחיד וחזרת הש״ץ היא תפילת הקהילה.",
+      "quote": "הראשונה היא תפילת היחיד, והשנייה תפילת הקהילה"
+     },
+     {
+      "text": "לכל אב פועל אחר: אברהם עמד, יעקב פגע, ויצחק שח, ו״אין שיחה אלא תפילה״.",
+      "quote": "אין שיחה אלא תפילה"
+     },
+     {
+      "text": "המסקנה: מדי יום אנו חווים שלוש רוחניות, יוזמה אנושית, מפגש אלוהי ודיאלוג.",
+      "quote": "היוזמה האנושית בבוקר, עם אברהם"
+     }
+    ]
+   }
+  ]
+ }
+}
