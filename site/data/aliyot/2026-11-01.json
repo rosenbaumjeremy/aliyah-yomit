@@ -1,0 +1,989 @@
+{
+ "date": "2026-11-01",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 23:17-24:9",
+ "hebrew_date": {
+  "hebrew": "כ״א בְּחֶשְׁוָן תשפ״ז",
+  "english": "21 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "The aliyah opens with the formal passing of Ephron's field and the cave of Machpelah to Avraham, and Avraham buries Sarah there. Avraham is now old and blessed in all things. He makes his senior servant swear, with a hand under his thigh, not to take a wife for Yitzchak from the Canaanites but to go to Avraham's land and birthplace. The servant asks what if the woman will not follow him, and Avraham answers that Hashem will send His angel before him, and that if she refuses the servant is clear of the oath, but Yitzchak must not be taken back. The servant swears.",
+  "questions": [
+   {
+    "title": "What does 'in everything' mean in Hashem's blessing of Avraham?",
+    "pasuk": {
+     "text": "בֵּרַ֥ךְ אֶת־אַבְרָהָ֖ם בַּכֹּֽל׃",
+     "ref": "Genesis 24:1",
+     "label": "Genesis 24:1"
+    },
+    "question": "The verse says Hashem blessed Avraham 'in everything'. What is the blessing, and why is it mentioned just before Avraham sends for a wife for Yitzchak?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 59:7",
+      "quote": "וַה' בֵּרַךְ אֶת אַבְרָהָם בַּכֹּל",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the word 'bakol' has the numerical value of 'ben' (son); since he had a son, he had to marry him off.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:1:1",
+        "quote": "בַּכֹּל עוֹלֶה בְּגִימַטְרִיָּא בֵּן"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it means long life, wealth, honor and children – all that a person desires.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 24:1:1",
+        "quote": "באורך ימים ועושר וכבוד ובנים"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: the verse tells us he did not send for a wife from his family because of a lack of wives in Canaan – everyone wished to marry into him – but because he wanted only his own family.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:1:2",
+        "quote": "שלא שלח עבדו לקחת אשה ממשפחתו מחמת חוסר נשים בארץ כנען"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Yudan says he was given a daughter; R. Nechemya says he was given no daughter at all.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 59:7",
+        "quote": "רַבִּי יוּדָן אָמַר שֶׁנָּתַן לוֹ נְקֵבָה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 59:7",
+        "quote": "שֶׁלֹא נָתַן לוֹ בַּת כָּל עִקָּר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the search for Yitzchak's wife came from Avraham's wish for his own family, not from need."
+   },
+   {
+    "title": "Why swear with a hand under the thigh?",
+    "pasuk": {
+     "text": "שִֽׂים־נָ֥א יָדְךָ֖ תַּ֥חַת יְרֵכִֽי׃",
+     "ref": "Genesis 24:2",
+     "label": "Genesis 24:2"
+    },
+    "question": "Why does Avraham have his servant place his hand under his thigh when taking the oath, and why does Yaakov do the same later?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 24:2:1",
+      "quote": "ואילו היה כן היה נשבע בברית המילה ולא בשם",
+      "era": "rishon"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 24:2:1",
+      "quote": "אך קשה מיעקב שהשביע ליוסף נמי תחת יריכו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: an oath-taker holds a sacred object, and milah was Avraham's first mitzvah, which came to him through pain and was dear to him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:2:2",
+        "quote": "וְהַמִּילָה הָיְתָה מִצְוָה רִאשׁוֹנָה לוֹ וּבָאָה לוֹ עַל יְדֵי צַעַר"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Berechya): because milah was given to them with pain it is dear, and one swears only by it.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 59:8",
+        "quote": "לְפִי שֶׁנִּתְּנָהּ לָהֶם בְּצַעַר לְפִיכָךְ הִיא חֲבִיבָה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it was the custom then to place the hand under the thigh of one's master, meaning 'I am under your authority'.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 24:2:1",
+        "quote": "שהיה משפט בימים ההם לשום אדם ידו תחת ירך מי שהוא ברשותו"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: this was how a son or servant swore to his master, because the idea of subjection fits.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:2:1",
+        "quote": "שבועה של בן ועבד לאדוניו כך הייתה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: they used to place a hand under the thigh when sealing an oath, as we shake hands.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 24:2:2",
+        "quote": "רגילים היו לתת ידם תחת ירך בשעה שתוקעין אמונתם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the oath rests on a mitzvah or on a custom of the time."
+   },
+   {
+    "title": "Why 'God of heaven and earth' in one verse and only 'God of heaven' in another?",
+    "pasuk": {
+     "text": "אֱלֹהֵ֣י הַשָּׁמַ֔יִם וֵֽאלֹהֵ֖י הָאָ֑רֶץ",
+     "ref": "Genesis 24:3",
+     "label": "Genesis 24:3"
+    },
+    "question": "In verse 3 Avraham calls Hashem God of heaven and of the earth, but in verse 7 only God of heaven. Why the difference?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 24:7:1",
+      "quote": "וְלֹא אָמַר \"וֵאלֹהֵי הָאָרֶץ\", וּלְמַעְלָה אָמַר וְאַשְׁבִּיעֲךָ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: now He is God of heaven and earth because Avraham made Him familiar to people; when he left his father's house, people did not know Him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:7:1",
+        "quote": "עַכְשָׁו הוּא אֱלֹהֵי הַשָּׁמַיִם וֵאלֹהֵי הָאָרֶץ, שֶׁהִרְגַּלְתִּיו בְּפִי הַבְּרִיּוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Pinchas): before I made Him known to His creatures, God of heaven; after, God of the earth.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 59:8",
+        "quote": "עַד שֶׁלֹא הוֹדַעְתִּי אוֹתוֹ לִבְרִיּוֹתָיו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: in the verse 'who took me from my father's house' it is not said 'God of the earth' because he was then in Charan or Ur Kasdim, outside Eretz Yisrael.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:3:2",
+        "quote": "לֹא נֶאֱמַר בּוֹ אֱלֹהֵי הָאָרֶץ, כִּי הָיָה בְּחָרָן אוֹ בְּאוּר כַּשְׂדִּים"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni objects to Rashi's approach: by that logic one would have to say that before creation He was not God of heaven.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 24:7:1",
+        "quote": "ובשטה זו תצטרך לפרש כביכול לפני שברא שום דבר"
+       }
+      ]
+     }
+    ],
+    "why": "It touches how Avraham's faith became known to the world."
+   },
+   {
+    "title": "Is 'land of my birth' Ur Kasdim or Charan?",
+    "pasuk": {
+     "text": "אֲשֶׁ֨ר לְקָחַ֜נִי מִבֵּ֣ית אָבִי֮ וּמֵאֶ֣רֶץ מֽוֹלַדְתִּי֒",
+     "ref": "Genesis 24:7",
+     "label": "Genesis 24:7"
+    },
+    "question": "If Avraham's land of birth is Ur Kasdim, as Rashi says, how can he tell the servant to take a wife from 'my land and my birthplace'?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 24:7:1",
+      "quote": "חָלִילָה חָלִילָה שֶׁיִּתְעָרֵב זֶרַע הַקֹּדֶשׁ בִּבְנֵי חָם הַפּוֹשֵׁעַ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: 'my land' is where my birthplace is, for my forefathers always dwelt there.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:7:1",
+        "quote": "אֲבָל \"אֶל אַרְצִי וְאֶל מוֹלַדְתִּי\", אַרְצִי שֶׁשָּׁם מוֹלַדְתִּי"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi: Ramban's challenge does not hold; the phrase refers in general to the whole region across the river, including Charan.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 24:7:1",
+        "quote": "ונראה לי שאין טענה על דברי הרב כלל"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: Rashi holds that Charan was called 'my land' because the family lived there then, but 'land of my birth' is Ur Kasdim.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 24:7:1",
+        "quote": "נקרא חרן \"ארצי"
+       }
+      ]
+     }
+    ],
+    "why": "It decides where the servant was sent and what 'family' means."
+   },
+   {
+    "title": "Is 'He will send His angel' a prayer or a prophecy?",
+    "pasuk": {
+     "text": "ה֗וּא יִשְׁלַ֤ח מַלְאָכוֹ֙ לְפָנֶ֔יךָ",
+     "ref": "Genesis 24:7",
+     "label": "Genesis 24:7"
+    },
+    "question": "Does Avraham state a certainty or express a hope? If he is certain, why does he then say 'and if the woman will not consent'?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 24:7:1",
+      "quote": "ואלו היתה נבואה, למה אמר ואם לא תאבה האשה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: it is a prophecy, not a prayer, as later written 'as Hashem spoke'; others say a prayer, since otherwise there would be no 'if she will not'.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 24:7:3",
+        "quote": "נבואה היא זו ולא תפלה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: it may be a prayer, or a promise that Hashem will send His angel with him and make him succeed.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 24:7:1",
+        "quote": "י\"ל שזו תפלה וי\"ל שזו הבטחה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: since Hashem brought me here to give this land to my offspring, I know He does not want them far away.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:7:1",
+        "quote": "ידעתי שאינו רוצה שירחק זרעי מכאן"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah (R. Dosa): Hashem prepared two angels, one to bring out Rivka and one to accompany Eliezer.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 59:10",
+        "quote": "זִימֵן לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא שְׁנֵי מַלְאָכִים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Avraham relied on a promise or on faith in Hashem's providence."
+   },
+   {
+    "title": "May Yitzchak marry a daughter of Aner, Eshkol and Mamre?",
+    "pasuk": {
+     "text": "וְנִקִּ֕יתָ מִשְּׁבֻעָתִ֖י זֹ֑את",
+     "ref": "Genesis 24:8",
+     "label": "Genesis 24:8"
+    },
+    "question": "Rashi explains that Avraham told the servant to take a wife from the daughters of Aner, Eshkol and Mamre if the woman refuses. But they were of Canaan, from whom Avraham forbade taking a wife.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 24:8:1",
+      "quote": "וְאִם כְּנַעֲנִים הֵם, חָלִילָה לוֹ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'You are clear of my oath' – and he may take a wife from the daughters of Aner, Eshkol and Mamre.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:8:1",
+        "quote": "וְקַח לוֹ אִשָּׁה מִבְּנוֹת עָנֵר אֶשְׁכּוֹל וּמַמְרֵא"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the servant is cleared of the oath only; Avraham knew Yitzchak would heed him and go to Yishmael, Lot or the other nations.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:8:1",
+        "quote": "שֶׁיִּהְיֶה הוּא פָּטוּר"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:8:1",
+        "quote": "וְיֵלֵךְ לוֹ אֶל יִשְׁמָעֵאל אוֹ לְלוֹט וְיֶתֶר הָעַמִּים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: on the contrary, Avraham warned him not to go to the daughters of Aner, Eshkol and Mamre.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 59:8",
+        "quote": "הִזְהִירוֹ שֶׁלֹא יֵלֵךְ אֶל בְּנוֹת עָנֵר אֶשְׁכּוֹל וּמַמְרֵא"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: 'You are clear of my oath' – I only swear you to go there and do what you can.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 24:8:1",
+        "quote": "שאני משביעך אלא שתלך שם ותעשה מה שתוכל"
+       }
+      ]
+     }
+    ],
+    "why": "It defines how far Avraham's ban on Canaanite wives reached."
+   },
+   {
+    "title": "Why swear the servant instead of commanding Yitzchak directly?",
+    "pasuk": {
+     "text": "לֹֽא־תִקַּ֤ח אִשָּׁה֙ לִבְנִ֔י מִבְּנוֹת֙ הַֽכְּנַעֲנִ֔י",
+     "ref": "Genesis 24:3",
+     "label": "Genesis 24:3"
+    },
+    "question": "Why does Avraham make his servant swear not to take a Canaanite wife rather than simply command his son?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 24:3:1",
+      "quote": "הָיָה רָאוּי לְאַבְרָהָם שֶׁיְּצַוֶּה אֶת יִצְחָק בְּנוֹ שֶׁלֹּא יִקַּח אִשָּׁה מִבְּנוֹת כְּנַעַן",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: Avraham wished to send during his lifetime to his family, so the servant had to be sworn to go.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:3:1",
+        "quote": "אֲבָל הָיָה רְצוֹנוֹ לִשְׁלֹחַ בְּחַיָּיו אֶל אַרְצוֹ וּמִשְׁפַּחְתּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the oath was needed lest an unfit person bribe the servant to choose his daughter.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 24:1:1",
+        "quote": "שֶׁמָּא אֵיזֶה אָדָם בִּלְתִּי הָגוּן יַרְבֶּה שֹׁחַד לְעַבְדּוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why a servant, not Yitzchak, carries the mission."
+   },
+   {
+    "title": "What does 'the field of Ephron stood' (vayakam) add?",
+    "pasuk": {
+     "text": "וַיָּ֣קׇם ׀ שְׂדֵ֣ה עֶפְר֗וֹן",
+     "ref": "Genesis 23:17",
+     "label": "Genesis 23:17"
+    },
+    "question": "Rashi gives both a midrash and a plain meaning for 'vayakam'. Why does he bring both, if the plain meaning suffices?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 23:17:2",
+      "quote": "אין דרך רש\"י להביא דרש בחנם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it was an elevation – it passed from a commoner to a king; the plain meaning is that the field and cave were established for Avraham as a possession.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 23:17:1",
+        "quote": "תְּקוּמָה הָיְתָה לוֹ, שֶׁיָּצָא מִיַּד הֶדְיוֹט לְיַד מֶלֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: a field that had fallen and now rose – from a small man to a great man.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 58:8",
+        "quote": "דַּהֲוַת נְפִילָה וְקָמַת"
+       }
+      ]
+     },
+     {
+      "text": "Siftei Chakhamim: the plain meaning alone leaves 'field of Ephron' superfluous, and the midrash alone leaves the second 'the field and the cave' superfluous, so Rashi brings both.",
+      "sources": [
+       {
+        "name": "Siftei Chakhamim",
+        "ref": "Siftei Chakhamim, Genesis 23:17:2",
+        "quote": "לפשוטו לבד קשה ויקם שדה עפרון"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why Rashi sometimes brings two readings together."
+   }
+  ],
+  "sources_consulted": [
+   "Bereshit Rabbah",
+   "Rashi",
+   "Ibn Ezra",
+   "Rashbam",
+   "Gur Aryeh",
+   "Bekhor Shor",
+   "Ramban",
+   "Chizkuni",
+   "Mizrachi",
+   "Sforno",
+   "Siftei Chakhamim"
+  ]
+ },
+ "hebrew": {
+  "summary": "העלייה פותחת בקימת שדה עפרון והמערה לאברהם לאחוזת קבר, ואברהם קובר שם את שרה. אברהם זקן ומבורך בכל. הוא משביע את עבדו זקן ביתו, בשימת יד תחת ירכו, שלא יקח אשה ליצחק מבנות הכנעני אלא ילך אל ארצו ומולדתו. העבד שואל מה אם לא תאבה האשה ללכת אחריו, ואברהם משיב שה' ישלח מלאכו לפניו, ואם לא תאבה יהיה נקי משבועתו, אך את יצחק לא ישיב שמה. והעבד נשבע לו.",
+  "questions": [
+   {
+    "title": "מהו 'בַּכֹּל' בברכת ה' לאברהם?",
+    "pasuk": {
+     "text": "בֵּרַ֥ךְ אֶת־אַבְרָהָ֖ם בַּכֹּֽל׃",
+     "ref": "Genesis 24:1",
+     "label": "בראשית כד, א"
+    },
+    "question": "הפסוק אומר שה' ברך את אברהם 'בכל'. מהי הברכה, ולמה היא נזכרת דווקא לפני ששולח אברהם להביא אשה ליצחק?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 59:7",
+      "quote": "וַה' בֵּרַךְ אֶת אַבְרָהָם בַּכֹּל",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: 'בַּכֹּל' בגימטריא 'בֵּן', ומאחר שהיה לו בן היה צריך להשיאו אשה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:1:1",
+        "quote": "בַּכֹּל עוֹלֶה בְּגִימַטְרִיָּא בֵּן"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: אורך ימים, עושר, כבוד ובנים – כל חמדת האדם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 24:1:1",
+        "quote": "באורך ימים ועושר וכבוד ובנים"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הכתוב בא להודיע שלא שלח לקחת אשה ממשפחתו מחמת חוסר נשים בכנען, שהרי כולם רצו להזדווג לו, אלא שרצה רק ממשפחתו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:1:2",
+        "quote": "שלא שלח עבדו לקחת אשה ממשפחתו מחמת חוסר נשים בארץ כנען"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבי יודן אומר שנתן לו נקבה; רבי נחמיה אומר שלא נתן לו בת כל עקר.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 59:7",
+        "quote": "רַבִּי יוּדָן אָמַר שֶׁנָּתַן לוֹ נְקֵבָה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 59:7",
+        "quote": "שֶׁלֹא נָתַן לוֹ בַּת כָּל עִקָּר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שחיפוש האשה ליצחק נבע מרצון אברהם במשפחתו ולא מחוסר ברירה."
+   },
+   {
+    "title": "למה נשבעים בשימת יד תחת הירך?",
+    "pasuk": {
+     "text": "שִֽׂים־נָ֥א יָדְךָ֖ תַּ֥חַת יְרֵכִֽי׃",
+     "ref": "Genesis 24:2",
+     "label": "בראשית כד, ב"
+    },
+    "question": "למה מבקש אברהם מעבדו לשים ידו תחת ירכו בשבועה, ולמה עושה כן אחר כך יעקב?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 24:2:1",
+      "quote": "ואילו היה כן היה נשבע בברית המילה ולא בשם",
+      "era": "rishon"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 24:2:1",
+      "quote": "אך קשה מיעקב שהשביע ליוסף נמי תחת יריכו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הנשבע נוטל חפץ של מצוה, והמילה הייתה מצוה ראשונה לו ובאה לו על ידי צער והייתה חביבה עליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:2:2",
+        "quote": "וְהַמִּילָה הָיְתָה מִצְוָה רִאשׁוֹנָה לוֹ וּבָאָה לוֹ עַל יְדֵי צַעַר"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' ברכיה): לפי שניתנה להם בצער לפיכך היא חביבה ואין נשבעין אלא בה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 59:8",
+        "quote": "לְפִי שֶׁנִּתְּנָהּ לָהֶם בְּצַעַר לְפִיכָךְ הִיא חֲבִיבָה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: היה משפט בימים ההם לשום יד תחת ירך מי שהוא ברשותו, כלומר 'אני ברשותך'.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 24:2:1",
+        "quote": "שהיה משפט בימים ההם לשום אדם ידו תחת ירך מי שהוא ברשותו"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: כך הייתה שבועה של בן ועבד לאדוניו, שדומה ענין השעבוד.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:2:1",
+        "quote": "שבועה של בן ועבד לאדוניו כך הייתה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: רגילים היו לתת ידם תחת ירך בשעה שתוקעין אמונתם, כמו שאנו נותנים יד ביד.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 24:2:2",
+        "quote": "רגילים היו לתת ידם תחת ירך בשעה שתוקעין אמונתם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה אם השבועה נשענת על מצוה או על מנהג הזמן."
+   },
+   {
+    "title": "למה 'אלהי השמים ואלהי הארץ' בפסוק אחד ורק 'אלהי השמים' בפסוק אחר?",
+    "pasuk": {
+     "text": "אֱלֹהֵ֣י הַשָּׁמַ֔יִם וֵֽאלֹהֵ֖י הָאָ֑רֶץ",
+     "ref": "Genesis 24:3",
+     "label": "בראשית כד, ג"
+    },
+    "question": "בפסוק ג אברהם קורא לה' אלהי השמים ואלהי הארץ, אך בפסוק ז רק אלהי השמים. מה ההבדל?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 24:7:1",
+      "quote": "וְלֹא אָמַר \"וֵאלֹהֵי הָאָרֶץ\", וּלְמַעְלָה אָמַר וְאַשְׁבִּיעֲךָ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: עכשיו הוא אלהי השמים ואלהי הארץ שהרגילו אברהם בפי הבריות, אבל כשלקחו מבית אביו לא היו מכירים בו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:7:1",
+        "quote": "עַכְשָׁו הוּא אֱלֹהֵי הַשָּׁמַיִם וֵאלֹהֵי הָאָרֶץ, שֶׁהִרְגַּלְתִּיו בְּפִי הַבְּרִיּוֹת"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' פנחס): עד שלא הודעתי אותו לבריותיו אלהי השמים, וכיון שהודעתי אותו אלהי הארץ.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 59:8",
+        "quote": "עַד שֶׁלֹא הוֹדַעְתִּי אוֹתוֹ לִבְרִיּוֹתָיו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: בפסוק 'לקחני מבית אבי' לא נאמר אלהי הארץ כי היה בחרן או באור כשדים, מחוץ לארץ.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:3:2",
+        "quote": "לֹא נֶאֱמַר בּוֹ אֱלֹהֵי הָאָרֶץ, כִּי הָיָה בְּחָרָן אוֹ בְּאוּר כַּשְׂדִּים"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני מקשה על שיטת רש\"י: לפי זה יש לומר שלפני שברא דבר לא היה אלהי השמים.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 24:7:1",
+        "quote": "ובשטה זו תצטרך לפרש כביכול לפני שברא שום דבר"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע לאופן שבו אמונת אברהם נודעה בעולם."
+   },
+   {
+    "title": "האם 'ארץ מולדתי' היא אור כשדים או חרן?",
+    "pasuk": {
+     "text": "אֲשֶׁ֨ר לְקָחַ֜נִי מִבֵּ֣ית אָבִי֮ וּמֵאֶ֣רֶץ מֽוֹלַדְתִּי֒",
+     "ref": "Genesis 24:7",
+     "label": "בראשית כד, ז"
+    },
+    "question": "אם ארץ מולדתו של אברהם היא אור כשדים, כדברי רש\"י, איך הוא שולח את העבד ל'ארצי ומולדתי'?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 24:7:1",
+      "quote": "חָלִילָה חָלִילָה שֶׁיִּתְעָרֵב זֶרַע הַקֹּדֶשׁ בִּבְנֵי חָם הַפּוֹשֵׁעַ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: 'ארצי' היא שם מולדתי, כי שם עמדו אבותיו מעולם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:7:1",
+        "quote": "אֲבָל \"אֶל אַרְצִי וְאֶל מוֹלַדְתִּי\", אַרְצִי שֶׁשָּׁם מוֹלַדְתִּי"
+       }
+      ]
+     },
+     {
+      "text": "מזרחי: אין טענה על דברי הרמב\"ן... אלא שאין טענה כלל על דברי רש\"י, כי הכוונה לכל אזור עבר הנהר, וחרן בכלל.",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 24:7:1",
+        "quote": "ונראה לי שאין טענה על דברי הרב כלל"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: לדעת רש\"י חרן נקראת 'ארצי' כיון שם ישבה משפחתו, אך 'ארץ מולדתי' היא אור כשדים.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 24:7:1",
+        "quote": "נקרא חרן \"ארצי"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע לאן נשלח העבד ומה פירוש 'משפחה'."
+   },
+   {
+    "title": "האם 'הוא ישלח מלאכו' תפילה או נבואה?",
+    "pasuk": {
+     "text": "ה֗וּא יִשְׁלַ֤ח מַלְאָכוֹ֙ לְפָנֶ֔יךָ",
+     "ref": "Genesis 24:7",
+     "label": "בראשית כד, ז"
+    },
+    "question": "האם אברהם מבטיח בוודאות או מתפלל? ואם הוא בטוח, למה אומר 'ואם לא תאבה האשה'?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 24:7:1",
+      "quote": "ואלו היתה נבואה, למה אמר ואם לא תאבה האשה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: נבואה היא ולא תפלה; ויש מפרשים תפילה, שאילו הייתה נבואה למה 'ואם לא תאבה'.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 24:7:3",
+        "quote": "נבואה היא זו ולא תפלה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אפשר שהוא תפילה ואפשר שהוא הבטחה שהקב\"ה ישלח מלאכו עמו ויצליחנו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 24:7:1",
+        "quote": "י\"ל שזו תפלה וי\"ל שזו הבטחה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: מאחר שהביאני לכאן לתת לזרעי את הארץ, ידעתי שאינו רוצה שירחק זרעי מכאן.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:7:1",
+        "quote": "ידעתי שאינו רוצה שירחק זרעי מכאן"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה (ר' דוסא): זימן לו הקב\"ה שני מלאכים, אחד להוציא את רבקה ואחד ללוות את אליעזר.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 59:10",
+        "quote": "זִימֵן לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא שְׁנֵי מַלְאָכִים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה אם נסמך אברהם על הבטחה או על אמונה בהשגחה."
+   },
+   {
+    "title": "האם מותר ליצחק לשאת מבנות ענר אשכול וממרא?",
+    "pasuk": {
+     "text": "וְנִקִּ֕יתָ מִשְּׁבֻעָתִ֖י זֹ֑את",
+     "ref": "Genesis 24:8",
+     "label": "בראשית כד, ח"
+    },
+    "question": "רש\"י מפרש שאברהם אמר לעבד לקחת מבנות ענר אשכול וממרא אם האשה לא תאבה. אך הם מזרע כנען, שמהם אסר אברהם לקחת.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 24:8:1",
+      "quote": "וְאִם כְּנַעֲנִים הֵם, חָלִילָה לוֹ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: 'ונקית משבועתי' – וקח לו אשה מבנות ענר אשכול וממרא.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:8:1",
+        "quote": "וְקַח לוֹ אִשָּׁה מִבְּנוֹת עָנֵר אֶשְׁכּוֹל וּמַמְרֵא"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: העבד פטור מהשבועה בלבד, ואברהם ידע שיצחק ישמע לו וילך לישמעאל או ללוט ויתר העמים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:8:1",
+        "quote": "שֶׁיִּהְיֶה הוּא פָּטוּר"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:8:1",
+        "quote": "וְיֵלֵךְ לוֹ אֶל יִשְׁמָעֵאל אוֹ לְלוֹט וְיֶתֶר הָעַמִּים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: להפך, הזהירו שלא ילך אל בנות ענר אשכול וממרא.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 59:8",
+        "quote": "הִזְהִירוֹ שֶׁלֹא יֵלֵךְ אֶל בְּנוֹת עָנֵר אֶשְׁכּוֹל וּמַמְרֵא"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אני משביעך אלא שתלך שם ותעשה מה שתוכל.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 24:8:1",
+        "quote": "שאני משביעך אלא שתלך שם ותעשה מה שתוכל"
+       }
+      ]
+     }
+    ],
+    "why": "מגדיר עד כמה הגיע איסור אברהם על בנות כנען."
+   },
+   {
+    "title": "למה משביע את העבד ולא מצוה ישירות את יצחק?",
+    "pasuk": {
+     "text": "לֹֽא־תִקַּ֤ח אִשָּׁה֙ לִבְנִ֔י מִבְּנוֹת֙ הַֽכְּנַעֲנִ֔י",
+     "ref": "Genesis 24:3",
+     "label": "בראשית כד, ג"
+    },
+    "question": "למה אברהם משביע את עבדו שלא יקח אשה מבנות כנען, ולא מצוה את בנו?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 24:3:1",
+      "quote": "הָיָה רָאוּי לְאַבְרָהָם שֶׁיְּצַוֶּה אֶת יִצְחָק בְּנוֹ שֶׁלֹּא יִקַּח אִשָּׁה מִבְּנוֹת כְּנַעַן",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אברהם רצה לשלוח בחייו אל משפחתו, ולכן הוצרך להשביע את העבד ללכת שם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:3:1",
+        "quote": "אֲבָל הָיָה רְצוֹנוֹ לִשְׁלֹחַ בְּחַיָּיו אֶל אַרְצוֹ וּמִשְׁפַּחְתּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: נדרש שבועה שמא אדם בלתי הגון ירבה שוחד לעבדו שיבחר בבתו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 24:1:1",
+        "quote": "שֶׁמָּא אֵיזֶה אָדָם בִּלְתִּי הָגוּן יַרְבֶּה שֹׁחַד לְעַבְדּוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר למה השליח הוא העבד ולא יצחק."
+   },
+   {
+    "title": "מה מוסיף 'וַיָּקָם שְׂדֵה עֶפְרוֹן'?",
+    "pasuk": {
+     "text": "וַיָּ֣קׇם ׀ שְׂדֵ֣ה עֶפְר֗וֹן",
+     "ref": "Genesis 23:17",
+     "label": "בראשית כג, יז"
+    },
+    "question": "רש\"י מביא לשון 'ויקם' גם דרש וגם פשט. למה, אם הפשט מספיק?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 23:17:2",
+      "quote": "אין דרך רש\"י להביא דרש בחנם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: תקומה הייתה לו, שיצא מיד הדיוט ליד מלך; ופשוטו שהשדה והמערה קמו לאברהם למקנה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 23:17:1",
+        "quote": "תְּקוּמָה הָיְתָה לוֹ, שֶׁיָּצָא מִיַּד הֶדְיוֹט לְיַד מֶלֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: שהייתה נפילה וקמה – שהייתה של אדם קטן ונעשית לאדם גדול.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 58:8",
+        "quote": "דַּהֲוַת נְפִילָה וְקָמַת"
+       }
+      ]
+     },
+     {
+      "text": "שפתי חכמים: לפשט לבד מיותר 'שדה עפרון', ולדרש לבד מיותר 'השדה והמערה', ולכן מביא רש\"י שניהם.",
+      "sources": [
+       {
+        "name": "שפתי חכמים",
+        "ref": "Siftei Chakhamim, Genesis 23:17:2",
+        "quote": "לפשוטו לבד קשה ויקם שדה עפרון"
+       }
+      ]
+     }
+    ],
+    "why": "מראה למה רש\"י מביא לפעמים שתי דרכים יחד."
+   }
+  ],
+  "sources_consulted": [
+   "בראשית רבה",
+   "רש\"י",
+   "אבן עזרא",
+   "רשב\"ם",
+   "גור אריה",
+   "בכור שור",
+   "רמב\"ן",
+   "חזקוני",
+   "מזרחי",
+   "ספורנו",
+   "שפתי חכמים"
+  ]
+ }
+}
