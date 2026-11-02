@@ -1,0 +1,1071 @@
+{
+ "date": "2026-11-02",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 24:10-24:26",
+ "hebrew_date": {
+  "hebrew": "כ״ב בְּחֶשְׁוָן תשפ״ז",
+  "english": "22 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Eliezer sets out with ten of Abraham's camels and a share of his master's wealth for Aram-naharaim, and halts by the well at evening. He prays that the girl who offers to water his camels be the one chosen for Isaac. Before he finishes, Rebecca, the granddaughter of Nahor and Milcah, comes out with her jar, gives him water and draws for all his camels. He gives her a gold ring and two bracelets, asks whose daughter she is and whether there is room to lodge, and she answers that there is straw, feed and lodging. The man bows to God.",
+  "questions": [
+   {
+    "title": "Why did Eliezer need ten camels for one errand?",
+    "pasuk": {
+     "text": "ויקח העבד עשרה גמלים מגמלי אדוניו",
+     "ref": "Genesis 24:10",
+     "label": "Genesis 24:10"
+    },
+    "question": "The servant takes ten camels, but a single traveler could manage with one. Why does the verse count ten?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 24:10:1",
+      "era": "acharon",
+      "quote": "וזולת זה היה מספיק באחד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim says ten of Abraham's camels were, by Abraham's standard, like taking one, so ten was no excess.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 24:10:1",
+        "quote": "כי בערך גמלי אדוניו כלוקח אחד היו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim offers a second reading: 'ten' means 'many', as in 'Am I not better to you than ten sons?'",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 24:10:2",
+        "quote": "עוד ירצה שלקח עשרה גמלים פירוש הרבה"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: he took ten men of Abraham's household riding the ten camels, to say the betrothal blessing.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 24:10:1",
+        "quote": "לקח עשרה אנשים מילדי אברהם רוכבים על עשרה גמלים לברך ברכת אירוסין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the number is a practical need, an idiom, or a hint at a company of ten."
+   },
+   {
+    "title": "What does 'all his master's goods were in his hand' add?",
+    "pasuk": {
+     "text": "וכל טוב אדוניו בידו",
+     "ref": "Genesis 24:10",
+     "label": "Genesis 24:10"
+    },
+    "question": "If it only means the goods were in Eliezer's possession, the verse says nothing new. What is it telling us?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 24:10:2",
+      "era": "acharon",
+      "quote": "ואי הוה פי' ברשותו מה בא ללמדנו שכל טוב אדוניו עוד בידו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 24:10:2",
+      "era": "acharon",
+      "quote": "דאם לא כן מה וכל טוב אדוניו בידו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Midrash Aggadah: Abraham gave Isaac everything by deed, and Eliezer carried the deed to show them.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 24:10:1",
+        "quote": "שנתן אברהם ליצחק את כל אשר לו בשטר ולקח השטר בידו כדי שיראה להם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he brought silver, gold and pearls to show Abraham's wealth and win over the relatives.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 24:10:1",
+        "quote": "כדי להראותם עושר אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he took silver and gold vessels and garments, and needed no permission since all was in his hand.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 24:10:2",
+        "quote": "ונטל עמו כלי כסף וכלי זהב ובגדים"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: 'goods' means the important people of Abraham's house.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:10:1",
+        "quote": "האנשים החשובים של בית אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "The answers differ on whether Eliezer carried documents, wealth, or people."
+   },
+   {
+    "title": "Was Eliezer's sign a proper request?",
+    "pasuk": {
+     "text": "אתה הכחת לעבדך ליצחק",
+     "ref": "Genesis 24:14",
+     "label": "Genesis 24:14"
+    },
+    "question": "Chazal say Eliezer 'asked improperly', since the girl who answered could have been lame or blind. How could he rely on such a sign?",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 24:14:1",
+      "era": "rishon",
+      "quote": "וקשה אם היה אליעזר רואה אותה חגרת או סומא לא ישאל אותה שום דבר"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 24:14:1",
+      "era": "rishon",
+      "quote": "ורבים יתמהו באמרם שלא שאל כהוגן ולא ידעתי למה"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 24:15:1-3",
+      "era": "acharon",
+      "quote": "כי אליעזר לא שאל שלא כהוגן כי חגרת או סומא הלא יראנה ויביט ויבדוק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: if another girl had come, he lost nothing, for he would leave her.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 24:14:1",
+        "quote": "היה עוזב אותה ולא הפסיד כלום"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: the sign was that the first girl found would be asked, whether lame or blind; the risk was only a slave or a mamzeret.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 24:14:1",
+        "quote": "י\"ל דאליעזר עשה סימן כל אותה שימצא ראשונה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he would not ask a lame or blind girl; his prayer was about her being a maidservant, a mamzeret, or not of Abraham's family.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 24:14:2",
+        "quote": "אבל אפשר שהיתה שפחה או ממזרת או לא היתה ממשפחת אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Eliezer's request was reckless or well calibrated."
+   },
+   {
+    "title": "Was Eliezer's sign forbidden divination?",
+    "pasuk": {
+     "text": "אתה הכחת לעבדך ליצחק",
+     "ref": "Genesis 24:14",
+     "label": "Genesis 24:14"
+    },
+    "question": "The Torah forbids divination, yet Eliezer set a sign for himself. Why was this not forbidden?",
+    "asked_by": [
+     {
+      "name": "Tur HaAroch",
+      "ref": "Tur HaArokh, Genesis 24:14:1",
+      "era": "rishon",
+      "quote": "וא\"ת למ\"ד בפרשת מכשף בני נח מוזהר וכתיב שם לא ימצא בך מנחש"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 24:14:1",
+      "era": "acharon",
+      "quote": "ואם תאמר היאך ניחש אליעזר עבד אברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tur HaAroch: he gave the jewelry only after asking whose daughter she was.",
+      "sources": [
+       {
+        "name": "Tur HaAroch",
+        "ref": "Tur HaArokh, Genesis 24:14:1",
+        "quote": "שלא נתן לה הצמידים עד ששאל אותה וידע בת מי היא"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he prayed that it would be so, not relying on omens.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 24:14:1",
+        "quote": "התפלל שיהיה כך לא שסמך על נחש"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh rejects the Tosafists' answer, and says the sign was not divination because the girl was fit even without it.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 24:14:1",
+        "quote": "ונראה אלי דלא הוי כהאי גוונא ניחוש"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies where a request for a sign ends and forbidden divination begins."
+   },
+   {
+    "title": "Why does the verse say 'vayhi hu' before he finished speaking?",
+    "pasuk": {
+     "text": "ויהי הוא טרם כלה לדבר",
+     "ref": "Genesis 24:15",
+     "label": "Genesis 24:15"
+    },
+    "question": "The word 'hu' seems extra. And Moses and Solomon were answered only after finishing, while Eliezer was answered before he finished.",
+    "asked_by": [
+     {
+      "name": "Midrash Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Bereshit 24:15:1",
+      "era": "chazal",
+      "quote": "ואילו אליעזר בטרם כלה וצ\"ע"
+     },
+     {
+      "name": "Meshech Chochmah",
+      "ref": "Meshekh Chokhmah, Khayei Sarah 8",
+      "era": "acharon",
+      "quote": "לפי דרכי הלשון הו\"ל למיכתב ויהי טרם כלה הוא לדבר"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 24:15:1-3",
+      "era": "acharon",
+      "quote": "הנה מלת ויהי ומלת הוא מיותרת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Alshich: the others were answered after finishing; Eliezer before, so 'hu' sets him apart.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 24:15:1-3",
+        "quote": "כי הוא היה טרם כלה לדבר והאחרים אחר כלותם לדבר"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: 'hu' is a name of God, hinting that the angel Abraham prayed for was already there.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 24:15:1",
+        "quote": "מלת הוא שמו של"
+       }
+      ]
+     },
+     {
+      "text": "Meshech Chochmah: God made the words come from Eliezer's mouth, so that Rebecca's coming caused his request.",
+      "sources": [
+       {
+        "name": "Meshech Chochmah",
+        "ref": "Meshekh Chokhmah, Khayei Sarah 8",
+        "quote": "שדבורו היה מהשם"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: three were answered while they spoke: Eliezer, Moses and Solomon.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 24:15:1",
+        "quote": "שלשה נענו במענה פיהם אליעזר עבד אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how quickly Eliezer's prayer was answered, and whether the speed was his or God's."
+   },
+   {
+    "title": "Why did Eliezer stay silent and not give thanks at once?",
+    "pasuk": {
+     "text": "והאיש משתאה לה מחריש לדעת",
+     "ref": "Genesis 24:21",
+     "label": "Genesis 24:21"
+    },
+    "question": "Rebecca did what Eliezer had set as his sign, yet he stood silent 'to know whether God had made his journey succeed' instead of bowing at once. Why?",
+    "asked_by": [
+     {
+      "name": "Chatam Sofer",
+      "ref": "Chatam Sofer on Torah, Chayei Sara 19",
+      "era": "acharon",
+      "quote": "וקשה כיון שראה שהיא עשתה כאשר עשה סימן לעצמו למה לא השתחוה לה' מיד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chatam Sofer: she gave him to drink first and offered for the camels only afterward, so Eliezer was unsure the sign was met.",
+      "sources": [
+       {
+        "name": "Chatam Sofer",
+        "ref": "Chatam Sofer on Torah, Chayei Sara 19",
+        "quote": "אליעזר מסופק אם עשתה כך מכוונה זאת"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: he was stunned that his plan was near success, but did not know if she was of Abraham's family.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:21:2",
+        "quote": "אבל אינו יודע אם ממשפחת אברהם היא אם לאו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he suspected she might be among those who say much and do little.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 24:21:1",
+        "quote": "שמא היא מהאומרים הרבה ועושים מעט"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: he was silent because he did not know whether she was of Abraham's family.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 24:21:1",
+        "quote": "היה שותק לפי שלא היה יודע אם אותה אשה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Eliezer treated as proof, and what he still needed to confirm."
+   },
+   {
+    "title": "Why did he give the gifts before asking whose daughter she was?",
+    "pasuk": {
+     "text": "ויקח האיש נזם זהב בקע משקלו",
+     "ref": "Genesis 24:22",
+     "label": "Genesis 24:22"
+    },
+    "question": "The verse gives the ring and bracelets before 'Whose daughter are you?'. How could he give before he knew she was of Abraham's family?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 24:22:1",
+      "era": "acharon",
+      "quote": "והמפרשים תמהו איך נתן לה המתנות קודם ששאל אותה בת מי את"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 24:22:1",
+      "era": "rishon",
+      "quote": "הכתוב הזה יחסר המעשה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the verse omits the act; he took the jewelry so it would be ready, and put it on after she answered.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:22:1",
+        "quote": "פירושו ויקח האיש נזם זהב ושני צמידים שיהיו על ידיה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: he gave after asking, but the verse placed the giving first so as not to interrupt her answer.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:22:1",
+        "quote": "אחר ששאל לה בת מי את נתן לה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: he gave first, relying on Abraham's merit and 'He will send His angel'.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 24:22:1",
+        "quote": "עד שלא שאל אותה נתן בקע והצמידים לפי שבטח על זכותו של אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: he asked after giving, trusting Abraham's merit.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:23:1",
+        "quote": "לאחר שנתן לה שאלה לפי שהיה בטוח בזכותו של אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: Abraham did not command him to take a wife from the family, only from his homeland, so any fit girl from there would do.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 24:22:1",
+        "quote": "כי אברהם לא צוה לו כלל שיקח ממשפחתו"
+       }
+      ]
+     }
+    ],
+    "why": "The commentators split on the order of events and on how much Eliezer trusted the sign."
+   },
+   {
+    "title": "Why does Rebecca say 'laloon' when he asked 'laleen'?",
+    "pasuk": {
+     "text": "מקום לנו ללין",
+     "ref": "Genesis 24:23",
+     "label": "Genesis 24:23"
+    },
+    "question": "Eliezer asks for room 'laleen' and Rebecca answers 'laloon'. Is the change of word meaningful?",
+    "asked_by": [
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 24:23:2",
+      "era": "rishon",
+      "quote": "ואילו היא אמרה גם מקום לכם כמו שאמרו הם מקום לנו היה לה לומר ללין כמו שאמרו הם"
+     },
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 24:23:2",
+      "era": "acharon",
+      "quote": "רבים תמהים כי לין ולון שניהם מקורים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'laleen' is one night, while she said 'laloon', meaning several nights.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:23:2",
+        "quote": "לינה אחת לין שם דבר והיא אמרה ללון כמה לינות"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: 'laleen' is a general lodging, 'laloon' a personal staying overnight, so she did not need to repeat 'for you'.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 24:23:2",
+        "quote": "ללין מורה על העשות הענין סתם מאין פנות אל העושה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: 'laloon' needs no explanation; it plainly means that people lodge there.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:23:2",
+        "quote": "ללון אין צריך פירוש שהרי משמע ללון בו בני אדם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Chazal and the peshat commentators read a one-letter difference."
+   }
+  ],
+  "sources_consulted": [
+   "Or HaChaim",
+   "Hadar Zekenim",
+   "Siftei Chakhamim",
+   "Gur Aryeh",
+   "Midrash Aggadah",
+   "Radak",
+   "Sforno",
+   "Rashbam",
+   "Ibn Ezra",
+   "Alshich",
+   "Tur HaAroch",
+   "Midrash Sekhel Tov",
+   "Meshech Chochmah",
+   "Rabbeinu Bahya",
+   "Midrash Lekach Tov",
+   "Chatam Sofer",
+   "Rashi",
+   "Malbim",
+   "Ramban",
+   "HaKtav VeHaKabalah"
+  ]
+ },
+ "hebrew": {
+  "summary": "אליעזר יוצא עם עשרה גמלים מגמלי אברהם ומטוב אדוניו אל ארם נהרים, ועוצר ליד הבאר לעת ערב. הוא מתפלל שהנערה שתציע להשקות את גמליו תהיה זו שנועדה ליצחק. עוד לפני שסיים לדבר יוצאת רבקה, נכדתם של נחור ומלכה, וכדה על שכמה; היא משקה אותו ושואבת לכל גמליו. הוא נותן לה נזם זהב ושני צמידים, שואל בת מי היא והאם יש מקום ללון, והיא משיבה שיש תבן ומספוא ומקום ללון. האיש קד ומשתחווה לה'.",
+  "questions": [
+   {
+    "title": "למה נזקק אליעזר לעשרה גמלים לשליחות אחת?",
+    "pasuk": {
+     "text": "ויקח העבד עשרה גמלים מגמלי אדוניו",
+     "ref": "Genesis 24:10",
+     "label": "בראשית כד, י"
+    },
+    "question": "העבד לוקח עשרה גמלים, ואילו די היה באחד. מדוע מונה הכתוב עשרה?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 24:10:1",
+      "era": "acharon",
+      "quote": "וזולת זה היה מספיק באחד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "האור החיים: בערך גמליו של אברהם עשרה היו כגמל אחד, ולכן אין זה מופרז.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 24:10:1",
+        "quote": "כי בערך גמלי אדוניו כלוקח אחד היו"
+       }
+      ]
+     },
+     {
+      "text": "האור החיים מוסיף: 'עשרה' פירושו 'הרבה', כמו 'טוב לך מעשרה בנים'.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 24:10:2",
+        "quote": "עוד ירצה שלקח עשרה גמלים פירוש הרבה"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: לקח עשרה אנשים מילדי אברהם הרוכבים על עשרה גמלים, כדי לברך ברכת אירוסין.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 24:10:1",
+        "quote": "לקח עשרה אנשים מילדי אברהם רוכבים על עשרה גמלים לברך ברכת אירוסין"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נלמד אם המספר צורך מעשי, לשון הגזמה או רמז לעשרה אנשים."
+   },
+   {
+    "title": "מה מוסיף 'וכל טוב אדוניו בידו'?",
+    "pasuk": {
+     "text": "וכל טוב אדוניו בידו",
+     "ref": "Genesis 24:10",
+     "label": "בראשית כד, י"
+    },
+    "question": "אם פירושו רק שהממון היה ברשות אליעזר, אין כאן חידוש. מה בא הכתוב ללמד?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 24:10:2",
+      "era": "acharon",
+      "quote": "ואי הוה פי' ברשותו מה בא ללמדנו שכל טוב אדוניו עוד בידו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 24:10:2",
+      "era": "acharon",
+      "quote": "דאם לא כן מה וכל טוב אדוניו בידו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מדרש אגדה: אברהם נתן ליצחק את כל אשר לו בשטר, ואליעזר לקח את השטר בידו כדי להראות להם.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 24:10:1",
+        "quote": "שנתן אברהם ליצחק את כל אשר לו בשטר ולקח השטר בידו כדי שיראה להם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הביא כסף וזהב ומרגליות כדי להראות את עושר אברהם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 24:10:1",
+        "quote": "כדי להראותם עושר אברהם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: נטל כלי כסף וכלי זהב ובגדים, ולא היה צריך רשות כי הכל היה בידו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 24:10:2",
+        "quote": "ונטל עמו כלי כסף וכלי זהב ובגדים"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: 'טוב' הם האנשים החשובים של בית אברהם.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:10:1",
+        "quote": "האנשים החשובים של בית אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות נחלקות אם נשא שטר, עושר או אנשים."
+   },
+   {
+    "title": "האם היה האות של אליעזר בקשה הוגנת?",
+    "pasuk": {
+     "text": "אתה הכחת לעבדך ליצחק",
+     "ref": "Genesis 24:14",
+     "label": "בראשית כד, יד"
+    },
+    "question": "חז\"ל אמרו שאליעזר 'שאל שלא כהוגן', שהרי יכלה להיענות חגרת או סומא. כיצד סמך על סימן כזה?",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 24:14:1",
+      "era": "rishon",
+      "quote": "וקשה אם היה אליעזר רואה אותה חגרת או סומא לא ישאל אותה שום דבר"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 24:14:1",
+      "era": "rishon",
+      "quote": "ורבים יתמהו באמרם שלא שאל כהוגן ולא ידעתי למה"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 24:15:1-3",
+      "era": "acharon",
+      "quote": "כי אליעזר לא שאל שלא כהוגן כי חגרת או סומא הלא יראנה ויביט ויבדוק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: אילו באה נערה אחרת לא הפסיד כלום, שהרי היה עוזב אותה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 24:14:1",
+        "quote": "היה עוזב אותה ולא הפסיד כלום"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: הסימן היה שהראשונה שימצא תישאל; ההסתייגות היא משפחה או ממזרת.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 24:14:1",
+        "quote": "י\"ל דאליעזר עשה סימן כל אותה שימצא ראשונה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: לא היה שואל חגרת וסומא, אלא התפלל שלא תהיה שפחה, ממזרת או מזרע אחר.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 24:14:2",
+        "quote": "אבל אפשר שהיתה שפחה או ממזרת או לא היתה ממשפחת אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מכריע אם הבקשה הייתה פזיזה או מדודה."
+   },
+   {
+    "title": "האם אות אליעזר הוא ניחוש אסור?",
+    "pasuk": {
+     "text": "אתה הכחת לעבדך ליצחק",
+     "ref": "Genesis 24:14",
+     "label": "בראשית כד, יד"
+    },
+    "question": "התורה אוסרת ניחוש, ואליעזר קבע לעצמו סימן. מדוע אין זה אסור?",
+    "asked_by": [
+     {
+      "name": "טור האורך",
+      "ref": "Tur HaArokh, Genesis 24:14:1",
+      "era": "rishon",
+      "quote": "וא\"ת למ\"ד בפרשת מכשף בני נח מוזהר וכתיב שם לא ימצא בך מנחש"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 24:14:1",
+      "era": "acharon",
+      "quote": "ואם תאמר היאך ניחש אליעזר עבד אברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "טור האורך: לא נתן לה את הצמידים עד ששאל בת מי היא.",
+      "sources": [
+       {
+        "name": "טור האורך",
+        "ref": "Tur HaArokh, Genesis 24:14:1",
+        "quote": "שלא נתן לה הצמידים עד ששאל אותה וידע בת מי היא"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: התפלל שיהיה כך, לא שסמך על נחש.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 24:14:1",
+        "quote": "התפלל שיהיה כך לא שסמך על נחש"
+       }
+      ]
+     },
+     {
+      "text": "הגור אריה דוחה את תירוץ התוספות, וסובר שאין זה ניחוש כי היא ראויה גם בלעדיו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 24:14:1",
+        "quote": "ונראה אלי דלא הוי כהאי גוונא ניחוש"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נלמד היכן מסתיימת בקשת סימן ומתחיל ניחוש אסור."
+   },
+   {
+    "title": "מדוע נאמר 'ויהי הוא טרם כלה לדבר'?",
+    "pasuk": {
+     "text": "ויהי הוא טרם כלה לדבר",
+     "ref": "Genesis 24:15",
+     "label": "בראשית כד, טו"
+    },
+    "question": "מלת 'הוא' נראית מיותרת, ומשה ושלמה נענו רק אחרי כלותם, ואילו אליעזר נענה לפני כן.",
+    "asked_by": [
+     {
+      "name": "מדרש שכל טוב",
+      "ref": "Midrash Sekhel Tov, Bereshit 24:15:1",
+      "era": "chazal",
+      "quote": "ואילו אליעזר בטרם כלה וצ\"ע"
+     },
+     {
+      "name": "משך חכמה",
+      "ref": "Meshekh Chokhmah, Khayei Sarah 8",
+      "era": "acharon",
+      "quote": "לפי דרכי הלשון הו\"ל למיכתב ויהי טרם כלה הוא לדבר"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 24:15:1-3",
+      "era": "acharon",
+      "quote": "הנה מלת ויהי ומלת הוא מיותרת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אלשיך: האחרים נענו אחרי כלותם, ואליעזר לפני כן, ולכן 'הוא'.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 24:15:1-3",
+        "quote": "כי הוא היה טרם כלה לדבר והאחרים אחר כלותם לדבר"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: 'הוא' הוא שמו של הקב\"ה, ורמז שהמלאך כבר היה שם.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 24:15:1",
+        "quote": "מלת הוא שמו של"
+       }
+      ]
+     },
+     {
+      "text": "משך חכמה: השם שם את הדברים בפי אליעזר, כדי שיציאת רבקה תהיה הסיבה.",
+      "sources": [
+       {
+        "name": "משך חכמה",
+        "ref": "Meshekh Chokhmah, Khayei Sarah 8",
+        "quote": "שדבורו היה מהשם"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: שלושה נענו במענה פיהם: אליעזר, משה ושלמה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 24:15:1",
+        "quote": "שלשה נענו במענה פיהם אליעזר עבד אברהם"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נלמד כמה מהר נענתה תפילתו, ואם המהירות היא שלו או של הקב\"ה."
+   },
+   {
+    "title": "למה שתק אליעזר ולא הודה מיד?",
+    "pasuk": {
+     "text": "והאיש משתאה לה מחריש לדעת",
+     "ref": "Genesis 24:21",
+     "label": "בראשית כד, כא"
+    },
+    "question": "רבקה עשתה כסימן שקבע אליעזר, ובכל זאת עמד שותק 'לדעת ההצליח ה' דרכו' ולא השתחווה מיד. מדוע?",
+    "asked_by": [
+     {
+      "name": "חתם סופר",
+      "ref": "Chatam Sofer on Torah, Chayei Sara 19",
+      "era": "acharon",
+      "quote": "וקשה כיון שראה שהיא עשתה כאשר עשה סימן לעצמו למה לא השתחוה לה' מיד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חתם סופר: היא השקתה אותו קודם והציעה לגמלים אחר כך, ולכן היה אליעזר מסופק.",
+      "sources": [
+       {
+        "name": "חתם סופר",
+        "ref": "Chatam Sofer on Torah, Chayei Sara 19",
+        "quote": "אליעזר מסופק אם עשתה כך מכוונה זאת"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: היה משתומם שדברו קרוב להצליח, אך לא ידע אם היא ממשפחת אברהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:21:2",
+        "quote": "אבל אינו יודע אם ממשפחת אברהם היא אם לאו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: חשש שמא היא מאלה שאומרים הרבה ועושים מעט.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 24:21:1",
+        "quote": "שמא היא מהאומרים הרבה ועושים מעט"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: שתק כי לא ידע אם היא ממשפחת אברהם.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 24:21:1",
+        "quote": "היה שותק לפי שלא היה יודע אם אותה אשה"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נלמד מה נחשב בעיניו הוכחה ומה עוד נדרש לאימות."
+   },
+   {
+    "title": "מדוע נתן את המתנות לפני ששאל בת מי היא?",
+    "pasuk": {
+     "text": "ויקח האיש נזם זהב בקע משקלו",
+     "ref": "Genesis 24:22",
+     "label": "בראשית כד, כב"
+    },
+    "question": "הכתוב מזכיר את הנזם והצמידים לפני 'בת מי את'. כיצד נתן לפני שידע שהיא ממשפחת אברהם?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 24:22:1",
+      "era": "acharon",
+      "quote": "והמפרשים תמהו איך נתן לה המתנות קודם ששאל אותה בת מי את"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 24:22:1",
+      "era": "rishon",
+      "quote": "הכתוב הזה יחסר המעשה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הכתוב מקצר; לקח את התכשיטים להכין אותם, ונתן אחרי שענתה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:22:1",
+        "quote": "פירושו ויקח האיש נזם זהב ושני צמידים שיהיו על ידיה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: נתן אחרי ששאל, אך הקדים הכתוב כדי שלא להפסיק את דבריה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:22:1",
+        "quote": "אחר ששאל לה בת מי את נתן לה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: נתן קודם, כי בטח בזכות אברהם ובכך ש'הוא ישלח מלאכו'.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 24:22:1",
+        "quote": "עד שלא שאל אותה נתן בקע והצמידים לפי שבטח על זכותו של אברהם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: שאל אחרי שנתן, כי בטח בזכות אברהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:23:1",
+        "quote": "לאחר שנתן לה שאלה לפי שהיה בטוח בזכותו של אברהם"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: אברהם לא ציווה לקחת ממשפחתו, אלא מארצו, ולכן נתן מיד.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 24:22:1",
+        "quote": "כי אברהם לא צוה לו כלל שיקח ממשפחתו"
+       }
+      ]
+     }
+    ],
+    "why": "המפרשים נחלקים בסדר המאורעות ובמידת הסתמכותו של אליעזר על האות."
+   },
+   {
+    "title": "מדוע אומרת רבקה 'ללון' כשהוא שאל 'ללין'?",
+    "pasuk": {
+     "text": "מקום לנו ללין",
+     "ref": "Genesis 24:23",
+     "label": "בראשית כד, כג"
+    },
+    "question": "אליעזר שואל 'ללין' ורבקה משיבה 'ללון'. האם יש משמעות בשינוי?",
+    "asked_by": [
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 24:23:2",
+      "era": "rishon",
+      "quote": "ואילו היא אמרה גם מקום לכם כמו שאמרו הם מקום לנו היה לה לומר ללין כמו שאמרו הם"
+     },
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 24:23:2",
+      "era": "acharon",
+      "quote": "רבים תמהים כי לין ולון שניהם מקורים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: 'ללין' הוא לינה אחת, והיא אמרה 'ללון' - כמה לינות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:23:2",
+        "quote": "לינה אחת לין שם דבר והיא אמרה ללון כמה לינות"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: 'ללין' הוא לינה סתם, 'ללון' מתייחס לעושה.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 24:23:2",
+        "quote": "ללין מורה על העשות הענין סתם מאין פנות אל העושה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: 'ללון' אין צריך פירוש, כי הוא ללון בו בני אדם.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:23:2",
+        "quote": "ללון אין צריך פירוש שהרי משמע ללון בו בני אדם"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נלמד כיצד קוראים חז\"ל והמפרשים בפשט שינוי של אות אחת."
+   }
+  ],
+  "sources_consulted": [
+   "אור החיים",
+   "הדר זקנים",
+   "שפתי חכמים",
+   "גור אריה",
+   "מדרש אגדה",
+   "רד\"ק",
+   "ספורנו",
+   "רשב\"ם",
+   "אבן עזרא",
+   "אלשיך",
+   "טור האורך",
+   "מדרש שכל טוב",
+   "משך חכמה",
+   "רבינו בחיי",
+   "מדרש לקח טוב",
+   "חתם סופר",
+   "רש\"י",
+   "מלבי\"ם",
+   "רמב\"ן",
+   "הכתב והקבלה"
+  ]
+ }
+}
