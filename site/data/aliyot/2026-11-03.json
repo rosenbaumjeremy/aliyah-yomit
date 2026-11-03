@@ -1,0 +1,973 @@
+{
+ "date": "2026-11-03",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 24:27-24:52",
+ "hebrew_date": {
+  "hebrew": "כ״ג בְּחֶשְׁוָן תשפ״ז",
+  "english": "23 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Eliezer thanks God that he has been led to Abraham's family. Rebekah runs home, and her brother Laban runs out to the spring, sees the ring and bracelets, and invites the man in, unloading the camels. Before eating, Eliezer retells the whole story: Abraham's wealth, Isaac's birth, the oath, and the sign at the well. Laban and Bethuel answer that the matter is from God, offer Rebekah, and Eliezer bows to the ground.",
+  "questions": [
+   {
+    "title": "Why does Eliezer thank God for NOT forsaking His kindness, instead of for doing kindness?",
+    "pasuk": {
+     "text": "אשר לא עזב חסדו ואמתו מעם אדני",
+     "ref": "Genesis 24:27",
+     "label": "Genesis 24:27"
+    },
+    "question": "Eliezer blesses God \"who has not forsaken His kindness and truth\" toward Abraham. A negative phrasing is odd for a moment of open kindness; why is it put this way?",
+    "asked_by": [
+     {
+      "name": "Reggio",
+      "ref": "Reggio on Torah, Genesis 24:27:2",
+      "era": "acharon",
+      "quote": "היה יותר ראוי לומר אשר עשה חסד ואמת עם אדוני"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Reggio: Eliezer feared that seeking a wife from Abraham's family might not please God, since Abraham was told to leave his father's house. Seeing the sign fulfilled, he thanks God that even so He did not forsake His kindness.",
+      "sources": [
+       {
+        "name": "Reggio",
+        "ref": "Reggio on Torah, Genesis 24:27:2",
+        "quote": "חשש אליעזר שמא לא יצליח במעשהו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: one who pursues the good is owed that the good God prepare for him; that is the \"truth\", while the \"kindness\" is the surplus, that He prepared a wife from his own father's house.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 24:27:1",
+        "quote": "וחסד הוא יתרון הטוב"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Eliezer feared, and what the sign settled."
+   },
+   {
+    "title": "Why does the verse say Laban ran before telling us what he saw?",
+    "pasuk": {
+     "text": "וירץ לבן אל האיש החוצה אל העין",
+     "ref": "Genesis 24:29",
+     "label": "Genesis 24:29"
+    },
+    "question": "Verse 29 says Laban ran to the man; only verse 30 says he had seen the ring and heard Rebekah. Why does the running come first, and what made him run?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 24:29:1",
+      "era": "rishon",
+      "quote": "למה רץ ועל מה רץ"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 24:29:1",
+      "era": "acharon",
+      "quote": "למה וירץ ועל מה רץ ויהי כראות"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 24:29:1",
+      "era": "acharon",
+      "quote": "להיפך מיבעי לכתוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he saw the ring, said \"he is rich\", and set his eyes on the money.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:29:1",
+        "quote": "עשיר הוא זה ונתן עיניו בממון"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: he would have run even without the ring, to question someone from Abraham's house.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 24:29:1",
+        "quote": "בלי ראות הנזם היה רץ לקראת"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: seeing the jewelry, he thought his sister was disgraced and ran to kill the man.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 24:29:1",
+        "quote": "חשב שפסלה…ורץ לשם להרגו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he ran out of zeal for his sister's honour, to confront the stranger.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 24:29:2",
+        "quote": "לבש קנאה ורץ לקראתו"
+       }
+      ]
+     }
+    ],
+    "why": "The same running is read as greed, hospitality, or zeal for a sister."
+   },
+   {
+    "title": "What does Laban add by saying \"I have cleared the house\"?",
+    "pasuk": {
+     "text": "ואנכי פניתי הבית ומקום לגמלים",
+     "ref": "Genesis 24:31",
+     "label": "Genesis 24:31"
+    },
+    "question": "Laban says \"I have cleared (pinniti) the house and a place for the camels\". Why not simply say there is room, as Rebekah did?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 24:31:1",
+      "era": "acharon",
+      "quote": "ואנכי פניתי הבית למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, citing Bereshit Rabbah: \"cleared\" of idolatry.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:31:1",
+        "quote": "פניתי הבית מעבודת אלילים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he cleared room for Eliezer and his men, besides the camels.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 24:31:2",
+        "quote": "בעדך ובעד אנשיך"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: he stresses that he himself cleared it, not by a messenger, to explain why he was late.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 24:31:1",
+        "quote": "כי מאשר יקרת בעיני אנכי בעצמי פניתי הבית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a host speaks to a guest he wants something from."
+   },
+   {
+    "title": "Why will Eliezer not eat until he has spoken?",
+    "pasuk": {
+     "text": "לא אכל עד אם דברתי דברי",
+     "ref": "Genesis 24:33",
+     "label": "Genesis 24:33"
+    },
+    "question": "Food is set before Eliezer and he refuses to eat until he has told his errand. Why, and why does he open with \"I am Abraham's servant\"?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 24:33:1-4",
+      "era": "acharon",
+      "quote": "על מה זה נמנע לאכול עד דבר דבריו"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 24:34:1",
+      "era": "acharon",
+      "quote": "מדוע אינו אוכל עד שידבר עסקו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Haamek Davar: unlike one who goes on his own errand, the servant's master's business is dearer than he is, so he must put his words before his meal.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 24:34:1",
+        "quote": "עסק אדוני יקר ממני"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: so they would not wonder at his haste, since after eating he could not speak; the servant does nothing for himself before his master's mitzvah.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 24:34:1",
+        "quote": "אין לי לאכול ולעשות כלום לעצמי עד שאעשה מצות אדני"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: having seen that God approved his mission, he should not first busy himself with eating and drinking.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:33:1",
+        "quote": "לא היה לו להתעסק באכילה ושתיה תחילה"
+       }
+      ]
+     },
+     {
+      "text": "Radak, citing Bava Kamma: he first said what applied to himself, that all the honour they saw was not his but his master's.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 24:34:1",
+        "quote": "אל תחשבו כי כל הכבוד הזה שאתם רואים לי שלי הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It frames the whole speech: he speaks as an agent, not for himself."
+   },
+   {
+    "title": "Why is \"ulai\" written lacking a vav only when Eliezer retells it?",
+    "pasuk": {
+     "text": "אלי לא תלך האשה אחרי",
+     "ref": "Genesis 24:39",
+     "label": "Genesis 24:39"
+    },
+    "question": "Here \"ulai\" (perhaps) is written \"eli\", without the vav, yet in verse 5 when Eliezer first spoke to Abraham it is written in full. What is the difference?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 24:39:1",
+      "era": "acharon",
+      "quote": "ואם תאמר למה לא כתיב אולי"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 24:39:1",
+      "era": "acharon",
+      "quote": "והא דלא כתיבא בפרשה של מעלה כשאמר אליעזר לאברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"eli\" is written, since Eliezer had a daughter and was looking for an excuse for Abraham to turn to him; Abraham answered that his son is blessed and Eliezer cursed.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:39:1",
+        "quote": "והיה מחזר למצא עלה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: had it been missing in Eliezer's words to Abraham it could mean he disparaged himself; but before Laban he would not recall his own lowliness.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 24:39:1",
+        "quote": "כי איך יזכיר גנותו לפניהם"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the lack is for the telling, to win their favour.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 24:39:1",
+        "quote": "כדי לחבב בעיניהם אמר להם"
+       }
+      ]
+     }
+    ],
+    "why": "A single missing letter is read as three different motives."
+   },
+   {
+    "title": "Why does Eliezer call her a \"na'arah\" earlier and an \"almah\" now?",
+    "pasuk": {
+     "text": "והיה העלמה היצאת לשאב",
+     "ref": "Genesis 24:43",
+     "label": "Genesis 24:43"
+    },
+    "question": "In verse 14 the girl is a \"na'arah\"; here, in his retelling, she is an \"almah\". Why the change of word?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 24:43:1",
+      "era": "rishon",
+      "quote": "לעיל קרי לה נערה וכאן עלמה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: Eliezer assumed they spoke only Aramaic, though they knew Hebrew too, as the later \"the na'arah sat\" shows.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 24:43:1",
+        "quote": "כסבור היה אליעזר שלא היו מספרים אלא לשון ארמי"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: the two words name the same stage of life.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 24:43:1",
+        "quote": "נערה ועלמה שניהם הם כנויים לאותו המעמד"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the vagueness left them no room to say the sign was incomplete.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 24:43:1",
+        "quote": "כדי שלא ימצאו מקום לומר שלא בא האות בשלימות"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how closely the Rishonim read even synonyms."
+   },
+   {
+    "title": "Why does Eliezer reverse the order of asking and giving the ring?",
+    "pasuk": {
+     "text": "ואשאל אתה ואמר בת מי את",
+     "ref": "Genesis 24:47",
+     "label": "Genesis 24:47"
+    },
+    "question": "In the story Eliezer first gave the jewelry and then asked whose daughter she was; to Laban he says he asked first. Why does he change it?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 24:47:1",
+      "era": "rishon",
+      "quote": "שנה הסדר שהרי הוא תחלה נתן ואחר כך שאל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: so they could not catch him out by asking how he gave before knowing who she was.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:47:1",
+        "quote": "שלא יתפשוהו בדבריו ויאמרו האיך נתת לה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: so they could not claim he gave the gifts earlier for her service, which would belong to her father; he gave them as bridal jewelry.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 24:47:1",
+        "quote": "נתן לה בחזקת תכשיטי כלה לחתן"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: otherwise they would ask how he knew she was from Abraham's family, and that she might be a mamzeret or a maidservant.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 24:47:2",
+        "quote": "מנין היית יודע אם ממשפחת אברהם היא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how carefully Eliezer shapes the telling for his listeners."
+   },
+   {
+    "title": "Why can they not say \"bad\" or \"good\" either?",
+    "pasuk": {
+     "text": "לא נוכל דבר אליך רע או טוב",
+     "ref": "Genesis 24:50",
+     "label": "Genesis 24:50"
+    },
+    "question": "Laban and Bethuel say they cannot speak to him \"bad or good\". A refusal would be bad, but why can they not say \"good\" either?",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 24:50:3",
+      "era": "chazal",
+      "quote": "התינח רע טוב למה"
+     },
+     {
+      "name": "Saadia Gaon",
+      "ref": "Saadia Gaon on Genesis 24:50:2",
+      "era": "rishon",
+      "quote": "מפני מה לא ידברו אליו בטוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lekach Tov: the good is not from us but from God.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 24:50:3",
+        "quote": "הטוב לא מאלינו אלא מה׳ יצא"
+       }
+      ]
+     },
+     {
+      "text": "Saadia: \"good and bad\" here means terms for them, such as a large or small dowry.",
+      "sources": [
+       {
+        "name": "Saadia Gaon",
+        "ref": "Saadia Gaon on Genesis 24:50:2",
+        "quote": "אין זה טוב ורע לעבד אברהם אלא רע וטוב להם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: they cannot refuse by a bad answer or by a fitting one, for it is evident the matter is from God.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:50:2",
+        "quote": "למאן בדבר הזה לא על ידי תשובת דבר רע ולא על ידי תשובת דבר הגון"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: the order \"bad before good\" itself shows Laban's evil nature.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 24:50:1",
+        "quote": "שהקדים רע לטוב ממה שאמר"
+       }
+      ]
+     }
+    ],
+    "why": "Four readings of one phrase: from God, from terms, from fit, from Laban's character."
+   }
+  ],
+  "sources_consulted": [
+   "Reggio",
+   "Radak",
+   "Rashi",
+   "Mizrachi",
+   "Haamek Davar",
+   "Midrash Aggadah",
+   "Or HaChaim",
+   "Sforno",
+   "Alshich",
+   "Bekhor Shor",
+   "Rashbam",
+   "Siftei Chakhamim",
+   "Gur Aryeh",
+   "Kli Yakar",
+   "Chizkuni",
+   "HaKtav VeHaKabalah",
+   "Midrash Lekach Tov",
+   "Saadia Gaon",
+   "Rabbeinu Bahya"
+  ]
+ },
+ "hebrew": {
+  "summary": "אליעזר מודה לה׳ שהנחהו לבית אחי אדוניו. רבקה רצה לבית אמה, ולבן אחיה רץ אל העין, רואה את הנזם והצמידים ומזמין את האיש הביתה ופורק את הגמלים. לפני שהוא אוכל, אליעזר מספר את כל הסיפור: עושרו של אברהם, לידת יצחק, השבועה והאות שליד הבאר. לבן ובתואל עונים שמה׳ יצא הדבר, נותנים את רבקה, ואליעזר משתחוה ארצה.",
+  "questions": [
+   {
+    "title": "למה מודה אליעזר על כך ש״לא עזב״ חסדו, ולא על כך שעשה חסד?",
+    "pasuk": {
+     "text": "אשר לא עזב חסדו ואמתו מעם אדני",
+     "ref": "Genesis 24:27",
+     "label": "בראשית כד, כז"
+    },
+    "question": "אליעזר מברך את ה׳ ״אשר לא עזב חסדו ואמתו״. לשון שלילה זו תמוהה ברגע של חסד גלוי; מדוע נאמר כך?",
+    "asked_by": [
+     {
+      "name": "רג״ו",
+      "ref": "Reggio on Torah, Genesis 24:27:2",
+      "era": "acharon",
+      "quote": "היה יותר ראוי לומר אשר עשה חסד ואמת עם אדוני"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רג״ו: אליעזר חשש שמא לא ייטב בעיני ה׳ להתחתן במשפחת אברהם, שהרי נצטווה להתרחק מבית אביו; משראה שהאות התקיים הודה שגם כך לא עזב חסדו.",
+      "sources": [
+       {
+        "name": "רג״ו",
+        "ref": "Reggio on Torah, Genesis 24:27:2",
+        "quote": "חשש אליעזר שמא לא יצליח במעשהו"
+       }
+      ]
+     },
+     {
+      "text": "רד״ק: הרודף אחר הטוב מגיע לו שיזמין לו האל הטוב, וזהו ״אמת״; ״חסד״ הוא היתרון, שהזמין לו אשה מבית אביו.",
+      "sources": [
+       {
+        "name": "רד״ק",
+        "ref": "Radak on Genesis 24:27:1",
+        "quote": "וחסד הוא יתרון הטוב"
+       }
+      ]
+     }
+    ],
+    "why": "מראה ממה חשש אליעזר ומה הכריע האות."
+   },
+   {
+    "title": "מדוע נאמר ״וירץ לבן״ לפני שנאמר מה ראה?",
+    "pasuk": {
+     "text": "וירץ לבן אל האיש החוצה אל העין",
+     "ref": "Genesis 24:29",
+     "label": "בראשית כד, כט"
+    },
+    "question": "בפסוק כט כתוב שלבן רץ אל האיש, ורק בפסוק ל נאמר שראה את הנזם ושמע את רבקה. מדוע הריצה קודמת, ומה הניע אותו לרוץ?",
+    "asked_by": [
+     {
+      "name": "רש״י",
+      "ref": "Rashi on Genesis 24:29:1",
+      "era": "rishon",
+      "quote": "למה רץ ועל מה רץ"
+     },
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 24:29:1",
+      "era": "acharon",
+      "quote": "למה וירץ ועל מה רץ ויהי כראות"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 24:29:1",
+      "era": "acharon",
+      "quote": "להיפך מיבעי לכתוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: ראה את הנזם, אמר ״עשיר הוא זה״, ונתן עיניו בממון.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 24:29:1",
+        "quote": "עשיר הוא זה ונתן עיניו בממון"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: גם בלי ראות הנזם היה רץ לקראת אחד מבית אברהם לחקור עליו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 24:29:1",
+        "quote": "בלי ראות הנזם היה רץ לקראת"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: כשראה את הנזם חשב שפסלה, ורץ להרגו.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 24:29:1",
+        "quote": "חשב שפסלה…ורץ לשם להרגו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: רץ מתוך קנאה על כבוד אחותו, לפגוש את הזר.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 24:29:2",
+        "quote": "לבש קנאה ורץ לקראתו"
+       }
+      ]
+     }
+    ],
+    "why": "אותה ריצה נקראת חמדנות, הכנסת אורחים או קנאה לאחות."
+   },
+   {
+    "title": "מה מוסיף לבן באמרו ״אנכי פניתי הבית״?",
+    "pasuk": {
+     "text": "ואנכי פניתי הבית ומקום לגמלים",
+     "ref": "Genesis 24:31",
+     "label": "בראשית כד, לא"
+    },
+    "question": "לבן אומר ״ואנכי פניתי הבית ומקום לגמלים״. למה לא אמר פשוט שיש מקום, כפי שאמרה רבקה?",
+    "asked_by": [
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 24:31:1",
+      "era": "acharon",
+      "quote": "ואנכי פניתי הבית למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י, בשם בראשית רבה: פניתי את הבית מעבודת אלילים.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 24:31:1",
+        "quote": "פניתי הבית מעבודת אלילים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: פינה מקום בשבילך ובשביל אנשיך, ובנוסף לגמלים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 24:31:2",
+        "quote": "בעדך ובעד אנשיך"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: הוא מדגיש שבעצמו פינה, ולא ע״י שליח, ובכך מסביר את איחורו.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 24:31:1",
+        "quote": "כי מאשר יקרת בעיני אנכי בעצמי פניתי הבית"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד מדבר מארח אל אורח שהוא חפץ בו."
+   },
+   {
+    "title": "מדוע אליעזר אינו אוכל עד שידבר?",
+    "pasuk": {
+     "text": "לא אכל עד אם דברתי דברי",
+     "ref": "Genesis 24:33",
+     "label": "בראשית כד, לג"
+    },
+    "question": "מניחים לפני אליעזר אוכל והוא מסרב עד שיספר את דבריו. מדוע, ולמה הוא פותח ב״עבד אברהם אנכי״?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 24:33:1-4",
+      "era": "acharon",
+      "quote": "על מה זה נמנע לאכול עד דבר דבריו"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 24:34:1",
+      "era": "acharon",
+      "quote": "מדוע אינו אוכל עד שידבר עסקו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "העמק דבר: אינו כמי שהולך לעסקי עצמו; עסק אדוניו יקר ממנו, ולכן מוכרח להקדים דבריו למאכלו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 24:34:1",
+        "quote": "עסק אדוני יקר ממני"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כדי שלא יתמהו על מהירותו, כי אחר אכילה לא היה יכול לדבר; אין לו לעשות דבר לעצמו עד שיעשה מצות אדוניו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 24:34:1",
+        "quote": "אין לי לאכול ולעשות כלום לעצמי עד שאעשה מצות אדני"
+       }
+      ]
+     },
+     {
+      "text": "רשב״ם: אחרי שראה שהסכים הקב״ה על ידו, לא היה לו להתעסק תחילה באכילה ושתיה.",
+      "sources": [
+       {
+        "name": "רשב״ם",
+        "ref": "Rashbam on Genesis 24:33:1",
+        "quote": "לא היה לו להתעסק באכילה ושתיה תחילה"
+       }
+      ]
+     },
+     {
+      "text": "רד״ק, בשם בבא קמא: אמר תחילה את מה שיש בו, שהכבוד שהם רואים אינו שלו אלא של אדוניו.",
+      "sources": [
+       {
+        "name": "רד״ק",
+        "ref": "Radak on Genesis 24:34:1",
+        "quote": "אל תחשבו כי כל הכבוד הזה שאתם רואים לי שלי הוא"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסגר את כל הנאום: הוא מדבר כשליח ולא לעצמו."
+   },
+   {
+    "title": "מדוע ״אלי״ כתוב חסר רק בסיפורו של אליעזר ללבן?",
+    "pasuk": {
+     "text": "אלי לא תלך האשה אחרי",
+     "ref": "Genesis 24:39",
+     "label": "בראשית כד, לט"
+    },
+    "question": "כאן כתוב ״אלי״ חסר, ובפסוק ה כשדיבר אליעזר עם אברהם נכתב מלא. מה ההבדל?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 24:39:1",
+      "era": "acharon",
+      "quote": "ואם תאמר למה לא כתיב אולי"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 24:39:1",
+      "era": "acharon",
+      "quote": "והא דלא כתיבא בפרשה של מעלה כשאמר אליעזר לאברהם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: ״אלי״ כתיב, כי בת היתה לאליעזר והיה מחזר למצוא עילה שיפנה אליו אברהם; ענה לו אברהם: בני ברוך ואתה ארור.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 24:39:1",
+        "quote": "והיה מחזר למצא עלה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אילו היה חסר בדברי אליעזר לאברהם אפשר לפרש שמזכיר גנותו, אך ללבן לא יזכיר גנותו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 24:39:1",
+        "quote": "כי איך יזכיר גנותו לפניהם"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: החסרון הוא לשעת הסיפור, כדי לחבב אותו בעיניהם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 24:39:1",
+        "quote": "כדי לחבב בעיניהם אמר להם"
+       }
+      ]
+     }
+    ],
+    "why": "אות חסרה אחת נקראת בשלוש כוונות שונות."
+   },
+   {
+    "title": "למה אליעזר קורא לה קודם ״נערה״ ועכשיו ״עלמה״?",
+    "pasuk": {
+     "text": "והיה העלמה היצאת לשאב",
+     "ref": "Genesis 24:43",
+     "label": "בראשית כד, מג"
+    },
+    "question": "בפסוק יד היא ״נערה״; כאן, בסיפורו, היא ״עלמה״. מדוע שינה את הלשון?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 24:43:1",
+      "era": "rishon",
+      "quote": "לעיל קרי לה נערה וכאן עלמה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: אליעזר סבור היה שהם מדברים רק ארמית, והם ידעו גם עברית.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 24:43:1",
+        "quote": "כסבור היה אליעזר שלא היו מספרים אלא לשון ארמי"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: שני הכינויים מציינים אותו מעמד.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 24:43:1",
+        "quote": "נערה ועלמה שניהם הם כנויים לאותו המעמד"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: העמימות מנעה מהם מקום לומר שהאות לא בא בשלמות.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 24:43:1",
+        "quote": "כדי שלא ימצאו מקום לומר שלא בא האות בשלימות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כמה בדקדוק קראו הראשונים גם מילים נרדפות."
+   },
+   {
+    "title": "מדוע אליעזר הופך את סדר השאלה ונתינת הנזם?",
+    "pasuk": {
+     "text": "ואשאל אתה ואמר בת מי את",
+     "ref": "Genesis 24:47",
+     "label": "בראשית כד, מז"
+    },
+    "question": "במעשה נתן אליעזר את התכשיטים ואחר כך שאל בת מי היא; ללבן הוא אומר ששאל קודם. למה שינה?",
+    "asked_by": [
+     {
+      "name": "רש״י",
+      "ref": "Rashi on Genesis 24:47:1",
+      "era": "rishon",
+      "quote": "שנה הסדר שהרי הוא תחלה נתן ואחר כך שאל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: כדי שלא יתפשוהו בדבריו ויאמרו איך נתת לה ועדיין אינך יודע מי היא.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 24:47:1",
+        "quote": "שלא יתפשוהו בדבריו ויאמרו האיך נתת לה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: שלא יאמרו שנתן החפצים בשכר שירותה והם שייכים לאביה; נתן אותם כתכשיטי כלה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 24:47:1",
+        "quote": "נתן לה בחזקת תכשיטי כלה לחתן"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: אחרת היו אומרים מנין ידע שהיא ממשפחת אברהם, ושמא ממזרת או שפחה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 24:47:2",
+        "quote": "מנין היית יודע אם ממשפחת אברהם היא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כמה בקפידה אליעזר מעצב את הסיפור לשומעיו."
+   },
+   {
+    "title": "מדוע לא יכולים לדבר ״רע או טוב״?",
+    "pasuk": {
+     "text": "לא נוכל דבר אליך רע או טוב",
+     "ref": "Genesis 24:50",
+     "label": "בראשית כד, נ"
+    },
+    "question": "לבן ובתואל אומרים שאינם יכולים לדבר אליו ״רע או טוב״. סירוב הוא רע, אך מדוע אינם יכולים לומר ״טוב״?",
+    "asked_by": [
+     {
+      "name": "לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 24:50:3",
+      "era": "chazal",
+      "quote": "התינח רע טוב למה"
+     },
+     {
+      "name": "רס״ג",
+      "ref": "Saadia Gaon on Genesis 24:50:2",
+      "era": "rishon",
+      "quote": "מפני מה לא ידברו אליו בטוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לקח טוב: הטוב אינו מאיתנו אלא מה׳ יצא.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 24:50:3",
+        "quote": "הטוב לא מאלינו אלא מה׳ יצא"
+       }
+      ]
+     },
+     {
+      "text": "רס״ג: ״טוב ורע״ הוא לגביהם, כגון רבוי המוהר או מעוטו.",
+      "sources": [
+       {
+        "name": "רס״ג",
+        "ref": "Saadia Gaon on Genesis 24:50:2",
+        "quote": "אין זה טוב ורע לעבד אברהם אלא רע וטוב להם"
+       }
+      ]
+     },
+     {
+      "text": "רש״י: אין הם יכולים לסרב לא בתשובה רעה ולא בתשובה הגונה, כי נכר שמה׳ יצא הדבר.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 24:50:2",
+        "quote": "למאן בדבר הזה לא על ידי תשובת דבר רע ולא על ידי תשובת דבר הגון"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: עצם הקדמת ״רע לטוב״ מעידה על תכונתו הרעה של לבן.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 24:50:1",
+        "quote": "שהקדים רע לטוב ממה שאמר"
+       }
+      ]
+     }
+    ],
+    "why": "ארבע קריאות לביטוי אחד: מה׳, מתנאים, מהגינות, מאופי לבן."
+   }
+  ],
+  "sources_consulted": [
+   "רג״ו",
+   "רד״ק",
+   "רש״י",
+   "המזרחי",
+   "העמק דבר",
+   "מדרש אגדה",
+   "אור החיים",
+   "ספורנו",
+   "אלשיך",
+   "בכור שור",
+   "רשב״ם",
+   "שפתי חכמים",
+   "גור אריה",
+   "כלי יקר",
+   "חזקוני",
+   "הכתב והקבלה",
+   "לקח טוב",
+   "רס״ג",
+   "רבנו בחיי"
+  ]
+ }
+}
