@@ -50,8 +50,10 @@ const UI = {
     rjsEssays: "המסות",
     rjsNotYet: "סיכום מסות הרב זקס על פרשה זו יתפרסם ביום ראשון בבוקר של השבוע שבו קוראים אותה.",
     rjsRead: "למסה המלאה בספריא",
+    rjsSummary: "סיכום המסה",
     rjsQuestions: "השאלות",
     rjsBlocks: "אבני הבניין של הרעיון",
+    rjsLands: "המסקנה",
     rjsCredit: "שיג ושיח, תרגום צור ארליך, הוצאת מגיד (CC-BY-NC), באתר ספריא",
     textTitle: "פסוקי העלייה — לחצו על פסוק לביאור שטיינזלץ",
     pdfText: "הפסוקים",
@@ -118,8 +120,10 @@ const UI = {
     rjsEssays: "The essays",
     rjsNotYet: "The summary of Rabbi Sacks' essays on this parasha will be published on the Sunday morning of the week it is read.",
     rjsRead: "Read the full essay on Sefaria",
+    rjsSummary: "Summary",
     rjsQuestions: "The questions",
     rjsBlocks: "Building blocks of the idea",
+    rjsLands: "Where it lands",
     rjsCredit: "Covenant & Conversation, Maggid Books and the Orthodox Union (CC-BY-NC), on Sefaria",
     textTitle: "The pesukim of the aliyah — click a pasuk for the Steinsaltz explanation",
     pdfText: "The text",
@@ -960,13 +964,18 @@ function renderRjs() {
       const summary = node("summary");
       summary.append(node("span", "n", `${i + 1}.`), node("span", "ttl", essay.title));
       const body = node("div", "body");
-      // the questions the essay asks, then the building blocks of its idea, in order;
-      // each with Rabbi Sacks' own words (checked against Sefaria by scripts/rjs.py)
+      // a summary of the essay; the questions it asks; the building blocks of its idea, in
+      // order; and where it lands (the last block). The questions and blocks each carry
+      // Rabbi Sacks' own words (checked against Sefaria by scripts/rjs.py)
       const said = (item) => {
         const quote = node("q", "rjsquote", item.quote);
         quote.dir = "auto";
         return quote;
       };
+      if (essay.summary) {
+        body.appendChild(node("div", "label", t().rjsSummary));
+        essay.summary.split(/\n\s*\n/).forEach((para) => body.appendChild(node("p", "sumPara", para)));
+      }
       body.appendChild(node("div", "label", t().rjsQuestions));
       const questions = node("ul", "rjsqs");
       (essay.questions || []).forEach((q) => {
@@ -977,12 +986,24 @@ function renderRjs() {
       body.appendChild(questions);
       body.appendChild(node("div", "label", t().rjsBlocks));
       const blocks = node("ol", "rjsblocks");
-      (essay.blocks || []).forEach((b) => {
-        const li = node("li", null, b.text);
+      const line = (b, text) => {
+        const li = node("li", null, text);
         if (b.quote) { li.appendChild(document.createElement("br")); li.appendChild(said(b)); }
-        blocks.appendChild(li);
-      });
+        return li;
+      };
+      const steps = essay.blocks || [];
+      const landing = /^(Where it lands|המסקנה):\s*/;
+      const last = steps[steps.length - 1];
+      const lands = last && landing.test(last.text) ? last : null;
+      (lands ? steps.slice(0, -1) : steps).forEach((b) => blocks.appendChild(line(b, b.text)));
       body.appendChild(blocks);
+      if (lands) {
+        body.appendChild(node("div", "label", t().rjsLands));
+        const text = lands.text.replace(landing, "");
+        const end = node("ul", "rjslands");
+        end.appendChild(line(lands, text.charAt(0).toUpperCase() + text.slice(1)));
+        body.appendChild(end);
+      }
       body.appendChild(sefariaLink(t().rjsRead, essay.ref));
       item.append(summary, body);
       essays.body.appendChild(item);

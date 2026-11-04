@@ -118,7 +118,8 @@ main { max-width: 980px; margin: 0 auto; padding: 20px 22px 60px; }
 #rjs h2 { margin: 0; font-size: 24px; }
 #rjs > .muted { margin: 2px 0 14px; font-size: 14px; }
 .rjsqs, .rjsblocks { margin: 2px 0 10px; padding-inline-start: 22px; }
-.rjsqs li, .rjsblocks li { margin: 0 0 7px; }
+.rjsqs li, .rjsblocks li, .rjslands li { margin: 0 0 7px; }
+.rjslands { list-style: none; margin: 2px 0 10px; padding-block: 6px; padding-inline: 12px; border-inline-start: 3px solid var(--gold); font-weight: 600; }
 .rjsqs li { font-weight: 600; }
 .rjsblocks li::marker { color: var(--gold); font-weight: 700; }
 .rjsquote { color: var(--muted); font-style: italic; font-weight: 400; font-size: 14px; unicode-bidi: isolate; }

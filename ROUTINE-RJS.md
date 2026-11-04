@@ -8,7 +8,7 @@ publishes the summary to the site's RJS page (the RJS button on each parasha car
 ## The rule
 
 **Summarise only what you read in the essay on Sefaria.** Every question and
-building block carries a short `quote` copied word for word from that essay,
+building block (the summary is your own wording of the essay) carries a short `quote` copied word for word from that essay,
 and `scripts/rjs.py --verify` drops any whose quote is not in its Sefaria ref.
 No outside material: not rabbisacks.org, not other books, not your own ideas.
 
@@ -52,6 +52,7 @@ One file per parasha, `/tmp/rjs-<slug>.json`, written with python
  "english": {
    "overview": "3–4 sentences: what Rabbi Sacks' essays on this parasha are about, taken together",
    "essays": [{"title": "<title from --info>", "ref": "<ref from --info>",
+               "summary": "two paragraphs, about 200–300 words, separated by a blank line (\n\n)",
                "questions": [{"text": "a question the essay asks, in one line",
                               "quote": "<the essay's own words that raise it>"}],
                "blocks": [{"text": "one step of the argument, 1–2 sentences",
@@ -61,14 +62,23 @@ One file per parasha, `/tmp/rjs-<slug>.json`, written with python
 }
 ```
 
-**The user's format (2026-10-19): no prose summaries.** Each essay is:
+**The user's format (2026-11-04).** Each essay is, in this order:
 
+- `summary` — two paragraphs (about 200–300 words in all; a very short essay
+  may be shorter) that walk through what
+  the essay argues from start to finish, so someone who has not read it knows
+  its opening problem, the sources and thinkers it brings and how they are
+  used, the turn in the argument, and where it ends. Not bare bones: keep the
+  essay's examples and texture. It says what the essay says, not what the essay
+  is "about". Paragraphs are separated by a blank line (`\n\n`). No quote is
+  needed.
 - `questions` — the 1–3 questions the essay itself asks or starts from
   (stated or clearly implied by the essay), each one short line.
 - `blocks` — the building blocks of the idea: 4–7 steps, in the order the
   essay builds its argument (the text, the source it brings — Rashi, a
   midrash, Maimonides, a modern thinker — the problem, the turn), and the
-  last block is where it lands, starting "Where it lands:" / "המסקנה:".
+  last block is where it lands, starting "Where it lands:" / "המסקנה:" (the
+  page shows it under its own heading).
   Each block is one step, not a paragraph.
 
 Also:
@@ -89,7 +99,7 @@ python3 scripts/rjs.py --verify /tmp/rjs-<slug>.json
 ```
 
 It removes every question or block whose quote is not in its essay, then any
-essay left without a question or with fewer than 3 blocks, and exits 1 if any
+essay left without a summary, without a question or with fewer than 3 blocks, and exits 1 if any
 listed essay or either overview is missing. On exit 1, fix the quotes by
 copying them exactly from `--text` output (or add what is missing) and run
 it again. Never edit the file after it passes, except by re-running it.
