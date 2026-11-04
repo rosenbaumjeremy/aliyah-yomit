@@ -1,0 +1,621 @@
+{
+ "date": "2026-11-04",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 24:53-24:67",
+ "hebrew_date": {
+  "hebrew": "כ״ד בְּחֶשְׁוָן תשפ״ז",
+  "english": "24 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Laban and Bethuel's household, having given Rebecca's hand, receive the servant's gifts and are asked to let him leave the next morning. Her brother and mother ask for ten days; the servant refuses to delay, and they ask Rebecca, who says she will go. They bless her, and she rides off with her nurse and maids. Isaac, returning from Beer-lahai-roi, goes out to the field at evening and sees camels; Rebecca sees him, alights, covers herself with her veil, and the servant tells Isaac everything. Isaac brings her into his mother Sarah's tent, marries her, loves her, and is comforted after his mother's death.",
+  "questions": [
+   {
+    "title": "Where was Bethuel when his wife and son did the talking?",
+    "pasuk": {
+     "text": "וַיֹּ֤אמֶר אָחִ֙יהָ֙ וְאִמָּ֔הּ תֵּשֵׁ֨ב הַנַּעֲרָ֥ אִתָּ֛נוּ יָמִ֖ים א֣וֹ עָשׂ֑וֹר אַחַ֖ר תֵּלֵֽךְ",
+     "ref": "Genesis 24:55",
+     "label": "Genesis 24:55"
+    },
+    "question": "The verse says that her brother and mother spoke, but Bethuel, her father, was the one who had answered earlier. Why is he absent now, and why does the household try to delay?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 24:55:1",
+      "quote": "וּבְתוּאֵל הֵיכָן הָיָה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bethuel wanted to delay, and an angel came and killed him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:55:1",
+        "quote": "הָיָה רוֹצֶה לְעַכֵּב וּבָא מַלְאָךְ וֶהֱמִיתוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov likewise says he tried to delay and was struck down in the night.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 24:55:1",
+        "quote": "ביקש לעכב וניגף בלילה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra reads it plainly: the mother and brother received the gifts while the father stayed silent, and Laban may have been greater than his father in wisdom and standing.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 24:55:1",
+        "quote": "הם שקיבלו המתנות והאב מחריש"
+       }
+      ]
+     }
+    ],
+    "why": "Shows whether the delay was a family custom or resistance to the shlichut."
+   },
+   {
+    "title": "Why does the verse ask for 'days or ten' — what does 'days' mean?",
+    "pasuk": {
+     "text": "וַיֹּ֤אמֶר אָחִ֙יהָ֙ וְאִמָּ֔הּ תֵּשֵׁ֨ב הַנַּעֲרָ֥ אִתָּ֛נוּ יָמִ֖ים א֣וֹ עָשׂ֑וֹר אַחַ֖ר תֵּלֵֽךְ",
+     "ref": "Genesis 24:55",
+     "label": "Genesis 24:55"
+    },
+    "question": "The family asks for 'days or ten'. Does 'days' mean a few days, and what is the 'ten'?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 24:55:3",
+      "quote": "וְאִם תֹּאמַר יָמִים מַמָּשׁ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'days' is a year, as a maiden is given twelve months to provide herself with jewelry, and 'ten' is ten months.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:55:2",
+        "quote": "שֶׁכָּךְ נוֹתְנִין לִבְתוּלָה זְמַן י\"ב חֹדֶשְ"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:55:3",
+        "quote": "או עשור. י' חֳדָשִׁים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the delay was so that her mind could settle gradually toward going to another land, since a sudden change is not borne by nature.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 24:55:1",
+        "quote": "שֶׁתִּתְיַשֵּׁב דַּעְתָּהּ בְּהַדְרָגָה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: 'days' is a year and 'ten' is ten months.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 24:55:2",
+        "quote": "ימים זו שנה"
+       }
+      ]
+     }
+    ],
+    "why": "The size of the delay shows what the family was really asking."
+   },
+   {
+    "title": "Why ask Rebecca at all, and what does 'I will go' mean?",
+    "pasuk": {
+     "text": "וַיִּקְרְא֤וּ לְרִבְקָה֙ וַיֹּאמְר֣וּ אֵלֶ֔יהָ הֲתֵלְכִ֖י עִם־הָאִ֣ישׁ הַזֶּ֑ה וַתֹּ֖אמֶר אֵלֵֽךְ",
+     "ref": "Genesis 24:58",
+     "label": "Genesis 24:58"
+    },
+    "question": "Since they already said 'from the Lord the matter came', what are they asking Rebecca? And why does she answer 'I will go' and not simply 'yes'?",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 24:58:1",
+      "quote": "וקשה וכי היתה רבקה כל כך פרוצה ללכת בלא רשות אחיה ואמה",
+      "era": "rishon"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 24:58:1",
+      "quote": "לא ייתכן שישאלו אותה אם רצונה להינשא ליצחק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'I will go' of my own accord, even if you do not want it; Gur Aryeh adds that otherwise the verse should have said 'yes'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 24:58:1",
+        "quote": "מֵעַצְמִי, וְאַף אִם אֵינְכֶם רוֹצִים"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 24:58:1",
+        "quote": "דאם לא כן 'ותאמר הן' מיבעי ליה"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: it is a language of asking — 'your opinion, that I go with him?'",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 24:58:1",
+        "quote": "נראה לפרש הכי ותאמר אלך בלשון שאלה"
+       }
+      ]
+     },
+     {
+      "text": "Shadal, following Rashbam: they asked whether to go right away, or to wait and go later with others.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 24:58:1",
+        "quote": "התלכי עתה מיד עם האיש הזה או תחפצי להתעכב"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: it should have said 'will you go now'; the question was about the journey, since riding a camel was hard for her.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 24:58:1",
+        "quote": "התלכי עתה מיבעי"
+       }
+      ]
+     }
+    ],
+    "why": "Decides whether Rebecca's consent was about the marriage or about leaving at once."
+   },
+   {
+    "title": "How did Isaac come 'from the way of Beer-lahai-roi' if he lived in the Negev?",
+    "pasuk": {
+     "text": "וְיִצְחָק֙ בָּ֣א מִבּ֔וֹא בְּאֵ֥ר לַחַ֖י רֹאִ֑י וְה֥וּא יוֹשֵׁ֖ב בְּאֶ֥רֶץ הַנֶּֽגֶב",
+     "ref": "Genesis 24:62",
+     "label": "Genesis 24:62"
+    },
+    "question": "Why does the verse say Isaac 'came from the entrance of Beer-lahai-roi', and not simply 'from Beer-lahai-roi'?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 24:62:1",
+      "quote": "שֶׁאִלּוּ אָמַר \"בָּא מִבְּאֵר לַחַי רֹאִי\" הָיָה נִרְאֶה שֶׁהָיָה דָּר שָׁם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: he was returning to his city from a visit there; or he went there regularly as a place of prayer.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:62:1",
+        "quote": "כִּי הוּא שָׁב לְעִירוֹ מִבִּיאָתוֹ"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 24:62:1",
+        "quote": "הָיָה יִצְחָק הוֹלֵךְ תָּמִיד אֶל הַמָּקוֹם הַהוּא"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: 'mavo' is a place name, so the place has two names; or, as he prefers, it is the verb form, 'coming'.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 24:62:1",
+        "quote": "שם מקום יקרא בב' שמות"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 24:62:1",
+        "quote": "שהוא שם הפועל"
+       }
+      ]
+     }
+    ],
+    "why": "Explains where Isaac was and what he was doing when Rebecca arrived."
+   },
+   {
+    "title": "What does 'to talk in the field' mean — a walk or a prayer?",
+    "pasuk": {
+     "text": "וַיֵּצֵ֥א יִצְחָ֛ק לָשׂ֥וּחַ בַּשָּׂדֶ֖ה לִפְנ֣וֹת עָ֑רֶב וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּ֥ה גְמַלִּ֖ים בָּאִֽים",
+     "ref": "Genesis 24:63",
+     "label": "Genesis 24:63"
+    },
+    "question": "What was Isaac doing in the field at evening — walking among the bushes, or praying?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 24:63:1",
+      "quote": "וקשה דמהכא משמע דישפוך שיחו משמע בתפלה יותר מלשוח בשדה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rabbeinu Bahya: by the plain sense, to walk among the trees; by midrash, 'there is no siḥah but prayer', and from here they said Isaac instituted Minchah.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 24:63:1-3",
+        "quote": "לְהַלֵּךְ בֵּין הַשִּׂיחִים"
+       },
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 24:63:1-3",
+        "quote": "יִצְחָק תִּקֵּן תְּפִלַּת מִנְחָה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: to plant trees and see to his workers' affairs.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 24:63:1",
+        "quote": "לטעת אילנות ולראות ענייני פועליו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he turned off the road to pour out his speech before God in the field, so that passersby would not interrupt him.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 24:63:1",
+        "quote": "לִשְׁפּוֹךְ שִׂיחוֹ לִפְנֵי ה' בַּשָּׂדֶה"
+       }
+      ]
+     }
+    ],
+    "why": "Bears on the source of the afternoon prayer."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Midrash Lekach Tov",
+   "Ibn Ezra",
+   "Sforno",
+   "Hadar Zekenim",
+   "Shadal",
+   "Gur Aryeh",
+   "Haamek Davar",
+   "Ramban",
+   "Mizrachi",
+   "Rabbeinu Bahya",
+   "Rashbam"
+  ]
+ },
+ "hebrew": {
+  "summary": "אחרי שנתנו את רבקה, העבד מוציא כלי כסף וכלי זהב ובגדים ונותן מתנות לרבקה ולאחיה ולאמה. בבוקר הוא מבקש לצאת, אחיה ואמה מבקשים 'ימים או עשור', והעבד מסרב לעכב. שואלים את רבקה והיא אומרת 'אלך'. מברכים אותה והיא יוצאת עם מניקתה ונערותיה. יצחק בא מבאר לחי רואי, יוצא לשוח בשדה לפנות ערב ורואה גמלים; רבקה רואה אותו, נופלת מעל הגמל ומתכסה בצעיף, והעבד מספר ליצחק את כל הדברים. יצחק מביאה האהלה שרה אמו, לוקח את רבקה לאשה, אוהב אותה ומתנחם אחרי אמו.",
+  "questions": [
+   {
+    "title": "היכן היה בתואל כשאחיה ואמה דיברו?",
+    "pasuk": {
+     "text": "וַיֹּ֤אמֶר אָחִ֙יהָ֙ וְאִמָּ֔הּ תֵּשֵׁ֨ב הַנַּעֲרָ֥ אִתָּ֛נוּ יָמִ֖ים א֣וֹ עָשׂ֑וֹר אַחַ֖ר תֵּלֵֽךְ",
+     "ref": "Genesis 24:55",
+     "label": "בראשית כד, נה"
+    },
+    "question": "הפסוק מספר שאחיה ואמה אמרו 'תשב הנערה אתנו', ואילו בתואל, אביה, הוא שענה קודם. מדוע הוא נעדר עכשיו, ולמה מנסים לעכב?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 24:55:1",
+      "quote": "וּבְתוּאֵל הֵיכָן הָיָה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בתואל רצה לעכב ובא מלאך והמיתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:55:1",
+        "quote": "הָיָה רוֹצֶה לְעַכֵּב וּבָא מַלְאָךְ וֶהֱמִיתוֹ"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: ביקש לעכב ונגף בלילה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 24:55:1",
+        "quote": "ביקש לעכב וניגף בלילה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: האם והאח קיבלו את המתנות והאב מחריש, ויתכן שלבן היה גדול מאביו בחכמה ובכבוד.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 24:55:1",
+        "quote": "הם שקיבלו המתנות והאב מחריש"
+       }
+      ]
+     }
+    ],
+    "why": "מראה אם העיכוב היה מנהג משפחתי או התנגדות לשליחות."
+   },
+   {
+    "title": "מה פירוש 'ימים או עשור'?",
+    "pasuk": {
+     "text": "וַיֹּ֤אמֶר אָחִ֙יהָ֙ וְאִמָּ֔הּ תֵּשֵׁ֨ב הַנַּעֲרָ֥ אִתָּ֛נוּ יָמִ֖ים א֣וֹ עָשׂ֑וֹר אַחַ֖ר תֵּלֵֽךְ",
+     "ref": "Genesis 24:55",
+     "label": "בראשית כד, נה"
+    },
+    "question": "המשפחה מבקשת 'ימים או עשור'. האם 'ימים' הם ימים ממש, ומהו 'עשור'?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 24:55:3",
+      "quote": "וְאִם תֹּאמַר יָמִים מַמָּשׁ",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ימים – שנה, שכך נותנים לבתולה י\"ב חודש לפרנס עצמה בתכשיטים; עשור – עשרה חדשים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:55:2",
+        "quote": "שֶׁכָּךְ נוֹתְנִין לִבְתוּלָה זְמַן י\"ב חֹדֶשְ"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:55:3",
+        "quote": "או עשור. י' חֳדָשִׁים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כדי שתתיישב דעתה בהדרגה ללכת לארץ אחרת, כי השתנות פתאומית לא יסבלה הטבע.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 24:55:1",
+        "quote": "שֶׁתִּתְיַשֵּׁב דַּעְתָּהּ בְּהַדְרָגָה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: ימים – שנה; עשור – עשרה חדשים.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 24:55:2",
+        "quote": "ימים זו שנה"
+       }
+      ]
+     }
+    ],
+    "why": "גודל העיכוב מלמד על מה שהמשפחה ביקשה באמת."
+   },
+   {
+    "title": "מדוע שואלים את רבקה, ומה פירוש 'אלך'?",
+    "pasuk": {
+     "text": "וַיִּקְרְא֤וּ לְרִבְקָה֙ וַיֹּאמְר֣וּ אֵלֶ֔יהָ הֲתֵלְכִ֖י עִם־הָאִ֣ישׁ הַזֶּ֑ה וַתֹּ֖אמֶר אֵלֵֽךְ",
+     "ref": "Genesis 24:58",
+     "label": "בראשית כד, נח"
+    },
+    "question": "הם כבר אמרו 'מה' יצא הדבר'. מה אפוא הם שואלים את רבקה? ומדוע היא עונה 'אלך' ולא 'הן'?",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 24:58:1",
+      "quote": "וקשה וכי היתה רבקה כל כך פרוצה ללכת בלא רשות אחיה ואמה",
+      "era": "rishon"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 24:58:1",
+      "quote": "לא ייתכן שישאלו אותה אם רצונה להינשא ליצחק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אלך מעצמי ואף אם אינכם רוצים; והגור אריה מוסיף שאם לא כן היה לו לומר 'הן'.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 24:58:1",
+        "quote": "מֵעַצְמִי, וְאַף אִם אֵינְכֶם רוֹצִים"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 24:58:1",
+        "quote": "דאם לא כן 'ותאמר הן' מיבעי ליה"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: 'אלך' בלשון שאלה – דעתכם שאלך עמו.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 24:58:1",
+        "quote": "נראה לפרש הכי ותאמר אלך בלשון שאלה"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל, כדברי הרשב\"ם: התלכי עתה מיד עם האיש הזה או תחפצי להתעכב.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 24:58:1",
+        "quote": "התלכי עתה מיד עם האיש הזה או תחפצי להתעכב"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: התלכי עתה מיבעי; השאלה הייתה על הנסיעה, כי היה קשה לה לישב על הגמל.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 24:58:1",
+        "quote": "התלכי עתה מיבעי"
+       }
+      ]
+     }
+    ],
+    "why": "קובע אם הסכמת רבקה הייתה על הנישואין או על היציאה מיד."
+   },
+   {
+    "title": "מה פירוש 'בא מבוא באר לחי רואי'?",
+    "pasuk": {
+     "text": "וְיִצְחָק֙ בָּ֣א מִבּ֔וֹא בְּאֵ֥ר לַחַ֖י רֹאִ֑י וְה֥וּא יוֹשֵׁ֖ב בְּאֶ֥רֶץ הַנֶּֽגֶב",
+     "ref": "Genesis 24:62",
+     "label": "בראשית כד, סב"
+    },
+    "question": "מדוע נאמר 'בא מבוא באר לחי רואי' ולא 'בא מבאר לחי רואי'?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 24:62:1",
+      "quote": "שֶׁאִלּוּ אָמַר \"בָּא מִבְּאֵר לַחַי רֹאִי\" הָיָה נִרְאֶה שֶׁהָיָה דָּר שָׁם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: שב לעירו מביאתו לשם לפי שעה; או שהלך שם תמיד כי הוא לו מקום תפילה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:62:1",
+        "quote": "כִּי הוּא שָׁב לְעִירוֹ מִבִּיאָתוֹ"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 24:62:1",
+        "quote": "הָיָה יִצְחָק הוֹלֵךְ תָּמִיד אֶל הַמָּקוֹם הַהוּא"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: מבוא – שם מקום הנקרא בשני שמות, או שהוא שם הפועל.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 24:62:1",
+        "quote": "שם מקום יקרא בב' שמות"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 24:62:1",
+        "quote": "שהוא שם הפועל"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר היכן היה יצחק ומה עשה כשרבקה הגיעה."
+   },
+   {
+    "title": "מהו 'לשוח בשדה' – טיול או תפילה?",
+    "pasuk": {
+     "text": "וַיֵּצֵ֥א יִצְחָ֛ק לָשׂ֥וּחַ בַּשָּׂדֶ֖ה לִפְנ֣וֹת עָ֑רֶב וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּ֥ה גְמַלִּ֖ים בָּאִֽים",
+     "ref": "Genesis 24:63",
+     "label": "בראשית כד, סג"
+    },
+    "question": "מה עשה יצחק בשדה לפנות ערב – טייל בין השיחים או התפלל?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 24:63:1",
+      "quote": "וקשה דמהכא משמע דישפוך שיחו משמע בתפלה יותר מלשוח בשדה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רבינו בחיי: לפי הפשט – להלך בין השיחים; ולפי המדרש אין שיחה אלא תפילה, ומכאן אמרו שיצחק תיקן תפילת מנחה.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 24:63:1-3",
+        "quote": "לְהַלֵּךְ בֵּין הַשִּׂיחִים"
+       },
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 24:63:1-3",
+        "quote": "יִצְחָק תִּקֵּן תְּפִלַּת מִנְחָה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: לטעת אילנות ולראות ענייני פועליו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 24:63:1",
+        "quote": "לטעת אילנות ולראות ענייני פועליו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: נטה מן הדרך לשפוך שיחו לפני ה' בשדה שלא יפסיקוהו עוברי דרכים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 24:63:1",
+        "quote": "לִשְׁפּוֹךְ שִׂיחוֹ לִפְנֵי ה' בַּשָּׂדֶה"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע למקור תפילת מנחה."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "מדרש לקח טוב",
+   "אבן עזרא",
+   "ספורנו",
+   "הדר זקנים",
+   "שד\"ל",
+   "גור אריה",
+   "העמק דבר",
+   "רמב\"ן",
+   "מזרחי",
+   "רבינו בחיי",
+   "רשב\"ם"
+  ]
+ }
+}
