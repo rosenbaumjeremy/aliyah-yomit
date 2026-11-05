@@ -1,0 +1,877 @@
+{
+ "date": "2026-11-05",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 25:1-25:11",
+ "hebrew_date": {
+  "hebrew": "כ״ה בְּחֶשְׁוָן תשפ״ז",
+  "english": "25 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Abraham takes another wife, Keturah, and she bears him six sons, whose descendants are listed. Abraham gives all he owns to Isaac and gives gifts to the sons of the concubines, sending them eastward while he is still alive. Abraham dies at 175 in a good old age, and Isaac and Ishmael bury him in the cave of Machpelah, beside Sarah. After his death God blesses Isaac, who settles near Beer-lahai-roi. The reading is Shishi of Chayei Sara.",
+  "questions": [
+   {
+    "title": "Who is Keturah, and why is no family given for her?",
+    "pasuk": {
+     "text": "וַיֹּ֧סֶף אַבְרָהָ֛ם וַיִּקַּ֥ח אִשָּׁ֖ה וּשְׁמָ֥הּ קְטוּרָֽה",
+     "ref": "Genesis 25:1",
+     "label": "Genesis 25:1"
+    },
+    "question": "Abraham's new wife is introduced by name alone, with no family or land of origin, unlike Hagar. Who was she, and why is her name used now?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 25:1:1",
+      "era": "acharon",
+      "quote": "למה לא כתב יחוסה כמו שכתב בהגר שנשא מצרית"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 25:1:1",
+      "era": "acharon",
+      "quote": "וְיֵשׁ לָנוּ לִתֵּן טַעַם לָמָּה קְרָאָהּ עַכְשָׁיו קְטוּרָה עַל שֵׁם מַעֲשֶׂיהָ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says she is Hagar, called Keturah because her deeds were fragrant like incense.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:1:1",
+        "quote": "זוֹ הָגָר, וְנִקְרֵאת קְטוּרָה עַל שֶׁנָּאִים מַעֲשֶׂיהָ כִּקְטֹרֶת"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma records the view of Rabbi that she is Hagar.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Chayei Sara 8:1",
+        "quote": "רַבִּי אוֹמֵר, הִיא הָגָר, הִיא קְטוּרָה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Rav says she is Hagar, and answers the objection from 'vayosef' (he added) that he married her at God's word.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 61:4",
+        "quote": "אֲמַר לֵיהּ עַל פִּי הַדִּבּוּר נְשָׂאָהּ"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Keturah was a Canaanite wife, and the verse gives only her name, as it does for mothers in many places.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:6:1",
+        "quote": "אֲבָל הִזְכִּיר שְׁמָהּ בִּלְבַד כִּי הִיא כְּנַעֲנִית"
+       }
+      ]
+     }
+    ],
+    "why": "Whether Keturah is Hagar changes how we see the end of Abraham's life."
+   },
+   {
+    "title": "Why is 'the concubines' written in the plural if there was only one?",
+    "pasuk": {
+     "text": "וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־אֶ֥רֶץ קֶֽדֶם",
+     "ref": "Genesis 25:6",
+     "label": "Genesis 25:6"
+    },
+    "question": "Rashi reads the word as missing a letter, so only one concubine. But then what is the plural ending for?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 25:6:1",
+      "era": "acharon",
+      "quote": "לא ידעתי המ\"ם של פלגשם במה הוא משמש"
+     },
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 25:6:1",
+      "era": "rishon",
+      "quote": "וקשה כי בכל חומשים מדוייקים מלא הוא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it is written defectively because there was only one concubine, Hagar who is Keturah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:6:1",
+        "quote": "חָסֵר כְּתִיב, שֶׁלֹּא הָיְתָה אֶלָּא פִּלֶגֶשׁ אַחַת, הִיא הָגָר, הִיא קְטוּרָה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: it means the sons of one concubine out of the concubines of the world.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 25:6:1",
+        "quote": "שהיו בני פילגש אחת מן הפילגשים דעלמא"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah reads the word as 'pilegasham', the one who sat by the well and cried out to the Eternal.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 61:4",
+        "quote": "אֲמַר לֵיהּ פִּלַגְשָׁם כְּתִיב"
+       }
+      ]
+     },
+     {
+      "text": "Ramban, on the plain sense: all his wives besides Sarah were counted as concubines, since only Isaac's line inherits.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:6:1",
+        "quote": "הָיוּ כָּל נָשָׁיו אֶצְלוֹ פִּילַגְשִׁים"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how a single letter can carry a dispute about who Keturah was."
+   },
+   {
+    "title": "What did Abraham still have to give Isaac if he already gave him everything?",
+    "pasuk": {
+     "text": "וַיִּתֵּ֧ן אַבְרָהָ֛ם אֶת־כׇּל־אֲשֶׁר־ל֖וֹ לְיִצְחָֽק",
+     "ref": "Genesis 25:5",
+     "label": "Genesis 25:5"
+    },
+    "question": "The verse says Abraham gave Isaac all he owned, but he had already given him everything. What was left to give?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 25:5:1",
+      "era": "acharon",
+      "quote": "ומאי יתן לו עוד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the power of blessing, given to Abraham with 'be a blessing', which he passed to Isaac.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:5:1",
+        "quote": "בְּרָכָה דִּיאַתִּיקֵי, שֶׁאָמַר לוֹ הַקָּבָּ\"ה לְאַבְרָהָם וֶהְיֵה בְּרָכָה"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Rabbi Yehudah says the birthright, Rabbi Nechemiah the blessing, and the Rabbis the burial place.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 61:6",
+        "quote": "רַבִּי יְהוּדָה אָמַר בְּכוֹרָה. רַבִּי נְחֶמְיָה אָמַר בְּרָכָה. וְרַבָּנָן אָמְרֵי קְבוּרָה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: he removed the inheritance from his other sons, as Sarah wanted.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 25:5:1",
+        "quote": "הֶעֱבִיר נַחֲלָה מִכָּל בָּנָיו, כִּי כָּךְ רָצְתָה שָׂרָה"
+       }
+      ]
+     }
+    ],
+    "why": "Defines what 'everything' means in the inheritance of Abraham."
+   },
+   {
+    "title": "Why does the verse not say Ishmael received gifts?",
+    "pasuk": {
+     "text": "וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־אֶ֥רֶץ קֶֽדֶם",
+     "ref": "Genesis 25:6",
+     "label": "Genesis 25:6"
+    },
+    "question": "The verse mentions gifts and sending away for the sons of the concubines, but not for Ishmael.",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 25:6:1",
+      "era": "acharon",
+      "quote": "וּלְיִשְׁמָעֵאל לֹא אָמַר הַכָּתוּב שֶׁנָּתַן לוֹ מַתָּנוֹת וְשִׁלְּחוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: Ishmael is in a sense acquired by Isaac, so he is sent away and stays on his own.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 25:6:1",
+        "quote": "מִשְׁפַּט קְנִיָּה יֵשׁ בּוֹ לְיִצְחָק"
+       }
+      ]
+     },
+     {
+      "text": "Radak: all the more so he gave to Ishmael, even though the verse does not mention him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:6:1",
+        "quote": "וְכָל שֶׁכֵּן שֶׁנָּתַן לְיִשְׁמָעֵאל וְלִבְנֵי קְטוּרָה אַף עַל פִּי שֶׁלֹּא זָכַר אוֹתָם"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how the Torah's silence about Ishmael is read."
+   },
+   {
+    "title": "Why does the verse mention old age and being 'satisfied', and in this order?",
+    "pasuk": {
+     "text": "וַיִּגְוַ֨ע וַיָּ֧מׇת אַבְרָהָ֛ם בְּשֵׂיבָ֥ה טוֹבָ֖ה זָקֵ֣ן וְשָׂבֵ֑עַ וַיֵּאָ֖סֶף אֶל־עַמָּֽיו",
+     "ref": "Genesis 25:8",
+     "label": "Genesis 25:8"
+    },
+    "question": "Abraham died 'in a good old age, old and satisfied'. Why mention old age at all, and why mention gray hair before old age?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 25:8:1",
+      "era": "acharon",
+      "quote": "לָמָּה הִזְכִּיר תְּחִלָּה הַשֵּׂיבָה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: 'satisfied' means he saw all his heart's wishes and was full of every good.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:8:1",
+        "quote": "שֶׁרָאָה כָּל מִשְׁאֲלוֹת לִבּוֹ וְשָׂבַע כָּל טוֹבָה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: he left the world satisfied from everything, not wanting excess.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 25:8:1",
+        "quote": "שֶׁיָּצָא שָׂבֵעַ מִן הָעוֹלָם מִכָּל דָּבָר"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar's own answer: 'satisfied' refers to days, also for Abraham.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 25:8:2",
+        "quote": "קָאֵי ״וְשָׂבֵעַ״ עַל הַיָּמִים"
+       }
+      ]
+     }
+    ],
+    "why": "Shows what the Torah counts as a full life."
+   },
+   {
+    "title": "Why do Isaac and Ishmael bury Abraham, and who else was there?",
+    "pasuk": {
+     "text": "וַיִּקְבְּר֨וּ אֹת֜וֹ יִצְחָ֤ק וְיִשְׁמָעֵאל֙ בָּנָ֔יו אֶל־מְעָרַ֖ת הַמַּכְפֵּלָ֑ה אֶל־שְׂדֵ֞ה עֶפְרֹ֤ן בֶּן־צֹ֙חַר֙ הַֽחִתִּ֔י אֲשֶׁ֖ר עַל־פְּנֵ֥י מַמְרֵֽא",
+     "ref": "Genesis 25:9",
+     "label": "Genesis 25:9"
+    },
+    "question": "Ishmael had long been sent away, and the sons of Keturah were also there. Why are only these two named as burying him, and in this order?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 25:9:1",
+      "era": "rishon",
+      "quote": "וְאַף עַל פִּי שֶׁהָיוּ שָׁם בְּנֵי קְטוּרָה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak: they were greater and more honored than the rest, and beloved to him; or the others had been sent away in his lifetime.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:9:1",
+        "quote": "כִּי הָיוּ גְּדוֹלִים וְנִכְבָּדִים מֵהַשְּׁאָר"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: Ishmael repented and let Isaac go before him, and that is the 'good old age'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:9:1",
+        "quote": "מִכָּאן שֶׁעָשָׂה יִשְׁמָעֵאל תְּשׁוּבָה וְהוֹלִיךְ אֶת יִצְחָק לְפָנָיו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: here the son of the maidservant honors the son of the mistress.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 62:2",
+        "quote": "בֶּן הָאָמָה חוֹלֵק כָּבוֹד לְבֶן הַגְּבִירָה"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how the sages find repentance in a short detail."
+   },
+   {
+    "title": "Why was Isaac blessed only after Abraham died?",
+    "pasuk": {
+     "text": "וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת אַבְרָהָ֔ם וַיְבָ֥רֶךְ אֱלֹהִ֖ים אֶת־יִצְחָ֣ק בְּנ֑וֹ וַיֵּ֣שֶׁב יִצְחָ֔ק עִם־בְּאֵ֥ר לַחַ֖י רֹאִֽי",
+     "ref": "Genesis 25:11",
+     "label": "Genesis 25:11"
+    },
+    "question": "God blessed Isaac only after Abraham's death, and the verse does not say what the blessing was. Why was it needed, and why then?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 25:11:1",
+      "era": "acharon",
+      "quote": "מה היה צריך לברכה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 25:11:1",
+      "era": "acharon",
+      "quote": "וְאֵיךְ יִקַּח הַקָּדוֹשׁ בָּרוּךְ הוּא מִיָּדוֹ מַה שֶּׁכְּבָר נָתַן לוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the blessing of mourners' comfort.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:11:1",
+        "quote": "נִחֲמוֹ תַּנְחוּמֵי אֲבֵלִים"
+       }
+      ]
+     },
+     {
+      "text": "Rashi's other view: Abraham feared to bless Isaac because he foresaw Esau, so God blessed him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:11:1",
+        "quote": "נִתְיָרֵא לְבָרֵךְ אֶת יִצְחָק מִפְּנֵי שֶׁצָּפָה אֶת עֵשָׂו יוֹצֵא מִמֶּנּוּ"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: blessing Isaac would include the sons of Ishmael and Keturah.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 61:6",
+        "quote": "אִם מְבָרֵךְ אֲנִי אֶת יִצְחָק, עַכְשָׁו בְּנֵי יִשְׁמָעֵאל וּבְנֵי קְטוּרָה בִּכְלַל"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: God blessed him to strengthen his heart, as his father still lives forever.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 25:11:1",
+        "quote": "ברכו ברכת אבלים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: a flow of blessing came upon his inheritance and all that concerned Isaac.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 25:11:1",
+        "quote": "שחל שפע ברכה בירושתו ובכל הנוגע ליצחק"
+       }
+      ]
+     },
+     {
+      "text": "Radak: He made him succeed in his work as his father had.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:11:1",
+        "quote": "הִצְלִיחוֹ בְּמַעֲשֶׂה כְּמוֹ שֶׁהִצְלִיחַ אָבִיו"
+       }
+      ]
+     }
+    ],
+    "why": "Shows what a blessing means after a father's death."
+   }
+  ],
+  "sources_consulted": [
+   "Gur Aryeh",
+   "Kli Yakar",
+   "Rashi",
+   "Midrash Tanchuma",
+   "Bereshit Rabbah",
+   "Ramban",
+   "Mizrachi",
+   "Hadar Zekenim",
+   "Or HaChaim",
+   "Radak",
+   "Rabbeinu Bahya",
+   "Alshich",
+   "Haamek Davar"
+  ]
+ },
+ "hebrew": {
+  "summary": "אברהם לוקח אשה נוספת, קטורה, והיא יולדת לו ששה בנים, ונמנים צאצאיהם. אברהם נותן את כל אשר לו ליצחק, ולבני הפילגשים נותן מתנות ומשלחם קדמה בעודנו חי. אברהם מת בן מאה שבעים וחמש שנה בשיבה טובה, ויצחק וישמעאל קוברים אותו במערת המכפלה ליד שרה. אחרי מותו אלוקים מברך את יצחק, והוא יושב עם באר לחי רואי. זהו שישי בפרשת חיי שרה.",
+  "questions": [
+   {
+    "title": "מי היא קטורה, ולמה לא נאמר יחוסה?",
+    "pasuk": {
+     "text": "וַיֹּ֧סֶף אַבְרָהָ֛ם וַיִּקַּ֥ח אִשָּׁ֖ה וּשְׁמָ֥הּ קְטוּרָֽה",
+     "ref": "Genesis 25:1",
+     "label": "בראשית כה, א"
+    },
+    "question": "אשתו החדשה של אברהם מוזכרת בשמה בלבד, בלי משפחה ובלי ארץ מוצא, שלא כמו הגר. מי היא, ולמה נקראת בשם הזה דווקא עכשיו?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 25:1:1",
+      "era": "acharon",
+      "quote": "למה לא כתב יחוסה כמו שכתב בהגר שנשא מצרית"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 25:1:1",
+      "era": "acharon",
+      "quote": "וְיֵשׁ לָנוּ לִתֵּן טַעַם לָמָּה קְרָאָהּ עַכְשָׁיו קְטוּרָה עַל שֵׁם מַעֲשֶׂיהָ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: היא הגר, ונקראת קטורה על שמעשיה נאים כקטורת.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:1:1",
+        "quote": "זוֹ הָגָר, וְנִקְרֵאת קְטוּרָה עַל שֶׁנָּאִים מַעֲשֶׂיהָ כִּקְטֹרֶת"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא מביא את דעת רבי שהיא הגר.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Chayei Sara 8:1",
+        "quote": "רַבִּי אוֹמֵר, הִיא הָגָר, הִיא קְטוּרָה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רב אומר שהיא הגר, ועל הקושיה מ'ויסף' משיב שנשאה על פי הדיבור.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 61:4",
+        "quote": "אֲמַר לֵיהּ עַל פִּי הַדִּבּוּר נְשָׂאָהּ"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: קטורה אשה כנענית, והכתוב הזכיר רק את שמה כדרכו באמהות במקומות רבים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:6:1",
+        "quote": "אֲבָל הִזְכִּיר שְׁמָהּ בִּלְבַד כִּי הִיא כְּנַעֲנִית"
+       }
+      ]
+     }
+    ],
+    "why": "אם קטורה היא הגר, משתנה התמונה של סוף חייו של אברהם."
+   },
+   {
+    "title": "למה 'הפילגשים' בלשון רבים אם הייתה רק אחת?",
+    "pasuk": {
+     "text": "וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־אֶ֥רֶץ קֶֽדֶם",
+     "ref": "Genesis 25:6",
+     "label": "בראשית כה, ו"
+    },
+    "question": "רש\"י לומד שהמילה חסרה, ולכן הייתה פילגש אחת בלבד. אם כן, למה יש בה סיומת של רבים?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 25:6:1",
+      "era": "acharon",
+      "quote": "לא ידעתי המ\"ם של פלגשם במה הוא משמש"
+     },
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 25:6:1",
+      "era": "rishon",
+      "quote": "וקשה כי בכל חומשים מדוייקים מלא הוא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הכתיב חסר, כי לא הייתה אלא פילגש אחת, היא הגר היא קטורה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:6:1",
+        "quote": "חָסֵר כְּתִיב, שֶׁלֹּא הָיְתָה אֶלָּא פִּלֶגֶשׁ אַחַת, הִיא הָגָר, הִיא קְטוּרָה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: פירושו בני פילגש אחת מן הפילגשים שבעולם.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 25:6:1",
+        "quote": "שהיו בני פילגש אחת מן הפילגשים דעלמא"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה קורא 'פלגשם', אותה שישבה על הבאר וקראה לחי העולמים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 61:4",
+        "quote": "אֲמַר לֵיהּ פִּלַגְשָׁם כְּתִיב"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן, על דרך הפשט: כל נשיו היו אצלו פילגשים, כי זרעם אינו בין היורשים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:6:1",
+        "quote": "הָיוּ כָּל נָשָׁיו אֶצְלוֹ פִּילַגְשִׁים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך אות אחת נושאת מחלוקת על זהותה של קטורה."
+   },
+   {
+    "title": "מה נשאר לאברהם לתת ליצחק אם כבר נתן לו הכל?",
+    "pasuk": {
+     "text": "וַיִּתֵּ֧ן אַבְרָהָ֛ם אֶת־כׇּל־אֲשֶׁר־ל֖וֹ לְיִצְחָֽק",
+     "ref": "Genesis 25:5",
+     "label": "בראשית כה, ה"
+    },
+    "question": "הפסוק אומר שאברהם נתן ליצחק את כל אשר לו, אבל כבר נתן לו הכל. מה נשאר לתת?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 25:5:1",
+      "era": "acharon",
+      "quote": "ומאי יתן לו עוד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כוח הברכות שנמסר לאברהם ב'והיה ברכה', ואברהם מסרו ליצחק.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:5:1",
+        "quote": "בְּרָכָה דִּיאַתִּיקֵי, שֶׁאָמַר לוֹ הַקָּבָּ\"ה לְאַבְרָהָם וֶהְיֵה בְּרָכָה"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבי יהודה אומר בכורה, רבי נחמיה אומר ברכה, ורבנן אומרים קבורה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 61:6",
+        "quote": "רַבִּי יְהוּדָה אָמַר בְּכוֹרָה. רַבִּי נְחֶמְיָה אָמַר בְּרָכָה. וְרַבָּנָן אָמְרֵי קְבוּרָה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: העביר את הנחלה מכל בניו, כפי שרצתה שרה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 25:5:1",
+        "quote": "הֶעֱבִיר נַחֲלָה מִכָּל בָּנָיו, כִּי כָּךְ רָצְתָה שָׂרָה"
+       }
+      ]
+     }
+    ],
+    "why": "מגדיר מה כוונת 'הכל' בירושת אברהם."
+   },
+   {
+    "title": "למה הכתוב לא אומר שישמעאל קיבל מתנות?",
+    "pasuk": {
+     "text": "וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־אֶ֥רֶץ קֶֽדֶם",
+     "ref": "Genesis 25:6",
+     "label": "בראשית כה, ו"
+    },
+    "question": "הכתוב מזכיר מתנות ושילוח לבני הפילגשים, אבל לא לישמעאל.",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 25:6:1",
+      "era": "acharon",
+      "quote": "וּלְיִשְׁמָעֵאל לֹא אָמַר הַכָּתוּב שֶׁנָּתַן לוֹ מַתָּנוֹת וְשִׁלְּחוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: לישמעאל יש משפט קניה ליצחק, ולכן הוא משולח ועומד.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 25:6:1",
+        "quote": "מִשְׁפַּט קְנִיָּה יֵשׁ בּוֹ לְיִצְחָק"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: כל שכן שנתן לישמעאל, אף על פי שלא הזכירו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:6:1",
+        "quote": "וְכָל שֶׁכֵּן שֶׁנָּתַן לְיִשְׁמָעֵאל וְלִבְנֵי קְטוּרָה אַף עַל פִּי שֶׁלֹּא זָכַר אוֹתָם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך נקרא שתיקת התורה על ישמעאל."
+   },
+   {
+    "title": "למה הכתוב מזכיר זקנה ושביעה, ובסדר הזה?",
+    "pasuk": {
+     "text": "וַיִּגְוַ֨ע וַיָּ֧מׇת אַבְרָהָ֛ם בְּשֵׂיבָ֥ה טוֹבָ֖ה זָקֵ֣ן וְשָׂבֵ֑עַ וַיֵּאָ֖סֶף אֶל־עַמָּֽיו",
+     "ref": "Genesis 25:8",
+     "label": "בראשית כה, ח"
+    },
+    "question": "אברהם מת 'בשיבה טובה זקן ושבע'. למה להזכיר זקנה, ולמה השיבה קודמת לזקנה?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 25:8:1",
+      "era": "acharon",
+      "quote": "לָמָּה הִזְכִּיר תְּחִלָּה הַשֵּׂיבָה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: 'שבע' פירושו שראה כל משאלות לבו ושבע כל טוב.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:8:1",
+        "quote": "שֶׁרָאָה כָּל מִשְׁאֲלוֹת לִבּוֹ וְשָׂבַע כָּל טוֹבָה"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: יצא מן העולם שבע מכל דבר, כי לא היה מתאווה למותרות.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 25:8:1",
+        "quote": "שֶׁיָּצָא שָׂבֵעַ מִן הָעוֹלָם מִכָּל דָּבָר"
+       }
+      ]
+     },
+     {
+      "text": "תשובת הכלי יקר עצמו: 'ושבע' קאי על הימים גם באברהם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 25:8:2",
+        "quote": "קָאֵי ״וְשָׂבֵעַ״ עַל הַיָּמִים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מה נחשב בתורה לחיים מלאים."
+   },
+   {
+    "title": "למה יצחק וישמעאל קוברים את אברהם, ומה עם שאר הבנים?",
+    "pasuk": {
+     "text": "וַיִּקְבְּר֨וּ אֹת֜וֹ יִצְחָ֤ק וְיִשְׁמָעֵאל֙ בָּנָ֔יו אֶל־מְעָרַ֖ת הַמַּכְפֵּלָ֑ה אֶל־שְׂדֵ֞ה עֶפְרֹ֤ן בֶּן־צֹ֙חַר֙ הַֽחִתִּ֔י אֲשֶׁ֖ר עַל־פְּנֵ֥י מַמְרֵֽא",
+     "ref": "Genesis 25:9",
+     "label": "בראשית כה, ט"
+    },
+    "question": "ישמעאל נשלח מזמן, ובני קטורה היו שם גם הם. למה רק שניים אלה נזכרים כקוברים, ובסדר הזה?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 25:9:1",
+      "era": "rishon",
+      "quote": "וְאַף עַל פִּי שֶׁהָיוּ שָׁם בְּנֵי קְטוּרָה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק: הם היו גדולים ונכבדים מהשאר ואהובים עליו, או שהאחרים נשלחו בחייו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:9:1",
+        "quote": "כִּי הָיוּ גְּדוֹלִים וְנִכְבָּדִים מֵהַשְּׁאָר"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: ישמעאל עשה תשובה והוליך את יצחק לפניו, וזו השיבה הטובה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:9:1",
+        "quote": "מִכָּאן שֶׁעָשָׂה יִשְׁמָעֵאל תְּשׁוּבָה וְהוֹלִיךְ אֶת יִצְחָק לְפָנָיו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: כאן בן האמה חולק כבוד לבן הגבירה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 62:2",
+        "quote": "בֶּן הָאָמָה חוֹלֵק כָּבוֹד לְבֶן הַגְּבִירָה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך חכמים מוצאים תשובה בפרט קצר."
+   },
+   {
+    "title": "למה יצחק נתברך רק אחרי מות אברהם?",
+    "pasuk": {
+     "text": "וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת אַבְרָהָ֔ם וַיְבָ֥רֶךְ אֱלֹהִ֖ים אֶת־יִצְחָ֣ק בְּנ֑וֹ וַיֵּ֣שֶׁב יִצְחָ֔ק עִם־בְּאֵ֥ר לַחַ֖י רֹאִֽי",
+     "ref": "Genesis 25:11",
+     "label": "בראשית כה, יא"
+    },
+    "question": "אלוקים ברך את יצחק רק אחרי מות אברהם, והכתוב לא אומר מהי הברכה. למה היה צורך בה, ולמה דווקא אז?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 25:11:1",
+      "era": "acharon",
+      "quote": "מה היה צריך לברכה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 25:11:1",
+      "era": "acharon",
+      "quote": "וְאֵיךְ יִקַּח הַקָּדוֹשׁ בָּרוּךְ הוּא מִיָּדוֹ מַה שֶּׁכְּבָר נָתַן לוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ניחמו תנחומי אבלים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:11:1",
+        "quote": "נִחֲמוֹ תַּנְחוּמֵי אֲבֵלִים"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י בדעה אחרת: אברהם חשש לברך את יצחק מפני עשו, ולכן ברכו הקב\"ה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:11:1",
+        "quote": "נִתְיָרֵא לְבָרֵךְ אֶת יִצְחָק מִפְּנֵי שֶׁצָּפָה אֶת עֵשָׂו יוֹצֵא מִמֶּנּוּ"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: ברכת יצחק תכלול גם את בני ישמעאל ובני קטורה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 61:6",
+        "quote": "אִם מְבָרֵךְ אֲנִי אֶת יִצְחָק, עַכְשָׁו בְּנֵי יִשְׁמָעֵאל וּבְנֵי קְטוּרָה בִּכְלַל"
+       }
+      ]
+     },
+     {
+      "text": "האלשיך: ברכו לחזק את לבו, כי אביו קיים לעד.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 25:11:1",
+        "quote": "ברכו ברכת אבלים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: חל שפע ברכה בירושתו ובכל הנוגע ליצחק.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 25:11:1",
+        "quote": "שחל שפע ברכה בירושתו ובכל הנוגע ליצחק"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הצליחו במעשה כמו שהצליח אביו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:11:1",
+        "quote": "הִצְלִיחוֹ בְּמַעֲשֶׂה כְּמוֹ שֶׁהִצְלִיחַ אָבִיו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מהי ברכה אחרי מות האב."
+   }
+  ],
+  "sources_consulted": [
+   "גור אריה",
+   "כלי יקר",
+   "רש\"י",
+   "מדרש תנחומא",
+   "בראשית רבה",
+   "רמב\"ן",
+   "מזרחי",
+   "הדר זקנים",
+   "אור החיים",
+   "רד\"ק",
+   "רבנו בחיי",
+   "אלשיך",
+   "העמק דבר"
+  ]
+ }
+}
