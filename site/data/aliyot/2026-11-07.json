@@ -1,0 +1,1281 @@
+{
+ "date": "2026-11-07",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 25:19-26:5",
+ "hebrew_date": {
+  "hebrew": "כ״ז בְּחֶשְׁוָן תשפ״ז",
+  "english": "27 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "The Rishon of Toldot begins with the generations of Isaac, who marries Rivkah at forty and prays for her because she is infertile. She conceives twins who struggle inside her, and she is told that two nations are in her womb and the elder will serve the younger. Esau is born red and hairy, and Jacob holds his heel. The boys grow, Esau becomes a hunter and Jacob a dweller in tents, and Esau sells his birthright to Jacob for bread and lentil stew. A famine then sends Isaac toward Gerar, and God tells him not to go down to Egypt, repeating the promise to Abraham because he kept God's charge, commandments, statutes and teachings.",
+  "questions": [
+   {
+    "title": "Why does Rivkah say “If so, why do I exist?”",
+    "pasuk": {
+     "text": "וַתֹּ֣אמֶר אִם־כֵּ֔ן לָ֥מָּה זֶּ֖ה אָנֹ֑כִי",
+     "ref": "Genesis 25:22",
+     "label": "Genesis 25:22"
+    },
+    "question": "What is Rivkah complaining about when she says “If so, why am I (here)?”, and what does “if so” refer to?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 25:22:1-2",
+      "era": "acharon",
+      "quote": "שאלות: מה היה הרצוץ הזה, ומהו א\"כ למה זה אנכי"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 25:22:1",
+      "era": "rishon",
+      "quote": "וְהִנֵּה הַכָּתוּב חָסֵר וְאֵינֶנּוּ שָׁלֵם בַּפֵּרוּשׁ הַזֶּה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the pain of pregnancy is so great that she wonders why she prayed for it",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:22:2",
+        "quote": "גָּדוֹל צַעַר הָעִבּוּר"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:22:3",
+        "quote": "מִתְאַוָּה וּמִתְפַּלֶּלֶת עַל הֵרָיוֹן"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: she asked other women whether this happened to them, and when they said no she wondered why her pregnancy was so unusual",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 25:22:1",
+        "quote": "והיא שאלה לנשים שילדו אם ארע להם ככה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: she is saying, if this is how it will be, why am I in the world at all",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:22:1",
+        "quote": "לָמָּה זֶה אָנֹכִי בָּעוֹלָם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: she fears one child will die and she will be endangered, and she regrets that her family wished her to be the mother of the line",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 25:22:1",
+        "quote": "וְיֵשׁ לָחוּשׁ שֶׁיָּמוּת אֶחָד מֵהֶם"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 25:22:2",
+        "quote": "לָמָּה זֶה הִתְאַוּוּ קְרוֹבַי"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: had she known the pain of pregnancy she would not have prayed for it",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 25:22:4",
+        "quote": "אילו הייתי יודעת צער העיבור לא הייתי מתפללת"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Rivkah felt when the promise of children first became painful, and it sets up the prophecy about the two nations."
+   },
+   {
+    "title": "What was the struggle of the children in her womb?",
+    "pasuk": {
+     "text": "וַיִּתְרֹֽצְצ֤וּ הַבָּנִים֙ בְּקִרְבָּ֔ה",
+     "ref": "Genesis 25:22",
+     "label": "Genesis 25:22"
+    },
+    "question": "The verse says only that the children struggled inside her and does not say what this was. What was it?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 25:22:1",
+      "era": "rishon",
+      "quote": "הַמִּקְרָא הַזֶּה אוֹמֵר דָּרְשֵׁנִי, שֶׁסָּתַם מַה הִיא רְצִיצָה זו"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 25:22:1-2",
+      "era": "acharon",
+      "quote": "מה היה הרצוץ הזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chazal: Jacob struggled to come out when Rivkah passed the doors of Torah, and Esau when she passed idolatry",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 25:22:1",
+        "quote": "היתה עוברת על בית של ע\"ז, היה עשו מפרכס לצאת"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:22:1",
+        "quote": "כְּשֶׁהָיְתָה עוֹבֶרֶת עַל פִּתְחֵי תּוֹרָה שֶׁל שֵׁם וָעֵבֶר יַעֲקֹב רָץ וּמְפַרְכֵּס לָצֵאת"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: each ran to kill the other, or each overturned the other's rulings",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 25:22:1",
+        "quote": "זה רץ להרוג את זה. וזה רץ להרוג את זה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: simply the movement of unborn children, one running toward the other",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 25:22:1",
+        "quote": "שהיו רצים ומתנענעים בתוך גופה כדרך עוברים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: they moved so much that it seemed to her they were running toward each other",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:22:1",
+        "quote": "הָיוּ מִתְנוֹעֲעִים מְאֹד עַד שֶׁנִּדְמֶה לָהּ שֶׁהָיוּ רָצִים זֶה לְעֻמַּת זֶה"
+       }
+      ]
+     }
+    ],
+    "why": "The verse says only that they struggled, so Chazal and the peshat commentators disagree on whether this was a sign of their characters or ordinary movement."
+   },
+   {
+    "title": "Whose prayer was it, and why was he answered and not she?",
+    "pasuk": {
+     "text": "וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהֹוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהֹוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽו",
+     "ref": "Genesis 25:21",
+     "label": "Genesis 25:21"
+    },
+    "question": "Isaac prayed “opposite his wife” and God was “entreated by him.” Why “him” and not “them,” and what does “opposite” mean?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 25:21:3",
+      "era": "acharon",
+      "quote": "ויעתר לו. להם מבעי לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the prayer of a righteous person who is the child of a righteous person is not like that of a righteous person whose father was wicked, so he was answered and she was not",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:21:4",
+        "quote": "שֶׁאֵין דּוֹמָה תְפִלַּת צַדִּיק בֶּן צַדִּיק לִתְפִלַּת צַדִּיק בֶּן רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "Radak: he prayed hard for her sake so that he would not have to take another wife",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:21:2",
+        "quote": "שֶׁלֹּא יִצְטָרֵךְ לָקַחַת אִשָּׁה אַחֶרֶת"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: his prayer was mainly for his wife, since he himself was promised offspring and could have had children from another",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 25:21:1",
+        "quote": "עיקר תפילתו על אשתו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: although the line was promised, he prayed that it come from this worthy wife standing opposite him",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 25:21:1",
+        "quote": "הִתְפַּלֵּל לָאֵל יִתְבָּרַךְ שֶׁיִּתֵּן לוֹ אוֹתוֹ הַזֶּרַע מִזֹּאת הַהֲגוּנָה"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whose prayer produced the pregnancy and why Rivkah, who was also barren, is not said to have been answered."
+   },
+   {
+    "title": "Where did Rivkah go to inquire of God?",
+    "pasuk": {
+     "text": "וַתֵּ֖לֶךְ לִדְרֹ֥שׁ אֶת־יְהֹוָֽה",
+     "ref": "Genesis 25:22",
+     "label": "Genesis 25:22"
+    },
+    "question": "Rivkah “went to inquire of God.” Where did she go and what is the inquiry?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 25:22:2",
+      "era": "rishon",
+      "quote": "וְלֹא מָצָאתִי דְּרִישָׁה אֵצֶל ה' רַק לְהִתְפַּלֵּל"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 25:22:2",
+      "era": "acharon",
+      "quote": "דאלו תפלה לא היה לה לילך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: she went to the house of study of Shem to ask what would be her end",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:22:4",
+        "quote": "לְבֵית מִדְרָשׁוֹ שֶׁל שֵׁם"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:22:5",
+        "quote": "שֶׁיַּגִּיד לָהּ מַה תְּהֵא בְּסוֹפָה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: darash toward God means prayer, as in 'I sought the Lord and He answered me'",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:22:2",
+        "quote": "דָּרַשְׁתִּי אֶת ה' וְעָנָנִי"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: she went to the prophets of those days",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 25:22:2",
+        "quote": "אל הנביאים שבאותן הימים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the main view is Rashi and Rashbam, to ask a prophet, since Isaac's prayer had already been accepted",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 25:22:2",
+        "quote": "העיקר כפרש״י ורשב״ם לשאול את הנביא"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: she went to the house of study of Ever, to teach that receiving an elder is like receiving the Shechinah",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 25:22:5",
+        "quote": "לבית מדרשו של עבר"
+       },
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 25:22:6",
+        "quote": "שכל המקבל פני זקן שבדור, כאילו מקבל פני שכינה"
+       }
+      ]
+     }
+    ],
+    "why": "Whether she turned to God directly or to a prophet bears on how prophecy and prayer worked in the days of the Avot."
+   },
+   {
+    "title": "Who serves whom in “the elder shall serve the younger”?",
+    "pasuk": {
+     "text": "וְרַ֖ב יַעֲבֹ֥ד צָעִֽיר",
+     "ref": "Genesis 25:23",
+     "label": "Genesis 25:23"
+    },
+    "question": "The verse can be read as the elder serving the younger or the younger serving the elder. Which is meant?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 25:23:7",
+      "era": "rishon",
+      "quote": "וְהִנֵּה הַדָּבָר מְסֻפָּק וְלֹא בֵּאֵר מִי יַעֲבֹד אֶת חֲבֵרו"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 25:23:6",
+      "era": "acharon",
+      "quote": "לשון דמשתמע בתרי אפי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: 'rav' is the subject, so the elder serves the younger",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 25:23:2",
+        "quote": "ורב. הוא הפועל"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the prophecy is left open because sometimes the elder serves the younger and sometimes the reverse, though mostly the elder will serve the younger",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:23:7",
+        "quote": "פְּעָמִים יַעֲבֹד רַב אֶת הַצָּעִיר"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:23:7",
+        "quote": "רֹב הַיָּמִים הָרַב יַעֲבֹד אֶת הַצָּעִיר"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the wording can be read both ways, and which one serves depends on the time",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 25:23:6",
+        "quote": "האחד יעבוד את השני וזה תלוי לפי השעה"
+       }
+      ]
+     }
+    ],
+    "why": "The ambiguity of the verse is what lets the later story of Yaakov and Esav be read as fulfilment either way."
+   },
+   {
+    "title": "Why does Esau say he is going to die?",
+    "pasuk": {
+     "text": "הִנֵּ֛ה אָנֹכִ֥י הוֹלֵ֖ךְ לָמ֑וּת וְלָמָּה־זֶּ֥ה לִ֖י בְּכֹרָֽה",
+     "ref": "Genesis 25:32",
+     "label": "Genesis 25:32"
+    },
+    "question": "Esau was about fifteen. Why does he say “I am going to die, so what use is the birthright to me?”",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 25:32:1-3",
+      "era": "acharon",
+      "quote": "הנה יפלא כי עדין בן ט\"ו שנה היה ואיך היה הולך למות"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 25:32:2",
+      "era": "chazal",
+      "quote": "למה לי לא אמר אלא למה זה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: every day he risks his life hunting and might die before his father",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 25:32:1",
+        "quote": "שבכל יום ויום הוא מסתכן בעצמו כאשר יצא לצוד"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the Temple service of the firstborn carries warnings and death penalties, and he says he will die through it, so what use is it to him",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:32:1",
+        "quote": "אֲנִי הוֹלֵךְ לָמוּת עַל יָדָהּ, אִם כֵּן מַה חֵפֶץ לִי בָה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: Esau thought there is no other world, so he cared only about what was in front of him",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 25:32:1",
+        "quote": "כי אמר בלבו אין עולם אחר"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 25:32:3",
+        "quote": "ולא היה חושש אלא בדבר שלפניו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: he had a war with Nimrod and feared Nimrod would kill him",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 25:32:2",
+        "quote": "שהיה לו מלחמה עם נמרוד ומתיירא שמא יהרגנו נמרוד"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: from birth everyone is going toward death, but Esau, who took only this world, has no share in the next and so goes toward death there",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 25:32:1-3",
+        "quote": "אמנם הנה ידענו כי מיום יולד איש הולך למות"
+       }
+      ]
+     }
+    ],
+    "why": "The answers divide between a physical danger, a halachic fear and a denial of the next world."
+   },
+   {
+    "title": "Why mention the first famine?",
+    "pasuk": {
+     "text": "מִלְּבַד֙ הָרָעָ֣ב הָרִאשׁ֔וֹן",
+     "ref": "Genesis 26:1",
+     "label": "Genesis 26:1"
+    },
+    "question": "Why does the verse say the famine was “aside from the first famine,” and why is Isaac told not to go down to Egypt?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 26:1:1",
+      "era": "rishon",
+      "quote": "כִּי מָה צֹרֶךְ לְהַזְכִּיר זֶה"
+     },
+     {
+      "name": "Midrash Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Bereshit 26:1:2",
+      "era": "chazal",
+      "quote": "ומה ת\"ל"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:2:2",
+      "era": "acharon",
+      "quote": "ולמה הוצרך לומר כן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the first famine was remembered, since because of it Abraham went down to Egypt and was honored there, so Isaac also thought of going",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 26:1:2",
+        "quote": "כִּי הָיָה בְּדַעְתּוֹ לָרֶדֶת מִצְרַיְמָה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: it teaches that just as his father went to Egypt for the famine, Isaac too was going down to Egypt by the short way through Philistia, so God told him not to go down",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:1:1",
+        "quote": "כך יצחק היה יורד למצרים דרך ארץ פלשתים"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: this famine came because the righteous Abraham had died, and unlike the first it was not a test",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:1:2",
+        "quote": "וזה רעב לא בא על נסיון, אלא להודיע כי צדיק נפטר מן העולם"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: this famine was a test whether Isaac would complain, and he did not but went to Abimelech as his father did",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 26:1:1",
+        "quote": "שניסהו אם יקרא תגר אם לאו"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the words show that Isaac wanted to leave the land as Abraham did, and the likeness to the first famine is why he learned from his father",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:2:2",
+        "quote": "שיצחק היה רוצה לצאת חוץ לארץ כמו שיצא אברהם ברעב הראשון"
+       }
+      ]
+     }
+    ],
+    "why": "One extra phrase in the verse is read as a hint about Isaac's intention, about the reason for the famine, or about his test."
+   },
+   {
+    "title": "What are the charge, commandments, statutes and teachings that Abraham kept?",
+    "pasuk": {
+     "text": "וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי",
+     "ref": "Genesis 26:5",
+     "label": "Genesis 26:5"
+    },
+    "question": "What are the four terms in “My charge, My commandments, My laws and My teachings,” and how did Abraham keep them before the Torah was given?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:5:2",
+      "era": "acharon",
+      "quote": "שזה שלא כסדר הענין לזכור ההרחקות קודם המצות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'my charge' means safeguards, 'commandments' means things that would have been commanded anyway, and 'statutes' means decrees like pork and shaatnez",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:5:2",
+        "quote": "גְּזֵרוֹת לְהַרְחָקָה עַל הָאַזְהָרוֹת שֶׁבַּתּוֹרָה"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:5:4",
+        "quote": "כְּגוֹן אֲכִילַת חֲזִיר וּלְבִישַׁת שַׁעַטְנֵז"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: the evident commandments, like theft and incest, were practiced before the giving of the Torah",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:5:4",
+        "quote": "כולם היו נוהגין קודם מתן תורה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: 'commandments' are those commanded for the moment, and 'statutes' are those engraved for generations like circumcision",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 26:5:1",
+        "quote": "שצויתי עליו לפי שעה"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 26:5:2",
+        "quote": "שחקקתי עליו לדורות כגון מילה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: the commandments are the seven commandments of the sons of Noach",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:5:4",
+        "quote": "אלו ז' מצות שנצטוו בני נח"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: by peshat this refers to what the sons of Noach were commanded",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 26:5:2-4",
+        "quote": "עַל דֶּרֶךְ הַפְּשָׁט יֹאמַר זֶה עַל מִצְווֹת שֶׁנִּצְטַוּוּ בְּנֵי נֹח"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how far the Avot are understood to have kept the Torah before it was given."
+   }
+  ],
+  "sources_consulted": [
+   "Malbim",
+   "Ramban",
+   "Rashi",
+   "Ibn Ezra",
+   "Sforno",
+   "Midrash Aggadah",
+   "Midrash Lekach Tov",
+   "Rashbam",
+   "Radak",
+   "Torah Temimah",
+   "Bekhor Shor",
+   "Haamek Davar",
+   "Midrash Sekhel Tov",
+   "Alshich",
+   "Gur Aryeh",
+   "Rabbeinu Bahya"
+  ]
+ },
+ "hebrew": {
+  "summary": "הראשון בפרשת תולדות פותח בתולדות יצחק, הנושא את רבקה בן ארבעים ומתפלל עליה כי עקרה. היא מתעברת בתאומים המתרוצצים בקרבה, ונאמר לה שני גויים בבטנה ורב יעבד צעיר. עשו נולד אדמוני ושעיר ויעקב אוחז בעקבו. הנערים גדלים, עשו איש ציד ויעקב יושב אוהלים, ועשו מוכר את בכורתו ליעקב בלחם ונזיד עדשים. אחר כך בא רעב, יצחק הולך אל גרר, וה' אומר לו שלא ירד מצרימה ומחדש לו את ההבטחה לאברהם עקב ששמר משמרתו, מצוותיו, חקותיו ותורותיו.",
+  "questions": [
+   {
+    "title": "למה אומרת רבקה \"אם כן למה זה אנכי\"?",
+    "pasuk": {
+     "text": "וַתֹּ֣אמֶר אִם־כֵּ֔ן לָ֥מָּה זֶּ֖ה אָנֹ֑כִי",
+     "ref": "Genesis 25:22",
+     "label": "בראשית כה, כב"
+    },
+    "question": "על מה מצטערת רבקה באמרה \"אם כן למה זה אנכי\", ולמה מכוון \"אם כן\"?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 25:22:1-2",
+      "era": "acharon",
+      "quote": "שאלות: מה היה הרצוץ הזה, ומהו א\"כ למה זה אנכי"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 25:22:1",
+      "era": "rishon",
+      "quote": "וְהִנֵּה הַכָּתוּב חָסֵר וְאֵינֶנּוּ שָׁלֵם בַּפֵּרוּשׁ הַזֶּה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: גדול צער העיבור, ולכן תוהה למה התפללה עליו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:22:2",
+        "quote": "גָּדוֹל צַעַר הָעִבּוּר"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:22:3",
+        "quote": "מִתְאַוָּה וּמִתְפַּלֶּלֶת עַל הֵרָיוֹן"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: שאלה את הנשים אם קרה להן כך, ומשאמרו לא, תמהה למה ההריון שלה משונה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 25:22:1",
+        "quote": "והיא שאלה לנשים שילדו אם ארע להם ככה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אומרת, אם כך יהיה לי, למה אני בעולם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:22:1",
+        "quote": "לָמָּה זֶה אָנֹכִי בָּעוֹלָם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: חוששת שאחד מהם ימות והיא תסתכן, ותוהה למה השתוקקו קרוביה שתהיה אם הזרע.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 25:22:1",
+        "quote": "וְיֵשׁ לָחוּשׁ שֶׁיָּמוּת אֶחָד מֵהֶם"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 25:22:2",
+        "quote": "לָמָּה זֶה הִתְאַוּוּ קְרוֹבַי"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: אילו ידעה את צער העיבור לא היתה מתפללת עליו.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 25:22:4",
+        "quote": "אילו הייתי יודעת צער העיבור לא הייתי מתפללת"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את צער רבקה ברגע שההבטחה לבנים נעשתה כואבת, ומכין את הנבואה על שני הגויים."
+   },
+   {
+    "title": "מהי הרציצה של הבנים בקרבה?",
+    "pasuk": {
+     "text": "וַיִּתְרֹֽצְצ֤וּ הַבָּנִים֙ בְּקִרְבָּ֔ה",
+     "ref": "Genesis 25:22",
+     "label": "בראשית כה, כב"
+    },
+    "question": "הכתוב אומר רק שהבנים התרוצצו בקרבה ואינו מפרש מהי. מהי הרציצה?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 25:22:1",
+      "era": "rishon",
+      "quote": "הַמִּקְרָא הַזֶּה אוֹמֵר דָּרְשֵׁנִי, שֶׁסָּתַם מַה הִיא רְצִיצָה זו"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 25:22:1-2",
+      "era": "acharon",
+      "quote": "מה היה הרצוץ הזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חז\"ל: כשעברה על פתחי תורה יעקב מפרכס לצאת, וכשעברה על ע\"ז עשו מפרכס לצאת.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 25:22:1",
+        "quote": "היתה עוברת על בית של ע\"ז, היה עשו מפרכס לצאת"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:22:1",
+        "quote": "כְּשֶׁהָיְתָה עוֹבֶרֶת עַל פִּתְחֵי תּוֹרָה שֶׁל שֵׁם וָעֵבֶר יַעֲקֹב רָץ וּמְפַרְכֵּס לָצֵאת"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: כל אחד רץ להרוג את חברו, או כל אחד מתיר את צווי חברו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 25:22:1",
+        "quote": "זה רץ להרוג את זה. וזה רץ להרוג את זה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: תנועת עוברים רגילה, כאחד הרץ לקראת חברו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 25:22:1",
+        "quote": "שהיו רצים ומתנענעים בתוך גופה כדרך עוברים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: נעו כל כך עד שנדמה לה שהם רצים זה לעומת זה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:22:1",
+        "quote": "הָיוּ מִתְנוֹעֲעִים מְאֹד עַד שֶׁנִּדְמֶה לָהּ שֶׁהָיוּ רָצִים זֶה לְעֻמַּת זֶה"
+       }
+      ]
+     }
+    ],
+    "why": "הכתוב אינו מפרש, וחז\"ל ופשטנים חלוקים אם זה סימן לאופיים או תנועה רגילה."
+   },
+   {
+    "title": "תפילת מי היתה, ולמה נענה הוא ולא היא?",
+    "pasuk": {
+     "text": "וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהֹוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהֹוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽו",
+     "ref": "Genesis 25:21",
+     "label": "בראשית כה, כא"
+    },
+    "question": "יצחק התפלל \"לנכח אשתו\" ונענה \"לו\". למה \"לו\" ולא \"להם\", ומהו \"לנכח\"?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 25:21:3",
+      "era": "acharon",
+      "quote": "ויעתר לו. להם מבעי לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אין תפילת צדיק בן צדיק כתפילת צדיק בן רשע, ולכן נענה לו ולא לה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:21:4",
+        "quote": "שֶׁאֵין דּוֹמָה תְפִלַּת צַדִּיק בֶּן צַדִּיק לִתְפִלַּת צַדִּיק בֶּן רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: התפלל הרבה בעבורה כדי שלא יצטרך לקחת אשה אחרת.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:21:2",
+        "quote": "שֶׁלֹּא יִצְטָרֵךְ לָקַחַת אִשָּׁה אַחֶרֶת"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: עיקר תפילתו על אשתו, כי הוא עצמו הובטח בזרע ויכול היה להוליד מאחרת.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 25:21:1",
+        "quote": "עיקר תפילתו על אשתו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אף שהובטח הזרע, התפלל שיינתן לו מאשה הגונה זו העומדת נכחו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 25:21:1",
+        "quote": "הִתְפַּלֵּל לָאֵל יִתְבָּרַךְ שֶׁיִּתֵּן לוֹ אוֹתוֹ הַזֶּרַע מִזֹּאת הַהֲגוּנָה"
+       }
+      ]
+     }
+    ],
+    "why": "שואל תפילת מי הולידה את ההריון, ולמה לא נאמר על רבקה שנענתה."
+   },
+   {
+    "title": "לאן הלכה רבקה לדרוש את ה'?",
+    "pasuk": {
+     "text": "וַתֵּ֖לֶךְ לִדְרֹ֥שׁ אֶת־יְהֹוָֽה",
+     "ref": "Genesis 25:22",
+     "label": "בראשית כה, כב"
+    },
+    "question": "\"ותלך לדרוש את ה'\" – לאן הלכה, ומהי הדרישה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 25:22:2",
+      "era": "rishon",
+      "quote": "וְלֹא מָצָאתִי דְּרִישָׁה אֵצֶל ה' רַק לְהִתְפַּלֵּל"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 25:22:2",
+      "era": "acharon",
+      "quote": "דאלו תפלה לא היה לה לילך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הלכה לבית מדרשו של שם לשאול מה יהיה בסופה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:22:4",
+        "quote": "לְבֵית מִדְרָשׁוֹ שֶׁל שֵׁם"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:22:5",
+        "quote": "שֶׁיַּגִּיד לָהּ מַה תְּהֵא בְּסוֹפָה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: דרישה אצל ה' היא תפילה, כמו \"דרשתי את ה' וענני\".",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:22:2",
+        "quote": "דָּרַשְׁתִּי אֶת ה' וְעָנָנִי"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הלכה אל הנביאים שבאותם ימים.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 25:22:2",
+        "quote": "אל הנביאים שבאותן הימים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: העיקר כרש\"י ורשב\"ם, לשאול נביא, כי תפילת יצחק כבר נתקבלה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 25:22:2",
+        "quote": "העיקר כפרש״י ורשב״ם לשאול את הנביא"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: הלכה לבית מדרשו של עבר, ללמדך שהמקבל פני זקן כמקבל פני שכינה.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 25:22:5",
+        "quote": "לבית מדרשו של עבר"
+       },
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 25:22:6",
+        "quote": "שכל המקבל פני זקן שבדור, כאילו מקבל פני שכינה"
+       }
+      ]
+     }
+    ],
+    "why": "אם פנתה לה' ישירות או לנביא, יש בזה כדי ללמד על הנבואה והתפילה בימי האבות."
+   },
+   {
+    "title": "מי עובד את מי ב\"ורב יעבד צעיר\"?",
+    "pasuk": {
+     "text": "וְרַ֖ב יַעֲבֹ֥ד צָעִֽיר",
+     "ref": "Genesis 25:23",
+     "label": "בראשית כה, כג"
+    },
+    "question": "אפשר לקרוא שהרב יעבוד את הצעיר ואפשר שהצעיר יעבוד את הרב. איזה מהם נאמר?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 25:23:7",
+      "era": "rishon",
+      "quote": "וְהִנֵּה הַדָּבָר מְסֻפָּק וְלֹא בֵּאֵר מִי יַעֲבֹד אֶת חֲבֵרו"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 25:23:6",
+      "era": "acharon",
+      "quote": "לשון דמשתמע בתרי אפי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: \"רב\" הוא הפועל, כלומר הרב יעבוד את הצעיר.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 25:23:2",
+        "quote": "ורב. הוא הפועל"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: הנבואה לא פירשה, כי לפעמים הרב עובד את הצעיר ולפעמים להפך, ורוב הימים הרב עובד את הצעיר.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:23:7",
+        "quote": "פְּעָמִים יַעֲבֹד רַב אֶת הַצָּעִיר"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:23:7",
+        "quote": "רֹב הַיָּמִים הָרַב יַעֲבֹד אֶת הַצָּעִיר"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הלשון משתמעת לשני אופנים, והעבודה תלויה לפי השעה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 25:23:6",
+        "quote": "האחד יעבוד את השני וזה תלוי לפי השעה"
+       }
+      ]
+     }
+    ],
+    "why": "העמימות היא שמאפשרת לקרוא את הסיפור שאחריו כקיום בשני האופנים."
+   },
+   {
+    "title": "למה אומר עשו \"הנה אנכי הולך למות\"?",
+    "pasuk": {
+     "text": "הִנֵּ֛ה אָנֹכִ֥י הוֹלֵ֖ךְ לָמ֑וּת וְלָמָּה־זֶּ֥ה לִ֖י בְּכֹרָֽה",
+     "ref": "Genesis 25:32",
+     "label": "בראשית כה, לב"
+    },
+    "question": "עשו היה כבן חמש עשרה. למה אמר \"הנה אנכי הולך למות ולמה זה לי בכורה\"?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 25:32:1-3",
+      "era": "acharon",
+      "quote": "הנה יפלא כי עדין בן ט\"ו שנה היה ואיך היה הולך למות"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 25:32:2",
+      "era": "chazal",
+      "quote": "למה לי לא אמר אלא למה זה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: בכל יום הוא מסתכן בציד ושמא ימות לפני אביו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 25:32:1",
+        "quote": "שבכל יום ויום הוא מסתכן בעצמו כאשר יצא לצוד"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: העבודה בבכורות כרוכה באזהרות ובעונשי מיתה, ואמר שהוא הולך למות על ידה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:32:1",
+        "quote": "אֲנִי הוֹלֵךְ לָמוּת עַל יָדָהּ, אִם כֵּן מַה חֵפֶץ לִי בָה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: אמר בלבו שאין עולם אחר, ולא חשש אלא לדבר שלפניו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 25:32:1",
+        "quote": "כי אמר בלבו אין עולם אחר"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 25:32:3",
+        "quote": "ולא היה חושש אלא בדבר שלפניו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: היתה לו מלחמה עם נמרוד וחשש שיהרגנו.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 25:32:2",
+        "quote": "שהיה לו מלחמה עם נמרוד ומתיירא שמא יהרגנו נמרוד"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: מיום שנולד כל אדם הולך למות, ועשו שלקח רק העולם הזה, הולך למות בעולם הבא.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 25:32:1-3",
+        "quote": "אמנם הנה ידענו כי מיום יולד איש הולך למות"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות חלוקות בין סכנה גופנית, חשש הלכתי וכפירה בעולם הבא."
+   },
+   {
+    "title": "למה מזכיר הכתוב את הרעב הראשון?",
+    "pasuk": {
+     "text": "מִלְּבַד֙ הָרָעָ֣ב הָרִאשׁ֔וֹן",
+     "ref": "Genesis 26:1",
+     "label": "בראשית כו, א"
+    },
+    "question": "למה כתוב \"מלבד הרעב הראשון\", ולמה נאמר ליצחק \"אל תרד מצרימה\"?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 26:1:1",
+      "era": "rishon",
+      "quote": "כִּי מָה צֹרֶךְ לְהַזְכִּיר זֶה"
+     },
+     {
+      "name": "מדרש שכל טוב",
+      "ref": "Midrash Sekhel Tov, Bereshit 26:1:2",
+      "era": "chazal",
+      "quote": "ומה ת\"ל"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:2:2",
+      "era": "acharon",
+      "quote": "ולמה הוצרך לומר כן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: זכרו את הרעב הראשון שבגללו ירד אברהם למצרים, ולכן היה גם ביצחק בדעתו לרדת מצרימה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 26:1:2",
+        "quote": "כִּי הָיָה בְּדַעְתּוֹ לָרֶדֶת מִצְרַיְמָה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: כשם שאברהם ירד למצרים בשביל הרעב, כך יצחק היה יורד דרך ארץ פלשתים.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:1:1",
+        "quote": "כך יצחק היה יורד למצרים דרך ארץ פלשתים"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: רעב זה בא על מיתת אברהם הצדיק, ולא כראשון לא בא לנסיון.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:1:2",
+        "quote": "וזה רעב לא בא על נסיון, אלא להודיע כי צדיק נפטר מן העולם"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: ניסהו אם יקרא תגר, והוא הלך אל אבימלך כאביו.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 26:1:1",
+        "quote": "שניסהו אם יקרא תגר אם לאו"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: הלשון מוכיחה שיצחק רצה לצאת מהארץ כאברהם ברעב הראשון.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:2:2",
+        "quote": "שיצחק היה רוצה לצאת חוץ לארץ כמו שיצא אברהם ברעב הראשון"
+       }
+      ]
+     }
+    ],
+    "why": "מלה מיותרת בפסוק נדרשת כרמז לכוונת יצחק, לסיבת הרעב או לנסיון."
+   },
+   {
+    "title": "מהם משמרת, מצוות, חוקים ותורות ששמר אברהם?",
+    "pasuk": {
+     "text": "וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי",
+     "ref": "Genesis 26:5",
+     "label": "בראשית כו, ה"
+    },
+    "question": "מהם ארבעת הלשונות \"משמרתי מצותי חקותי ותורותי\", וכיצד שמר אותם אברהם לפני מתן תורה?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:5:2",
+      "era": "acharon",
+      "quote": "שזה שלא כסדר הענין לזכור ההרחקות קודם המצות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: משמרת היא גזרות להרחקה, מצוות הן דברים הראויים להצטוות, וחוקים כגון חזיר ושעטנז.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:5:2",
+        "quote": "גְּזֵרוֹת לְהַרְחָקָה עַל הָאַזְהָרוֹת שֶׁבַּתּוֹרָה"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:5:4",
+        "quote": "כְּגוֹן אֲכִילַת חֲזִיר וּלְבִישַׁת שַׁעַטְנֵז"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: המצוות הניכרות, כגון גזל ועריות, נהגו קודם מתן תורה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:5:4",
+        "quote": "כולם היו נוהגין קודם מתן תורה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: מצוות לפי שעה, וחוקות שחקק עליו לדורות כגון מילה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 26:5:1",
+        "quote": "שצויתי עליו לפי שעה"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 26:5:2",
+        "quote": "שחקקתי עליו לדורות כגון מילה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: המצוות הן שבע מצוות בני נח.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:5:4",
+        "quote": "אלו ז' מצות שנצטוו בני נח"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: על דרך הפשט הכוונה למצוות שנצטוו בני נח.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 26:5:2-4",
+        "quote": "עַל דֶּרֶךְ הַפְּשָׁט יֹאמַר זֶה עַל מִצְווֹת שֶׁנִּצְטַוּוּ בְּנֵי נֹח"
+       }
+      ]
+     }
+    ],
+    "why": "מראה עד כמה שמרו האבות את התורה לפני שניתנה."
+   }
+  ],
+  "sources_consulted": [
+   "מלבי\"ם",
+   "רמב\"ן",
+   "רש\"י",
+   "אבן עזרא",
+   "ספורנו",
+   "מדרש אגדה",
+   "מדרש לקח טוב",
+   "רשב\"ם",
+   "רד\"ק",
+   "תורה תמימה",
+   "בכור שור",
+   "העמק דבר",
+   "מדרש שכל טוב",
+   "אלשיך",
+   "גור אריה",
+   "רבינו בחיי"
+  ]
+ }
+}
