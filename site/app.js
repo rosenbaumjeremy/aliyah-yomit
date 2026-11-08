@@ -55,6 +55,19 @@ const UI = {
     rjsBlocks: "אבני הבניין של הרעיון",
     rjsLands: "המסקנה",
     rjsCredit: "שיג ושיח, תרגום צור ארליך, הוצאת מגיד (CC-BY-NC), באתר ספריא",
+    quiz: "חידון",
+    quizHint: "חידון על הפרשה",
+    quizTitle: (name) => `חידון — פרשת ${name}`,
+    quizSub: "שאלות אמריקאיות מתוך פשט הכתובים",
+    quizNotYet: "החידון על פרשה זו יתפרסם ביום ראשון בבוקר של השבוע שבו קוראים אותה.",
+    quizScore: (right, done, total) => `${right} נכונות מתוך ${done} שנענו (${total} שאלות)`,
+    quizDone: (right, total) => `סיימת! ${right} מתוך ${total}`,
+    quizRight: "נכון!",
+    quizWrong: "לא בדיוק.",
+    quizHintBtn: "רמז",
+    quizReset: "התחל מחדש",
+    quizPasuk: "לפסוק בספריא",
+    quizNote: "",
     textTitle: "פסוקי העלייה — לחצו על פסוק לביאור שטיינזלץ",
     pdfText: "הפסוקים",
     chapter: (n) => `פרק ${hebrewNumber(n)}`,
@@ -125,6 +138,19 @@ const UI = {
     rjsBlocks: "Building blocks of the idea",
     rjsLands: "Where it lands",
     rjsCredit: "Covenant & Conversation, Maggid Books and the Orthodox Union (CC-BY-NC), on Sefaria",
+    quiz: "Quiz",
+    quizHint: "Quiz on the parasha",
+    quizTitle: (name) => `Quiz — Parashat ${name}`,
+    quizSub: "Multiple-choice questions on the plain text of the parasha",
+    quizNotYet: "The quiz on this parasha will be published on the Sunday morning of the week it is read.",
+    quizScore: (right, done, total) => `${right} right out of ${done} answered (${total} questions)`,
+    quizDone: (right, total) => `Done! ${right} out of ${total}`,
+    quizRight: "Correct!",
+    quizWrong: "Not quite.",
+    quizHintBtn: "Hint",
+    quizReset: "Start over",
+    quizPasuk: "The pasuk on Sefaria",
+    quizNote: "The questions are in Hebrew.",
     textTitle: "The pesukim of the aliyah — click a pasuk for the Steinsaltz explanation",
     pdfText: "The text",
     chapter: (n) => `Chapter ${n}`,
@@ -159,6 +185,8 @@ const state = {
   view: null,         // whole-parasha view: "summaries" | "questions" | "all"
   rjs: null,          // slug of the parasha whose Rabbi Sacks page is open
   rjsDays: new Set(), // parashot that have a Rabbi Sacks page (rjs/index.json)
+  quiz: null,         // slug of the parasha whose quiz is open
+  quizDays: new Set(),// parashot that have a quiz (quiz/index.json)
   briefs: new Map(),  // date -> fetch promise
 };
 
@@ -224,12 +252,13 @@ function sefariaLink(label, ref) {
 
 async function load() {
   const get = (path, fallback) => fetch(path).then((r) => (r.ok ? r.json() : fallback)).catch(() => fallback);
-  const [parashot, index, rjs] = await Promise.all([
+  const [parashot, index, rjs, quiz] = await Promise.all([
     get("data/parashot.json", { books: [] }), get("data/aliyot/index.json", { days: [] }),
-    get("data/rjs/index.json", { days: [] })]);
+    get("data/rjs/index.json", { days: [] }), get("data/quiz/index.json", { days: [] })]);
   state.books = parashot.books;
   state.days = index.days;
   state.rjsDays = new Set(rjs.days.map((d) => d.slug));
+  state.quizDays = new Set(quiz.days.map((d) => d.slug));
 }
 
 function loadBrief(date) {
@@ -803,7 +832,7 @@ function renderWhole(reading) {
 function renderLatest() {
   const host = el("latest");
   host.innerHTML = "";
-  if (state.parasha || state.rjs) return;
+  if (state.parasha || state.rjs || state.quiz) return;
   const box = node("div", "latest");
   const day = state.days[state.days.length - 1];
   if (!day) {
@@ -825,7 +854,7 @@ function renderLatest() {
 function renderBooks() {
   const host = el("books");
   host.innerHTML = "";
-  host.hidden = !!(state.parasha || state.rjs);
+  host.hidden = !!(state.parasha || state.rjs || state.quiz);
   if (host.hidden) return;
 
   for (const book of state.books) {
@@ -843,7 +872,7 @@ function renderBooks() {
       tile.appendChild(dots);
       tile.onclick = () => go(parasha.slug, parasha.slug, null);
       const card = node("div", "pcard");
-      card.append(tile, rjsButton(parasha, "rjsbtn"));
+      card.append(tile, rjsButton(parasha, "rjsbtn"), quizButton(parasha, "quizbtn"));
       grid.appendChild(card);
     }
     section.appendChild(grid);
@@ -892,6 +921,7 @@ function renderParasha() {
       views.appendChild(button);
     }
     views.appendChild(rjsButton(parasha, "viewbtn rjsview"));
+    views.appendChild(quizButton(parasha, "viewbtn quizview"));
     block.appendChild(views);
     host.appendChild(block);
   }
@@ -1017,6 +1047,129 @@ function renderRjs() {
 function openRjs(slug) {
   state.parasha = state.reading = state.aliyah = state.view = null;
   state.rjs = slug;
+  state.quiz = null;
+  writeHash();
+  render();
+  window.scrollTo(0, 0);
+}
+
+/* ---------- quiz: multiple-choice questions on the parasha (scripts/quiz.py) ---------- */
+
+const quizFiles = new Map();  // slug -> fetch promise
+const quizAnswers = new Map();  // slug -> Map(question index -> chosen option), until the page is left
+
+function loadQuiz(slug) {
+  if (!quizFiles.has(slug)) {
+    quizFiles.set(slug, fetch(`data/quiz/${slug}.json`)
+      .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch((error) => { quizFiles.delete(slug); throw error; }));
+  }
+  return quizFiles.get(slug);
+}
+
+/** The quiz button on a parasha card (and on the parasha page). */
+function quizButton(parasha, cls) {
+  const button = node("button", cls, t().quiz);
+  button.type = "button";
+  button.title = `${t().quizHint} — ${parashaName(parasha)}`;
+  button.setAttribute("aria-label", button.title);
+  button.classList.toggle("has", state.quizDays.has(parasha.slug));
+  button.onclick = () => openQuiz(parasha.slug);
+  return button;
+}
+
+function renderQuiz() {
+  const view = el("quiz");
+  const parasha = state.quiz && findParasha(state.quiz);
+  view.hidden = !parasha;
+  if (!parasha) return;
+  el("quizBack").textContent = t().back;
+  el("quizTitle").textContent = t().quizTitle(parashaName(parasha));
+  el("quizSub").textContent = `${t().quizSub} · ${rangeLabel(parasha.ref)}`;
+  const host = el("quizBody");
+  host.innerHTML = "";
+  if (!state.quizDays.has(parasha.slug)) { host.appendChild(node("p", "empty", t().quizNotYet)); return; }
+
+  const slot = node("div", "empty", t().loading);
+  host.appendChild(slot);
+  const lang = state.lang, wanted = parasha.slug;
+  loadQuiz(parasha.slug).then((record) => {
+    if (state.lang !== lang || state.quiz !== wanted) return;
+    if (!quizAnswers.has(wanted)) quizAnswers.set(wanted, new Map());
+    const chosen = quizAnswers.get(wanted);
+    const questions = record.questions || [];
+    const wrap = node("div", "quizwrap");
+    if (t().quizNote) wrap.appendChild(node("p", "muted", t().quizNote));
+    const bar = node("div", "quizbar");
+    const score = node("span", "quizscore");
+    const reset = node("button", null, t().quizReset);
+    reset.type = "button";
+    reset.onclick = () => { quizAnswers.delete(wanted); renderQuiz(); };
+    bar.append(score, reset);
+    wrap.appendChild(bar);
+
+    const list = node("ol", "quizlist");
+    list.dir = "rtl";
+    list.lang = "he";
+    const update = () => {
+      let right = 0;
+      chosen.forEach((pick, i) => { if (questions[i] && pick === questions[i].a) right++; });
+      score.textContent = chosen.size === questions.length
+        ? t().quizDone(right, questions.length) : t().quizScore(right, chosen.size, questions.length);
+      score.classList.toggle("done", chosen.size === questions.length);
+    };
+
+    questions.forEach((q, i) => {
+      const li = node("li", "quizq");
+      li.appendChild(node("p", "quizprompt", q.q));
+      const opts = node("div", "quizopts");
+      const after = node("div", "quizafter");
+      const buttons = q.o.map((text, k) => {
+        const b = node("button", "quizopt", text);
+        b.type = "button";
+        b.onclick = () => { if (!chosen.has(i)) { chosen.set(i, k); show(); update(); } };
+        opts.appendChild(b);
+        return b;
+      });
+      let hint = null;
+      if (q.h) {
+        hint = node("button", "quizhint", t().quizHintBtn);
+        hint.type = "button";
+        hint.onclick = () => { hint.replaceWith(node("p", "quizhinttext", q.h)); };
+      }
+      const show = () => {
+        const pick = chosen.get(i);
+        buttons.forEach((b, k) => {
+          b.disabled = true;
+          b.classList.toggle("right", k === q.a);
+          b.classList.toggle("wrong", k === pick && k !== q.a);
+        });
+        if (hint) hint.remove();
+        after.innerHTML = "";
+        const verdict = node("p", "quizverdict " + (pick === q.a ? "ok" : "no"));
+        verdict.appendChild(node("b", null, pick === q.a ? t().quizRight : t().quizWrong));
+        verdict.append(" ", q.e);
+        after.appendChild(verdict);
+        const ref = node("p", "quizref");
+        ref.appendChild(sefariaLink(`${rangeLabel(q.ref)} — ${t().quizPasuk}`, q.ref));
+        after.appendChild(ref);
+      };
+      li.appendChild(opts);
+      if (hint) li.appendChild(hint);
+      li.appendChild(after);
+      if (chosen.has(i)) show();
+      list.appendChild(li);
+    });
+    wrap.appendChild(list);
+    update();
+    slot.replaceWith(wrap);
+  }).catch(() => { slot.textContent = t().loadFailed; });
+}
+
+function openQuiz(slug) {
+  state.parasha = state.reading = state.aliyah = state.view = null;
+  state.rjs = null;
+  state.quiz = slug;
   writeHash();
   render();
   window.scrollTo(0, 0);
@@ -1036,6 +1189,7 @@ function render() {
   renderLatest();
   renderParasha();
   renderRjs();
+  renderQuiz();
   renderBooks();
 }
 
@@ -1051,6 +1205,7 @@ function writeHash() {
   if (state.aliyah) params.set("a", state.aliyah);
   if (state.view) params.set("v", state.view);
   if (state.rjs) params.set("rjs", state.rjs);
+  if (state.quiz) params.set("quiz", state.quiz);
   selfWrite = `#${params}`;
   history.replaceState(null, "", selfWrite);
 }
@@ -1062,6 +1217,7 @@ function go(parasha, reading, aliyah, view = null) {
   state.aliyah = aliyah;
   state.view = view;
   state.rjs = null;
+  state.quiz = null;
   writeHash();
   render();
   if (moved) window.scrollTo(0, 0);
@@ -1076,6 +1232,7 @@ function readHash() {
   state.view = ["summaries", "questions", "all"].includes(params.get("v")) ? params.get("v") : null;
   if (state.view) state.aliyah = null;
   state.rjs = !state.parasha && findParasha(params.get("rjs")) ? params.get("rjs") : null;
+  state.quiz = !state.parasha && !state.rjs && findParasha(params.get("quiz")) ? params.get("quiz") : null;
   render();
 }
 
@@ -1086,6 +1243,7 @@ document.querySelectorAll(".langswitch button").forEach((button) => {
 });
 el("back").onclick = () => go(null, null, null);
 el("rjsBack").onclick = () => go(null, null, null);
+el("quizBack").onclick = () => go(null, null, null);
 document.querySelector(".brand").onclick = (event) => { event.preventDefault(); go(null, null, null); };
 
 load().then(readHash);

@@ -113,6 +113,63 @@ main { max-width: 980px; margin: 0 auto; padding: 20px 22px 60px; }
 .rjsbtn:hover { border-color: var(--accent); color: var(--accent); }
 .viewbtn.rjsview { flex: 0 0 auto; min-width: 70px; border-color: var(--gold); }
 
+/* the quiz button sits under the RJS button */
+.pcard .quizbtn { top: auto; bottom: 8px; }
+.quizbtn {
+  position: absolute; inset-inline-end: 8px;
+  border: 1px solid var(--line); background: var(--bg); color: var(--muted);
+  border-radius: 6px; padding: 1px 6px; font: inherit; font-size: 11px; font-weight: 700; cursor: pointer;
+}
+.quizbtn.has { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
+.quizbtn:hover { border-color: var(--accent); color: var(--accent); }
+.viewbtn.quizview { flex: 0 0 auto; min-width: 70px; border-color: var(--accent); }
+
+/* ---------- quiz page ---------- */
+
+#quiz h2 { margin: 0; font-size: 24px; }
+#quiz > .muted { margin: 2px 0 14px; font-size: 14px; }
+.quizbar {
+  position: sticky; top: calc(var(--topbar-h, 66px) + 6px); z-index: 2;
+  display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 8px 12px; margin: 0 0 12px;
+}
+.quizbar button {
+  border: 1px solid var(--line); background: var(--bg); border-radius: 6px;
+  padding: 4px 10px; font: inherit; font-size: 13px; color: var(--muted); cursor: pointer;
+}
+.quizbar button:hover { border-color: var(--accent); color: var(--accent); }
+.quizscore { font-size: 14px; font-weight: 600; color: var(--accent); }
+.quizscore.done { color: var(--gold); }
+.quizlist { list-style: none; counter-reset: q; margin: 0; padding: 0; }
+.quizq {
+  counter-increment: q;
+  background: var(--card); border: 1px solid var(--line); border-inline-start: 4px solid var(--qmark);
+  border-radius: var(--radius); padding: 12px 14px; margin: 0 0 10px;
+}
+.quizprompt { margin: 0 0 10px; font-weight: 600; font-size: 16.5px; }
+.quizprompt::before { content: counter(q) ". "; color: var(--qmark); }
+.quizopts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 6px; }
+.quizopt {
+  border: 1px solid var(--line); background: var(--bg); color: var(--ink);
+  border-radius: var(--radius); padding: 8px 12px; font: inherit; font-size: 15px;
+  text-align: start; cursor: pointer;
+}
+.quizopt:not(:disabled):hover { border-color: var(--accent); background: var(--accent-soft); }
+.quizopt:disabled { cursor: default; opacity: .6; }
+.quizopt.right { opacity: 1; border-color: #2e7d4f; background: #e6f4ea; color: #1d5434; font-weight: 600; }
+.quizopt.wrong { opacity: 1; border-color: #b3443a; background: #fbe9e7; color: #8a2e26; }
+.quizhint {
+  margin-top: 8px; border: 0; background: none; padding: 0;
+  font: inherit; font-size: 13px; color: var(--accent); text-decoration: underline; cursor: pointer;
+}
+.quizhinttext { margin: 8px 0 0; font-size: 14px; color: var(--muted); }
+.quizhinttext::before { content: "💡 "; }
+.quizverdict { margin: 10px 0 4px; font-size: 15px; }
+.quizverdict.ok b { color: #2e7d4f; }
+.quizverdict.no b { color: #b3443a; }
+.quizref { margin: 0; font-size: 13px; }
+
 /* ---------- Rabbi Sacks page ---------- */
 
 #rjs h2 { margin: 0; font-size: 24px; }
@@ -376,5 +433,9 @@ body.fullread .fullbtn {
   .tab.on .n { color: #0b1730; }
   .viewbtn.on { color: #0b1730; }
   .button { color: #0b1730; }
+  .quizopt.right { border-color: #4fae78; background: #17301f; color: #b9e6c8; }
+  .quizopt.wrong { border-color: #d0675c; background: #3a1d1a; color: #f2c0b9; }
+  .quizverdict.ok b { color: #6cc592; }
+  .quizverdict.no b { color: #e58a80; }
 }
 
