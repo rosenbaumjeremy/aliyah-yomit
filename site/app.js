@@ -63,8 +63,8 @@ const UI = {
     quizRules: (p, from, bonus) => `${p} נקודות על כל תשובה נכונה, ועוד ${bonus} נקודות בונוס מהתשובה ה־${from} ברצף.`,
     quizPoints: (n) => `${n} נק׳`,
     quizCount: (right, done, total) => `${right}/${done} נכונות · ${done} מתוך ${total}`,
-    quizStreakToast: (n) => (n === 25 ? "🏆 25 ברצף — כל הפרשה בלי טעות!" : n >= 10 ? `🔥🔥 ${n} ברצף! מדהים!` : `🔥 ${n} ברצף!`),
-    quizRank: (right, total) => (right === total ? "מושלם! בקיא בפרשה כמו תלמיד חכם" : right / total >= 0.9 ? "תלמיד חכם!" : right / total >= 0.7 ? "בקיא בפרשה!" : right / total >= 0.5 ? "בדרך הנכונה" : "כדאי לחזור על הפרשה ולנסות שוב"),
+    quizStreakToast: (n, total) => (n === total ? `🏆 ${n} ברצף — בלי אף טעות!` : n >= 10 ? `🔥🔥 ${n} ברצף! מדהים!` : `🔥 ${n} ברצף!`),
+    quizRank: (right, total, sefer) => { const w = sefer ? "בספר" : "בפרשה"; return right === total ? `מושלם! בקיא ${w} כמו תלמיד חכם` : right / total >= 0.9 ? "תלמיד חכם!" : right / total >= 0.7 ? `בקיא ${w}!` : right / total >= 0.5 ? "בדרך הנכונה" : `כדאי לחזור על ${sefer ? "הספר" : "הפרשה"} ולנסות שוב`; },
     quizLongest: (n) => `הרצף הארוך ביותר: ${n}`,
     quizBest: "השיא שלך",
     quizBestShort: (right, total) => `${right} מתוך ${total}`,
@@ -77,6 +77,20 @@ const UI = {
     quizReset: "התחל מחדש",
     quizPasuk: "לפסוק בספריא",
     quizNote: "",
+    seferQuiz: "חידון על כל הספר",
+    seferTitle: (name) => `חידון — ספר ${name}`,
+    seferSub: "שאלות אמריקאיות מכל פרשיות הספר, מתוך מאגר השאלות של החידונים על הפרשות",
+    seferHowMany: "כמה שאלות?",
+    seferFrom: "מאילו פרשיות?",
+    seferAll: "כולן",
+    seferNoneBtn: "נקה",
+    seferPick: "בחרו לפחות פרשה אחת.",
+    seferWillDraw: (n, k, max) => `ייבחרו ${n} שאלות באקראי, מפוזרות באופן שווה על ${k === 1 ? "פרשה אחת" : `${k} פרשיות`} (יש במאגר ${max}).`,
+    seferPartial: (have, all) => `יש חידון ל־${have} מתוך ${all} הפרשיות בספר; השאר יתווספו כשיתפרסמו.`,
+    seferNone: "עדיין אין חידונים על פרשיות הספר הזה.",
+    seferStart: "התחילו את החידון",
+    seferAgain: "שאלות חדשות",
+    seferChange: "שינוי ההגדרות",
     textTitle: "פסוקי העלייה — לחצו על פסוק לביאור שטיינזלץ",
     pdfText: "הפסוקים",
     chapter: (n) => `פרק ${hebrewNumber(n)}`,
@@ -155,8 +169,8 @@ const UI = {
     quizRules: (p, from, bonus) => `${p} points for each right answer, plus a ${bonus}-point bonus from the ${from}rd in a row.`,
     quizPoints: (n) => `${n} pts`,
     quizCount: (right, done, total) => `${right}/${done} right · ${done} of ${total}`,
-    quizStreakToast: (n) => (n === 25 ? "🏆 25 in a row — the whole parasha without a mistake!" : n >= 10 ? `🔥🔥 ${n} in a row! Amazing!` : `🔥 ${n} in a row!`),
-    quizRank: (right, total) => (right === total ? "Perfect! You know the parasha like a talmid chacham" : right / total >= 0.9 ? "Talmid chacham!" : right / total >= 0.7 ? "You know the parasha!" : right / total >= 0.5 ? "On the right track" : "Worth reviewing the parasha and trying again"),
+    quizStreakToast: (n, total) => (n === total ? `🏆 ${n} in a row — not a single mistake!` : n >= 10 ? `🔥🔥 ${n} in a row! Amazing!` : `🔥 ${n} in a row!`),
+    quizRank: (right, total, sefer) => { const w = sefer ? "the sefer" : "the parasha"; return right === total ? `Perfect! You know ${w} like a talmid chacham` : right / total >= 0.9 ? "Talmid chacham!" : right / total >= 0.7 ? `You know ${w}!` : right / total >= 0.5 ? "On the right track" : `Worth reviewing ${w} and trying again`; },
     quizLongest: (n) => `Longest streak: ${n}`,
     quizBest: "Your best",
     quizBestShort: (right, total) => `${right} of ${total}`,
@@ -169,6 +183,20 @@ const UI = {
     quizReset: "Start over",
     quizPasuk: "The pasuk on Sefaria",
     quizNote: "The questions are in Hebrew.",
+    seferQuiz: "Quiz on the whole sefer",
+    seferTitle: (name) => `Quiz — Sefer ${name}`,
+    seferSub: "Multiple-choice questions from every parasha in the sefer, drawn from the parasha quizzes' question bank",
+    seferHowMany: "How many questions?",
+    seferFrom: "From which parashiyot?",
+    seferAll: "All",
+    seferNoneBtn: "Clear",
+    seferPick: "Choose at least one parasha.",
+    seferWillDraw: (n, k, max) => `${n} questions will be drawn at random, spread evenly over ${k === 1 ? "1 parasha" : `${k} parashiyot`} (${max} in the bank).`,
+    seferPartial: (have, all) => `${have} of the ${all} parashiyot in this sefer have a quiz so far; the rest are added as they are published.`,
+    seferNone: "There are no quizzes on this sefer's parashiyot yet.",
+    seferStart: "Start the quiz",
+    seferAgain: "New questions",
+    seferChange: "Change settings",
     textTitle: "The pesukim of the aliyah — click a pasuk for the Steinsaltz explanation",
     pdfText: "The text",
     chapter: (n) => `Chapter ${n}`,
@@ -203,7 +231,7 @@ const state = {
   view: null,         // whole-parasha view: "summaries" | "questions" | "all"
   rjs: null,          // slug of the parasha whose Rabbi Sacks page is open
   rjsDays: new Set(), // parashot that have a Rabbi Sacks page (rjs/index.json)
-  quiz: null,         // slug of the parasha whose quiz is open
+  quiz: null,         // the open quiz: a parasha slug, or "sefer:<Book>" for a whole sefer
   quizDays: new Set(),// parashot that have a quiz (quiz/index.json)
   briefs: new Map(),  // date -> fetch promise
 };
@@ -877,7 +905,14 @@ function renderBooks() {
 
   for (const book of state.books) {
     const section = node("div", "book");
-    section.appendChild(node("h3", null, state.lang === "hebrew" ? `ספר ${book.he}` : book.en));
+    const heading = node("h3", null, state.lang === "hebrew" ? `ספר ${book.he}` : book.en);
+    if (quizParashot(book).length) {
+      const seferBtn = node("button", "seferbtn", t().seferQuiz);
+      seferBtn.type = "button";
+      seferBtn.onclick = () => openQuiz(seferKey(book));
+      heading.appendChild(seferBtn);
+    }
+    section.appendChild(heading);
     const grid = node("div", "grid");
     for (const parasha of book.parashot) {
       const tile = node("button", "ptile");
@@ -1074,11 +1109,15 @@ function openRjs(slug) {
 /* ---------- quiz: multiple-choice questions on the parasha (scripts/quiz.py) ---------- */
 
 // Scoring: 10 points for a right answer (5 if the hint was opened), +5 for every right answer
-// that is the 3rd or more in a row. Stars by the share of right answers: 50% / 70% / 90%.
+// that is the 3rd or more in a row.
 const QUIZ_POINTS = 10, QUIZ_HINTED = 5, QUIZ_STREAK_BONUS = 5, QUIZ_STREAK_FROM = 3;
+// A sefer quiz draws its questions from the parashiyot' question banks; these are the sizes offered.
+const SEFER_SIZES = [10, 20, 30, 50, 100];
+const SEFER_DEFAULT = 20;
 
 const quizFiles = new Map();  // slug -> fetch promise
-const quizRuns = new Map();   // slug -> this visit's run: {chosen: Map(i -> option), hinted: Set(i)}
+const quizRuns = new Map();   // quiz key -> this visit's run: {chosen: Map(i -> option), hinted: Set(i), questions?}
+const seferSetups = new Map();// book en name -> {count, slugs: Set} last chosen on this visit
 
 function loadQuiz(slug) {
   if (!quizFiles.has(slug)) {
@@ -1089,17 +1128,45 @@ function loadQuiz(slug) {
   return quizFiles.get(slug);
 }
 
+/* a quiz key is a parasha slug, or "sefer:<Book>" for a quiz on a whole sefer */
+const seferKey = (book) => `sefer:${book.en}`;
+const seferOf = (key) => (key && key.startsWith("sefer:") ? state.books.find((b) => b.en === key.slice(6)) || null : null);
+const quizParashot = (book) => book.parashot.filter((p) => state.quizDays.has(p.slug));
+
 /* the best result on this device, per parasha (only a convenience: it may be missing) */
-function quizBest(slug) {
-  try { return JSON.parse(localStorage.getItem(`quiz-best:${slug}`)) || null; } catch { return null; }
+function quizBest(key) {
+  try { return JSON.parse(localStorage.getItem(`quiz-best:${key}`)) || null; } catch { return null; }
 }
-function saveQuizBest(slug, result) {
-  try { localStorage.setItem(`quiz-best:${slug}`, JSON.stringify(result)); } catch { /* not saved */ }
+function saveQuizBest(key, result) {
+  try { localStorage.setItem(`quiz-best:${key}`, JSON.stringify(result)); } catch { /* not saved */ }
 }
 
-const quizStars = (right, total) => (right / total >= 0.9 ? 3 : right / total >= 0.7 ? 2 : right / total >= 0.5 ? 1 : 0);
-const starText = (n) => "★".repeat(n) + "☆".repeat(3 - n);
 const calm = () => window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+const shuffled = (list) => {
+  const a = list.slice();
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+};
+
+/** Draw `count` questions spread evenly over the parashiyot (in order), each tagged with its parasha. */
+function drawSefer(banks, count) {
+  const want = banks.map(() => 0);
+  let left = Math.min(count, banks.reduce((s, b) => s + b.questions.length, 0));
+  // deal one at a time, round-robin from a random start, to parashiyot that still have questions
+  const order = shuffled(banks.map((_, i) => i));
+  while (left > 0) {
+    for (const i of order) {
+      if (left > 0 && want[i] < banks[i].questions.length) { want[i]++; left--; }
+    }
+  }
+  const out = [];
+  banks.forEach((bank, i) => {
+    const picks = shuffled(bank.questions.map((_, k) => k)).slice(0, want[i]).sort((x, y) => x - y);
+    picks.forEach((k) => out.push({ ...bank.questions[k], parasha: bank.parasha }));
+  });
+  return out;
+}
 
 /** Score a run: points, right answers, current and longest streak, the questions missed. */
 function quizTally(questions, run) {
@@ -1116,13 +1183,12 @@ function quizTally(questions, run) {
   return { points, right, streak, longest, missed, done: run.chosen.size };
 }
 
-/** The quiz button on a parasha card (and on the parasha page); shows the best stars on this device. */
+/** The quiz button on a parasha card (and on the parasha page). */
 function quizButton(parasha, cls) {
   const best = state.quizDays.has(parasha.slug) ? quizBest(parasha.slug) : null;
   const button = node("button", cls, t().quiz);
-  if (best) button.appendChild(node("span", "quizstars", starText(best.stars)));
   button.type = "button";
-  button.title = `${t().quizHint} — ${parashaName(parasha)}` + (best ? ` · ${t().quizBestShort(best.right, best.total)}` : "");
+  button.title = `${t().quizHint} — ${parashaName(parasha)}` + (best ? ` · ${t().quizBest}: ${t().quizBestShort(best.right, best.total)}` : "");
   button.setAttribute("aria-label", button.title);
   button.classList.toggle("has", state.quizDays.has(parasha.slug));
   button.onclick = () => openQuiz(parasha.slug);
@@ -1171,177 +1237,314 @@ function quizToast(host, text) {
 
 function renderQuiz() {
   const view = el("quiz");
-  const parasha = state.quiz && findParasha(state.quiz);
-  view.hidden = !parasha;
-  if (!parasha) { document.querySelectorAll(".confetti").forEach((layer) => layer.remove()); return; }
+  const book = seferOf(state.quiz);
+  const parasha = !book && state.quiz && findParasha(state.quiz);
+  view.hidden = !(book || parasha);
+  if (!book && !parasha) { document.querySelectorAll(".confetti").forEach((layer) => layer.remove()); return; }
   el("quizBack").textContent = t().back;
-  el("quizTitle").textContent = t().quizTitle(parashaName(parasha));
-  el("quizSub").textContent = `${t().quizSub} · ${rangeLabel(parasha.ref)}`;
   const host = el("quizBody");
   host.innerHTML = "";
-  if (!state.quizDays.has(parasha.slug)) { host.appendChild(node("p", "empty", t().quizNotYet)); return; }
 
+  if (book) {
+    const name = state.lang === "hebrew" ? book.he : book.en;
+    el("quizTitle").textContent = t().seferTitle(name);
+    el("quizSub").textContent = t().seferSub;
+    const run = quizRuns.get(state.quiz);
+    if (run && run.questions) renderQuizRun(host, state.quiz, run.questions, { sefer: book });
+    else renderSeferSetup(host, book);
+    return;
+  }
+
+  el("quizTitle").textContent = t().quizTitle(parashaName(parasha));
+  el("quizSub").textContent = `${t().quizSub} · ${rangeLabel(parasha.ref)}`;
+  if (!state.quizDays.has(parasha.slug)) { host.appendChild(node("p", "empty", t().quizNotYet)); return; }
   const slot = node("div", "empty", t().loading);
   host.appendChild(slot);
   const lang = state.lang, wanted = parasha.slug;
   loadQuiz(parasha.slug).then((record) => {
     if (state.lang !== lang || state.quiz !== wanted) return;
-    if (!quizRuns.has(wanted)) quizRuns.set(wanted, { chosen: new Map(), hinted: new Set() });
-    const run = quizRuns.get(wanted);
-    const questions = record.questions || [];
-    const total = questions.length;
-    const ui = t();
-    const wrap = node("div", "quizwrap");
-    if (ui.quizNote) wrap.appendChild(node("p", "muted", ui.quizNote));
-
-    // how it scores, and the best so far on this device
-    const intro = node("div", "quizintro");
-    intro.appendChild(node("p", null, ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
-    const best = quizBest(wanted);
-    if (best) intro.appendChild(node("p", "quizbestline", `${ui.quizBest}: ${starText(best.stars)} · ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`));
-    wrap.appendChild(intro);
-
-    // the score bar: progress, points, streak
-    const bar = node("div", "quizbar");
-    const stats = node("div", "quizstats");
-    const pointsBox = node("span", "quizpts");
-    const streakBox = node("span", "quizstreak");
-    const countBox = node("span", "quizcount");
-    stats.append(pointsBox, streakBox, countBox);
-    const reset = node("button", null, ui.quizReset);
-    reset.type = "button";
-    reset.onclick = () => { quizRuns.delete(wanted); renderQuiz(); window.scrollTo(0, 0); };
-    const track = node("div", "quizprogress");
-    const fill = node("div", "fill");
-    track.appendChild(fill);
-    bar.append(stats, reset, track);
-    wrap.appendChild(bar);
-
-    const list = node("ol", "quizlist");
-    list.dir = "rtl";
-    list.lang = "he";
-    const items = [];
-    const results = node("div", "quizresults");
-    results.hidden = true;
-
-    const update = () => {
-      const tally = quizTally(questions, run);
-      pointsBox.textContent = ui.quizPoints(tally.points);
-      streakBox.textContent = tally.streak >= 2 ? `🔥 ${tally.streak}` : "";
-      streakBox.classList.toggle("hot", tally.streak >= QUIZ_STREAK_FROM);
-      countBox.textContent = ui.quizCount(tally.right, tally.done, total);
-      fill.style.width = `${(tally.done / total) * 100}%`;
-      return tally;
-    };
-
-    const finish = (fresh) => {
-      const tally = quizTally(questions, run);
-      const stars = quizStars(tally.right, total);
-      const prior = quizBest(wanted);
-      const record = !prior || tally.points > prior.points;
-      if (fresh && record) saveQuizBest(wanted, { right: tally.right, total, points: tally.points, stars });
-      results.innerHTML = "";
-      results.hidden = false;
-      results.appendChild(node("div", `quizbigstars s${stars}`, starText(stars)));
-      results.appendChild(node("h3", null, ui.quizRank(tally.right, total)));
-      results.appendChild(node("p", "quizfinal", `${ui.quizBestShort(tally.right, total)} · ${ui.quizPoints(tally.points)}`));
-      const facts = node("p", "quizfacts");
-      facts.textContent = ui.quizLongest(tally.longest);
-      results.appendChild(facts);
-      if (fresh && record && prior) results.appendChild(node("p", "quizrecord", ui.quizNewBest));
-      else if (prior && !record) results.appendChild(node("p", "muted", `${ui.quizBest}: ${ui.quizPoints(prior.points)}`));
-      if (tally.missed.length) {
-        const again = node("div", "quizmissed");
-        again.appendChild(node("span", null, ui.quizReview));
-        tally.missed.forEach((i) => {
-          const b = node("button", null, String(i + 1));
-          b.type = "button";
-          b.onclick = () => items[i].scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" });
-          again.appendChild(b);
-        });
-        results.appendChild(again);
-      }
-      const replay = node("button", "button", ui.quizAgain);
-      replay.type = "button";
-      replay.onclick = reset.onclick;
-      results.appendChild(replay);
-      if (fresh) {
-        if (stars >= 2) confetti();
-        setTimeout(() => results.scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" }), 350);
-      }
-    };
-
-    questions.forEach((q, i) => {
-      const li = node("li", "quizq");
-      items.push(li);
-      li.appendChild(node("p", "quizprompt", q.q));
-      const opts = node("div", "quizopts");
-      const after = node("div", "quizafter");
-      const buttons = q.o.map((text, k) => {
-        const b = node("button", "quizopt", text);
-        b.type = "button";
-        b.onclick = () => {
-          if (run.chosen.has(i)) return;
-          run.chosen.set(i, k);
-          show(true);
-          const tally = update();
-          if (k === q.a) {
-            let gained = run.hinted.has(i) ? QUIZ_HINTED : QUIZ_POINTS;
-            if (tally.streak >= QUIZ_STREAK_FROM) gained += QUIZ_STREAK_BONUS;
-            floatUp(b, `+${gained}`, "good");
-            if ([3, 5, 10, 15, 20, 25].includes(tally.streak)) quizToast(bar, ui.quizStreakToast(tally.streak));
-          }
-          if (tally.done === total) finish(true);
-        };
-        opts.appendChild(b);
-        return b;
-      });
-      let hint = null;
-      if (q.h) {
-        hint = node("button", "quizhint", ui.quizHintBtn(QUIZ_HINTED));
-        hint.type = "button";
-        hint.onclick = () => { run.hinted.add(i); hint.replaceWith(node("p", "quizhinttext", q.h)); };
-      }
-      const show = (fresh) => {
-        const pick = run.chosen.get(i);
-        const good = pick === q.a;
-        buttons.forEach((b, k) => {
-          b.disabled = true;
-          b.classList.toggle("right", k === q.a);
-          b.classList.toggle("wrong", k === pick && !good);
-        });
-        li.classList.add(good ? "got" : "missed");
-        if (fresh && !calm()) {
-          li.classList.add(good ? "pop" : "shake");
-          setTimeout(() => li.classList.remove("pop", "shake"), 600);
-        }
-        if (hint && hint.isConnected) hint.remove();
-        after.innerHTML = "";
-        const verdict = node("p", "quizverdict " + (good ? "ok" : "no"));
-        verdict.appendChild(node("b", null, good ? ui.quizRight[i % ui.quizRight.length] : ui.quizWrong[i % ui.quizWrong.length]));
-        verdict.append(" ", q.e);
-        after.appendChild(verdict);
-        const ref = node("p", "quizref");
-        ref.appendChild(sefariaLink(`${rangeLabel(q.ref)} — ${ui.quizPasuk}`, q.ref));
-        after.appendChild(ref);
-      };
-      li.appendChild(opts);
-      if (hint) li.appendChild(hint);
-      li.appendChild(after);
-      if (run.chosen.has(i)) show(false);
-      list.appendChild(li);
-    });
-    wrap.append(list, results);
-    const tally = update();
-    if (tally.done === total) finish(false);
-    slot.replaceWith(wrap);
+    const box = node("div");
+    slot.replaceWith(box);
+    renderQuizRun(box, wanted, record.questions || [], {});
   }).catch(() => { slot.textContent = t().loadFailed; });
 }
 
-function openQuiz(slug) {
+/** The sefer quiz's first screen: how many questions, and from which parashiyot. */
+function renderSeferSetup(host, book) {
+  const ui = t();
+  const key = seferKey(book);
+  const available = quizParashot(book);
+  if (!available.length) { host.appendChild(node("p", "empty", ui.seferNone)); return; }
+  if (!seferSetups.has(book.en)) seferSetups.set(book.en, { count: SEFER_DEFAULT, slugs: new Set(available.map((p) => p.slug)) });
+  const setup = seferSetups.get(book.en);
+  // a parasha whose quiz was published since: include it
+  setup.slugs = new Set([...setup.slugs].filter((s) => available.some((p) => p.slug === s)));
+
+  const form = node("div", "sefersetup");
+  if (ui.quizNote) form.appendChild(node("p", "muted", ui.quizNote));
+  form.appendChild(node("p", "quizintro", ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
+
+  // how many questions
+  form.appendChild(node("div", "label", ui.seferHowMany));
+  const sizes = node("div", "sefersizes");
+  const input = node("input");
+  input.type = "number";
+  input.min = "1";
+  input.inputMode = "numeric";
+  input.setAttribute("aria-label", ui.seferHowMany);
+  const sizeButtons = [];
+  // questions in each parasha's bank (25 until the files load and give the real count)
+  const counts = new Map();
+  const bankSize = () => available.filter((p) => setup.slugs.has(p.slug)).reduce((n, p) => n + (counts.get(p.slug) ?? 25), 0);
+  const syncSizes = () => {
+    sizeButtons.forEach((b) => b.classList.toggle("on", Number(b.dataset.n) === setup.count));
+    if (Number(input.value) !== setup.count) input.value = String(setup.count);
+  };
+  for (const n of SEFER_SIZES) {
+    const b = node("button", "chip", String(n));
+    b.type = "button";
+    b.dataset.n = n;
+    b.onclick = () => { setup.count = n; syncSizes(); refresh(); };
+    sizeButtons.push(b);
+    sizes.appendChild(b);
+  }
+  input.oninput = () => { const n = Math.floor(Number(input.value)); if (n > 0) { setup.count = n; syncSizes(); refresh(); } };
+  sizes.appendChild(input);
+  form.appendChild(sizes);
+
+  // from which parashiyot
+  const head = node("div", "label sefershead");
+  head.appendChild(node("span", null, ui.seferFrom));
+  const all = node("button", "linkish", ui.seferAll);
+  all.type = "button";
+  const none = node("button", "linkish", ui.seferNoneBtn);
+  none.type = "button";
+  head.append(all, none);
+  form.appendChild(head);
+  const chips = node("div", "seferparashot");
+  const chipButtons = available.map((p) => {
+    const b = node("button", "chip", parashaName(p));
+    b.type = "button";
+    b.onclick = () => { setup.slugs.has(p.slug) ? setup.slugs.delete(p.slug) : setup.slugs.add(p.slug); refresh(); };
+    chips.appendChild(b);
+    return [p, b];
+  });
+  all.onclick = () => { setup.slugs = new Set(available.map((p) => p.slug)); refresh(); };
+  none.onclick = () => { setup.slugs = new Set(); refresh(); };
+  form.appendChild(chips);
+  const missing = book.parashot.length - available.length;
+  if (missing) form.appendChild(node("p", "muted small", ui.seferPartial(available.length, book.parashot.length)));
+
+  const note = node("p", "sefernote");
+  const start = node("button", "button", ui.seferStart);
+  start.type = "button";
+  const refresh = () => {
+    chipButtons.forEach(([p, b]) => b.classList.toggle("on", setup.slugs.has(p.slug)));
+    const max = bankSize();
+    const n = Math.min(setup.count, max);
+    start.disabled = !max;
+    note.textContent = !max ? ui.seferPick : ui.seferWillDraw(n, setup.slugs.size, max);
+  };
+  form.append(note, start);
+  host.appendChild(form);
+  syncSizes();
+  refresh();
+  available.forEach((p) => loadQuiz(p.slug).then((r) => { counts.set(p.slug, (r.questions || []).length); if (start.isConnected) refresh(); }).catch(() => {}));
+
+  const best = quizBest(`${key}:${setup.count}`);
+  if (best) form.insertBefore(node("p", "quizbestline", `${ui.quizBest} (${setup.count}): ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`), note);
+
+  start.onclick = () => {
+    const chosen = available.filter((p) => setup.slugs.has(p.slug));
+    if (!chosen.length) return;
+    start.disabled = true;
+    note.textContent = ui.loading;
+    const wanted = state.quiz;
+    Promise.all(chosen.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))))
+      .then((banks) => {
+        if (state.quiz !== wanted) return;
+        const questions = drawSefer(banks, setup.count);
+        quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions, size: setup.count });
+        renderQuiz();
+        window.scrollTo(0, 0);
+      })
+      .catch(() => { note.textContent = ui.loadFailed; start.disabled = false; });
+  };
+}
+
+/** One quiz, question after question, with the score bar and the results card. */
+function renderQuizRun(host, key, questions, { sefer }) {
+  if (!quizRuns.has(key)) quizRuns.set(key, { chosen: new Map(), hinted: new Set() });
+  const run = quizRuns.get(key);
+  const total = questions.length;
+  const bestKey = sefer ? `${key}:${run.size}` : key;
+  const ui = t();
+  const wrap = node("div", "quizwrap");
+  if (ui.quizNote) wrap.appendChild(node("p", "muted", ui.quizNote));
+
+  // how it scores, and the best so far on this device
+  const intro = node("div", "quizintro");
+  intro.appendChild(node("p", null, ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
+  const best = quizBest(bestKey);
+  if (best) intro.appendChild(node("p", "quizbestline", `${ui.quizBest}: ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`));
+  wrap.appendChild(intro);
+
+  // the score bar: progress, points, streak
+  const bar = node("div", "quizbar");
+  const stats = node("div", "quizstats");
+  const pointsBox = node("span", "quizpts");
+  const streakBox = node("span", "quizstreak");
+  const countBox = node("span", "quizcount");
+  stats.append(pointsBox, streakBox, countBox);
+  const restart = () => { quizRuns.delete(key); renderQuiz(); window.scrollTo(0, 0); };
+  const reset = node("button", null, sefer ? ui.seferChange : ui.quizReset);
+  reset.type = "button";
+  reset.onclick = restart;
+  const track = node("div", "quizprogress");
+  const fill = node("div", "fill");
+  track.appendChild(fill);
+  bar.append(stats, reset, track);
+  wrap.appendChild(bar);
+
+  const list = node("ol", "quizlist");
+  list.dir = "rtl";
+  list.lang = "he";
+  const items = [];
+  const results = node("div", "quizresults");
+  results.hidden = true;
+
+  const update = () => {
+    const tally = quizTally(questions, run);
+    pointsBox.textContent = ui.quizPoints(tally.points);
+    streakBox.textContent = tally.streak >= 2 ? `🔥 ${tally.streak}` : "";
+    streakBox.classList.toggle("hot", tally.streak >= QUIZ_STREAK_FROM);
+    countBox.textContent = ui.quizCount(tally.right, tally.done, total);
+    fill.style.width = `${(tally.done / total) * 100}%`;
+    return tally;
+  };
+
+  const finish = (fresh) => {
+    const tally = quizTally(questions, run);
+    const prior = quizBest(bestKey);
+    const record = !prior || tally.points > prior.points;
+    if (fresh && record) saveQuizBest(bestKey, { right: tally.right, total, points: tally.points });
+    results.innerHTML = "";
+    results.hidden = false;
+    results.appendChild(node("h3", null, ui.quizRank(tally.right, total, !!sefer)));
+    results.appendChild(node("p", "quizfinal", `${ui.quizBestShort(tally.right, total)} · ${ui.quizPoints(tally.points)}`));
+    const facts = node("p", "quizfacts");
+    facts.textContent = ui.quizLongest(tally.longest);
+    results.appendChild(facts);
+    if (fresh && record && prior) results.appendChild(node("p", "quizrecord", ui.quizNewBest));
+    else if (prior && !record) results.appendChild(node("p", "muted", `${ui.quizBest}: ${ui.quizPoints(prior.points)}`));
+    if (tally.missed.length) {
+      const again = node("div", "quizmissed");
+      again.appendChild(node("span", null, ui.quizReview));
+      tally.missed.forEach((i) => {
+        const b = node("button", null, String(i + 1));
+        b.type = "button";
+        b.onclick = () => items[i].scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" });
+        again.appendChild(b);
+      });
+      results.appendChild(again);
+    }
+    const replay = node("button", "button", sefer ? ui.seferAgain : ui.quizAgain);
+    replay.type = "button";
+    // a sefer quiz plays again with a fresh draw of the same size from the same parashiyot
+    replay.onclick = sefer ? () => {
+      const setup = seferSetups.get(sefer.en);
+      const chosen = quizParashot(sefer).filter((p) => !setup || setup.slugs.has(p.slug));
+      Promise.all(chosen.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))))
+        .then((banks) => {
+          quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions: drawSefer(banks, run.size), size: run.size });
+          renderQuiz();
+          window.scrollTo(0, 0);
+        });
+    } : restart;
+    results.appendChild(replay);
+    if (sefer) {
+      const change = node("button", "button ghost", ui.seferChange);
+      change.type = "button";
+      change.onclick = restart;
+      results.appendChild(change);
+    }
+    if (fresh) {
+      if (tally.right / total >= 0.7) confetti();
+      setTimeout(() => results.scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" }), 350);
+    }
+  };
+
+  questions.forEach((q, i) => {
+    const li = node("li", "quizq");
+    items.push(li);
+    if (q.parasha) li.appendChild(node("span", "quiztag", `פרשת ${q.parasha.he}`));
+    li.appendChild(node("p", "quizprompt", q.q));
+    const opts = node("div", "quizopts");
+    const after = node("div", "quizafter");
+    const buttons = q.o.map((text, k) => {
+      const b = node("button", "quizopt", text);
+      b.type = "button";
+      b.onclick = () => {
+        if (run.chosen.has(i)) return;
+        run.chosen.set(i, k);
+        show(true);
+        const tally = update();
+        if (k === q.a) {
+          let gained = run.hinted.has(i) ? QUIZ_HINTED : QUIZ_POINTS;
+          if (tally.streak >= QUIZ_STREAK_FROM) gained += QUIZ_STREAK_BONUS;
+          floatUp(b, `+${gained}`, "good");
+          if (tally.streak === total || [3, 5, 10, 15, 20, 25, 50].includes(tally.streak)) quizToast(bar, ui.quizStreakToast(tally.streak, total));
+        }
+        if (tally.done === total) finish(true);
+      };
+      opts.appendChild(b);
+      return b;
+    });
+    let hint = null;
+    if (q.h) {
+      hint = node("button", "quizhint", ui.quizHintBtn(QUIZ_HINTED));
+      hint.type = "button";
+      hint.onclick = () => { run.hinted.add(i); hint.replaceWith(node("p", "quizhinttext", q.h)); };
+    }
+    const show = (fresh) => {
+      const pick = run.chosen.get(i);
+      const good = pick === q.a;
+      buttons.forEach((b, k) => {
+        b.disabled = true;
+        b.classList.toggle("right", k === q.a);
+        b.classList.toggle("wrong", k === pick && !good);
+      });
+      li.classList.add(good ? "got" : "missed");
+      if (fresh && !calm()) {
+        li.classList.add(good ? "pop" : "shake");
+        setTimeout(() => li.classList.remove("pop", "shake"), 600);
+      }
+      if (hint && hint.isConnected) hint.remove();
+      after.innerHTML = "";
+      const verdict = node("p", "quizverdict " + (good ? "ok" : "no"));
+      verdict.appendChild(node("b", null, good ? ui.quizRight[i % ui.quizRight.length] : ui.quizWrong[i % ui.quizWrong.length]));
+      verdict.append(" ", q.e);
+      after.appendChild(verdict);
+      const ref = node("p", "quizref");
+      ref.appendChild(sefariaLink(`${rangeLabel(q.ref)} — ${ui.quizPasuk}`, q.ref));
+      after.appendChild(ref);
+    };
+    li.appendChild(opts);
+    if (hint) li.appendChild(hint);
+    li.appendChild(after);
+    if (run.chosen.has(i)) show(false);
+    list.appendChild(li);
+  });
+  wrap.append(list, results);
+  const tally = update();
+  if (tally.done === total) finish(false);
+  host.appendChild(wrap);
+}
+
+function openQuiz(key) {
   state.parasha = state.reading = state.aliyah = state.view = null;
   state.rjs = null;
-  state.quiz = slug;
+  state.quiz = key;
   writeHash();
   render();
   window.scrollTo(0, 0);
@@ -1404,7 +1607,8 @@ function readHash() {
   state.view = ["summaries", "questions", "all"].includes(params.get("v")) ? params.get("v") : null;
   if (state.view) state.aliyah = null;
   state.rjs = !state.parasha && findParasha(params.get("rjs")) ? params.get("rjs") : null;
-  state.quiz = !state.parasha && !state.rjs && findParasha(params.get("quiz")) ? params.get("quiz") : null;
+  const quiz = params.get("quiz");
+  state.quiz = !state.parasha && !state.rjs && (findParasha(quiz) || seferOf(quiz)) ? quiz : null;
   render();
 }
 
