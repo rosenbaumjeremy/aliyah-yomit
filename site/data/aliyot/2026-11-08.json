@@ -1,0 +1,1097 @@
+{
+ "date": "2026-11-08",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 26:6-26:12",
+ "hebrew_date": {
+  "hebrew": "כ״ח בְּחֶשְׁוָן תשפ״ז",
+  "english": "28 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Yitzchak stays in Gerar, as God told him. Asked about Rivka, he says she is his sister, fearing the men of the place will kill him for her beauty. After a long time Avimelech, king of the Philistines, looks through a window and sees Yitzchak with Rivka his wife. He summons Yitzchak and rebukes him for the danger he created, and Yitzchak explains his fear. Avimelech orders all the people that whoever touches this man or his wife shall surely be put to death. Yitzchak then sows in that land and reaps a hundredfold the same year, and God blesses him.",
+  "questions": [
+   {
+    "title": "Why did Yitzchak say 'she is my sister' when no one suspected him?",
+    "pasuk": {
+     "text": "וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא",
+     "ref": "Genesis 26:7",
+     "label": "Genesis 26:7"
+    },
+    "question": "Why did Yitzchak say 'my sister' at all, when the people of Gerar had not yet shown any intent to harm him?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 26:7:1-2",
+      "era": "acharon",
+      "quote": "למה אמר אחותי והלא לא היו חשודים על כך"
+     },
+     {
+      "name": "Tzror HaMor",
+      "ref": "Tzror HaMor on Torah, Genesis 26:7:1",
+      "era": "acharon",
+      "quote": "אם התורה נותנת סבה לא היה לומר אלא פן יהרגוהו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Malbim: the locals asked him about it, all of them asked, and they asked about his wife, which is licentiousness, so he hurried to answer first.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 26:7:1-2",
+        "quote": "ספר ג' טעמים, מדוע אמר אחותי היא"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: they asked about the wife so that she would say 'my husband'; he jumped in to answer himself so that her husband would not be killed.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 26:7:1",
+        "quote": "קפץ והשיב הוא ויאמר אחותי היא"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: he said it as Avraham had said it before him.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:7:4",
+        "quote": "כמו שאמר אברהם כך אמר יצחק"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Yitzchak learned from his father's experience while facing a different situation."
+   },
+   {
+    "title": "Why was Rivka not taken as Sarah was?",
+    "pasuk": {
+     "text": "וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא",
+     "ref": "Genesis 26:7",
+     "label": "Genesis 26:7"
+    },
+    "question": "Yitzchak repeats his father's claim, yet Rivka is not taken to the palace. What made the difference?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 26:7:1",
+      "era": "rishon",
+      "quote": "מה שלא נלקחה רבקה לאלתר כמו שנלקחה שרה"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 26:7:2",
+      "era": "rishon",
+      "quote": "אבל ביצחק לא נלקחה רבקה כלל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni and Lekach Tov: Avraham had already rebuked them, that a stranger who comes to town is asked about his wife or sister; so Rivka was not taken until the matter was clarified.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:7:2",
+        "quote": "כי למודים היו מן אברהם"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:7:1",
+        "quote": "שאמר להם אכסנאי שבא לעיר"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: because of what happened to Avimelech over Sarah, he did not take Rivka.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:7:4",
+        "quote": "מפני המעשה שאירע לאבימלך על שרה"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: this was divine providence, that Avimelech only looked through the window and did not dare touch her.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 26:8:1",
+        "quote": "רק השקיף בעד החלון חוקר עליהם ולא ערב לבו לנגוע בה"
+       }
+      ]
+     }
+    ],
+    "why": "The Torah seems to contrast the two stories; the commentators explain the contrast either by Avraham's earlier lesson or by divine providence."
+   },
+   {
+    "title": "Why does it say the men of the place asked 'about his wife'?",
+    "pasuk": {
+     "text": "וַֽיִּשְׁאֲל֞וּ אַנְשֵׁ֤י הַמָּקוֹם֙ לְאִשְׁתּ֔וֹ",
+     "ref": "Genesis 26:7",
+     "label": "Genesis 26:7"
+    },
+    "question": "The verse says they asked 'to his wife', yet Yitzchak is the one who answers. Whom did they ask?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 26:7:1",
+      "era": "acharon",
+      "quote": "דמשמע בפסוק ששאלו את רבקה ויצחק השיב והיאך שייך זה"
+     },
+     {
+      "name": "Tzror HaMor",
+      "ref": "Tzror HaMor on Torah, Genesis 26:7:1",
+      "era": "acharon",
+      "quote": "ואם הוא משיב לאנשי המקום אם כן ידעו הדבר וזה שקר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'לאשתו' means 'about his wife', like 'say of me, he is my brother'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:7:1",
+        "quote": "על אשתו, כמו אמרי לי אחי הוא"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: they did not ask her; they asked him about the matter of his wife.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:7:1",
+        "quote": "לא ששאלו אותה, אלא לו שאלו על עסקי אשתו"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: they did ask the wife, not him, hoping she would say 'my husband'.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 26:7:1",
+        "quote": "ששאלו לאשתו ולא לו"
+       }
+      ]
+     }
+    ],
+    "why": "The plain wording is odd, and the answers split between reading the prefix differently and reading the verse literally."
+   },
+   {
+    "title": "How did Avimelech know she was his wife from 'metzachek'?",
+    "pasuk": {
+     "text": "וַיַּשְׁקֵף֙ אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ פְּלִשְׁתִּ֔ים בְּעַ֖ד הַֽחַלּ֑וֹן וַיַּ֗רְא וְהִנֵּ֤ה יִצְחָק֙ מְצַחֵ֔ק אֵ֖ת רִבְקָ֥ה אִשְׁתּֽוֹ",
+     "ref": "Genesis 26:8",
+     "label": "Genesis 26:8"
+    },
+    "question": "What did Avimelech see? Mere affection could have been shown to a sister; why do the commentators say it was marital relations?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:8:2",
+      "era": "acharon",
+      "quote": "אבל עדיין לא ידעתי מאין הוציא שהיה משמש מטתו"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 26:8:2",
+      "era": "acharon",
+      "quote": "וצ\"ע דלמא גפוף ונשוק ראה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Gur Aryeh: the word 'metzachek' is used only for marital relations, as in 'the Hebrew slave came to us to mock us'; and Yitzchak would not act lightly with embraces and kisses.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:8:1",
+        "quote": "ולא נקרא מצחק רק משמש מטתו"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: 'metzachek' means marital relations, as in 'came to me to mock me'.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:8:2",
+        "quote": "בא אלי העבד העברי אשר הבאת לנו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: it was the laughter that comes before relations; one cannot say he saw the act itself, since Yitzchak would not do so before onlookers and by day.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:8:3",
+        "quote": "צחוק שלפני הבעילה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the verse describes intimacy or only closeness, and how Avimelech reached his conclusion."
+   },
+   {
+    "title": "How could Yitzchak have relations by day and in a famine?",
+    "pasuk": {
+     "text": "וַיְהִ֗י כִּ֣י אָֽרְכוּ־ל֥וֹ שָׁם֙ הַיָּמִ֔ים",
+     "ref": "Genesis 26:8",
+     "label": "Genesis 26:8"
+    },
+    "question": "If he was marital with Rivka in daytime, how could a righteous man do so, and in a time of famine?",
+    "asked_by": [
+     {
+      "name": "Tur HaAroch",
+      "ref": "Tur HaArokh, Genesis 26:8:1",
+      "era": "rishon",
+      "quote": "תימה היאך שמש מטתו בשני רעבון"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:8:2",
+      "era": "acharon",
+      "quote": "ליכא לאקשויי היאך היה משמש מטתו ביום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Gur Aryeh: a Torah scholar may cover himself with his garment and it is permitted.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:8:1",
+        "quote": "תלמיד חכם מאפיל בטליתו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: long days of intimacy had passed, as with Chilkiyahu the priest, and the famine was only in that land.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:8:1",
+        "quote": "וכן מצינו בחלקיהו הכהן אביו של ירמיהו"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:8:2",
+        "quote": "בבית אפל מותר לשמש אפילו ביום"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Rabbi Yochanan says that one who has relations by day is looked down upon; Yitzchak is criticised.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:5",
+        "quote": "הַמְשַׁמֵּשׁ מִטָּתוֹ בַּיּוֹם הֲרֵי זֶה מְגֻנֶּה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the Rishonim and the Midrash disagree whether Yitzchak is defended or criticised here."
+   },
+   {
+    "title": "Who is 'one of the people', and why 'brought upon us guilt'?",
+    "pasuk": {
+     "text": "כִּ֠מְעַ֠ט שָׁכַ֞ב אַחַ֤ד הָעָם֙ אֶת־אִשְׁתֶּ֔ךָ וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם",
+     "ref": "Genesis 26:10",
+     "label": "Genesis 26:10"
+    },
+    "question": "Does 'echad ha'am' mean any ordinary person, or the king himself? And is 'you would have brought guilt' about the future or the past?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:10:1",
+      "era": "acharon",
+      "quote": "דאל\"כ והבאת עליו אשם מיבעי ליה"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 26:10:2",
+      "era": "acharon",
+      "quote": "אי אפשר לפרשו לשון עתיד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi and Lekach Tov: 'echad' means the unique one among the people, that is the king.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:10:1",
+        "quote": "המיוחד בעם, זה המלך"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:10:1",
+        "quote": "המיוחד שבעם הוא המלך"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: it means any one of the people, whoever he may be.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 26:10:2",
+        "quote": "אחד מהעם, יהיה מי שיהיה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the guilt came immediately upon the act, so it should be read 'you have already brought guilt'.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:10:1",
+        "quote": "כבר הבאת אשם בשעת שכיבה"
+       }
+      ]
+     }
+    ],
+    "why": "It affects how serious Avimelech portrays the danger, to himself or to the whole nation."
+   },
+   {
+    "title": "Why does Avimelech say 'to us' and Pharaoh 'to me'?",
+    "pasuk": {
+     "text": "מַה־זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ",
+     "ref": "Genesis 26:10",
+     "label": "Genesis 26:10"
+    },
+    "question": "Pharaoh said 'what have you done to me' in the singular, but Avimelech says 'to us'. Why?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 26:10:1",
+      "era": "rishon",
+      "quote": "כְּתִיב בַּאֲבִימֶלֶךְ עָשִׂיתָ לָּנוּ לְשׁוֹן רַבִּים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Kli Yakar: the Egyptians were licentious, and Avimelech's people were not like the dark-skinned Egyptians, so everyone would have taken a beautiful unmarried woman.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 26:10:2",
+        "quote": "וְהַכֹּל שׁוֹלְחִים יָד בְּאִשָּׁה יָפָה פְּנוּיָה"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: when the leader of the generation is struck, harm increases to those who shelter in his shadow.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 26:10:2",
+        "quote": "כְּשֶׁיִּלְקֶה גְּדוֹל הַדּוֹר"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: it is a punishment on the whole nation.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 26:10:3",
+        "quote": "עונש על כל האומה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the Torah's word choices are read against the parallel stories of Avraham and Pharaoh."
+   },
+   {
+    "title": "Why did Yitzchak's field have to be measured if blessing avoids what is counted?",
+    "pasuk": {
+     "text": "וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרְכֵ֖הוּ יְהֹוָֽה",
+     "ref": "Genesis 26:12",
+     "label": "Genesis 26:12"
+    },
+    "question": "The Sages say blessing does not rest on what is measured, so why was Yitzchak's crop assessed, and how was it still blessed?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 26:12:3",
+      "era": "acharon",
+      "quote": "דקשה לרש\"י למה מדד"
+     },
+     {
+      "name": "Chatam Sofer",
+      "ref": "Chatam Sofer on Torah, Toldot 19",
+      "era": "acharon",
+      "quote": "הא אין מעשרין מאומד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah: he measured it because of the tithes.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:6",
+        "quote": "מִפְּנֵי מָה מָדַד אוֹתָהּ מִפְּנֵי הַמַּעַשְׂרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: even though it was measured and the amount known, the blessing still came.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 26:12:1",
+        "quote": "אַף עַל פִּי כֵן וַיְבָרְכֵהוּ ה׳"
+       }
+      ]
+     },
+     {
+      "text": "Chatam Sofer: Yitzchak removed the king's share from the field so that the grain was fully obligated in tithes.",
+      "sources": [
+       {
+        "name": "Chatam Sofer",
+        "ref": "Chatam Sofer on Torah, Toldot 19",
+        "quote": "ושוב זרעה ומצא מאה שערים"
+       }
+      ]
+     }
+    ],
+    "why": "It links Yitzchak's wealth to tithing and to the rule that blessing does not rest on counted produce."
+   },
+   {
+    "title": "Why does the verse say 'in that land' and 'in that year'?",
+    "pasuk": {
+     "text": "וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא",
+     "ref": "Genesis 26:12",
+     "label": "Genesis 26:12"
+    },
+    "question": "What is added by stressing 'that land' and 'that year'?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:12:1",
+      "era": "acharon",
+      "quote": "דאם לא כן מעוטא דההיא ההיא למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashbam: even though the land is hard, and even though it was a year of drought and famine.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:12:1",
+        "quote": "אף על פי שהארץ קשה היא"
+       },
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:12:2",
+        "quote": "אף על פי שהיא שנת בצורת ורעבון"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: if the land and year had been good, how much more.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:6",
+        "quote": "הָאָרֶץ קָשָׁה וְהַשָּׁנָה קָשָׁה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: it was a hard land in a drought year, and even so he found a hundredfold.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 26:12:1-2",
+        "quote": "אֶרֶץ קָשָׁה הָיְתָה וְהַשָּׁנָה הַהִיא שְׁנַת בַּצֹּרֶת הָיְתָה"
+       }
+      ]
+     }
+    ],
+    "why": "It emphasises that the blessing came against all natural expectations."
+   }
+  ],
+  "sources_consulted": [
+   "Malbim",
+   "Tzror HaMor",
+   "Alshekh",
+   "Midrash Sekhel Tov",
+   "Chizkuni",
+   "Midrash Lekach Tov",
+   "Siftei Chakhamim",
+   "Rashi",
+   "Mizrachi",
+   "Gur Aryeh",
+   "Rashbam",
+   "Tur HaAroch",
+   "Bereshit Rabbah",
+   "Shadal",
+   "Kli Yakar",
+   "Sforno",
+   "Chatam Sofer",
+   "Or HaChaim",
+   "Rabbeinu Bahya"
+  ]
+ },
+ "hebrew": {
+  "summary": "יצחק יושב בגרר. כששואלים אותו על רבקה הוא אומר שהיא אחותו, מחשש שאנשי המקום יהרגוהו בגללה. לאחר ימים רבים אבימלך מלך פלשתים משקיף בעד החלון ורואה את יצחק מצחק את רבקה אשתו. הוא קורא ליצחק ומוכיח אותו על הסכנה שהביא, ויצחק מסביר את פחדו. אבימלך מצווה את כל העם שהנוגע באיש הזה ובאשתו מות יומת. יצחק זורע בארץ ההיא, מוצא בשנה ההיא מאה שערים, וה' מברכו.",
+  "questions": [
+   {
+    "title": "למה אמר יצחק \"אחותי היא\" כשלא חשדו בו?",
+    "pasuk": {
+     "text": "וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא",
+     "ref": "Genesis 26:7",
+     "label": "בראשית כו, ז"
+    },
+    "question": "מדוע אמר יצחק \"אחותי\", והרי אנשי גרר עדיין לא נראו חשודים בפגיעה בו?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 26:7:1-2",
+      "era": "acharon",
+      "quote": "למה אמר אחותי והלא לא היו חשודים על כך"
+     },
+     {
+      "name": "צרור המור",
+      "ref": "Tzror HaMor on Torah, Genesis 26:7:1",
+      "era": "acharon",
+      "quote": "אם התורה נותנת סבה לא היה לומר אלא פן יהרגוהו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלבי\"ם: שאלו אותו על כך, כל אנשי המקום שאלו, ושאלו על אשתו שהוא פריצות, ולכן הקדים לענותם.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 26:7:1-2",
+        "quote": "ספר ג' טעמים, מדוע אמר אחותי היא"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: שאלו את האשה כדי שתאמר שהוא בעלה; הוא קפץ והשיב כדי שלא ייהרג.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 26:7:1",
+        "quote": "קפץ והשיב הוא ויאמר אחותי היא"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: כמו שאמר אברהם כך אמר יצחק.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:7:4",
+        "quote": "כמו שאמר אברהם כך אמר יצחק"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד למד יצחק ממעשה אביו ובכל זאת התמודד עם מצב שונה."
+   },
+   {
+    "title": "למה לא נלקחה רבקה כמו שרה?",
+    "pasuk": {
+     "text": "וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא",
+     "ref": "Genesis 26:7",
+     "label": "בראשית כו, ז"
+    },
+    "question": "יצחק חוזר על דברי אביו, אך רבקה אינה נלקחת לבית המלך. מה היה ההבדל?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 26:7:1",
+      "era": "rishon",
+      "quote": "מה שלא נלקחה רבקה לאלתר כמו שנלקחה שרה"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 26:7:2",
+      "era": "rishon",
+      "quote": "אבל ביצחק לא נלקחה רבקה כלל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני ולקח טוב: אברהם כבר הוכיחם שאורח שבא לעיר שואלים אותו על אשתו ואחותו, ולכן לא נלקחה רבקה עד שנתברר הדבר.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:7:2",
+        "quote": "כי למודים היו מן אברהם"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:7:1",
+        "quote": "שאמר להם אכסנאי שבא לעיר"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: מפני המעשה שאירע לאבימלך על שרה לא לקח את רבקה.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:7:4",
+        "quote": "מפני המעשה שאירע לאבימלך על שרה"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: זו השגחה פרטית, שאבימלך רק השקיף בעד החלון ולא ערב לבו לנגוע בה.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 26:8:1",
+        "quote": "רק השקיף בעד החלון חוקר עליהם ולא ערב לבו לנגוע בה"
+       }
+      ]
+     }
+    ],
+    "why": "התורה מציגה ניגוד בין שני המעשים, והמפרשים מסבירים אותו בלקח מאברהם או בהשגחה."
+   },
+   {
+    "title": "מה פירוש \"וישאלו אנשי המקום לאשתו\"?",
+    "pasuk": {
+     "text": "וַֽיִּשְׁאֲל֞וּ אַנְשֵׁ֤י הַמָּקוֹם֙ לְאִשְׁתּ֔וֹ",
+     "ref": "Genesis 26:7",
+     "label": "בראשית כו, ז"
+    },
+    "question": "הכתוב אומר שאלו \"לאשתו\", אך יצחק הוא שעונה. את מי שאלו?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 26:7:1",
+      "era": "acharon",
+      "quote": "דמשמע בפסוק ששאלו את רבקה ויצחק השיב והיאך שייך זה"
+     },
+     {
+      "name": "צרור המור",
+      "ref": "Tzror HaMor on Torah, Genesis 26:7:1",
+      "era": "acharon",
+      "quote": "ואם הוא משיב לאנשי המקום אם כן ידעו הדבר וזה שקר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"לאשתו\" – על אשתו, כמו \"אמרי לי אחי הוא\".",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:7:1",
+        "quote": "על אשתו, כמו אמרי לי אחי הוא"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: לא ששאלו אותה, אלא לו שאלו על עסקי אשתו.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:7:1",
+        "quote": "לא ששאלו אותה, אלא לו שאלו על עסקי אשתו"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: דווקא את האשה שאלו, כדי שתאמר \"אישי\".",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 26:7:1",
+        "quote": "ששאלו לאשתו ולא לו"
+       }
+      ]
+     }
+    ],
+    "why": "הלשון הפשוטה קשה, והתשובות נחלקות בין פירוש האות לבין קריאה כפשוטה."
+   },
+   {
+    "title": "איך ידע אבימלך שהיא אשתו מתוך \"מצחק\"?",
+    "pasuk": {
+     "text": "וַיַּשְׁקֵף֙ אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ פְּלִשְׁתִּ֔ים בְּעַ֖ד הַֽחַלּ֑וֹן וַיַּ֗רְא וְהִנֵּ֤ה יִצְחָק֙ מְצַחֵ֔ק אֵ֖ת רִבְקָ֥ה אִשְׁתּֽוֹ",
+     "ref": "Genesis 26:8",
+     "label": "בראשית כו, ח"
+    },
+    "question": "מה ראה אבימלך? חיבה בלבד אפשר שתהיה גם לאחות, מדוע מפרשים שראהו משמש מטתו?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 26:8:2",
+      "era": "acharon",
+      "quote": "אבל עדיין לא ידעתי מאין הוציא שהיה משמש מטתו"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 26:8:2",
+      "era": "acharon",
+      "quote": "וצ\"ע דלמא גפוף ונשוק ראה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "גור אריה: \"מצחק\" נאמר רק על תשמיש, וגם יצחק לא היה נוהג בקלות ראש של חיבוק ונשיקה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:8:1",
+        "quote": "ולא נקרא מצחק רק משמש מטתו"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: \"מצחק\" הוא תשמיש.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:8:2",
+        "quote": "בא אלי העבד העברי אשר הבאת לנו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: הצחוק שלפני הבעילה; לא ראהו בועל, שלא היה יצחק עושה כך לפני רואים וביום.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:8:3",
+        "quote": "צחוק שלפני הבעילה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם הכתוב מתאר קרבה או חיבה בלבד, ואיך הגיע אבימלך למסקנתו."
+   },
+   {
+    "title": "איך שימש יצחק מטתו ביום ובשנות רעב?",
+    "pasuk": {
+     "text": "וַיְהִ֗י כִּ֣י אָֽרְכוּ־ל֥וֹ שָׁם֙ הַיָּמִ֔ים",
+     "ref": "Genesis 26:8",
+     "label": "בראשית כו, ח"
+    },
+    "question": "אם שימש יצחק מטתו, איך עשה זאת צדיק ביום, ועוד בשנת רעב?",
+    "asked_by": [
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 26:8:1",
+      "era": "rishon",
+      "quote": "תימה היאך שמש מטתו בשני רעבון"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 26:8:2",
+      "era": "acharon",
+      "quote": "ליכא לאקשויי היאך היה משמש מטתו ביום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "גור אריה: תלמיד חכם מאפיל בטליתו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:8:1",
+        "quote": "תלמיד חכם מאפיל בטליתו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: ימים רבים לא שימש, כחלקיהו הכהן; והרעב היה רק בארץ ההיא.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:8:1",
+        "quote": "וכן מצינו בחלקיהו הכהן אביו של ירמיהו"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:8:2",
+        "quote": "בבית אפל מותר לשמש אפילו ביום"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: המשמש מטתו ביום הרי זה מגונה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:5",
+        "quote": "הַמְשַׁמֵּשׁ מִטָּתוֹ בַּיּוֹם הֲרֵי זֶה מְגֻנֶּה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהמפרשים והמדרש נחלקים אם יצחק מוגן כאן או מגונה."
+   },
+   {
+    "title": "מי הוא \"אחד העם\" ומהו \"והבאת עלינו אשם\"?",
+    "pasuk": {
+     "text": "כִּ֠מְעַ֠ט שָׁכַ֞ב אַחַ֤ד הָעָם֙ אֶת־אִשְׁתֶּ֔ךָ וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם",
+     "ref": "Genesis 26:10",
+     "label": "בראשית כו, י"
+    },
+    "question": "האם \"אחד העם\" הוא אדם רגיל או המלך עצמו, והאם \"והבאת\" לשון עתיד או עבר?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 26:10:1",
+      "era": "acharon",
+      "quote": "דאל\"כ והבאת עליו אשם מיבעי ליה"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 26:10:2",
+      "era": "acharon",
+      "quote": "אי אפשר לפרשו לשון עתיד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י ולקח טוב: אחד – המיוחד בעם, זה המלך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:10:1",
+        "quote": "המיוחד בעם, זה המלך"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:10:1",
+        "quote": "המיוחד שבעם הוא המלך"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: אחד מהעם, יהיה מי שיהיה.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 26:10:2",
+        "quote": "אחד מהעם, יהיה מי שיהיה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: האשם בא מיד עם השכיבה, ולכן \"כבר הבאת אשם\".",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:10:1",
+        "quote": "כבר הבאת אשם בשעת שכיבה"
+       }
+      ]
+     }
+    ],
+    "why": "זה משפיע על חומרת הסכנה שאבימלך מציג, לו עצמו או לכל העם."
+   },
+   {
+    "title": "למה אמר אבימלך \"לנו\" ופרעה אמר \"לי\"?",
+    "pasuk": {
+     "text": "מַה־זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ",
+     "ref": "Genesis 26:10",
+     "label": "בראשית כו, י"
+    },
+    "question": "פרעה אמר \"מה זאת עשית לי\" ואילו אבימלך אומר \"לנו\". מדוע?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 26:10:1",
+      "era": "rishon",
+      "quote": "כְּתִיב בַּאֲבִימֶלֶךְ עָשִׂיתָ לָּנוּ לְשׁוֹן רַבִּים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כלי יקר: אנשי אבימלך לא היו שחורים והורגלו בנשים יפות, ולכן הכל שולחים יד באשה יפה פנויה, ולכן \"לנו\".",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 26:10:2",
+        "quote": "וְהַכֹּל שׁוֹלְחִים יָד בְּאִשָּׁה יָפָה פְּנוּיָה"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כשילקה גדול הדור ירבה הזק לחוסים בצלו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 26:10:2",
+        "quote": "כְּשֶׁיִּלְקֶה גְּדוֹל הַדּוֹר"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: עונש על כל האומה.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 26:10:3",
+        "quote": "עונש על כל האומה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שדקדוקי הלשון נלמדים מתוך השוואה לסיפורי אברהם ופרעה."
+   },
+   {
+    "title": "למה נמדד השדה אם אין הברכה שורה בדבר הנמדד?",
+    "pasuk": {
+     "text": "וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרְכֵ֖הוּ יְהֹוָֽה",
+     "ref": "Genesis 26:12",
+     "label": "בראשית כו, יב"
+    },
+    "question": "חז\"ל אמרו שאין ברכה בדבר הנמדד, אז למה נאמד יבול יצחק, ואיך נתברך?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 26:12:3",
+      "era": "acharon",
+      "quote": "דקשה לרש\"י למה מדד"
+     },
+     {
+      "name": "חתם סופר",
+      "ref": "Chatam Sofer on Torah, Toldot 19",
+      "era": "acharon",
+      "quote": "הא אין מעשרין מאומד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה: מדד אותה מפני המעשרות.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:6",
+        "quote": "מִפְּנֵי מָה מָדַד אוֹתָהּ מִפְּנֵי הַמַּעַשְׂרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: אף שנמדד ונודע שיעור, ויברכהו ה'.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 26:12:1",
+        "quote": "אַף עַל פִּי כֵן וַיְבָרְכֵהוּ ה׳"
+       }
+      ]
+     },
+     {
+      "text": "חתם סופר: יצחק סילק יד המלך מהשדה כדי שיתחייב במעשר ממש.",
+      "sources": [
+       {
+        "name": "חתם סופר",
+        "ref": "Chatam Sofer on Torah, Toldot 19",
+        "quote": "ושוב זרעה ומצא מאה שערים"
+       }
+      ]
+     }
+    ],
+    "why": "קושר את עושרו של יצחק למעשרות ולכלל שאין ברכה בדבר הנמדד."
+   },
+   {
+    "title": "למה כתוב \"בארץ ההיא\" ו\"בשנה ההיא\"?",
+    "pasuk": {
+     "text": "וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא",
+     "ref": "Genesis 26:12",
+     "label": "בראשית כו, יב"
+    },
+    "question": "מה מוסיפים הדגשים \"בארץ ההיא\" ו\"בשנה ההיא\"?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 26:12:1",
+      "era": "acharon",
+      "quote": "דאם לא כן מעוטא דההיא ההיא למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רשב\"ם: אף על פי שהארץ קשה, ואף על פי שהיא שנת בצורת ורעבון.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:12:1",
+        "quote": "אף על פי שהארץ קשה היא"
+       },
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:12:2",
+        "quote": "אף על פי שהיא שנת בצורת ורעבון"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: ואילו הייתה יפה על אחת כמה וכמה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:6",
+        "quote": "הָאָרֶץ קָשָׁה וְהַשָּׁנָה קָשָׁה"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: ארץ קשה ושנת בצורת, ואף על פי כן מצא מאה שערים.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 26:12:1-2",
+        "quote": "אֶרֶץ קָשָׁה הָיְתָה וְהַשָּׁנָה הַהִיא שְׁנַת בַּצֹּרֶת הָיְתָה"
+       }
+      ]
+     }
+    ],
+    "why": "מדגיש שהברכה באה נגד כל הסיכויים הטבעיים."
+   }
+  ],
+  "sources_consulted": [
+   "מלבי\"ם",
+   "צרור המור",
+   "אלשיך",
+   "מדרש שכל טוב",
+   "חזקוני",
+   "מדרש לקח טוב",
+   "שפתי חכמים",
+   "רש\"י",
+   "מזרחי",
+   "גור אריה",
+   "רשב\"ם",
+   "טור הארוך",
+   "בראשית רבה",
+   "שד\"ל",
+   "כלי יקר",
+   "ספורנו",
+   "חתם סופר",
+   "אור החיים",
+   "רבנו בחיי"
+  ]
+ }
+}
