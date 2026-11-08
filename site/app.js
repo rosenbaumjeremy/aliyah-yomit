@@ -60,11 +60,20 @@ const UI = {
     quizTitle: (name) => `חידון — פרשת ${name}`,
     quizSub: "שאלות אמריקאיות מתוך פשט הכתובים",
     quizNotYet: "החידון על פרשה זו יתפרסם ביום ראשון בבוקר של השבוע שבו קוראים אותה.",
-    quizScore: (right, done, total) => `${right} נכונות מתוך ${done} שנענו (${total} שאלות)`,
-    quizDone: (right, total) => `סיימת! ${right} מתוך ${total}`,
-    quizRight: "נכון!",
-    quizWrong: "לא בדיוק.",
-    quizHintBtn: "רמז",
+    quizRules: (p, from, bonus) => `${p} נקודות על כל תשובה נכונה, ועוד ${bonus} נקודות בונוס מהתשובה ה־${from} ברצף. רמז מוריד את הניקוד של השאלה לחצי.`,
+    quizPoints: (n) => `${n} נק׳`,
+    quizCount: (right, done, total) => `${right}/${done} נכונות · ${done} מתוך ${total}`,
+    quizStreakToast: (n) => (n === 25 ? "🏆 25 ברצף — כל הפרשה בלי טעות!" : n >= 10 ? `🔥🔥 ${n} ברצף! מדהים!` : `🔥 ${n} ברצף!`),
+    quizRank: (right, total) => (right === total ? "מושלם! בקיא בפרשה כמו תלמיד חכם" : right / total >= 0.9 ? "תלמיד חכם!" : right / total >= 0.7 ? "בקיא בפרשה!" : right / total >= 0.5 ? "בדרך הנכונה" : "כדאי לחזור על הפרשה ולנסות שוב"),
+    quizLongest: (n) => `הרצף הארוך ביותר: ${n}`,
+    quizBest: "השיא שלך",
+    quizBestShort: (right, total) => `${right} מתוך ${total}`,
+    quizNewBest: "🎉 שיא אישי חדש!",
+    quizReview: "לחזרה על הטעויות:",
+    quizAgain: "לשחק שוב",
+    quizRight: ["נכון!", "יפה מאוד!", "מצוין!", "בדיוק!", "כל הכבוד!", "אלוף!"],
+    quizWrong: ["לא בדיוק.", "כמעט.", "לא הפעם.", "טעות קטנה."],
+    quizHintBtn: (n) => `רמז (השאלה תהיה שווה ${n} נק׳)`,
     quizReset: "התחל מחדש",
     quizPasuk: "לפסוק בספריא",
     quizNote: "",
@@ -143,11 +152,20 @@ const UI = {
     quizTitle: (name) => `Quiz — Parashat ${name}`,
     quizSub: "Multiple-choice questions on the plain text of the parasha",
     quizNotYet: "The quiz on this parasha will be published on the Sunday morning of the week it is read.",
-    quizScore: (right, done, total) => `${right} right out of ${done} answered (${total} questions)`,
-    quizDone: (right, total) => `Done! ${right} out of ${total}`,
-    quizRight: "Correct!",
-    quizWrong: "Not quite.",
-    quizHintBtn: "Hint",
+    quizRules: (p, from, bonus) => `${p} points for each right answer, plus a ${bonus}-point bonus from the ${from}rd in a row. Opening a hint halves that question's points.`,
+    quizPoints: (n) => `${n} pts`,
+    quizCount: (right, done, total) => `${right}/${done} right · ${done} of ${total}`,
+    quizStreakToast: (n) => (n === 25 ? "🏆 25 in a row — the whole parasha without a mistake!" : n >= 10 ? `🔥🔥 ${n} in a row! Amazing!` : `🔥 ${n} in a row!`),
+    quizRank: (right, total) => (right === total ? "Perfect! You know the parasha like a talmid chacham" : right / total >= 0.9 ? "Talmid chacham!" : right / total >= 0.7 ? "You know the parasha!" : right / total >= 0.5 ? "On the right track" : "Worth reviewing the parasha and trying again"),
+    quizLongest: (n) => `Longest streak: ${n}`,
+    quizBest: "Your best",
+    quizBestShort: (right, total) => `${right} of ${total}`,
+    quizNewBest: "🎉 New personal best!",
+    quizReview: "Review your mistakes:",
+    quizAgain: "Play again",
+    quizRight: ["Correct!", "Very good!", "Excellent!", "Exactly!", "Well done!", "Champion!"],
+    quizWrong: ["Not quite.", "Almost.", "Not this time.", "A small slip."],
+    quizHintBtn: (n) => `Hint (this question will be worth ${n} pts)`,
     quizReset: "Start over",
     quizPasuk: "The pasuk on Sefaria",
     quizNote: "The questions are in Hebrew.",
@@ -1055,8 +1073,12 @@ function openRjs(slug) {
 
 /* ---------- quiz: multiple-choice questions on the parasha (scripts/quiz.py) ---------- */
 
+// Scoring: 10 points for a right answer (5 if the hint was opened), +5 for every right answer
+// that is the 3rd or more in a row. Stars by the share of right answers: 50% / 70% / 90%.
+const QUIZ_POINTS = 10, QUIZ_HINTED = 5, QUIZ_STREAK_BONUS = 5, QUIZ_STREAK_FROM = 3;
+
 const quizFiles = new Map();  // slug -> fetch promise
-const quizAnswers = new Map();  // slug -> Map(question index -> chosen option), until the page is left
+const quizRuns = new Map();   // slug -> this visit's run: {chosen: Map(i -> option), hinted: Set(i)}
 
 function loadQuiz(slug) {
   if (!quizFiles.has(slug)) {
@@ -1067,22 +1089,91 @@ function loadQuiz(slug) {
   return quizFiles.get(slug);
 }
 
-/** The quiz button on a parasha card (and on the parasha page). */
+/* the best result on this device, per parasha (only a convenience: it may be missing) */
+function quizBest(slug) {
+  try { return JSON.parse(localStorage.getItem(`quiz-best:${slug}`)) || null; } catch { return null; }
+}
+function saveQuizBest(slug, result) {
+  try { localStorage.setItem(`quiz-best:${slug}`, JSON.stringify(result)); } catch { /* not saved */ }
+}
+
+const quizStars = (right, total) => (right / total >= 0.9 ? 3 : right / total >= 0.7 ? 2 : right / total >= 0.5 ? 1 : 0);
+const starText = (n) => "★".repeat(n) + "☆".repeat(3 - n);
+const calm = () => window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+/** Score a run: points, right answers, current and longest streak, the questions missed. */
+function quizTally(questions, run) {
+  let points = 0, right = 0, streak = 0, longest = 0;
+  const missed = [];
+  questions.forEach((q, i) => {
+    if (!run.chosen.has(i)) return;
+    if (run.chosen.get(i) === q.a) {
+      right++; streak++; longest = Math.max(longest, streak);
+      points += run.hinted.has(i) ? QUIZ_HINTED : QUIZ_POINTS;
+      if (streak >= QUIZ_STREAK_FROM) points += QUIZ_STREAK_BONUS;
+    } else { streak = 0; missed.push(i); }
+  });
+  return { points, right, streak, longest, missed, done: run.chosen.size };
+}
+
+/** The quiz button on a parasha card (and on the parasha page); shows the best stars on this device. */
 function quizButton(parasha, cls) {
+  const best = state.quizDays.has(parasha.slug) ? quizBest(parasha.slug) : null;
   const button = node("button", cls, t().quiz);
+  if (best) button.appendChild(node("span", "quizstars", starText(best.stars)));
   button.type = "button";
-  button.title = `${t().quizHint} — ${parashaName(parasha)}`;
+  button.title = `${t().quizHint} — ${parashaName(parasha)}` + (best ? ` · ${t().quizBestShort(best.right, best.total)}` : "");
   button.setAttribute("aria-label", button.title);
   button.classList.toggle("has", state.quizDays.has(parasha.slug));
   button.onclick = () => openQuiz(parasha.slug);
   return button;
 }
 
+/** a burst of confetti over the page */
+function confetti() {
+  if (calm()) return;
+  const layer = node("div", "confetti");
+  layer.setAttribute("aria-hidden", "true");
+  const colors = ["#b8924a", "#16305c", "#2e7d4f", "#d0675c", "#6f93cf", "#e8c46a"];
+  for (let n = 0; n < 90; n++) {
+    const bit = node("i");
+    bit.style.left = `${Math.random() * 100}%`;
+    bit.style.background = colors[n % colors.length];
+    bit.style.animationDelay = `${Math.random() * 0.6}s`;
+    bit.style.animationDuration = `${2.2 + Math.random() * 1.6}s`;
+    bit.style.setProperty("--drift", `${(Math.random() - 0.5) * 220}px`);
+    bit.style.setProperty("--spin", `${(Math.random() - 0.5) * 1440}deg`);
+    layer.appendChild(bit);
+  }
+  document.body.appendChild(layer);
+  setTimeout(() => layer.remove(), 4600);
+}
+
+/** a short line that floats up from an element: "+15" */
+function floatUp(anchor, text, cls) {
+  if (calm()) return;
+  const tag = node("span", `quizfloat ${cls || ""}`, text);
+  tag.dir = "ltr";
+  anchor.appendChild(tag);
+  setTimeout(() => tag.remove(), 1300);
+}
+
+/** a banner under the score bar for a moment: "🔥 5 in a row!" */
+function quizToast(host, text) {
+  const old = host.querySelector(".quiztoast");
+  if (old) old.remove();
+  const toast = node("div", "quiztoast", text);
+  toast.setAttribute("role", "status");
+  host.appendChild(toast);
+  setTimeout(() => toast.classList.add("out"), 1800);
+  setTimeout(() => toast.remove(), 2400);
+}
+
 function renderQuiz() {
   const view = el("quiz");
   const parasha = state.quiz && findParasha(state.quiz);
   view.hidden = !parasha;
-  if (!parasha) return;
+  if (!parasha) { document.querySelectorAll(".confetti").forEach((layer) => layer.remove()); return; }
   el("quizBack").textContent = t().back;
   el("quizTitle").textContent = t().quizTitle(parashaName(parasha));
   el("quizSub").textContent = `${t().quizSub} · ${rangeLabel(parasha.ref)}`;
@@ -1095,73 +1186,154 @@ function renderQuiz() {
   const lang = state.lang, wanted = parasha.slug;
   loadQuiz(parasha.slug).then((record) => {
     if (state.lang !== lang || state.quiz !== wanted) return;
-    if (!quizAnswers.has(wanted)) quizAnswers.set(wanted, new Map());
-    const chosen = quizAnswers.get(wanted);
+    if (!quizRuns.has(wanted)) quizRuns.set(wanted, { chosen: new Map(), hinted: new Set() });
+    const run = quizRuns.get(wanted);
     const questions = record.questions || [];
+    const total = questions.length;
+    const ui = t();
     const wrap = node("div", "quizwrap");
-    if (t().quizNote) wrap.appendChild(node("p", "muted", t().quizNote));
+    if (ui.quizNote) wrap.appendChild(node("p", "muted", ui.quizNote));
+
+    // how it scores, and the best so far on this device
+    const intro = node("div", "quizintro");
+    intro.appendChild(node("p", null, ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
+    const best = quizBest(wanted);
+    if (best) intro.appendChild(node("p", "quizbestline", `${ui.quizBest}: ${starText(best.stars)} · ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`));
+    wrap.appendChild(intro);
+
+    // the score bar: progress, points, streak
     const bar = node("div", "quizbar");
-    const score = node("span", "quizscore");
-    const reset = node("button", null, t().quizReset);
+    const stats = node("div", "quizstats");
+    const pointsBox = node("span", "quizpts");
+    const streakBox = node("span", "quizstreak");
+    const countBox = node("span", "quizcount");
+    stats.append(pointsBox, streakBox, countBox);
+    const reset = node("button", null, ui.quizReset);
     reset.type = "button";
-    reset.onclick = () => { quizAnswers.delete(wanted); renderQuiz(); };
-    bar.append(score, reset);
+    reset.onclick = () => { quizRuns.delete(wanted); renderQuiz(); window.scrollTo(0, 0); };
+    const track = node("div", "quizprogress");
+    const fill = node("div", "fill");
+    track.appendChild(fill);
+    bar.append(stats, reset, track);
     wrap.appendChild(bar);
 
     const list = node("ol", "quizlist");
     list.dir = "rtl";
     list.lang = "he";
+    const items = [];
+    const results = node("div", "quizresults");
+    results.hidden = true;
+
     const update = () => {
-      let right = 0;
-      chosen.forEach((pick, i) => { if (questions[i] && pick === questions[i].a) right++; });
-      score.textContent = chosen.size === questions.length
-        ? t().quizDone(right, questions.length) : t().quizScore(right, chosen.size, questions.length);
-      score.classList.toggle("done", chosen.size === questions.length);
+      const tally = quizTally(questions, run);
+      pointsBox.textContent = ui.quizPoints(tally.points);
+      streakBox.textContent = tally.streak >= 2 ? `🔥 ${tally.streak}` : "";
+      streakBox.classList.toggle("hot", tally.streak >= QUIZ_STREAK_FROM);
+      countBox.textContent = ui.quizCount(tally.right, tally.done, total);
+      fill.style.width = `${(tally.done / total) * 100}%`;
+      return tally;
+    };
+
+    const finish = (fresh) => {
+      const tally = quizTally(questions, run);
+      const stars = quizStars(tally.right, total);
+      const prior = quizBest(wanted);
+      const record = !prior || tally.points > prior.points;
+      if (fresh && record) saveQuizBest(wanted, { right: tally.right, total, points: tally.points, stars });
+      results.innerHTML = "";
+      results.hidden = false;
+      results.appendChild(node("div", `quizbigstars s${stars}`, starText(stars)));
+      results.appendChild(node("h3", null, ui.quizRank(tally.right, total)));
+      results.appendChild(node("p", "quizfinal", `${ui.quizBestShort(tally.right, total)} · ${ui.quizPoints(tally.points)}`));
+      const facts = node("p", "quizfacts");
+      facts.textContent = ui.quizLongest(tally.longest);
+      results.appendChild(facts);
+      if (fresh && record && prior) results.appendChild(node("p", "quizrecord", ui.quizNewBest));
+      else if (prior && !record) results.appendChild(node("p", "muted", `${ui.quizBest}: ${ui.quizPoints(prior.points)}`));
+      if (tally.missed.length) {
+        const again = node("div", "quizmissed");
+        again.appendChild(node("span", null, ui.quizReview));
+        tally.missed.forEach((i) => {
+          const b = node("button", null, String(i + 1));
+          b.type = "button";
+          b.onclick = () => items[i].scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" });
+          again.appendChild(b);
+        });
+        results.appendChild(again);
+      }
+      const replay = node("button", "button", ui.quizAgain);
+      replay.type = "button";
+      replay.onclick = reset.onclick;
+      results.appendChild(replay);
+      if (fresh) {
+        if (stars >= 2) confetti();
+        setTimeout(() => results.scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" }), 350);
+      }
     };
 
     questions.forEach((q, i) => {
       const li = node("li", "quizq");
+      items.push(li);
       li.appendChild(node("p", "quizprompt", q.q));
       const opts = node("div", "quizopts");
       const after = node("div", "quizafter");
       const buttons = q.o.map((text, k) => {
         const b = node("button", "quizopt", text);
         b.type = "button";
-        b.onclick = () => { if (!chosen.has(i)) { chosen.set(i, k); show(); update(); } };
+        b.onclick = () => {
+          if (run.chosen.has(i)) return;
+          run.chosen.set(i, k);
+          show(true);
+          const tally = update();
+          if (k === q.a) {
+            let gained = run.hinted.has(i) ? QUIZ_HINTED : QUIZ_POINTS;
+            if (tally.streak >= QUIZ_STREAK_FROM) gained += QUIZ_STREAK_BONUS;
+            floatUp(b, `+${gained}`, "good");
+            if ([3, 5, 10, 15, 20, 25].includes(tally.streak)) quizToast(bar, ui.quizStreakToast(tally.streak));
+          }
+          if (tally.done === total) finish(true);
+        };
         opts.appendChild(b);
         return b;
       });
       let hint = null;
       if (q.h) {
-        hint = node("button", "quizhint", t().quizHintBtn);
+        hint = node("button", "quizhint", ui.quizHintBtn(QUIZ_HINTED));
         hint.type = "button";
-        hint.onclick = () => { hint.replaceWith(node("p", "quizhinttext", q.h)); };
+        hint.onclick = () => { run.hinted.add(i); hint.replaceWith(node("p", "quizhinttext", q.h)); };
       }
-      const show = () => {
-        const pick = chosen.get(i);
+      const show = (fresh) => {
+        const pick = run.chosen.get(i);
+        const good = pick === q.a;
         buttons.forEach((b, k) => {
           b.disabled = true;
           b.classList.toggle("right", k === q.a);
-          b.classList.toggle("wrong", k === pick && k !== q.a);
+          b.classList.toggle("wrong", k === pick && !good);
         });
-        if (hint) hint.remove();
+        li.classList.add(good ? "got" : "missed");
+        if (fresh && !calm()) {
+          li.classList.add(good ? "pop" : "shake");
+          setTimeout(() => li.classList.remove("pop", "shake"), 600);
+        }
+        if (hint && hint.isConnected) hint.remove();
         after.innerHTML = "";
-        const verdict = node("p", "quizverdict " + (pick === q.a ? "ok" : "no"));
-        verdict.appendChild(node("b", null, pick === q.a ? t().quizRight : t().quizWrong));
+        const verdict = node("p", "quizverdict " + (good ? "ok" : "no"));
+        verdict.appendChild(node("b", null, good ? ui.quizRight[i % ui.quizRight.length] : ui.quizWrong[i % ui.quizWrong.length]));
         verdict.append(" ", q.e);
         after.appendChild(verdict);
         const ref = node("p", "quizref");
-        ref.appendChild(sefariaLink(`${rangeLabel(q.ref)} — ${t().quizPasuk}`, q.ref));
+        ref.appendChild(sefariaLink(`${rangeLabel(q.ref)} — ${ui.quizPasuk}`, q.ref));
         after.appendChild(ref);
       };
       li.appendChild(opts);
       if (hint) li.appendChild(hint);
       li.appendChild(after);
-      if (chosen.has(i)) show();
+      if (run.chosen.has(i)) show(false);
       list.appendChild(li);
     });
-    wrap.appendChild(list);
-    update();
+    wrap.append(list, results);
+    const tally = update();
+    if (tally.done === total) finish(false);
     slot.replaceWith(wrap);
   }).catch(() => { slot.textContent = t().loadFailed; });
 }
