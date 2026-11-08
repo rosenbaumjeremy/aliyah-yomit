@@ -1,0 +1,337 @@
+{
+ "slug": "toldot",
+ "parasha": {
+  "en": "Toldot",
+  "he": "תולדות"
+ },
+ "date": "2026-11-08",
+ "english": {
+  "overview": "Rabbi Sacks’ essays on Toledot look at the twins Jacob and Esau and their parents Isaac and Rebecca. One essay reads the likeness of Isaac and Abraham as a lesson about individuality and cloning. Another examines the ambiguity of the oracle Rebecca received, and a third reads Isaac among the Philistines as a first sign of anti-Semitism and a model of persistence. The last draws out the sympathetic portrayal of Esau and what it teaches about chosenness.",
+  "essays": [
+   {
+    "title": "On Clones and Identity",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, On Clones and Identity",
+    "summary": "Rabbi Sacks begins with a puzzle in the opening verse of the parasha: it says Isaac was Abraham’s son and then repeats that Abraham begat Isaac. Rashi, drawing on the sages, answers that gossips claimed Sarah had conceived by Avimelekh, so God made Isaac’s face exactly resemble Abraham’s, and everyone had to admit Abraham was his father. A second midrash, on the verse that calls Abraham old, adds a cost: because people could not tell father from son, Abraham prayed to grow old, and until him people did not grow old.\n\nRabbi Sacks reads this as a psychological insight. Isaac is the least individuated of the patriarchs: like Abraham he goes to the Philistines in famine, meets Avimelekh, calls his wife his sister and re-digs his father’s wells. The sages are teaching that parents are not their children and each person has a unique purpose. He then turns to eugenic cloning, which, unlike other assisted reproduction, is asexual reproduction. He raises the loss of genetic variety, the risk of treating persons as means, and the Mishnah’s teaching that God stamps every person with one image yet each emerges different. He cites Hilary Putnam’s line that every child has the right to be a complete surprise to its parents, and ends on otherness as the basis of love and parenthood.",
+    "questions": [
+     {
+      "text": "Why does the verse repeat that Abraham begat Isaac when it already called Isaac Abraham’s son?",
+      "quote": "The first half of the sentence tells us that Isaac was the son of Abraham"
+     },
+     {
+      "text": "What did Abraham and Isaac lose by looking identical?",
+      "quote": "Both father and son, identical in appearance, suffered a loss of individuality"
+     },
+     {
+      "text": "Would a world of clones still be a human world?",
+      "quote": "Would a world of clones still be a human world?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Rashi: God made Isaac resemble Abraham to silence the cynics.",
+      "quote": "so that everyone had to admit that Abraham begat Isaac"
+     },
+     {
+      "text": "A second midrash: because father and son looked alike, Abraham prayed to grow old.",
+      "quote": "Until Abraham, people did not grow old."
+     },
+     {
+      "text": "Isaac’s life is a replay of his father’s, so he is the least individuated patriarch.",
+      "quote": "Isaac is the least individuated of the patriarchs"
+     },
+     {
+      "text": "Hence the lesson: children are not replicas of their parents.",
+      "quote": "Isaac seems to do little that is distinctively his own"
+     },
+     {
+      "text": "Cloning raises issues that other assisted reproduction does not.",
+      "quote": "Cloning is not just another technology"
+     },
+     {
+      "text": "It risks making human life a commodity and treating persons as means.",
+      "quote": "risks the commoditisation of human life"
+     },
+     {
+      "text": "Where it lands: otherness is what makes love more than narcissism and parenthood more than self-replication.",
+      "quote": "It is the space we make for otherness that makes love something other than narcissism"
+     }
+    ]
+   },
+   {
+    "title": "The Future of the Past",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, The Future of the Past",
+    "summary": "The parasha opens with Rebecca, in pain in her pregnancy, going to inquire of the Lord and hearing that two nations are in her womb and that the older will serve the younger. Rebecca then favours Jacob, and years later has him take Isaac’s blessing, which includes the words “may nations serve you,” so the prophecy seems fulfilled. Rabbi Sacks says the Torah then subverts this. Esau’s own blessing says he will live by his sword, serve his brother, and eventually throw off the yoke. And when the brothers finally meet, it is Jacob who bows seven times and calls himself Esau’s servant.\n\nThis, he says, shows the power of the future to transform our understanding of the past, which is the essence of midrash. Going back to the oracle, he finds three ambiguities: the object marker et is missing, so it could mean the younger will serve the older; rav does not mean “older” and is not the opposite of tza’ir; and the musical notation can be read the other way. The twins Perez and Zerah in Genesis 38 raise the same doubt about who is elder. So this is an oracle, not an ordinary prophecy. The future is never as straightforward as we are told. We live toward the future but understand our lives only in retrospect, and the last chapter rests with us.",
+    "questions": [
+     {
+      "text": "How can the prophecy that the older will serve the younger be squared with Jacob calling himself Esau’s servant?",
+      "quote": "We are faced with cognitive dissonance"
+     },
+     {
+      "text": "Who was the rav, and who was the elder?",
+      "quote": "Who was the rav? The elder? The leader? The chief? The more numerous?"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Rebecca receives a revelation about her twins before they are born.",
+      "quote": "Rebecca, hitherto infertile, becomes pregnant"
+     },
+     {
+      "text": "Isaac’s blessing to Esau does not say the older serves the younger for ever.",
+      "quote": "You will live by your sword and you will serve your brother"
+     },
+     {
+      "text": "At their meeting Jacob bows to Esau and calls himself his servant.",
+      "quote": "He bows down to him seven times"
+     },
+     {
+      "text": "The first ambiguity: the word et, which marks the object, is missing, so the clause can run either way.",
+      "quote": "the word et, signalling the object of the verb, is missing"
+     },
+     {
+      "text": "A later ambiguity: the musical notation can be read to say the younger serves the older.",
+      "quote": "they are notated tipḥa-merkha-sof pasuk"
+     },
+     {
+      "text": "The twins of Tamar echo the story and make the question of who is the elder unclear.",
+      "quote": "Another pair of twins is born in Genesis 38:27–30"
+     },
+     {
+      "text": "Where it lands: we live toward the future but understand our lives only looking back.",
+      "quote": "We live our lives toward the future, but we understand our lives only in retrospect"
+     }
+    ]
+   },
+   {
+    "title": "The Courage of Persistence",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, The Courage of Persistence",
+    "summary": "Rabbi Sacks starts from Genesis 26, which reads almost like a replay of Genesis 20: Isaac, like Abraham, goes to Gerar in famine, passes Rebecca off as his sister, and meets Avimelekh. Then Isaac prospers, the Philistines envy him, stop up his father’s wells, and Avimelekh tells him to move away because he has become too powerful. Rabbi Sacks sees here the birth of anti-Semitism, and notes that Pharaoh later uses the same word atzum about the Israelites. Using Amy Chua, he says a conspicuous, successful minority attracts envy and hatred, and all three conditions held for Isaac. Using Hannah Arendt, he adds that hostility to Jews becomes dangerous when they are weak, not strong, so haters hold two contradictory beliefs at once.\n\nThe second lesson is that hate is self-destructive: filling the wells harmed the Philistines more than Isaac, as Pharaoh’s officials later admit Egypt is ruined. The third is Isaac’s response. When opposed he dug again, at Esek and Sitnah, and finally found peace at Reḥovot, now a town of science and medicine. Isaac, the least original patriarch, even gave the wells his father’s names. He represents the faith of persistence and the courage of continuity, and his name, “he will laugh,” points to the serenity of the destination after the storms.",
+    "questions": [
+     {
+      "text": "What gives rise to anti-Semitism, and when does it become dangerous?",
+      "quote": "Hostility to Jews becomes dangerous, she argued, not when Jews are strong, but when they are weak."
+     },
+     {
+      "text": "How should one respond to opposition and hatred?",
+      "quote": "response remains the correct one today"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Genesis 26 repeats the pattern of Abraham’s time in Gerar.",
+      "quote": "Genesis 26 reads almost like a replay of Genesis 20, a generation later"
+     },
+     {
+      "text": "Avimelekh’s words about Isaac foreshadow Pharaoh’s about Israel and the birth of anti-Semitism.",
+      "quote": "Our passage signals the birth of one of the deadliest of human phenomena"
+     },
+     {
+      "text": "Chua: a conspicuous, successful minority draws envy, and Isaac was all three.",
+      "quote": "All three conditions were present in the case of Isaac"
+     },
+     {
+      "text": "Arendt: hatred and perceived power sit together with real powerlessness.",
+      "quote": "the same inner contradiction of perceived powerlessness and ascribed power"
+     },
+     {
+      "text": "Hate is self-destructive: stopping the wells hurt the Philistines.",
+      "quote": "More than hate destroys the hated, it destroys the hater"
+     },
+     {
+      "text": "Isaac’s answer is to try again until he finds peace.",
+      "quote": "Defeated once, he tries again"
+     },
+     {
+      "text": "Where it lands: Isaac stands for persistence and continuity.",
+      "quote": "Isaac represents the faith of persistence, the courage of continuity"
+     }
+    ]
+   },
+   {
+    "title": "The Other Face of Esau",
+    "ref": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, The Other Face of Esau",
+    "summary": "Rabbi Sacks begins with the scene where Esau returns from hunting to find that Jacob has taken his blessing. The Torah, usually sparing about feeling, gives it unusual emotional detail, and Rabbi Sacks says it wants our sympathy drawn to Esau, even though the covenant must pass through Jacob. To see why, he gathers what the Torah says of Esau. Isaac gives him a real blessing, one both sons can enjoy. He marries a third wife to please his father. At their reunion he runs and embraces Jacob, a man who does not harbour a grudge because he forgets. His descendants became kings before Israel had one, and Israel is commanded not to provoke Edom or abhor an Edomite. Even the midrash records that Esau honoured his father more than Rabbi Shimon ben Gamliel did.\n\nThe lesson is that even heroes have faults and non-heroes virtues. More basically, it concerns chosenness. Genesis shows that being chosen is hard but being unchosen also hurts, as with Leah and Joseph’s brothers. Esau is not chosen, yet not rejected. Rabbi Sacks cites the Vilna Gaon on “Esau I have hated” and Rav Kook’s hope for reconciliation between faiths. Chosenness means intimacy and responsibility, and God remains the God of all. A good parent never counts more or less love.",
+    "questions": [
+     {
+      "text": "Why does the Torah go to such lengths to draw our sympathy to Esau?",
+      "quote": "the Torah goes out of its way, using unusual devices of style, to enlist our sympathies with Esau"
+     },
+     {
+      "text": "What does it mean to be chosen, and what of those who are not?",
+      "quote": "The book of Genesis is, among other things, a profound meditation on what it is to be chosen"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "Esau’s cry on learning of the stolen blessing is unusually vivid.",
+      "quote": "he cried a loud and bitter cry and said to his father"
+     },
+     {
+      "text": "The Torah is like radio, inviting us to complete what it leaves out.",
+      "quote": "is more like radio than television"
+     },
+     {
+      "text": "First glimpse: Esau does receive a blessing from Isaac.",
+      "quote": "Esau does receive a blessing from Isaac"
+     },
+     {
+      "text": "At their reunion he shows no grudge because he forgets, not because he forgives.",
+      "quote": "Esau does not harbour a grudge, not because he forgives but because he forgets"
+     },
+     {
+      "text": "The midrash itself credits Esau with extraordinary honour of his father.",
+      "quote": "no man ever honoured his father as I did mine"
+     },
+     {
+      "text": "Choosing one does not mean rejecting the other.",
+      "quote": "The choice of one does not mean the rejection of another"
+     },
+     {
+      "text": "Where it lands: love is not quantifiable, and each has a heritage and blessing of their own.",
+      "quote": "Love is not quantifiable. It rejects comparisons."
+     }
+    ]
+   }
+  ]
+ },
+ "hebrew": {
+  "overview": "המאמרים בעברית על פרשת תולדות עוסקים באברהם ויצחק ובשיבוט, באהבתו של יצחק לעשו ובשאלה אם ברכתו של עשו נועדה לו. הם קוראים מחדש את סיפור הברכות ואת יחסי יעקב ועשו, ובוחנים את הזהות, האהבה והטעות המוסרית.",
+  "essays": [
+   {
+    "title": "על שיבוט וזהות",
+    "ref": "Covenant and Conversation; Hebrew Edition, Toldot, 1",
+    "summary": "הכפילות בפסוק הפותח את הפרשה, ״אברהם הוליד את יצחק״, הפליאה את חז״ל. רש״י מביא שהמחצית השנייה נדרשה כמענה לליצני הדור, שאמרו ששרה הרתה מאבימלך: הקב״ה צר את פני יצחק דומים לאברהם, והכול העידו שאברהם הוליד את יצחק. כפילות נוספת, בפסוק על אברהם ״זקן בא בימים״, הולידה מדרש: אברהם ובנו נכנסים למקום ואין אדם יודע למי מכבד, ולכן אברהם תבע זקנה, והוא הראשון שנכתבה בו. הזקנה נוצרה כי הזהות במראה העיבה על האינדיבידואליות שלהם.\n\nרבי סאקס רואה בכך תובנת עומק על חייו של יצחק, החוזרים על חיי אביו: רעב, ארץ פלשתים, אבימלך, ״אחותי״ ובארות. מכאן הוא פונה לשיבוט, שהוא רבייה א־מינית, ומציין את הפגיעה האפשרית ברבגוניות, את הסכנה לראות בבני אדם אמצעים ולא מטרות, ואת המשנה שבה מלך מלכי המלכים טבע כל אדם בחותמו ואין אחד דומה לחברו. הוא מצטט את הילרי פאטנם: לכל ילד הזכות להיות הפתעה גמורה להוריו. אגדה אינה הלכה, אך יש בסיפור תשתית מוסרית, ובלב הקיום האנושי שוכנת האחרות, שבה האהבה שונה מנרקיסיזם.",
+    "questions": [
+     {
+      "text": "למה הכתוב מכפיל ואומר שאברהם הוליד את יצחק?",
+      "quote": "הם תירצו שהמחצית השנייה, המיותרת לכאורה מבחינה הגיונית, נדרשה כמענה לרכילות של ליצני הדור"
+     },
+     {
+      "text": "למה נאמר באברהם גם זקן וגם בא בימים?",
+      "quote": "למה גם זקן וגם בא בימים"
+     },
+     {
+      "text": "האם עולם של שיבוטים יהיה עולם אנושי?",
+      "quote": "האם עולם של שיבוטים עדיין יהיה עולם אנושי"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "רש״י: הדמיון בין יצחק לאברהם השתיק את הליצנים.",
+      "quote": "הם תירצו שהמחצית השנייה, המיותרת לכאורה מבחינה הגיונית, נדרשה כמענה לרכילות של ליצני הדור"
+     },
+     {
+      "text": "אברהם הוא הראשון שמתואר בתורה כזקן, ובמדרש תבע זקנה כדי שיבחינו בינו ובין בנו.",
+      "quote": "אברהם ושרה הם הראשונים המתוארים בתורה"
+     },
+     {
+      "text": "חיי יצחק חוזרים על חיי אביו.",
+      "quote": "גם יצחק נדחק ברעב לארץ פלשתים"
+     },
+     {
+      "text": "השיבוט מעלה שאלות אתיות חדשות.",
+      "quote": "השיבוט מעלה שאלות אתיות שחידושים קודמים"
+     },
+     {
+      "text": "הסכנה: לראות בבני אדם אמצעים ולא מטרות.",
+      "quote": "השיבוט, לעומת זאת, עלול להובילנו לראות בבני אדם אמצעים ולא מטרות"
+     },
+     {
+      "text": "המסקנה: האחרות היא שהופכת אהבה ליותר מנרקיסיזם, ובלעדיה האהבה לא תשרוד.",
+      "quote": "האם הייתה האהבה שורדת"
+     }
+    ]
+   },
+   {
+    "title": "למה אהב יצחק את עשו?",
+    "ref": "Covenant and Conversation; Hebrew Edition, Toldot, 2",
+    "summary": "יעקב ועשו נאבקו עוד ברחם, וגם בלב הוריהם נפלו זה מזה: יצחק אהב את עשו ״כי ציד בפיו״, ורבקה אהבה את יעקב. רבקה הבינה מהנבואה שהצעיר ימשיך את הברית, ולכן אהבה אותו. אבל מדוע אהב יצחק דווקא את עשו, וכי אפשר שאהב אותו רק בגלל האוכל? התשובה הקלסית, ברש״י, היא ש״איש יודע ציד״ הוא איש היודע לרמות את אביו בפיו, ושואלו איך מעשרין את המלח ואת התבן, וכך יצחק חשב שהוא מדקדק במצוות. המגיד מדובנה מוסיף שיצחק גדל באוהל אברהם ושרה, הכיר רק יושר, ולא חשד.\n\nרבי סאקס מציע תשובה אחרת: יצחק אהב את עשו דווקא מפני שידע היטב מיהו. הוא מספר על אדם שבא לרב קוק על בנו שסר מהדרך, והרב שאל אם אהב אותו כששמר מצוות, ואמר לו להוסיף ולאהוב. כוח האהבה גדול לפעמים מכוח הנזיפה, ואחריות ההורות מחייבת לא להתייאש מבן שסר מהדרך. האהבה הועילה בחלקה: עשו כיבד את אביו, כדברי רשב״ג, ולכן ציוותה התורה לא להתגרות באדום ולא לתעב אדומי. אבל עשו נשאר צייד, ולא ממשיך הברית. יש כישלונות מעוררי כבוד, וכך גם ה׳ אוהב אותנו.",
+    "questions": [
+     {
+      "text": "מדוע אהב יצחק דווקא את עשו?",
+      "quote": "אבל אם כך, מדוע אהב יצחק דווקא את עשו"
+     },
+     {
+      "text": "האם יצחק לא ידע מי הוא עשו באמת?",
+      "quote": "ומשגדלו הנערים, האם לא ידע יצחק"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "רבקה אהבה את יעקב כי הבינה מהנבואה שהצעיר ימשיך את הברית.",
+      "quote": "רבקה הבינה כנראה את הדברים כך"
+     },
+     {
+      "text": "רש״י: עשו צד את אביו בפיו, בשאלות על מעשרות.",
+      "quote": "לצוד ולרמות את אביו בפיו"
+     },
+     {
+      "text": "המגיד מדובנה: יצחק גדל על יושר ולכן הוא התפתה להאמין.",
+      "quote": "המגיד מדובנה מוסיף ומסביר שרק יצחק התפתה להאמין לעשו"
+     },
+     {
+      "text": "תשובה אחרת: יצחק אהב אותו בעיניים פקוחות.",
+      "quote": "יצחק אהב את עשו דווקא מפני שידע היטב מיהו ומה מעשיו"
+     },
+     {
+      "text": "הרב קוק לאב: אם אהבת אותו כששמר מצוות, אהב אותו עוד יותר.",
+      "quote": "אהבת את הבן שלך כששמר מצוות"
+     },
+     {
+      "text": "עשו אכן כיבד את אביו, והתורה גמלה לו על כך.",
+      "quote": "ומצאתי שכיבד עשו לאביו יותר ממני"
+     },
+     {
+      "text": "המסקנה: אהבה שנכשלת ביחס לילד שמאכזב היא כישלון מעורר כבוד.",
+      "quote": "אהבתנו לילדינו, גם כאשר הם מאכזבים אותנו, היא כישלון מן הסוג הזה"
+     }
+    ]
+   },
+   {
+    "title": "למי נועדה ברכת עשו?",
+    "ref": "Covenant and Conversation; Hebrew Edition, Toldot, 3",
+    "summary": "רבי סאקס שואל אם צדק יעקב כשלקח את הברכות בהתחזות, ואם צדקה רבקה שהגתה את התכנית. הוא מביא תחילה קריאה שבה רבקה צדקה: היא שמעה מאלוהים עצמו שהצעיר יעבוד את הרב, ראתה שעשו פזיז ואלים, שמכר את בכורתו בנזיד עדשים, ושנשא נשים חתיות מורות רוח לאביו ואמו. אם יצחק עיוור לטיבם, אולי נחוץ היה לרמותו, והמטרה, עתיד הברית, מקדשת את האמצעים. אבל הוא מציע קריאה אחרת. הקורא בפרק כז בלי מפרשים מזדהה עם יצחק ועשו, כי התורה מבטאת כאן רגש נדיר. התוצאות קשות: יעקב גולה יותר מעשרים שנה, לבן מרמה אותו מידה כנגד מידה, ובניו מרמים אותו בכתונת הפסים. ״מעט ורעים היו ימי שני חיי״.\n\nלפי קריאה זו, ״ורב יעבד צעיר״ הוא חידה דו־משמעית, ויצחק ידע מי יירש את הברית. הוא הכין שתי ברכות: לעשו עושר וכוח, ולברכת הברית, הילדים והארץ, ברך את יעקב בצאתו לחרן. יעקב החזיר לעשו את הברכות בפגישה, במתנה ובשבע השתחוויות. אפשר שכולם פעלו נכון לפי מה שידעו, ובכל זאת קרתה טרגדיה. הסיפור מובן אחרת בקריאה לאחור, וכך החיים המוסריים.",
+    "questions": [
+     {
+      "text": "האם צדק יעקב כשלקח את ברכות עשו בהתחזות?",
+      "quote": "האם צדק יעקב כשלקח את ברכות עשו באמצעות התחזות"
+     },
+     {
+      "text": "האם צדקה רבקה כשהגתה את התכנית?",
+      "quote": "האם צדקה רבקה כשהגתה את התכנית"
+     }
+    ],
+    "blocks": [
+     {
+      "text": "קריאה אחת: רבקה שמעה מאלוהים בנבואה שהצעיר ימשיך את הברית.",
+      "quote": "היא שמעה את הדבר מאלוהים עצמו, בנבואה שקיבלה לפני שהתאומים נולדו"
+     },
+     {
+      "text": "עשו מכר את בכורתו בנזיד עדשים, ולכן לא היה אמין כשומר הברית.",
+      "quote": "היא ראתה כיצד הוא מכר את בכורתו בנזיד עדשים"
+     },
+     {
+      "text": "בקריאה השנייה, הרגשות בפרק מעוררים אהדה לעשו וליצחק, ויעקב נענש מידה כנגד מידה.",
+      "quote": "יעקב נאלץ לעזוב את ביתו, מחשש לחייו"
+     },
+     {
+      "text": "יצחק הבין את טיב שני בניו.",
+      "quote": "יצחק עמד היטב על טיבם של שני בניו"
+     },
+     {
+      "text": "ברכות הברית עסקו בילדים ובארץ, ויצחק התכוון לתת אותן ליעקב.",
+      "quote": "הן עסקו בילדים ובארץ"
+     },
+     {
+      "text": "בפגישה עם עשו יעקב החזיר את הברכות.",
+      "quote": "יעקב החזיר את הברכות"
+     },
+     {
+      "text": "המסקנה: לכל אחד ברכה משלו, ואין לבקש את ברכת האח.",
+      "quote": "לעולם אל תבקש את ברכתו של אחיך"
+     }
+    ]
+   }
+  ]
+ }
+}
