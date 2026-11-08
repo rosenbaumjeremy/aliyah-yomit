@@ -85,10 +85,13 @@ const UI = {
     seferAll: "כולן",
     seferNoneBtn: "נקה",
     seferPick: "בחרו לפחות פרשה אחת.",
-    seferWillDraw: (n, k, max) => `ייבחרו ${n} שאלות באקראי, מפוזרות באופן שווה על ${k === 1 ? "פרשה אחת" : `${k} פרשיות`} (יש במאגר ${max}).`,
+    seferWillDraw: (n, k, max) => `ייבחרו ${n} שאלות באקראי, מחולקות באופן שווה בין ${k === 1 ? "פרשה אחת" : `${k} פרשיות`} (יש במאגר ${max}).`,
     seferPartial: (have, all) => `יש חידון ל־${have} מתוך ${all} הפרשיות בספר; השאר יתווספו כשיתפרסמו.`,
     seferNone: "עדיין אין חידונים על פרשיות הספר הזה.",
     seferStart: "התחילו את החידון",
+    seferOrder: "סדר השאלות",
+    seferInOrder: "לפי סדר הפרשיות",
+    seferMixed: "מעורבב",
     seferAgain: "שאלות חדשות",
     seferChange: "שינוי ההגדרות",
     textTitle: "פסוקי העלייה — לחצו על פסוק לביאור שטיינזלץ",
@@ -195,6 +198,9 @@ const UI = {
     seferPartial: (have, all) => `${have} of the ${all} parashiyot in this sefer have a quiz so far; the rest are added as they are published.`,
     seferNone: "There are no quizzes on this sefer's parashiyot yet.",
     seferStart: "Start the quiz",
+    seferOrder: "Order of the questions",
+    seferInOrder: "In parasha order",
+    seferMixed: "Mixed",
     seferAgain: "New questions",
     seferChange: "Change settings",
     textTitle: "The pesukim of the aliyah — click a pasuk for the Steinsaltz explanation",
@@ -1149,8 +1155,9 @@ const shuffled = (list) => {
   return a;
 };
 
-/** Draw `count` questions spread evenly over the parashiyot (in order), each tagged with its parasha. */
-function drawSefer(banks, count) {
+/** Draw `count` questions spread evenly over the parashiyot, each tagged with its parasha:
+ *  in the order of the parashiyot, or all mixed together. */
+function drawSefer(banks, count, mix) {
   const want = banks.map(() => 0);
   let left = Math.min(count, banks.reduce((s, b) => s + b.questions.length, 0));
   // deal one at a time, round-robin from a random start, to parashiyot that still have questions
@@ -1165,7 +1172,7 @@ function drawSefer(banks, count) {
     const picks = shuffled(bank.questions.map((_, k) => k)).slice(0, want[i]).sort((x, y) => x - y);
     picks.forEach((k) => out.push({ ...bank.questions[k], parasha: bank.parasha }));
   });
-  return out;
+  return mix ? shuffled(out) : out;
 }
 
 /** Score a run: points, right answers, current and longest streak, the questions missed. */
@@ -1275,7 +1282,7 @@ function renderSeferSetup(host, book) {
   const key = seferKey(book);
   const available = quizParashot(book);
   if (!available.length) { host.appendChild(node("p", "empty", ui.seferNone)); return; }
-  if (!seferSetups.has(book.en)) seferSetups.set(book.en, { count: SEFER_DEFAULT, slugs: new Set(available.map((p) => p.slug)) });
+  if (!seferSetups.has(book.en)) seferSetups.set(book.en, { count: SEFER_DEFAULT, slugs: new Set(available.map((p) => p.slug)), mix: false });
   const setup = seferSetups.get(book.en);
   // a parasha whose quiz was published since: include it
   setup.slugs = new Set([...setup.slugs].filter((s) => available.some((p) => p.slug === s)));
@@ -1335,11 +1342,24 @@ function renderSeferSetup(host, book) {
   const missing = book.parashot.length - available.length;
   if (missing) form.appendChild(node("p", "muted small", ui.seferPartial(available.length, book.parashot.length)));
 
+  // the order of the questions
+  form.appendChild(node("div", "label", ui.seferOrder));
+  const orders = node("div", "sefersizes");
+  const orderButtons = [[false, ui.seferInOrder], [true, ui.seferMixed]].map(([mix, label]) => {
+    const b = node("button", "chip", label);
+    b.type = "button";
+    b.onclick = () => { setup.mix = mix; refresh(); };
+    orders.appendChild(b);
+    return [mix, b];
+  });
+  form.appendChild(orders);
+
   const note = node("p", "sefernote");
   const start = node("button", "button", ui.seferStart);
   start.type = "button";
   const refresh = () => {
     chipButtons.forEach(([p, b]) => b.classList.toggle("on", setup.slugs.has(p.slug)));
+    orderButtons.forEach(([mix, b]) => b.classList.toggle("on", setup.mix === mix));
     const max = bankSize();
     const n = Math.min(setup.count, max);
     start.disabled = !max;
@@ -1363,7 +1383,7 @@ function renderSeferSetup(host, book) {
     Promise.all(chosen.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))))
       .then((banks) => {
         if (state.quiz !== wanted) return;
-        const questions = drawSefer(banks, setup.count);
+        const questions = drawSefer(banks, setup.count, setup.mix);
         quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions, size: setup.count });
         renderQuiz();
         window.scrollTo(0, 0);
@@ -1456,7 +1476,7 @@ function renderQuizRun(host, key, questions, { sefer }) {
       const chosen = quizParashot(sefer).filter((p) => !setup || setup.slugs.has(p.slug));
       Promise.all(chosen.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))))
         .then((banks) => {
-          quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions: drawSefer(banks, run.size), size: run.size });
+          quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions: drawSefer(banks, run.size, !!(setup && setup.mix)), size: run.size });
           renderQuiz();
           window.scrollTo(0, 0);
         });
