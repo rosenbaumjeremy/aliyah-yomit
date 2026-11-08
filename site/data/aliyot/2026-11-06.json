@@ -1,0 +1,884 @@
+{
+ "date": "2026-11-06",
+ "reading": {
+  "en": "Chayei Sara",
+  "he": "חיי שרה",
+  "ref": "Genesis 23:1-25:18",
+  "slugs": [
+   "chayei-sara"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 25:12-25:18",
+ "maftir": "Genesis 25:16-25:18",
+ "hebrew_date": {
+  "hebrew": "כ״ו בְּחֶשְׁוָן תשפ״ז",
+  "english": "26 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "The Torah lists the line of Ishmael, the son of Abraham and Hagar: twelve sons who became twelve chieftains of their tribes, named in order of birth. It gives the years of his life, 137, and says that he breathed his last, died and was gathered to his kin. His descendants dwelt from Havilah to Shur, near Egypt, toward Asshur, alongside all their kin. This is the last aliyah of the parasha.",
+  "questions": [
+   {
+    "title": "Why does the Torah count the years of Ishmael's life?",
+    "pasuk": {
+     "text": "ואלה שני חיי ישמעאל מאת שנה ושלשים שנה ושבע שנים",
+     "ref": "Genesis 25:17",
+     "label": "Genesis 25:17"
+    },
+    "question": "Rashi asks why we need to count the years of Ishmael, and Mizrachi sharpens it: what have we to do with the years of the wicked?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 25:17:1",
+      "era": "rishon",
+      "quote": "לָמָּה נִמְנוּ שְׁנוֹתָיו שֶׁל יִשְׁמָעֵאל"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 25:17:1",
+      "era": "acharon",
+      "quote": "מה לנו ולשנות הרשעים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "to date Jacob's years: from Ishmael's years we learn how old Jacob was and that he served in the house of Ever",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:17:1",
+        "quote": "כְּדֵי לְיַחֵס בָהֶם שְׁנוֹתָיו שֶׁל יַעֲקֹב מִשְּׁנוֹתָיו שֶׁל יִשְׁמָעֵאל"
+       },
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 25:17:1",
+        "quote": "כדי שנדע בו כמה שנים היה יעקב כשנתברך מאביו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Ishmael was a righteous penitent, and the Torah tells of the children of the righteous their offspring and the count of their lives",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:17:1",
+        "quote": "וְהַנָּכוֹן שֶׁבָּהֶם שֶׁהָיָה צַדִּיק בַּעַל תְּשׁוּבָה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam and Radak: on the plain level, for the honor of Abraham",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 25:17:1",
+        "quote": "לכבודו של אברהם, הואיל ונתפרש שעת לידתו"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:17:1",
+        "quote": "זָכַר שְׁנוֹתָיו לִכְבוֹד אַבְרָהָם"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: because he came from the heart of the wilderness to do kindness for his father",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 62:4",
+        "quote": "עַל יְדֵי שֶׁבָּא מִקָּדְקָדָהּ שֶׁל מִדְבָּר לִגְמֹל חֶסֶד לְאָבִיו"
+       }
+      ]
+     }
+    ],
+    "why": "Why record a full lifespan for a man whose path was not that of Isaac? The answers split between a chronological purpose, a statement about Ishmael himself, and honor to Abraham."
+   },
+   {
+    "title": "Why does the Torah give the lineage of Ishmael, the son of a wicked man?",
+    "pasuk": {
+     "text": "ואלה תולדות ישמעאל בן אברהם",
+     "ref": "Genesis 25:12",
+     "label": "Genesis 25:12"
+    },
+    "question": "Bereshit Rabbah records the sages sitting and wondering what the verse saw in giving the line of a wicked man here.",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 62:4",
+      "era": "chazal",
+      "quote": "מַה רָאָה הַכָּתוּב לְיַחֵס תּוֹלְדוֹתָיו שֶׁל רָשָׁע כָּאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "to teach how old Abraham was when he was blessed",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 62:4",
+        "quote": "לְהוֹדִיעֲךָ בֶּן כַּמָּה שְׁנִין נִתְבָּרֵךְ זְקֵנֶךָ"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the Torah recorded Ishmael's line out of honor to Abraham, since he was his firstborn",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:12:1",
+        "quote": "זָכַר תּוֹלְדֹת יִשְׁמָעֵאל לִכְבוֹד אַבְרָהָם לְפִי שֶׁהָיָה בְּכוֹרוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Sekhel Tov: to teach that the Holy One fulfilled what He said to Abraham about Ishmael",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 25:12:1",
+        "quote": "להודיע שקיים הקב\"ה מה שאמר לאברהם"
+       }
+      ]
+     },
+     {
+      "text": "Tanchuma: these are the twelve princes whom Abraham raised up from Ishmael, part of the thirty families promised to him",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Chayei Sara 6:8",
+        "quote": "וְאֵלּוּ הֵן שְׁנֵים עָשָׂר נְשִׂיאִים שֶׁהֶעֱמִיד מִיִּשְׁמָעֵאל"
+       }
+      ]
+     }
+    ],
+    "why": "The Torah's genealogies are rarely idle; the answers range from chronology to the fulfillment of God's promise to Abraham."
+   },
+   {
+    "title": "What does 'by their names, by their generations' add?",
+    "pasuk": {
+     "text": "בשמתם לתולדתם בכר ישמעאל נביות",
+     "ref": "Genesis 25:13",
+     "label": "Genesis 25:13"
+    },
+    "question": "Siftei Chakhamim asks why 'by their generations' is needed after 'by their names', and Shadal notes that if birth order were meant the verse should have said 'ke-toldotam'.",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 25:13:1",
+      "era": "acharon",
+      "quote": "דאל\"כ בשמותם לתולדותם למה לי"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 25:13:1",
+      "era": "acharon",
+      "quote": "אך לפי זה היל\"ל כתולדותם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the order of their birth, one after the other",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:13:1",
+        "quote": "סֵדֶר לֵידָתָן זֶה אַחַר זֶה"
+       },
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 25:13:1",
+        "quote": "ולא אמר סתם נביות וקדר"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: these are the names that remained common to their descendants",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 25:13:1",
+        "quote": "הם השמות שנשארו לתולדותם"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: unlike other nations, Ishmael's sons did not change their names even after becoming nations",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 25:12:1",
+        "quote": "לא שנו את שמם"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: here they are listed as they were born, not by greatness",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 25:13:1",
+        "quote": "כמו שנולדו ולא מונה כאן כפי גדולתם"
+       }
+      ]
+     }
+    ],
+    "why": "The extra phrase shows that the list is exact, either in order of birth or in the names that stayed."
+   },
+   {
+    "title": "Is 'vayigva' said only of the righteous, if it appears for the generation of the flood?",
+    "pasuk": {
+     "text": "ויגוע וימת ויאסף אל עמיו",
+     "ref": "Genesis 25:17",
+     "label": "Genesis 25:17"
+    },
+    "question": "Bartenura asks how Rashi's rule that gevi'ah is only said of the righteous stands when 'vayigva kol basar' was said of the flood generation.",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Torah, Genesis 25:17:1",
+      "era": "rishon",
+      "quote": "קשה שהרי בדור המבול כתיב בהו ויגוע כל בשר"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 25:17:2",
+      "era": "acharon",
+      "quote": "אע\"ג דבדור המבול ג\"כ נאמר גויעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: gevi'ah is death without painful illness, and with the words vayeasef or vayamot it signals the righteous",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 25:17:2",
+        "quote": "מִיתָה בְּלֹא חֹלִי מַכְאִיב וּבְלֹא יִסּוּרִין"
+       }
+      ]
+     },
+     {
+      "text": "Siftei Chakhamim and Bartenura: only gevi'ah joined with death or gathering is meant, which is not said of the flood generation",
+      "sources": [
+       {
+        "name": "Siftei Chakhamim",
+        "ref": "Siftei Chakhamim, Genesis 25:17:2",
+        "quote": "דוקא היכא דכתיב גויעה גבי ויאסף בצדיקים משתעי"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Torah, Genesis 25:17:1",
+        "quote": "לא נאמרה גויעה אצל מיתה אלא בצדיקים"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi, citing the Gemara: Ishmael repented in his father's lifetime",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 25:17:3",
+        "quote": "ישמעאל עשה תשובה בחיי אביו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: wherever gevi'ah is said, he was righteous",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 25:17:2",
+        "quote": "כל מקום שנאמר גויה צדיק היה"
+       }
+      ]
+     }
+    ],
+    "why": "Rashi uses the word to say Ishmael died as a righteous man; the question is how the rule holds."
+   },
+   {
+    "title": "Here Ishmael 'fell'; the angel said he 'will dwell'. Which is it?",
+    "pasuk": {
+     "text": "על פני כל אחיו נפל",
+     "ref": "Genesis 25:18",
+     "label": "Genesis 25:18"
+    },
+    "question": "Rashi and Hadar Zekenim ask why the verse here says 'nafal' when earlier it said 'yishkon'.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 25:18:1",
+      "era": "rishon",
+      "quote": "כָּאן הוּא אוֹמֵר לְשׁוֹן נְפִילָה, וּלְהַלָּן אוֹמֵר עַל פְּנֵי כָל אֶחָיו יִשְׁכֹּן"
+     },
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 25:18:1",
+      "era": "rishon",
+      "quote": "ולעיל כתיב ישכון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "While Abraham lived, 'he will dwell'; once he died, 'fell'",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 25:18:1",
+        "quote": "עַד שֶׁלֹּא מֵת אַבְרָהָם יִשְׁכֹּן, מִשֶּׁמֵּת אַבְרָהָם נָפַל"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 45:9",
+        "quote": "כָּל זְמַן שֶׁהָיָה אַבְרָהָם אָבִינוּ קַיָּם יִשְׁכֹּן, וּכְשֶׁמֵּת אַבְרָהָם נָפָל"
+       }
+      ]
+     },
+     {
+      "text": "This world 'will dwell', the future 'fell'",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 45:9",
+        "quote": "בָּעוֹלָם הַזֶּה יִשְׁכֹּן, אֲבָל לֶעָתִיד לָבוֹא נָפָל"
+       }
+      ]
+     },
+     {
+      "text": "'Nafal' simply means 'dwelt'",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 25:18:2",
+        "quote": "וְנָפָל פֵּרוּשׁוֹ שָׁכַן"
+       },
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 25:18:4",
+        "quote": "נפל: שכן, התפשט וקבע דירתו"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 25:18:1",
+        "quote": "ונפל לשון שכינה כמו ויפלו עליו"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: 'nafal' is past and 'yishkon' is future, meaning he fell before he repented and would dwell after",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 25:18:1",
+        "quote": "כָּל ״נָפָל״ מַשְׁמַע לְשֶׁעָבַר"
+       }
+      ]
+     }
+    ],
+    "why": "The two verbs bear on the angel's promise to Hagar; the answers differ on whether it is about time, place or meaning."
+   },
+   {
+    "title": "Which Ashur is meant, if the border is near Egypt?",
+    "pasuk": {
+     "text": "מחוילה עד שור אשר על פני מצרים באכה אשורה",
+     "ref": "Genesis 25:18",
+     "label": "Genesis 25:18"
+    },
+    "question": "HaKtav VeHaKabalah and Reggio say this cannot be the known land of Ashur beyond the river, since the sons of Ishmael dwell by Egypt.",
+    "asked_by": [
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 25:18:1",
+      "era": "acharon",
+      "quote": "נראה שאין זו ארץ אשור אשר מעבר לנהר"
+     },
+     {
+      "name": "Reggio",
+      "ref": "Reggio on Torah, Genesis 25:18:2",
+      "era": "acharon",
+      "quote": "אין אשור הנזכר פה מדינת אשור הנודעת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Reggio: the Ashurim mentioned among the sons of Keturah",
+      "sources": [
+       {
+        "name": "Reggio",
+        "ref": "Reggio on Torah, Genesis 25:18:2",
+        "quote": "רק היא אשורים הנזכר למעלה בבני קטורה"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: a different territory that is also named Ashur",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 25:18:1",
+        "quote": "אלא ודאי הוא תחום אחר ששמו אשור"
+       }
+      ]
+     }
+    ],
+    "why": "It affects how far Ishmael's territory is understood to stretch."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Mizrachi",
+   "Midrash Aggadah",
+   "Ramban",
+   "Rashbam",
+   "Radak",
+   "Bereshit Rabbah",
+   "Midrash Sekhel Tov",
+   "Midrash Tanchuma",
+   "Siftei Chakhamim",
+   "Shadal",
+   "Malbim",
+   "Haamek Davar",
+   "Bartenura",
+   "Hadar Zekenim",
+   "Bekhor Shor",
+   "Kli Yakar",
+   "HaKtav VeHaKabalah",
+   "Reggio"
+  ]
+ },
+ "hebrew": {
+  "summary": "התורה מונה את תולדות ישמעאל בן אברהם והגר: שנים עשר בנים שהיו שנים עשר נשיאים לאומותם, ושמותיהם נמנים לפי סדר לידתם. היא מציינת את שנות חייו, מאה שלושים ושבע שנה, וכי גוע ומת ונאסף אל עמיו. צאצאיו שכנו מחוילה עד שור אשר על פני מצרים, בואכה אשורה, על פני כל אחיו. זו העלייה האחרונה בפרשה.",
+  "questions": [
+   {
+    "title": "למה מנתה התורה את שנות חייו של ישמעאל?",
+    "pasuk": {
+     "text": "ואלה שני חיי ישמעאל מאת שנה ושלשים שנה ושבע שנים",
+     "ref": "Genesis 25:17",
+     "label": "בראשית כה, יז"
+    },
+    "question": "רש\"י שואל למה נמנו שנותיו של ישמעאל, והמזרחי מחדד: מה לנו ולשנות הרשעים?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 25:17:1",
+      "era": "rishon",
+      "quote": "לָמָּה נִמְנוּ שְׁנוֹתָיו שֶׁל יִשְׁמָעֵאל"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 25:17:1",
+      "era": "acharon",
+      "quote": "מה לנו ולשנות הרשעים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כדי לדעת מתי היה יעקב: משנות ישמעאל לומדים כמה שנים היה יעקב וששימש בבית עבר",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:17:1",
+        "quote": "כְּדֵי לְיַחֵס בָהֶם שְׁנוֹתָיו שֶׁל יַעֲקֹב מִשְּׁנוֹתָיו שֶׁל יִשְׁמָעֵאל"
+       },
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 25:17:1",
+        "quote": "כדי שנדע בו כמה שנים היה יעקב כשנתברך מאביו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן: ישמעאל היה צדיק בעל תשובה, והתורה מספרת בבני הצדיקים את תולדותיהם ואת מספר חייהם",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:17:1",
+        "quote": "וְהַנָּכוֹן שֶׁבָּהֶם שֶׁהָיָה צַדִּיק בַּעַל תְּשׁוּבָה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם ורד\"ק: לפי הפשט, לכבודו של אברהם",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 25:17:1",
+        "quote": "לכבודו של אברהם, הואיל ונתפרש שעת לידתו"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:17:1",
+        "quote": "זָכַר שְׁנוֹתָיו לִכְבוֹד אַבְרָהָם"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: מפני שבא מקדקדה של מדבר לגמול חסד לאביו",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 62:4",
+        "quote": "עַל יְדֵי שֶׁבָּא מִקָּדְקָדָהּ שֶׁל מִדְבָּר לִגְמֹל חֶסֶד לְאָבִיו"
+       }
+      ]
+     }
+    ],
+    "why": "למה לפרט את כל שנות חייו של מי שלא הלך בדרכו של יצחק? התשובות נחלקות בין תכלית של חשבון שנים, עדות על ישמעאל עצמו, וכבוד לאברהם."
+   },
+   {
+    "title": "למה מייחסת התורה כאן את תולדות ישמעאל, בנו של רשע?",
+    "pasuk": {
+     "text": "ואלה תולדות ישמעאל בן אברהם",
+     "ref": "Genesis 25:12",
+     "label": "בראשית כה, יב"
+    },
+    "question": "בראשית רבה מספר שחכמים ישבו והתקשו מה ראה הכתוב לייחס כאן את תולדותיו של רשע.",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 62:4",
+      "era": "chazal",
+      "quote": "מַה רָאָה הַכָּתוּב לְיַחֵס תּוֹלְדוֹתָיו שֶׁל רָשָׁע כָּאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כדי להודיע בן כמה שנים נתברך זקנך",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 62:4",
+        "quote": "לְהוֹדִיעֲךָ בֶּן כַּמָּה שְׁנִין נִתְבָּרֵךְ זְקֵנֶךָ"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: זכר תולדות ישמעאל לכבוד אברהם, מפני שהיה בכורו",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:12:1",
+        "quote": "זָכַר תּוֹלְדֹת יִשְׁמָעֵאל לִכְבוֹד אַבְרָהָם לְפִי שֶׁהָיָה בְּכוֹרוֹ"
+       }
+      ]
+     },
+     {
+      "text": "שכל טוב: להודיע שקיים הקב\"ה מה שאמר לאברהם על ישמעאל",
+      "sources": [
+       {
+        "name": "שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 25:12:1",
+        "quote": "להודיע שקיים הקב\"ה מה שאמר לאברהם"
+       }
+      ]
+     },
+     {
+      "text": "תנחומא: אלו שנים עשר הנשיאים שהעמיד אברהם מישמעאל, מתוך שלושים המשפחות שהובטחו לו",
+      "sources": [
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Chayei Sara 6:8",
+        "quote": "וְאֵלּוּ הֵן שְׁנֵים עָשָׂר נְשִׂיאִים שֶׁהֶעֱמִיד מִיִּשְׁמָעֵאל"
+       }
+      ]
+     }
+    ],
+    "why": "תולדות בתורה אינן סתם; התשובות נעות בין חשבון שנים לבין קיום הבטחת ה' לאברהם."
+   },
+   {
+    "title": "מה מוסיף הלשון 'בשמותם לתולדותם'?",
+    "pasuk": {
+     "text": "בשמתם לתולדתם בכר ישמעאל נביות",
+     "ref": "Genesis 25:13",
+     "label": "בראשית כה, יג"
+    },
+    "question": "שפתי חכמים שואל למה צריך 'לתולדותם' אחרי 'בשמותם', ושד\"ל מעיר שאם הכוונה לסדר לידה היה לכתוב 'כתולדותם'.",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 25:13:1",
+      "era": "acharon",
+      "quote": "דאל\"כ בשמותם לתולדותם למה לי"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 25:13:1",
+      "era": "acharon",
+      "quote": "אך לפי זה היל\"ל כתולדותם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: סדר לידתם, זה אחר זה",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:13:1",
+        "quote": "סֵדֶר לֵידָתָן זֶה אַחַר זֶה"
+       },
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 25:13:1",
+        "quote": "ולא אמר סתם נביות וקדר"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: אלה השמות שנשארו משותפים גם לצאצאיהם",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 25:13:1",
+        "quote": "הם השמות שנשארו לתולדותם"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: בניגוד לאומות אחרות, בני ישמעאל לא שינו את שמם גם אחרי שנעשו אומות",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 25:12:1",
+        "quote": "לא שנו את שמם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: כאן מונה אותם כפי סדר לידתם ולא כפי גדולתם",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 25:13:1",
+        "quote": "כמו שנולדו ולא מונה כאן כפי גדולתם"
+       }
+      ]
+     }
+    ],
+    "why": "הלשון המיותר מלמד שהרשימה מדויקת, בין שהכוונה לסדר הלידה ובין שהכוונה לשמות שנשארו."
+   },
+   {
+    "title": "האם 'ויגוע' נאמר רק בצדיקים, והרי נאמר גם בדור המבול?",
+    "pasuk": {
+     "text": "ויגוע וימת ויאסף אל עמיו",
+     "ref": "Genesis 25:17",
+     "label": "בראשית כה, יז"
+    },
+    "question": "ברטנורא שואל איך עומד כלל רש\"י שגויעה נאמרה רק בצדיקים, והרי נאמר 'ויגוע כל בשר' בדור המבול.",
+    "asked_by": [
+     {
+      "name": "ר' עובדיה מברטנורא",
+      "ref": "Bartenura on Torah, Genesis 25:17:1",
+      "era": "rishon",
+      "quote": "קשה שהרי בדור המבול כתיב בהו ויגוע כל בשר"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 25:17:2",
+      "era": "acharon",
+      "quote": "אע\"ג דבדור המבול ג\"כ נאמר גויעה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ן: גויעה היא מיתה בלא חולי מכאיב, וכשהיא נאמרת עם ויאסף או וימת היא רומזת לצדיקים",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 25:17:2",
+        "quote": "מִיתָה בְּלֹא חֹלִי מַכְאִיב וּבְלֹא יִסּוּרִין"
+       }
+      ]
+     },
+     {
+      "text": "שפתי חכמים וברטנורא: הכוונה לגויעה הכתובה יחד עם מיתה או אסיפה, וזה לא נאמר בדור המבול",
+      "sources": [
+       {
+        "name": "שפתי חכמים",
+        "ref": "Siftei Chakhamim, Genesis 25:17:2",
+        "quote": "דוקא היכא דכתיב גויעה גבי ויאסף בצדיקים משתעי"
+       },
+       {
+        "name": "ר' עובדיה מברטנורא",
+        "ref": "Bartenura on Torah, Genesis 25:17:1",
+        "quote": "לא נאמרה גויעה אצל מיתה אלא בצדיקים"
+       }
+      ]
+     },
+     {
+      "text": "המזרחי, בשם הגמרא: ישמעאל עשה תשובה בחיי אביו",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 25:17:3",
+        "quote": "ישמעאל עשה תשובה בחיי אביו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: בכל מקום שנאמר גויעה, צדיק היה",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 25:17:2",
+        "quote": "כל מקום שנאמר גויה צדיק היה"
+       }
+      ]
+     }
+    ],
+    "why": "רש\"י למד מהמילה שישמעאל מת כצדיק; השאלה היא איך מתקיים הכלל."
+   },
+   {
+    "title": "כאן ישמעאל 'נפל', ואילו המלאך אמר 'ישכון'. איך זה מתיישב?",
+    "pasuk": {
+     "text": "על פני כל אחיו נפל",
+     "ref": "Genesis 25:18",
+     "label": "בראשית כה, יח"
+    },
+    "question": "רש\"י והדר זקנים שואלים מדוע כתוב כאן 'נפל' ואילו קודם נאמר 'ישכון'.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 25:18:1",
+      "era": "rishon",
+      "quote": "כָּאן הוּא אוֹמֵר לְשׁוֹן נְפִילָה, וּלְהַלָּן אוֹמֵר עַל פְּנֵי כָל אֶחָיו יִשְׁכֹּן"
+     },
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 25:18:1",
+      "era": "rishon",
+      "quote": "ולעיל כתיב ישכון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כל זמן שאברהם היה קיים 'ישכון', וכשמת 'נפל'",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 25:18:1",
+        "quote": "עַד שֶׁלֹּא מֵת אַבְרָהָם יִשְׁכֹּן, מִשֶּׁמֵּת אַבְרָהָם נָפַל"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 45:9",
+        "quote": "כָּל זְמַן שֶׁהָיָה אַבְרָהָם אָבִינוּ קַיָּם יִשְׁכֹּן, וּכְשֶׁמֵּת אַבְרָהָם נָפָל"
+       }
+      ]
+     },
+     {
+      "text": "בעולם הזה 'ישכון', ולעתיד לבוא 'נפל'",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 45:9",
+        "quote": "בָּעוֹלָם הַזֶּה יִשְׁכֹּן, אֲבָל לֶעָתִיד לָבוֹא נָפָל"
+       }
+      ]
+     },
+     {
+      "text": "'נפל' פירושו 'שכן'",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 25:18:2",
+        "quote": "וְנָפָל פֵּרוּשׁוֹ שָׁכַן"
+       },
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 25:18:4",
+        "quote": "נפל: שכן, התפשט וקבע דירתו"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 25:18:1",
+        "quote": "ונפל לשון שכינה כמו ויפלו עליו"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: 'נפל' לשעבר ו'ישכון' להבא, כלומר נפל קודם התשובה וישכון אחריה",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 25:18:1",
+        "quote": "כָּל ״נָפָל״ מַשְׁמַע לְשֶׁעָבַר"
+       }
+      ]
+     }
+    ],
+    "why": "שני הפעלים נוגעים להבטחת המלאך להגר; התשובות נחלקות אם מדובר בזמן, במקום או במשמעות המילה."
+   },
+   {
+    "title": "לאיזה אשור הכוונה, אם הגבול סמוך למצרים?",
+    "pasuk": {
+     "text": "מחוילה עד שור אשר על פני מצרים באכה אשורה",
+     "ref": "Genesis 25:18",
+     "label": "בראשית כה, יח"
+    },
+    "question": "הכתב והקבלה ורג'יו אומרים שאין זו ארץ אשור הידועה שמעבר לנהר, שהרי בני ישמעאל שוכנים על פני מצרים.",
+    "asked_by": [
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 25:18:1",
+      "era": "acharon",
+      "quote": "נראה שאין זו ארץ אשור אשר מעבר לנהר"
+     },
+     {
+      "name": "רי\"ל רג'יו",
+      "ref": "Reggio on Torah, Genesis 25:18:2",
+      "era": "acharon",
+      "quote": "אין אשור הנזכר פה מדינת אשור הנודעת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רג'יו: אשורים הנזכרים בבני קטורה",
+      "sources": [
+       {
+        "name": "רי\"ל רג'יו",
+        "ref": "Reggio on Torah, Genesis 25:18:2",
+        "quote": "רק היא אשורים הנזכר למעלה בבני קטורה"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: תחום אחר ששמו אשור",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 25:18:1",
+        "quote": "אלא ודאי הוא תחום אחר ששמו אשור"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר משפיע על הבנת היקף נחלת ישמעאל."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "מזרחי",
+   "מדרש אגדה",
+   "רמב\"ן",
+   "רשב\"ם",
+   "רד\"ק",
+   "בראשית רבה",
+   "שכל טוב",
+   "מדרש תנחומא",
+   "שפתי חכמים",
+   "שד\"ל",
+   "מלבי\"ם",
+   "העמק דבר",
+   "ר' עובדיה מברטנורא",
+   "הדר זקנים",
+   "בכור שור",
+   "כלי יקר",
+   "הכתב והקבלה",
+   "רי\"ל רג'יו"
+  ]
+ }
+}
