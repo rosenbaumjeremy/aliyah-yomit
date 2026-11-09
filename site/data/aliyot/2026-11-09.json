@@ -1,0 +1,1147 @@
+{
+ "date": "2026-11-09",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 26:13-26:22",
+ "hebrew_date": {
+  "hebrew": "כ״ט בְּחֶשְׁוָן תשפ״ז",
+  "english": "29 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Isaac, living among the Philistines of Gerar, grows greater and greater until he has flocks, herds and a large household, and the Philistines envy him. They stop up the wells his father Abraham's servants had dug, and Abimelech tells him to leave because he has become far too big for them. Isaac settles in the wadi of Gerar, reopens his father's wells and gives them his father's names. His servants find a spring, and the herdsmen of Gerar quarrel over it (Esek); they dispute a second well too (Sitnah). He moves on and digs a third, over which there is no quarrel (Rehoboth), saying that now God has granted them ample space.",
+  "questions": [
+   {
+    "title": "Why does the verse add \"until he became very great\" after already saying he grew greater and greater?",
+    "pasuk": {
+     "text": "עד כי גדל מאד",
+     "ref": "Genesis 26:13",
+     "label": "Genesis 26:13"
+    },
+    "question": "The verse already said \"the man grew and went on growing\" and then lists his flocks and herds. What does \"until he became very great\" add?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:13:1",
+      "quote": "עד כי גדל מאד למה לי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, from Bereshit Rabbah: people said the dung of Isaac's mules was worth more than Abimelech's silver and gold.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:13:1",
+        "quote": "שהיו אומרים זבל פרדותיו של יצחק ולא כספו וזהבו של אבימלך",
+        "era": "rishon"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:7",
+        "quote": "עד שהיו אומרים זבל פרדותיו של יצחק ולא כספו וזהבו של אבימלך",
+        "era": "chazal"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:13:1",
+        "quote": "כל כך ברכה היה בזבל פרדותיו של יצחק",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh, citing his brother's view, adds that this phrase is something other than wealth: everything he owned succeeded.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:13:1",
+        "quote": "זהו מה שהיה כל אשר לו מוצלח",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: wealth beyond what is usual even among kings, all within the blessing of God.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 26:13:3",
+        "quote": "עשירות למעלה מן הרגילות אפי' במלכים",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: the verse uses three expressions of greatness, in deeds, in wealth and in name.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:13:3",
+        "quote": "שלש לשונות גדל כתיב בפסוק",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Isaac's blessing was only wealth or something beyond wealth."
+   },
+   {
+    "title": "Why is \"avudah\" written without a vav, and what is the great \"avudah\" that Isaac had?",
+    "pasuk": {
+     "text": "ומקנה בקר ועבדה רבה",
+     "ref": "Genesis 26:14",
+     "label": "Genesis 26:14"
+    },
+    "question": "The word is written as if \"avdah\". What did Isaac possess in great measure?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 64:7",
+      "quote": "דניאל חיטא אמר ועבדה כתיב",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Servants: unless a person makes himself like a servant to his servant he does not acquire him, hence the missing vav.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:7",
+        "quote": "אם אין אדם עושה עצמו כמו עבד לעבדו אינו קונה אותו",
+        "era": "chazal"
+       },
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:14:1",
+        "quote": "אם אין אדם נעשה כעבד לעבדו אינו קונה אותו",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: avudah means a great undertaking, as opposed to avodah, a single task.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:14:1",
+        "quote": "עבדה משמע פעלה רבה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: the work of fields and vineyards, since unqualified work means work of the ground.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:14:1",
+        "quote": "עבודת שדה וכרמים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: land prepared to be worked.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 26:14:1",
+        "quote": "קרקע מוכן להיות נעבד",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "The meaning of the word decides whether the verse speaks of servants, of field work or of one great enterprise."
+   },
+   {
+    "title": "Why did the Philistines stop up the wells: because of envy, or because of the danger of invading armies?",
+    "pasuk": {
+     "text": "סתמום פלשתים וימלאום עפר",
+     "ref": "Genesis 26:15",
+     "label": "Genesis 26:15"
+    },
+    "question": "The previous verse says the Philistines envied Isaac, yet Rashi says they stopped the wells because they were a hazard before invading troops.",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:15:1",
+      "quote": "ויקנאו אותו פלשתים ויסתמו את כל הבארות אשר חפרו וגו' מיבעי ליה",
+      "era": "acharon"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:15:1",
+      "quote": "אם כן היה להם ליקח הבארות ולא לסתום",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they said the wells are a hazard to us because of the armies that come against us.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:15:1",
+        "quote": "מפני שאמרו תקלה הם לנו מפני הגיסות הבאות עלינו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: so that Isaac would not gain a hold on them and a claim in the land.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:15:1",
+        "quote": "שלא יחזיק יצחק בהם להיות לו חזקה בארץ",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: so that his sons would not keep hold of them after his death.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:15:1",
+        "quote": "שלא יחזיקו בניו בהם אחרי מותו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: when they saw Abimelech's order not to harm Isaac, they stopped the wells out of the hatred of their envy.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 26:15:1",
+        "quote": "סתמו הבארות בשנאת קנאתם",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Siftei Chakhamim: they stopped them out of envy, and said \"a hazard\" so as not to show the envy.",
+      "sources": [
+       {
+        "name": "Siftei Chakhamim",
+        "ref": "Siftei Chakhamim, Genesis 26:15:1",
+        "quote": "מפני הקנאה סתמו וכדי שלא להראות הקנאה אמרו תקלה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: Abimelech was ashamed to tell Isaac to leave himself, and let his people stop the wells in the hope that Isaac would go.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 26:15:1",
+        "quote": "בוש אבימלך מלאמר לו שילך מאתם ע\"י עצמו והניח את עמו לסתום הבארות אולי ילך מאתם",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the Philistines were hostile to Isaac or acted for their own security."
+   },
+   {
+    "title": "Why does Abimelech now tell Isaac \"Go away from us\", when he had told Abraham \"my land is before you, settle where you wish\"?",
+    "pasuk": {
+     "text": "לך מעמנו כי עצמת ממנו מאד",
+     "ref": "Genesis 26:16",
+     "label": "Genesis 26:16"
+    },
+    "question": "With Abraham Abimelech opened his land; with Isaac he sends him away because he has become far too big for them.",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 26:16:1",
+      "quote": "הנה ארצי לפניך כטוב בעיניך שב. בראשית כ טו. וכאן אומר לך מעמנו",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lekach Tov: the wicked say much and do not even do a little.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:16:1",
+        "quote": "רשעים אומרים הרבה ואפי' מעט אין עושין",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: he said it in peace: leave the royal city because the great ones envy you and may harm you, and I could not save you.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 26:16:1",
+        "quote": "כי הגדולים מקנאים אותך ופן יפגעו בך ולא אוכל להצילך",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Radak: perhaps the Philistines, out of envy, would harm him, even though Abimelech had warned the people.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 26:16:1",
+        "quote": "ואולי לקנאת פלשתים בך ירעו עמך ואף על פי שאני הזהרתי העם עליך שלא לנגוע בך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: with his wealth Isaac could rise against them.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 26:16:1",
+        "quote": "ותוכל בעשרך להתקומם עלינו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the king's greatness was not noticed beside Isaac's, a disgrace for the king.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 26:16:1",
+        "quote": "ואין גדלת המלכות נכרת לפני גדלתו ואין לך בזיון המלך כזה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: their lands were not blessed because of the famine decree, while his land, from his fathers' inheritance, was blessed a hundredfold; they wanted him gone and his land left in their hands.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:16:1",
+        "quote": "ארצותינו אינן מתברכות מפני גזירת הרעב וארצו של זה שבאה לו מנחלת אבותיו מתברכת מאה שערים",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the demand came from fear, from honor, or from kindness."
+   },
+   {
+    "title": "Which wells did Isaac reopen: the ones stopped up in verse 15, or others? How could the Philistines allow it?",
+    "pasuk": {
+     "text": "ויחפר את בארת המים אשר חפרו בימי אברהם אביו",
+     "ref": "Genesis 26:18",
+     "label": "Genesis 26:18"
+    },
+    "question": "Rashi says Isaac returned to dig them before he left Gerar. Ramban objects that the Philistines, who called the wells a hazard, would not have given him permission.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 26:17:1",
+      "quote": "כי היאך יתנו לו הם רשות והם אמרו תקלה הם לנו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the same wells, which the Philistines had stopped before Isaac left Gerar; he returned and dug them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:18:1",
+        "quote": "מקדם שנסע יצחק מגרר חזר וחפרן",
+        "era": "rishon"
+       },
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 26:18:1",
+        "quote": "שבזמן שנתנו רשות ליצחק לפתחן לא היו גייסות בעולם",
+        "era": "acharon"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:18:1",
+        "quote": "בשעה שסתמו אותם שעת מלחמה היה ועכשיו לא היה מלחמה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: these are other wells in another place, which Abraham dug while he lived there; the Philistines stopped them after he died, out of regard for him while he lived.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 26:17:1",
+        "quote": "אבל הם אחרים במקום אחר",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: the wells here are those Abraham dug in the wadi of Gerar on his way to Beer Sheva.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 26:18:1",
+        "quote": "הן אותם שחפר אברהם בנחל גרר",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: the wells of his father were stopped only so that he would leave; once he left, he returned to dig them.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 26:15:1",
+        "quote": "לא היה כי אם כדי שילך משם על כן אחר שהלך לו שב לחפור אותם",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It is a real machlokes about the order of events in Gerar."
+   },
+   {
+    "title": "Why does the Torah tell the story of the wells at such length, when it adds nothing to Isaac's honor?",
+    "pasuk": {
+     "text": "ויקרא שם הבאר עשק",
+     "ref": "Genesis 26:20",
+     "label": "Genesis 26:20"
+    },
+    "question": "Ramban says the plain story has no benefit, since Isaac and Abraham dug wells equally. So the account must hold a hidden matter.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 26:20:1",
+      "quote": "יספר הכתוב ויאריך בענין הבארות ואין בפשוטי הספור תועלת ולא כבוד גדול ליצחק",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the three wells hint at the three Batei Mikdash: Esek the first, Sitnah the second, Rechovot the Beit HaMikdash to be built.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 26:20:1",
+        "quote": "באר מים חיים ירמז לבית אלהים אשר יעשו בניו של יצחק",
+        "era": "rishon"
+       },
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 26:19:1",
+        "quote": "על שלשה בתי מקדשים שנקראו באר מים חיים",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the wells correspond to the books of the Torah, Esek to Bereshit.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:8",
+        "quote": "ויקרא שם הבאר עשק כנגד ספר בראשית",
+        "era": "chazal"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:22:1",
+        "quote": "הרי ה' כנגד ה' חומשי תורה שנקראו באר מים חיים",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Chatam Sofer: the third well showed that the famine in Eretz Yisrael had ended, so Isaac went up to Beer Sheva.",
+      "sources": [
+       {
+        "name": "Chatam Sofer",
+        "ref": "Chatam Sofer on Torah, Toldot 20",
+        "quote": "אמר זהו סימן כי הרחיב ה' לנו ופרינו בארץ ופסק הרעב",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: a sign of the exile, where some are robbed with a claim and some without, and some thrive in their place of expulsion.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 26:22:5",
+        "quote": "סימן לזמן הגלות דהגירושין גורמים כמה דברים",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the fathers' deeds foretold for their children."
+   },
+   {
+    "title": "Why does the Torah explain the name Esek but not the name Sitnah?",
+    "pasuk": {
+     "text": "ויקרא שמה שטנה",
+     "ref": "Genesis 26:21",
+     "label": "Genesis 26:21"
+    },
+    "question": "For the first well the verse says \"because they contended with him\"; for the second it only gives the name.",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 26:21:1",
+      "quote": "אינו מפרש על מה קרא שמה שטנה כמו שמפרש עשק",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: at first he thought they argued with some right; when they argued over the second he said it was certainly hatred, so nothing needed explaining.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 26:21:1",
+        "quote": "וכשראה שהיו מערערין בשני אמר ודאי שטנה ושנאה היא ומשום כך אינו מפרש",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: the first was only chance; this one was certainly hatred and animosity.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 26:21:1",
+        "quote": "מן הראשון אקראי בעלמא הוא אבל מזה ודאי שנאה ושטנה הוא",
+        "era": "rishon"
+       },
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 26:21:1",
+        "quote": "מן הראשון אקראי הוא אבל מזה ודאי שטנה הוא",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the first dispute was a claim that the water came from the wadi; the second was open enmity, they said they would have dug it had he not.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 26:20:1",
+        "quote": "מכל מקום היו מריבים ושוטנים שהיו אומרים כי אנחנו היינו חופרין אותו אם לא חפרת אתה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches how the dispute changed from a claim to open hatred."
+   }
+  ],
+  "sources_consulted": [
+   "Mizrachi",
+   "Rashi",
+   "Bereshit Rabbah",
+   "Gur Aryeh",
+   "Haamek Davar",
+   "Midrash Sekhel Tov",
+   "Rashbam",
+   "Sforno",
+   "Chizkuni",
+   "Siftei Chakhamim",
+   "Alshich",
+   "Midrash Lekach Tov",
+   "Shadal",
+   "Radak",
+   "Or HaChaim",
+   "Ramban",
+   "Malbim",
+   "Kli Yakar",
+   "Chatam Sofer",
+   "Hadar Zekenim",
+   "Da'at Zekenim"
+  ]
+ },
+ "hebrew": {
+  "summary": "יצחק, היושב בין פלשתים בגרר, הולך וגדל עד שיש לו מקנה צאן ובקר ועבדה רבה, והפלשתים מקנאים בו. הם סותמים את הבארות שחפרו עבדי אברהם אביו, ואבימלך אומר לו ללכת כי עצם מהם מאד. יצחק חונה בנחל גרר, חופר שוב את בארות אביו וקורא להן בשמות שקרא להן אביו. עבדיו מוצאים באר מים חיים, ורועי גרר רבים עליה (עשק), וגם על באר שנייה (שטנה). הוא עוקר משם וחופר באר נוספת, ולא רבו עליה (רחובות), ואומר: כי עתה הרחיב ה' לנו ופרינו בארץ.",
+  "questions": [
+   {
+    "title": "למה הכתוב מוסיף \"עד כי גדל מאד\" אחרי שכבר אמר שהלך הלוך וגדל?",
+    "pasuk": {
+     "text": "עד כי גדל מאד",
+     "ref": "Genesis 26:13",
+     "label": "בראשית כו, יג"
+    },
+    "question": "הכתוב כבר אמר \"וילך הלוך וגדל\" ופירט את מקנהו. מה מוסיף \"עד כי גדל מאד\"?",
+    "asked_by": [
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 26:13:1",
+      "quote": "עד כי גדל מאד למה לי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י, מבראשית רבה: אמרו שזבל פרדותיו של יצחק שווה יותר מכספו וזהבו של אבימלך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:13:1",
+        "quote": "שהיו אומרים זבל פרדותיו של יצחק ולא כספו וזהבו של אבימלך",
+        "era": "rishon"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:7",
+        "quote": "עד שהיו אומרים זבל פרדותיו של יצחק ולא כספו וזהבו של אבימלך",
+        "era": "chazal"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:13:1",
+        "quote": "כל כך ברכה היה בזבל פרדותיו של יצחק",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הגור אריה מוסיף שזהו דבר זולת העושר: כל אשר לו היה מוצלח.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:13:1",
+        "quote": "זהו מה שהיה כל אשר לו מוצלח",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: עושר למעלה מן הרגיל אפילו במלכים, והכל בכלל ברכת ה'.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 26:13:3",
+        "quote": "עשירות למעלה מן הרגילות אפי' במלכים",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: שלוש לשונות של גדלות בפסוק, גדול במעשים, גדול בעושר וגדול בשם.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:13:3",
+        "quote": "שלש לשונות גדל כתיב בפסוק",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נלמד אם ברכת יצחק הייתה עושר בלבד או יותר מכך."
+   },
+   {
+    "title": "למה \"עבדה\" כתוב חסר, ומהי ה\"עבדה רבה\" שהייתה ליצחק?",
+    "pasuk": {
+     "text": "ומקנה בקר ועבדה רבה",
+     "ref": "Genesis 26:14",
+     "label": "בראשית כו, יד"
+    },
+    "question": "המילה כתובה כמו \"עבדה\". מה היה ליצחק בשפע?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 64:7",
+      "quote": "דניאל חיטא אמר ועבדה כתיב",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עבדים: מי שאינו נעשה כעבד לעבדו אינו קונה אותו, ולכן חסר ו'.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:7",
+        "quote": "אם אין אדם עושה עצמו כמו עבד לעבדו אינו קונה אותו",
+        "era": "chazal"
+       },
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 26:14:1",
+        "quote": "אם אין אדם נעשה כעבד לעבדו אינו קונה אותו",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: עבדה היא פעולה רבה, בניגוד ל\"עבודה\" שהיא עבודה אחת.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:14:1",
+        "quote": "עבדה משמע פעלה רבה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: עבודת שדות וכרמים, שסתם עבודה היא עבודת קרקע.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:14:1",
+        "quote": "עבודת שדה וכרמים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: קרקע מוכן להיות נעבד.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 26:14:1",
+        "quote": "קרקע מוכן להיות נעבד",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "פירוש המילה קובע אם הכתוב מדבר בעבדים, בעבודת שדה או בפעולה גדולה."
+   },
+   {
+    "title": "למה סתמו הפלשתים את הבארות: מקנאה או מחשש לגייסות?",
+    "pasuk": {
+     "text": "סתמום פלשתים וימלאום עפר",
+     "ref": "Genesis 26:15",
+     "label": "בראשית כו, טו"
+    },
+    "question": "הפסוק שלפני כן אומר שהפלשתים קינאו ביצחק, ורש\"י אומר שסתמו מפני שהבארות תקלה מפני הגייסות.",
+    "asked_by": [
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 26:15:1",
+      "quote": "ויקנאו אותו פלשתים ויסתמו את כל הבארות אשר חפרו וגו' מיבעי ליה",
+      "era": "acharon"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:15:1",
+      "quote": "אם כן היה להם ליקח הבארות ולא לסתום",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אמרו תקלה הם לנו מפני הגייסות הבאות עלינו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:15:1",
+        "quote": "מפני שאמרו תקלה הם לנו מפני הגיסות הבאות עלינו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: כדי שלא יחזיק יצחק בהם ויהיה לו חזקה בארץ.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:15:1",
+        "quote": "שלא יחזיק יצחק בהם להיות לו חזקה בארץ",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: כדי שלא יחזיקו בניו בהם אחרי מותו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:15:1",
+        "quote": "שלא יחזיקו בניו בהם אחרי מותו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כשראו את מצוות אבימלך שלא להזיק ליצחק, סתמו את הבארות בשנאת קנאתם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 26:15:1",
+        "quote": "סתמו הבארות בשנאת קנאתם",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "שפתי חכמים: מפני הקנאה סתמו, ואמרו תקלה כדי שלא להראות את הקנאה.",
+      "sources": [
+       {
+        "name": "שפתי חכמים",
+        "ref": "Siftei Chakhamim, Genesis 26:15:1",
+        "quote": "מפני הקנאה סתמו וכדי שלא להראות הקנאה אמרו תקלה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: אבימלך בוש לומר לו בעצמו לילך, והניח לעמו לסתום את הבארות אולי ילך.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 26:15:1",
+        "quote": "בוש אבימלך מלאמר לו שילך מאתם ע\"י עצמו והניח את עמו לסתום הבארות אולי ילך מאתם",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם פעלו מתוך עוינות כלפי יצחק או מטעמי ביטחון."
+   },
+   {
+    "title": "למה אבימלך אומר עתה ליצחק \"לך מעמנו\", והרי אמר לאברהם \"הנה ארצי לפניך כטוב בעיניך שב\"?",
+    "pasuk": {
+     "text": "לך מעמנו כי עצמת ממנו מאד",
+     "ref": "Genesis 26:16",
+     "label": "בראשית כו, טז"
+    },
+    "question": "לאברהם פתח אבימלך את ארצו; ליצחק הוא אומר ללכת כי עצם מהם מאד.",
+    "asked_by": [
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 26:16:1",
+      "quote": "הנה ארצי לפניך כטוב בעיניך שב. בראשית כ טו. וכאן אומר לך מעמנו",
+      "era": "chazal"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לקח טוב: רשעים אומרים הרבה ואפילו מעט אין עושין.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:16:1",
+        "quote": "רשעים אומרים הרבה ואפי' מעט אין עושין",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: אמר לו זאת בשלום: לך מעיר המלוכה כי הגדולים מקנאים בך, ופן יפגעו בך ולא אוכל להצילך.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 26:16:1",
+        "quote": "כי הגדולים מקנאים אותך ופן יפגעו בך ולא אוכל להצילך",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אולי מקנאת הפלשתים בו ירעו עמו, אף על פי שהזהיר את העם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 26:16:1",
+        "quote": "ואולי לקנאת פלשתים בך ירעו עמך ואף על פי שאני הזהרתי העם עליך שלא לנגוע בך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בעושרו יוכל להתקומם עליהם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 26:16:1",
+        "quote": "ותוכל בעשרך להתקומם עלינו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: גדולת המלכות לא נכרת לפני גדולתו, ואין בזיון למלך כזה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 26:16:1",
+        "quote": "ואין גדלת המלכות נכרת לפני גדלתו ואין לך בזיון המלך כזה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: ארצותיהם אינן מתברכות מפני גזירת הרעב וארצו מתברכת מאה שערים; רצו שילך וארצו תישאר בידם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:16:1",
+        "quote": "ארצותינו אינן מתברכות מפני גזירת הרעב וארצו של זה שבאה לו מנחלת אבותיו מתברכת מאה שערים",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה אם הדרישה באה מפחד, מכבוד או מחסד."
+   },
+   {
+    "title": "אילו בארות פתח יצחק: אלו שנסתמו בפסוק טו או אחרות? ואיך הניחו לו הפלשתים?",
+    "pasuk": {
+     "text": "ויחפר את בארת המים אשר חפרו בימי אברהם אביו",
+     "ref": "Genesis 26:18",
+     "label": "בראשית כו, יח"
+    },
+    "question": "רש\"י אומר שיצחק חזר וחפרן קודם שנסע מגרר. הרמב\"ן מקשה שהפלשתים, שאמרו שהן תקלה, לא היו נותנים לו רשות.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 26:17:1",
+      "quote": "כי היאך יתנו לו הם רשות והם אמרו תקלה הם לנו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אותן הבארות שסתמום הפלשתים קודם שנסע יצחק מגרר, וחזר וחפרן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:18:1",
+        "quote": "מקדם שנסע יצחק מגרר חזר וחפרן",
+        "era": "rishon"
+       },
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 26:18:1",
+        "quote": "שבזמן שנתנו רשות ליצחק לפתחן לא היו גייסות בעולם",
+        "era": "acharon"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:18:1",
+        "quote": "בשעה שסתמו אותם שעת מלחמה היה ועכשיו לא היה מלחמה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אלו בארות אחרות במקום אחר שחפר אברהם כשגר שם, והפלשתים סתמום אחרי מותו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 26:17:1",
+        "quote": "אבל הם אחרים במקום אחר",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: הבארות כאן הן אלה שחפר אברהם בנחל גרר בדרכו לבאר שבע.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 26:18:1",
+        "quote": "הן אותם שחפר אברהם בנחל גרר",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: סתמו את בארות אביו רק כדי שילך משם; אחרי שהלך, חזר לחפור אותן.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 26:15:1",
+        "quote": "לא היה כי אם כדי שילך משם על כן אחר שהלך לו שב לחפור אותם",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זו מחלוקת ממשית על סדר האירועים בגרר."
+   },
+   {
+    "title": "למה התורה מאריכה בסיפור הבארות, אם אין בו תועלת וכבוד ליצחק?",
+    "pasuk": {
+     "text": "ויקרא שם הבאר עשק",
+     "ref": "Genesis 26:20",
+     "label": "בראשית כו, כ"
+    },
+    "question": "הרמב\"ן אומר שבפשט אין בסיפור תועלת, ואברהם ויצחק חפרו בארות בשווה. לכן יש בו עניין נסתר.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 26:20:1",
+      "quote": "יספר הכתוב ויאריך בענין הבארות ואין בפשוטי הספור תועלת ולא כבוד גדול ליצחק",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: שלוש הבארות רומזות לשלושת בתי המקדש: עשק הראשון, שטנה השני, רחובות העתיד.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 26:20:1",
+        "quote": "באר מים חיים ירמז לבית אלהים אשר יעשו בניו של יצחק",
+        "era": "rishon"
+       },
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 26:19:1",
+        "quote": "על שלשה בתי מקדשים שנקראו באר מים חיים",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: הבארות כנגד ספרי התורה, עשק כנגד ספר בראשית.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:8",
+        "quote": "ויקרא שם הבאר עשק כנגד ספר בראשית",
+        "era": "chazal"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:22:1",
+        "quote": "הרי ה' כנגד ה' חומשי תורה שנקראו באר מים חיים",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "חתם סופר: הבאר השלישית הייתה סימן שהרעב בארץ ישראל פסק, ולכן עלה יצחק לבאר שבע.",
+      "sources": [
+       {
+        "name": "חתם סופר",
+        "ref": "Chatam Sofer on Torah, Toldot 20",
+        "quote": "אמר זהו סימן כי הרחיב ה' לנו ופרינו בארץ ופסק הרעב",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: סימן לזמן הגלות.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 26:22:5",
+        "quote": "סימן לזמן הגלות דהגירושין גורמים כמה דברים",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה רמזו מעשי האבות לבניהם."
+   },
+   {
+    "title": "למה התורה מבארת את שם הבאר עשק ואינה מבארת את שם הבאר שטנה?",
+    "pasuk": {
+     "text": "ויקרא שמה שטנה",
+     "ref": "Genesis 26:21",
+     "label": "בראשית כו, כא"
+    },
+    "question": "בבאר הראשונה כתוב \"כי התעשקו עמו\"; בשנייה רק השם.",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 26:21:1",
+      "quote": "אינו מפרש על מה קרא שמה שטנה כמו שמפרש עשק",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חזקוני: בתחילה חשב שאולי עירערו בדין; כשראה שערערו גם בשנייה אמר שזו שנאה, ולכן אינו מפרש.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 26:21:1",
+        "quote": "וכשראה שהיו מערערין בשני אמר ודאי שטנה ושנאה היא ומשום כך אינו מפרש",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: הראשון היה אקראי בעלמא, וזה ודאי שנאה ושטנה.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 26:21:1",
+        "quote": "מן הראשון אקראי בעלמא הוא אבל מזה ודאי שנאה ושטנה הוא",
+        "era": "rishon"
+       },
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 26:21:1",
+        "quote": "מן הראשון אקראי הוא אבל מזה ודאי שטנה הוא",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: הריב הראשון היה על טענה שהמים מן הנחל; בשני היו שוטנים, אמרו שהם היו חופרים אותה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 26:20:1",
+        "quote": "מכל מקום היו מריבים ושוטנים שהיו אומרים כי אנחנו היינו חופרין אותו אם לא חפרת אתה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד איך הריב עבר מטענה לשנאה גלויה."
+   }
+  ],
+  "sources_consulted": [
+   "המזרחי",
+   "רש\"י",
+   "בראשית רבה",
+   "גור אריה",
+   "העמק דבר",
+   "מדרש שכל טוב",
+   "רשב\"ם",
+   "ספורנו",
+   "חזקוני",
+   "שפתי חכמים",
+   "אלשיך",
+   "מדרש לקח טוב",
+   "שד\"ל",
+   "רד\"ק",
+   "אור החיים",
+   "רמב\"ן",
+   "מלבי\"ם",
+   "כלי יקר",
+   "חתם סופר",
+   "הדר זקנים",
+   "דעת זקנים"
+  ]
+ }
+}
