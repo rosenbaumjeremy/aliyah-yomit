@@ -1,0 +1,1265 @@
+{
+ "date": "2026-11-10",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 26:23-26:29",
+ "hebrew_date": {
+  "hebrew": "ל׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "30 Cheshvan 5787"
+ },
+ "english": {
+  "summary": "Isaac goes up from Gerar to Beer-sheba. That night God appears to him, tells him not to fear, and promises blessing for the sake of Abraham. Isaac builds an altar, calls in God's name, pitches his tent, and his servants dig a well. Abimelech then comes from Gerar with Achuzzat and Phichol. Isaac asks why they come, since they hated him and sent him away. They answer that they have seen that God is with him and ask for a treaty that neither side will harm the other. (This week's reading is Toldot.)",
+  "questions": [
+   {
+    "title": "Why does the verse say Isaac 'went up' to Beer-sheba, and why did he go there?",
+    "pasuk": {
+     "text": "וַיַּעַל מִשָּׁם בְּאֵר שָׁבַע",
+     "ref": "Genesis 26:23",
+     "label": "Genesis 26:23"
+    },
+    "question": "Beer-sheba is described as higher than Gerar, and the verse does not say why Isaac moved there after the quarrels over the wells.",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 26:23:1",
+      "era": "rishon",
+      "quote": "ומה שאמר ויעל"
+     },
+     {
+      "name": "Bereshit Rabbati",
+      "ref": "Bereshit Rabbati, Parashat Toldot 37",
+      "era": "chazal",
+      "quote": "ויעל משם באר שבע למה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbati: because Abraham stood there, and Isaac thought his merit might help him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbati",
+        "ref": "Bereshit Rabbati, Parashat Toldot 37",
+        "quote": "שאברהם אבינו עמד שם אמר שמא זכותו מסייעני",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: he went because he was afraid of them, as God's words 'Fear not' prove.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 26:23:1",
+        "quote": "כי היה מתיירא מהם",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: it is the place where God told Abraham to go to the land of Moriah.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:23:1",
+        "quote": "מקום שאמר לו הקב\"ה לך לך אל ארץ המוריה",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Radak: 'went up' is literal, because the land of Israel was higher than the land of the Philistines.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 26:23:1",
+        "quote": "כי ארץ ישראל המוחזקת היתה גבוה מארץ פלשתים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: living in the field was hard for Isaac, a city man; he tried Beer-sheba, a large city, but did not yet bring his household in, for fear of the city's officials.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 26:23:1",
+        "quote": "קשה היה על יצחק לדור בשדה ובכפר",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Isaac sought after being driven out: safety, holiness, or his father's merit."
+   },
+   {
+    "title": "What was Isaac afraid of, that God had to tell him 'Fear not'?",
+    "pasuk": {
+     "text": "אַל־תִּירָא֙ כִּֽי־אִתְּךָ֣ אָנֹ֔כִי",
+     "ref": "Genesis 26:24",
+     "label": "Genesis 26:24"
+    },
+    "question": "The verse gives no reason for Isaac's fear, yet God reassures him. What threatened him?",
+    "asked_by": [
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 26:24:1",
+      "era": "rishon",
+      "quote": "הוצרך לומר אל תירא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: after being driven out and after the herdsmen of Gerar quarrelled with him, he feared they would gather against him and strike him and his household.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 26:24:1",
+        "quote": "היה מתירא פן יאספו עליו ויכוהו הוא וביתו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: he feared that the nations had begun to be jealous of him.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:24:2",
+        "quote": "שהיה מתיירא שהתחילו האומות לקנאות בו",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: having seen the humiliation of being expelled and not knowing where to turn, he thought God had abandoned him.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 26:24:1",
+        "quote": "חש כי ה' עזבו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: that his possessions would shrink because of their quarrels.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 26:24:1",
+        "quote": "שימעטו נכסיך במריבותם",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: Isaac was afraid to publicize belief in God openly, as Abraham had done at Beer-sheba.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 26:24:1",
+        "quote": "ויצחק התירא מלפרסם אמונת ה' ברבים",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "Each answer reads the fear differently: physical danger, loss of property, abandonment, or hesitation to proclaim God."
+   },
+   {
+    "title": "Why does God call Himself only 'the God of Abraham your father'?",
+    "pasuk": {
+     "text": "אָנֹכִ֕י אֱלֹהֵ֖י אַבְרָהָ֣ם אָבִ֑יךָ",
+     "ref": "Genesis 26:24",
+     "label": "Genesis 26:24"
+    },
+    "question": "God appears to Isaac in the name of Abraham alone, and promises blessing 'for the sake of My servant Abraham.' Why not also in Isaac's own name?",
+    "asked_by": [
+     {
+      "name": "Kitzur Ba'al HaTurim",
+      "ref": "Kitzur Ba'al HaTurim on Genesis 26:24:1",
+      "era": "rishon",
+      "quote": "אנכי אלהי אברהם אביך ולא כתב ה' אלהים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Kitzur Ba'al HaTurim: unlike with Abraham and Jacob, 'Hashem Elokim' is not written, because Isaac was afflicted with suffering without the attribute of mercy.",
+      "sources": [
+       {
+        "name": "Kitzur Ba'al HaTurim",
+        "ref": "Kitzur Ba'al HaTurim on Genesis 26:24:1",
+        "quote": "לפי שנתייסר ביסורים בלי מדת רחמים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbati: even though Abraham died, his merit stands for his children.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbati",
+        "ref": "Bereshit Rabbati, Parashat Toldot 22",
+        "quote": "אעפ\"י שמת אברהם זכותו עומדת לבניו",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: for Abraham obeyed when told to go to Moriah and did not question God's ways.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:24:2",
+        "quote": "ולא הרהר אחר מדותי",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Radak: 'My servant' because Abraham heard God like a servant in all that he was commanded.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 26:24:2",
+        "quote": "כי בכל אשר צויתיו שמע אלי כעבד",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It ties Isaac's security to his father's merit and points to how Isaac's own trials differed from Abraham's."
+   },
+   {
+    "title": "Is 'Achuzzat' a person's name or a group of friends, and why the extra letter tav?",
+    "pasuk": {
+     "text": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ",
+     "ref": "Genesis 26:26",
+     "label": "Genesis 26:26"
+    },
+    "question": "'Achuzzat mere'ehu' is read two ways, and on the group reading the tav and the mem of 'mere'ehu' do not fit the grammar.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:26:1",
+      "era": "acharon",
+      "quote": "ולפיכך קשה שלא היה לו לכתוב תי\"ו של אחוזת"
+     },
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 26:26:1",
+      "era": "rishon",
+      "quote": "ואל תתמה על תי\"ו של אחזת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: like the Targum, a company of his friends; the tav has parallels in the Tanakh such as 'ezrat mitzar.'",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:26:1",
+        "quote": "כתרגומו וסיעת מרחמוהי סיעת מאוהביו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Rabbi Yehudah says Achuzzat mere'ehu was his name; Rabbi Nechemyah says a company of his friends.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:9",
+        "quote": "רבי יהודה אמר אחזת מרעהו היה שמו רבי נחמיה אמר סיעת מרחמוהי",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: some say it is a man's name, like Phichol; he prefers Onkelos.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 26:26:1",
+        "quote": "יש אומ' אחוזת שם איש",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: the name reading is more fitting for the plain sense, since a group of men is never called 'achuzah' elsewhere in Tanakh.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 26:26:1",
+        "quote": "לא מצאנו בכל המקרא שיקרא קבוצת אנשים אחוזה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Levush HaOrah: he challenges the Gur Aryeh's question; the tzere under the mem shows it is a root mem, not a prefix.",
+      "sources": [
+       {
+        "name": "Levush HaOrah",
+        "ref": "Levush HaOrah, Genesis 26:26:1",
+        "quote": "וכי לא ראה הרב הציר\"י שתחת המ\"ם",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Abimelech came with an official party or with a named friend, and shows how the early readers weighed grammar against tradition."
+   },
+   {
+    "title": "Why does Abimelech come to Isaac with a bigger entourage than he brought to Abraham?",
+    "pasuk": {
+     "text": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ וּפִיכֹ֖ל שַׂר־צְבָאֽוֹ",
+     "ref": "Genesis 26:26",
+     "label": "Genesis 26:26"
+    },
+    "question": "With Abraham the king came with Phichol alone; here the verse adds Achuzzat and his companions.",
+    "asked_by": [
+     {
+      "name": "Tzror HaMor",
+      "ref": "Tzror HaMor on Torah, Genesis 26:26:1",
+      "era": "acharon",
+      "quote": "כי באברהם לא נאמר אלא ופיכול שר צבאו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: after God promised Isaac blessing, the king came with greater honor than to Abraham, bringing many companions as well as Phichol.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 26:24:1",
+        "quote": "בכבוד גדול יותר מאשר עשה לאביו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: this shows God's providence over those who fear Him, putting into their hearts to seek his love with great honor.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 26:26:1",
+        "quote": "להורות השגחת השם על יריאיו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: after Isaac began calling in God's name, his servants dug a well without dispute, and Abimelech came to make a covenant and harmed him no more.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 26:26:1",
+        "quote": "אבימלך הלך אליו לכרות ברית ולא הזיקוהו עוד",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Yalkut Shimoni: Rabbi Nechemyah reads Phichol as 'the mouth to which all his troops kiss.'",
+      "sources": [
+       {
+        "name": "Yalkut Shimoni",
+        "ref": "Yalkut Shimoni on Torah 111:14",
+        "quote": "פה שכל צבאותיו נושקין לו על פיו",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "The mefarshim differ on why the royal party is larger and what it signals."
+   },
+   {
+    "title": "Why does Isaac ask 'Why have you come to me?' when a treaty was clearly what they wanted?",
+    "pasuk": {
+     "text": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יִצְחָ֔ק מַדּ֖וּעַ בָּאתֶ֣ם אֵלָ֑י וְאַתֶּם֙ שְׂנֵאתֶ֣ם אֹתִ֔י",
+     "ref": "Genesis 26:27",
+     "label": "Genesis 26:27"
+    },
+    "question": "Isaac answers the royal party with a sharp question, reminding them that they hated him and sent him away.",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 26:27:1",
+      "era": "acharon",
+      "quote": "ואם לשלום הלא אתם שנאתם אותי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Malbim: they must have come for peace or for war; if peace, they hated him; if war, they had sent him away when he was in their hands and did him no harm.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 26:27:1",
+        "quote": "ואם למלחמה הלא ותשלחוני מאתכם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: he did not flatter them but spoke words of rebuke, as Abraham rebuked Abimelech; from rebuke comes love.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:27:1",
+        "quote": "שמתוך התוכחות באה האהבה",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Pirkei DeRabbi Eliezer: you turned your faces from me, and now you come to me.",
+      "sources": [
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 36:21",
+        "quote": "הפכתם אתם את פניכם ממני ועכשיו באתם אלי",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: three matters: why you came to Beer-sheba, you hated me for my success, and you sent me from Gerar; and they answered all three.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 26:27:1-2",
+        "quote": "הזכיר להם שלשה עניינים",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "The sources read Isaac's sharp question as logic, rebuke, or a reply to their change of face."
+   },
+   {
+    "title": "Why does the verse say 'between us, between us and you' twice?",
+    "pasuk": {
+     "text": "תְּהִי נָא אָלָה בֵּינוֹתֵינוּ בֵּינֵינוּ וּבֵינֶךָ",
+     "ref": "Genesis 26:28",
+     "label": "Genesis 26:28"
+    },
+    "question": "The phrase seems to say the same thing three times. What does each word add?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:28:1",
+      "era": "acharon",
+      "quote": "פירוש מאי בינותינו בינינו ובינך"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 26:28:1",
+      "era": "acharon",
+      "quote": "מאי בינותינו ומאי בינינו וביניך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the oath that existed between us from your father's days should now be between us and you.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:28:2",
+        "quote": "האלה אשר בינותינו מימי אביך תהי גם עתה בינינו וביניך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: 'between us' means the dead, 'between us and you' means the living.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 26:28:3",
+        "quote": "בינותינו אלו שמתו בינינו ובינך אלו החיים",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: two covenants, one for the great men of the people and one for the king, his deputy and Isaac, since the covenant with Abraham did not include the whole people.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 26:28:1",
+        "quote": "כאלו צריך שתי בריתות אחד לגדולים ואחד למלך",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it is repetition upon repetition.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 26:28:1",
+        "quote": "בינותינו ריבוי אחר ריבוי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Riva: some say Abimelech wanted Isaac to swear by his father's idols, which is 'the oath between us.'",
+      "sources": [
+       {
+        "name": "Riva",
+        "ref": "Riva on Torah, Genesis 26:28:1",
+        "quote": "רצה אבימלך להשביע יצחק בגלולי אביו",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether a new covenant was cut or the old one renewed."
+   },
+   {
+    "title": "How can they say they did Isaac 'only good' when they drove him out?",
+    "pasuk": {
+     "text": "כַּאֲשֶׁר לֹא נְגַעֲנוּךָ וְכַאֲשֶׁר עָשִׂינוּ עִמְּךָ רַק טוֹב",
+     "ref": "Genesis 26:29",
+     "label": "Genesis 26:29"
+    },
+    "question": "Abimelech's claim of kindness sits oddly with having told Isaac to leave.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:29:1",
+      "era": "acharon",
+      "quote": "ומאחר שטוב עשו לו פשיטא שלא נגעו בו לרע"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 26:29:2",
+      "era": "chazal",
+      "quote": "רק מיעוט מלמד שלא עשה עמו טובה שלמה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'we did not touch you' means when we said, 'Go from us.'",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:29:1",
+        "quote": "כשאמרנו לך לך מעמנו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: 'only' limits it; they did not do him complete good.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 64:10",
+        "quote": "רק מעוט שלא עשו עמו טובה שלמה",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: like the lion with a bone in its throat who told the crane it should be grateful the lion did not eat it.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 26:29:1",
+        "quote": "לא די לך שלא אכלתיך כשהיתה ראשך בפי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: they did not even cause him harm, since he was now blessed.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 26:29:2",
+        "quote": "אפי' גרמה לא עשינו עמך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: 'we did not touch you' means we did not let our hearts be tempted toward your wife, and 'only good' means guarding your property from our people.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 26:29:1",
+        "quote": "שלא נפתה לבנו על אשתך",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mefarshim weigh a self-serving claim against the facts."
+   }
+  ],
+  "sources_consulted": [
+   "Radak",
+   "Bereshit Rabbati",
+   "Rashbam",
+   "Midrash Lekach Tov",
+   "Haamek Davar",
+   "Bekhor Shor",
+   "Ramban",
+   "Or HaChaim",
+   "Sforno",
+   "Malbim",
+   "Kitzur Ba'al HaTurim",
+   "Gur Aryeh",
+   "Rashi",
+   "Bereshit Rabbah",
+   "HaKtav VeHaKabalah",
+   "Levush HaOrah",
+   "Tzror HaMor",
+   "Yalkut Shimoni",
+   "Pirkei DeRabbi Eliezer",
+   "Rabbeinu Bahya",
+   "Mizrachi",
+   "Ibn Ezra",
+   "Riva",
+   "Hadar Zekenim"
+  ]
+ },
+ "hebrew": {
+  "summary": "יצחק עולה מגרר לבאר שבע. באותו לילה ה' נראה אליו, אומר לו לא לירא ומבטיח לו ברכה בעבור אברהם. יצחק בונה מזבח, קורא בשם ה', נוטה אהלו, ועבדיו כורים באר. אז בא אליו אבימלך מגרר עם אחוזת ופיכל. יצחק שואל מדוע באו, הרי שנאוהו ושלחוהו. הם משיבים שראו כי ה' עמו, ומבקשים ברית שלא יפגעו זה בזה.",
+  "questions": [
+   {
+    "title": "למה נאמר שיצחק 'עלה' לבאר שבע, ולמה הלך דווקא לשם?",
+    "pasuk": {
+     "text": "וַיַּעַל מִשָּׁם בְּאֵר שָׁבַע",
+     "ref": "Genesis 26:23",
+     "label": "בראשית כו, כג"
+    },
+    "question": "באר שבע נקראת 'עלייה' מגרר, והכתוב אינו אומר מדוע עבר יצחק לשם אחרי המריבות על הבארות.",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 26:23:1",
+      "era": "rishon",
+      "quote": "ומה שאמר ויעל"
+     },
+     {
+      "name": "בראשית רבתי",
+      "ref": "Bereshit Rabbati, Parashat Toldot 37",
+      "era": "chazal",
+      "quote": "ויעל משם באר שבע למה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבתי: מפני שאברהם אבינו עמד שם, ויצחק אמר שמא זכותו תסייעני.",
+      "sources": [
+       {
+        "name": "בראשית רבתי",
+        "ref": "Bereshit Rabbati, Parashat Toldot 37",
+        "quote": "שאברהם אבינו עמד שם אמר שמא זכותו מסייעני",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הוא עלה מפני שהיה מתיירא מהם, כפי שמוכיחה אמירת ה' 'אל תירא'.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 26:23:1",
+        "quote": "כי היה מתיירא מהם",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: זה המקום שבו אמר הקב\"ה לאברהם לך לך אל ארץ המוריה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:23:1",
+        "quote": "מקום שאמר לו הקב\"ה לך לך אל ארץ המוריה",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: 'ויעל' כפשוטו, כי ארץ ישראל המוחזקת הייתה גבוהה מארץ פלשתים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 26:23:1",
+        "quote": "כי ארץ ישראל המוחזקת היתה גבוה מארץ פלשתים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: קשה היה ליצחק לדור בשדה, ולכן ניסה לגור בבאר שבע, עיר גדולה, אך עדיין לא הכניס את ביתו מחשש לקנאת שרי העיר.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 26:23:1",
+        "quote": "קשה היה על יצחק לדור בשדה ובכפר",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מגלה מה חיפש יצחק אחרי שגורש: ביטחון, קדושה או זכות אביו."
+   },
+   {
+    "title": "ממה פחד יצחק, עד ש-ה' היה צריך לומר לו 'אל תירא'?",
+    "pasuk": {
+     "text": "אַל־תִּירָא֙ כִּֽי־אִתְּךָ֣ אָנֹ֔כִי",
+     "ref": "Genesis 26:24",
+     "label": "בראשית כו, כד"
+    },
+    "question": "הכתוב אינו מנמק את פחדו של יצחק, ובכל זאת ה' מרגיע אותו. מה איים עליו?",
+    "asked_by": [
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 26:24:1",
+      "era": "rishon",
+      "quote": "הוצרך לומר אל תירא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אחרי שאבימלך הבריחו וגם רועי גרר רבו עמו, פחד שמא יאספו עליו ויכו אותו ואת ביתו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 26:24:1",
+        "quote": "היה מתירא פן יאספו עליו ויכוהו הוא וביתו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: פחד שהחלו האומות לקנא בו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:24:2",
+        "quote": "שהיה מתיירא שהתחילו האומות לקנאות בו",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: מכיוון שראה את ההשפלה שגירשוהו ולא ידע אנה יפנה, חשש שה' עזבו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 26:24:1",
+        "quote": "חש כי ה' עזבו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: שיתמעטו נכסיו בגלל מריבותיהם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 26:24:1",
+        "quote": "שימעטו נכסיך במריבותם",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: יצחק פחד לפרסם את אמונת ה' ברבים, כפי שעשה אברהם בבאר שבע.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 26:24:1",
+        "quote": "ויצחק התירא מלפרסם אמונת ה' ברבים",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "כל תשובה קוראת את הפחד אחרת: סכנה גופנית, אובדן ממון, עזיבה או היסוס להכריז על ה'."
+   },
+   {
+    "title": "למה ה' מכנה את עצמו רק 'אלהי אברהם אביך'?",
+    "pasuk": {
+     "text": "אָנֹכִ֕י אֱלֹהֵ֖י אַבְרָהָ֣ם אָבִ֑יךָ",
+     "ref": "Genesis 26:24",
+     "label": "בראשית כו, כד"
+    },
+    "question": "ה' נגלה ליצחק בשם אברהם בלבד ומבטיח ברכה 'בעבור אברהם עבדי'. מדוע לא גם בשם יצחק עצמו?",
+    "asked_by": [
+     {
+      "name": "קיצור בעל הטורים",
+      "ref": "Kitzur Ba'al HaTurim on Genesis 26:24:1",
+      "era": "rishon",
+      "quote": "אנכי אלהי אברהם אביך ולא כתב ה' אלהים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "קיצור בעל הטורים: לא נכתב 'ה' אלהים' כמו באברהם וביעקב, לפי שיצחק נתייסר ביסורים בלי מידת רחמים.",
+      "sources": [
+       {
+        "name": "קיצור בעל הטורים",
+        "ref": "Kitzur Ba'al HaTurim on Genesis 26:24:1",
+        "quote": "לפי שנתייסר ביסורים בלי מדת רחמים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבתי: אף על פי שמת אברהם, זכותו עומדת לבניו.",
+      "sources": [
+       {
+        "name": "בראשית רבתי",
+        "ref": "Bereshit Rabbati, Parashat Toldot 22",
+        "quote": "אעפ\"י שמת אברהם זכותו עומדת לבניו",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: כי אברהם שמע כשנצטווה ללכת אל המוריה ולא הרהר אחר מידותיו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:24:2",
+        "quote": "ולא הרהר אחר מדותי",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: 'עבדי' – כי בכל אשר ציוהו שמע אל ה' כעבד.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 26:24:2",
+        "quote": "כי בכל אשר צויתיו שמע אלי כעבד",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה קושר את ביטחון יצחק לזכות אביו ומראה במה נסיונות יצחק שונים משל אברהם."
+   },
+   {
+    "title": "האם 'אחזת' שם אדם או חבורת אוהבים, ומדוע התי\"ו?",
+    "pasuk": {
+     "text": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ",
+     "ref": "Genesis 26:26",
+     "label": "בראשית כו, כו"
+    },
+    "question": "'אחזת מרעהו' נדרש בשתי דרכים, ולפי פירוש חבורת אוהבים התי\"ו והמ\"ם של 'מרעהו' אינם מתיישבים דקדוקית.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:26:1",
+      "era": "acharon",
+      "quote": "ולפיכך קשה שלא היה לו לכתוב תי\"ו של אחוזת"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 26:26:1",
+      "era": "rishon",
+      "quote": "ואל תתמה על תי\"ו של אחזת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כתרגום, חבורת אוהביו; ולתי\"ו יש דוגמה במקרא, 'עזרת מצר'.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:26:1",
+        "quote": "כתרגומו וסיעת מרחמוהי סיעת מאוהביו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבי יהודה אומר שאחזת מרעהו היה שמו; רבי נחמיה אומר סיעת מרחמוהי.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:9",
+        "quote": "רבי יהודה אמר אחזת מרעהו היה שמו רבי נחמיה אמר סיעת מרחמוהי",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: יש אומרים שזה שם איש כמו פיכל; ולדעתו כתרגום אונקלוס.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 26:26:1",
+        "quote": "יש אומ' אחוזת שם איש",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: פירוש השם נאה יותר לפשט, כי לא מצאנו בכל המקרא שיקרא קבוצת אנשים אחוזה.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 26:26:1",
+        "quote": "לא מצאנו בכל המקרא שיקרא קבוצת אנשים אחוזה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "לבוש האורה: חולק על קושיית הגור אריה; הציר\"י שתחת המ\"ם מראה שהיא מ\"ם יסודית ולא מ\"ם שימוש.",
+      "sources": [
+       {
+        "name": "לבוש האורה",
+        "ref": "Levush HaOrah, Genesis 26:26:1",
+        "quote": "וכי לא ראה הרב הציר\"י שתחת המ\"ם",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם אבימלך בא עם משלחת או עם רע בשם, ומראה כיצד שקלו המפרשים דקדוק מול מסורת."
+   },
+   {
+    "title": "מדוע אבימלך בא ליצחק במלווה גדול יותר משבא לאברהם?",
+    "pasuk": {
+     "text": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ וּפִיכֹ֖ל שַׂר־צְבָאֽוֹ",
+     "ref": "Genesis 26:26",
+     "label": "בראשית כו, כו"
+    },
+    "question": "אצל אברהם בא המלך עם פיכל בלבד; כאן מוסיף הכתוב גם את אחזת וחבריו.",
+    "asked_by": [
+     {
+      "name": "צרור המור",
+      "ref": "Tzror HaMor on Torah, Genesis 26:26:1",
+      "era": "acharon",
+      "quote": "כי באברהם לא נאמר אלא ופיכול שר צבאו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אחרי שהבטיחו ה', נתן בלב המלך ללכת אליו בכבוד גדול יותר מאשר עשה לאביו, והוסיף להביא עמו רבים מרעיו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 26:24:1",
+        "quote": "בכבוד גדול יותר מאשר עשה לאביו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: להורות על השגחת ה' ביראיו, ששם בלבם לבקש את אהבתו בכבוד גדול.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 26:26:1",
+        "quote": "להורות השגחת השם על יריאיו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אחרי שהתעורר לקרוא בשם ה', כרו עבדיו באר בלי מריבה, ואבימלך בא לכרות ברית ולא הזיקוהו עוד.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 26:26:1",
+        "quote": "אבימלך הלך אליו לכרות ברית ולא הזיקוהו עוד",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ילקוט שמעוני: רבי נחמיה דורש 'פיכל' כ'פה שכל צבאותיו נושקין לו על פיו'.",
+      "sources": [
+       {
+        "name": "ילקוט שמעוני",
+        "ref": "Yalkut Shimoni on Torah 111:14",
+        "quote": "פה שכל צבאותיו נושקין לו על פיו",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "המפרשים נחלקים מדוע המשלחת גדולה יותר ומה היא מרמזת."
+   },
+   {
+    "title": "מדוע שואל יצחק 'מדוע באתם אלי' כשהיה ברור שהם רוצים ברית?",
+    "pasuk": {
+     "text": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יִצְחָ֔ק מַדּ֖וּעַ בָּאתֶ֣ם אֵלָ֑י וְאַתֶּם֙ שְׂנֵאתֶ֣ם אֹתִ֔י",
+     "ref": "Genesis 26:27",
+     "label": "בראשית כו, כז"
+    },
+    "question": "יצחק עונה למשלחת המלכותית בשאלה חדה ומזכיר להם ששנאוהו ושלחוהו.",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 26:27:1",
+      "era": "acharon",
+      "quote": "ואם לשלום הלא אתם שנאתם אותי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלבי\"ם: בהכרח באו לשלום או למלחמה; אם לשלום, הלא שנאוהו; ואם למלחמה, הלא שלחוהו כשהיה בידם ולא עשו לו רעה.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 26:27:1",
+        "quote": "ואם למלחמה הלא ותשלחוני מאתכם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: לא החניף להם אלא אמר דברי תוכחה כמו שהוכיח אברהם את אבימלך; מתוך תוכחה באה אהבה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:27:1",
+        "quote": "שמתוך התוכחות באה האהבה",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "פרקי דרבי אליעזר: הפכתם את פניכם ממני ועכשיו באתם אלי.",
+      "sources": [
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 36:21",
+        "quote": "הפכתם אתם את פניכם ממני ועכשיו באתם אלי",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי: הזכיר שלושה עניינים: מדוע באתם אלי, ואתם שנאתם אותי להצלחתי, ותשלחוני מגרר; והם השיבו על שלשתם.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 26:27:1-2",
+        "quote": "הזכיר להם שלשה עניינים",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "המקורות קוראים את שאלת יצחק כהיגיון, כתוכחה או כתגובה לשינוי פניהם."
+   },
+   {
+    "title": "מדוע נאמר 'בינותינו בינינו ובינך' בכפל לשון?",
+    "pasuk": {
+     "text": "תְּהִי נָא אָלָה בֵּינוֹתֵינוּ בֵּינֵינוּ וּבֵינֶךָ",
+     "ref": "Genesis 26:28",
+     "label": "בראשית כו, כח"
+    },
+    "question": "הביטוי נראה כאומר אותו דבר שלוש פעמים. מה מוסיפה כל מילה?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:28:1",
+      "era": "acharon",
+      "quote": "פירוש מאי בינותינו בינינו ובינך"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 26:28:1",
+      "era": "acharon",
+      "quote": "מאי בינותינו ומאי בינינו וביניך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: האלה אשר בינותינו מימי אביך תהי גם עתה בינינו וביניך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:28:2",
+        "quote": "האלה אשר בינותינו מימי אביך תהי גם עתה בינינו וביניך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: 'בינותינו' אלו שמתו, 'בינינו ובינך' אלו החיים.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 26:28:3",
+        "quote": "בינותינו אלו שמתו בינינו ובינך אלו החיים",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: כאילו שתי בריתות, אחת לגדולי העם ואחת למלך ולשר צבאו וליצחק, כי בברית אברהם לא נכנסו כלל העם.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 26:28:1",
+        "quote": "כאלו צריך שתי בריתות אחד לגדולים ואחד למלך",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: ריבוי אחר ריבוי.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 26:28:1",
+        "quote": "בינותינו ריבוי אחר ריבוי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ריב\"א: יש אומרים שאבימלך רצה להשביע את יצחק בגלולי אביו, והיא האלה המצויה ביניהם.",
+      "sources": [
+       {
+        "name": "ריב\"א",
+        "ref": "Riva on Torah, Genesis 26:28:1",
+        "quote": "רצה אבימלך להשביע יצחק בגלולי אביו",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם נכרתה ברית חדשה או חודשה הישנה."
+   },
+   {
+    "title": "איך אומרים 'עשינו עמך רק טוב' כשגירשו אותו?",
+    "pasuk": {
+     "text": "כַּאֲשֶׁר לֹא נְגַעֲנוּךָ וְכַאֲשֶׁר עָשִׂינוּ עִמְּךָ רַק טוֹב",
+     "ref": "Genesis 26:29",
+     "label": "בראשית כו, כט"
+    },
+    "question": "טענת החסד של אבימלך תמוהה, שהרי אמר ליצחק ללכת.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:29:1",
+      "era": "acharon",
+      "quote": "ומאחר שטוב עשו לו פשיטא שלא נגעו בו לרע"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 26:29:2",
+      "era": "chazal",
+      "quote": "רק מיעוט מלמד שלא עשה עמו טובה שלמה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: 'לא נגענוך' – כשאמרנו לך לך מעמנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:29:1",
+        "quote": "כשאמרנו לך לך מעמנו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: 'רק' – מיעוט, שלא עשו עמו טובה שלמה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 64:10",
+        "quote": "רק מעוט שלא עשו עמו טובה שלמה",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: משל לארי שנכנס לו עצם בגרונו, ואמר לעגור שדי לו שלא אכלו.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 26:29:1",
+        "quote": "לא די לך שלא אכלתיך כשהיתה ראשך בפי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אפילו גרמה לא עשינו עמך, שהרי עתה אתה ברוך ה'.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 26:29:2",
+        "quote": "אפי' גרמה לא עשינו עמך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: 'לא נגענוך' – שלא נפתה לבנו על אשתך, ו'רק טוב' – לשמור את כל אשר לך.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 26:29:1",
+        "quote": "שלא נפתה לבנו על אשתך",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד שוקלים המפרשים טענה מצדיקה עצמית מול העובדות."
+   }
+  ],
+  "sources_consulted": [
+   "רד\"ק",
+   "בראשית רבתי",
+   "רשב\"ם",
+   "מדרש לקח טוב",
+   "העמק דבר",
+   "בכור שור",
+   "רמב\"ן",
+   "אור החיים",
+   "ספורנו",
+   "מלבי\"ם",
+   "קיצור בעל הטורים",
+   "גור אריה",
+   "רש\"י",
+   "בראשית רבה",
+   "הכתב והקבלה",
+   "לבוש האורה",
+   "צרור המור",
+   "ילקוט שמעוני",
+   "פרקי דרבי אליעזר",
+   "רבנו בחיי",
+   "מזרחי",
+   "אבן עזרא",
+   "ריב\"א",
+   "הדר זקנים"
+  ]
+ }
+}
