@@ -1,7 +1,7 @@
 # Weekly parasha quiz routine
 
 Instructions for the cloud task that runs every Sunday morning (Israel time). It writes
-a 25-question multiple-choice quiz, in Hebrew, on the parasha read the coming Shabbat
+a 75-question multiple-choice question bank, in Hebrew, on the parasha read the coming Shabbat
 (Israel schedule) and publishes it to the site's quiz page (the חידון button on each
 parasha card).
 
@@ -24,10 +24,12 @@ parasha card).
       "t": "said"}]}
    ```
 
-   - 25 questions, in the order of the parasha, spread over all of it.
+   - 75 questions, in the order of the parasha, spread over all of it, none repeating another.
+     (The reader picks how many to play and which types; they are drawn at random.)
    - Answerable from the plain text alone (pshat), not from midrash or Rashi.
-   - Mix: about 6–8 "מי אמר אל מי" (quoting the pasuk), a few "על מי / על מה נאמר",
-     the rest about content (names, places, numbers, events, laws).
+   - Mix, roughly: 12–18 "מי אמר אל מי" (quoting the pasuk), 5–8 "על מי / על מה נאמר",
+     5–8 השלמת פסוק, and the rest about content (people, places, numbers, events, mitzvot),
+     so that every type has enough questions to play on its own.
    - `"o"`: exactly 4 different answers, **the right one first** (the script shuffles them).
      Distractors are plausible and clearly wrong by the text; none of them may also be true.
    - `"r"`: the pasuk or pesukim (`27:12-13`, `31:54-32:3`) that answer it, inside the parasha.
