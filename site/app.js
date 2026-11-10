@@ -94,6 +94,13 @@ const UI = {
     seferMixed: "מעורבב",
     seferAgain: "שאלות חדשות",
     seferChange: "שינוי ההגדרות",
+    quizTypesLabel: "אילו סוגי שאלות?",
+    quizAllTypes: "כל הסוגים",
+    quizPickType: "בחרו לפחות סוג שאלות אחד.",
+    quizInPasukOrder: "לפי סדר הפסוקים",
+    quizAllN: (n) => `כולן (${n})`,
+    quizWillDraw: (n, max) => `ייבחרו ${n} שאלות באקראי מתוך ${max} שבמאגר.`,
+    quizTypes: { said: "מי אמר אל מי", about: "על מי נאמר", complete: "השלמת פסוק", people: "אנשים ושמות", places: "מקומות", numbers: "מספרים, שנים וגילים", events: "מעשים ואירועים", mitzvot: "מצוות" },
     textTitle: "פסוקי העלייה — לחצו על פסוק לביאור שטיינזלץ",
     pdfText: "הפסוקים",
     chapter: (n) => `פרק ${hebrewNumber(n)}`,
@@ -203,6 +210,13 @@ const UI = {
     seferMixed: "Mixed",
     seferAgain: "New questions",
     seferChange: "Change settings",
+    quizTypesLabel: "Which kinds of question?",
+    quizAllTypes: "All kinds",
+    quizPickType: "Choose at least one kind of question.",
+    quizInPasukOrder: "In order of the pesukim",
+    quizAllN: (n) => `All (${n})`,
+    quizWillDraw: (n, max) => `${n} questions will be drawn at random from the ${max} in the bank.`,
+    quizTypes: { said: "Who said it", about: "About whom", complete: "Complete the pasuk", people: "People & names", places: "Places", numbers: "Numbers, years & ages", events: "Events", mitzvot: "Mitzvot" },
     textTitle: "The pesukim of the aliyah — click a pasuk for the Steinsaltz explanation",
     pdfText: "The text",
     chapter: (n) => `Chapter ${n}`,
@@ -1117,13 +1131,20 @@ function openRjs(slug) {
 // Scoring: 10 points for a right answer (5 if the hint was opened), +5 for every right answer
 // that is the 3rd or more in a row.
 const QUIZ_POINTS = 10, QUIZ_HINTED = 5, QUIZ_STREAK_BONUS = 5, QUIZ_STREAK_FROM = 3;
-// A sefer quiz draws its questions from the parashiyot' question banks; these are the sizes offered.
+// A quiz draws its questions at random from a question bank (a parasha's, or every parasha's
+// in a sefer); these are the sizes offered, besides "all" and a number typed in.
 const SEFER_SIZES = [10, 20, 30, 50, 100];
 const SEFER_DEFAULT = 20;
+const PARASHA_SIZES = [10, 20, 25, 50];
+const PARASHA_DEFAULT = 20;
+const QUIZ_ALL = 1e9;
+// the kinds of question (each question's "t", from scripts/quiz.py), in the order they are offered
+const QUIZ_TYPES = ["said", "about", "complete", "people", "places", "numbers", "events", "mitzvot"];
+const typeOf = (q) => (QUIZ_TYPES.includes(q.t) ? q.t : "events");
 
 const quizFiles = new Map();  // slug -> fetch promise
 const quizRuns = new Map();   // quiz key -> this visit's run: {chosen: Map(i -> option), hinted: Set(i), questions?}
-const seferSetups = new Map();// book en name -> {count, slugs: Set} last chosen on this visit
+const quizSetups = new Map(); // quiz key -> {count, slugs: Set, types: Set, mix} last chosen on this visit
 
 function loadQuiz(slug) {
   if (!quizFiles.has(slug)) {
@@ -1175,6 +1196,12 @@ function drawSefer(banks, count, mix) {
   return mix ? shuffled(out) : out;
 }
 
+/** a question with its answers in a new random order */
+function withShuffledOptions(q) {
+  const order = shuffled(q.o.map((_, i) => i));
+  return { ...q, o: order.map((i) => q.o[i]), a: order.indexOf(q.a) };
+}
+
 /** Score a run: points, right answers, current and longest streak, the questions missed. */
 function quizTally(questions, run) {
   let points = 0, right = 0, streak = 0, longest = 0;
@@ -1192,10 +1219,9 @@ function quizTally(questions, run) {
 
 /** The quiz button on a parasha card (and on the parasha page). */
 function quizButton(parasha, cls) {
-  const best = state.quizDays.has(parasha.slug) ? quizBest(parasha.slug) : null;
   const button = node("button", cls, t().quiz);
   button.type = "button";
-  button.title = `${t().quizHint} — ${parashaName(parasha)}` + (best ? ` · ${t().quizBest}: ${t().quizBestShort(best.right, best.total)}` : "");
+  button.title = `${t().quizHint} — ${parashaName(parasha)}`;
   button.setAttribute("aria-label", button.title);
   button.classList.toggle("has", state.quizDays.has(parasha.slug));
   button.onclick = () => openQuiz(parasha.slug);
@@ -1256,96 +1282,138 @@ function renderQuiz() {
     const name = state.lang === "hebrew" ? book.he : book.en;
     el("quizTitle").textContent = t().seferTitle(name);
     el("quizSub").textContent = t().seferSub;
-    const run = quizRuns.get(state.quiz);
-    if (run && run.questions) renderQuizRun(host, state.quiz, run.questions, { sefer: book });
-    else renderSeferSetup(host, book);
-    return;
+  } else {
+    el("quizTitle").textContent = t().quizTitle(parashaName(parasha));
+    el("quizSub").textContent = `${t().quizSub} · ${rangeLabel(parasha.ref)}`;
+    if (!state.quizDays.has(parasha.slug)) { host.appendChild(node("p", "empty", t().quizNotYet)); return; }
   }
-
-  el("quizTitle").textContent = t().quizTitle(parashaName(parasha));
-  el("quizSub").textContent = `${t().quizSub} · ${rangeLabel(parasha.ref)}`;
-  if (!state.quizDays.has(parasha.slug)) { host.appendChild(node("p", "empty", t().quizNotYet)); return; }
-  const slot = node("div", "empty", t().loading);
-  host.appendChild(slot);
-  const lang = state.lang, wanted = parasha.slug;
-  loadQuiz(parasha.slug).then((record) => {
-    if (state.lang !== lang || state.quiz !== wanted) return;
-    const box = node("div");
-    slot.replaceWith(box);
-    renderQuizRun(box, wanted, record.questions || [], {});
-  }).catch(() => { slot.textContent = t().loadFailed; });
+  const run = quizRuns.get(state.quiz);
+  if (run && run.questions) renderQuizRun(host, state.quiz, run.questions, { sefer: book });
+  else renderQuizSetup(host, state.quiz, book, parasha);
 }
 
-/** The sefer quiz's first screen: how many questions, and from which parashiyot. */
-function renderSeferSetup(host, book) {
-  const ui = t();
-  const key = seferKey(book);
-  const available = quizParashot(book);
-  if (!available.length) { host.appendChild(node("p", "empty", ui.seferNone)); return; }
-  if (!seferSetups.has(book.en)) seferSetups.set(book.en, { count: SEFER_DEFAULT, slugs: new Set(available.map((p) => p.slug)), mix: false });
-  const setup = seferSetups.get(book.en);
-  // a parasha whose quiz was published since: include it
-  setup.slugs = new Set([...setup.slugs].filter((s) => available.some((p) => p.slug === s)));
+/** The question banks a quiz draws from: [{parasha, questions}], one per parasha with a quiz. */
+function loadBanks(list) {
+  return Promise.all(list.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))));
+}
 
-  const form = node("div", "sefersetup");
+/** The quiz's first screen: how many questions, which kinds, (in a sefer) from which
+ *  parashiyot, and in what order. */
+function renderQuizSetup(host, key, book, parasha) {
+  const ui = t();
+  const available = book ? quizParashot(book) : [parasha];
+  if (!available.length) { host.appendChild(node("p", "empty", ui.seferNone)); return; }
+  const slot = node("div", "empty", ui.loading);
+  host.appendChild(slot);
+  const lang = state.lang;
+  loadBanks(available).then((banks) => {
+    if (state.lang !== lang || state.quiz !== key) return;
+    const form = node("div", "sefersetup");
+    slot.replaceWith(form);
+    buildQuizSetup(form, key, book, banks);
+  }).catch(() => { slot.textContent = ui.loadFailed; });
+}
+
+function buildQuizSetup(form, key, book, banks) {
+  const ui = t();
+  const kinds = QUIZ_TYPES.filter((type) => banks.some((b) => b.questions.some((q) => typeOf(q) === type)));
+  if (!quizSetups.has(key)) {
+    quizSetups.set(key, {
+      count: book ? SEFER_DEFAULT : PARASHA_DEFAULT,
+      slugs: new Set(banks.map((b) => b.parasha.slug)),
+      types: new Set(kinds),
+      mix: true,
+    });
+  }
+  const setup = quizSetups.get(key);
+  // a parasha whose quiz was published since, or a kind added since: keep the choice as it was
+  setup.slugs = new Set([...setup.slugs].filter((s) => banks.some((b) => b.parasha.slug === s)));
+  setup.types = new Set([...setup.types].filter((type) => kinds.includes(type)));
+  const chosenBanks = () => banks.filter((b) => !book || setup.slugs.has(b.parasha.slug));
+  const pool = () => chosenBanks().reduce((n, b) => n + b.questions.filter((q) => setup.types.has(typeOf(q))).length, 0);
+
   if (ui.quizNote) form.appendChild(node("p", "muted", ui.quizNote));
   form.appendChild(node("p", "quizintro", ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
 
   // how many questions
   form.appendChild(node("div", "label", ui.seferHowMany));
   const sizes = node("div", "sefersizes");
+  const sizeButtons = [];
+  for (const n of book ? SEFER_SIZES : PARASHA_SIZES) {
+    const b = node("button", "chip", String(n));
+    b.type = "button";
+    b.dataset.n = n;
+    b.onclick = () => { setup.count = n; refresh(); };
+    sizeButtons.push(b);
+    sizes.appendChild(b);
+  }
+  const allButton = node("button", "chip");
+  allButton.type = "button";
+  allButton.onclick = () => { setup.count = QUIZ_ALL; refresh(); };
+  sizes.appendChild(allButton);
   const input = node("input");
   input.type = "number";
   input.min = "1";
   input.inputMode = "numeric";
   input.setAttribute("aria-label", ui.seferHowMany);
-  const sizeButtons = [];
-  // questions in each parasha's bank (25 until the files load and give the real count)
-  const counts = new Map();
-  const bankSize = () => available.filter((p) => setup.slugs.has(p.slug)).reduce((n, p) => n + (counts.get(p.slug) ?? 25), 0);
-  const syncSizes = () => {
-    sizeButtons.forEach((b) => b.classList.toggle("on", Number(b.dataset.n) === setup.count));
-    if (Number(input.value) !== setup.count) input.value = String(setup.count);
-  };
-  for (const n of SEFER_SIZES) {
-    const b = node("button", "chip", String(n));
-    b.type = "button";
-    b.dataset.n = n;
-    b.onclick = () => { setup.count = n; syncSizes(); refresh(); };
-    sizeButtons.push(b);
-    sizes.appendChild(b);
-  }
-  input.oninput = () => { const n = Math.floor(Number(input.value)); if (n > 0) { setup.count = n; syncSizes(); refresh(); } };
+  input.oninput = () => { const n = Math.floor(Number(input.value)); if (n > 0) { setup.count = n; refresh(true); } };
   sizes.appendChild(input);
   form.appendChild(sizes);
 
-  // from which parashiyot
-  const head = node("div", "label sefershead");
-  head.appendChild(node("span", null, ui.seferFrom));
-  const all = node("button", "linkish", ui.seferAll);
-  all.type = "button";
-  const none = node("button", "linkish", ui.seferNoneBtn);
-  none.type = "button";
-  head.append(all, none);
-  form.appendChild(head);
-  const chips = node("div", "seferparashot");
-  const chipButtons = available.map((p) => {
-    const b = node("button", "chip", parashaName(p));
+  // from which parashiyot (a sefer quiz)
+  let chipButtons = [];
+  if (book) {
+    const head = node("div", "label sefershead");
+    head.appendChild(node("span", null, ui.seferFrom));
+    const all = node("button", "linkish", ui.seferAll);
+    all.type = "button";
+    all.onclick = () => { setup.slugs = new Set(banks.map((b) => b.parasha.slug)); refresh(); };
+    const none = node("button", "linkish", ui.seferNoneBtn);
+    none.type = "button";
+    none.onclick = () => { setup.slugs = new Set(); refresh(); };
+    head.append(all, none);
+    form.appendChild(head);
+    const chips = node("div", "seferparashot");
+    chipButtons = banks.map((bank) => {
+      const p = bank.parasha;
+      const b = node("button", "chip", parashaName(p));
+      b.type = "button";
+      b.onclick = () => { setup.slugs.has(p.slug) ? setup.slugs.delete(p.slug) : setup.slugs.add(p.slug); refresh(); };
+      chips.appendChild(b);
+      return [p, b];
+    });
+    form.appendChild(chips);
+    if (book.parashot.length > banks.length) form.appendChild(node("p", "muted small", ui.seferPartial(banks.length, book.parashot.length)));
+  }
+
+  // which kinds of question
+  const typeHead = node("div", "label sefershead");
+  typeHead.appendChild(node("span", null, ui.quizTypesLabel));
+  const allTypes = node("button", "linkish", ui.quizAllTypes);
+  allTypes.type = "button";
+  allTypes.onclick = () => { setup.types = new Set(kinds); refresh(); };
+  const noTypes = node("button", "linkish", ui.seferNoneBtn);
+  noTypes.type = "button";
+  noTypes.onclick = () => { setup.types = new Set(); refresh(); };
+  typeHead.append(allTypes, noTypes);
+  form.appendChild(typeHead);
+  const typeChips = node("div", "seferparashot quiztypes");
+  const typeButtons = kinds.map((type) => {
+    const b = node("button", "chip");
     b.type = "button";
-    b.onclick = () => { setup.slugs.has(p.slug) ? setup.slugs.delete(p.slug) : setup.slugs.add(p.slug); refresh(); };
-    chips.appendChild(b);
-    return [p, b];
+    const name = node("span", null, ui.quizTypes[type] || type);
+    const count = node("span", "chipcount");
+    b.append(name, count);
+    b.onclick = () => { setup.types.has(type) ? setup.types.delete(type) : setup.types.add(type); refresh(); };
+    typeChips.appendChild(b);
+    return [type, b, count];
   });
-  all.onclick = () => { setup.slugs = new Set(available.map((p) => p.slug)); refresh(); };
-  none.onclick = () => { setup.slugs = new Set(); refresh(); };
-  form.appendChild(chips);
-  const missing = book.parashot.length - available.length;
-  if (missing) form.appendChild(node("p", "muted small", ui.seferPartial(available.length, book.parashot.length)));
+  form.appendChild(typeChips);
 
   // the order of the questions
   form.appendChild(node("div", "label", ui.seferOrder));
   const orders = node("div", "sefersizes");
-  const orderButtons = [[false, ui.seferInOrder], [true, ui.seferMixed]].map(([mix, label]) => {
+  const orderButtons = [[true, ui.seferMixed], [false, book ? ui.seferInOrder : ui.quizInPasukOrder]].map(([mix, label]) => {
     const b = node("button", "chip", label);
     b.type = "button";
     b.onclick = () => { setup.mix = mix; refresh(); };
@@ -1354,50 +1422,68 @@ function renderSeferSetup(host, book) {
   });
   form.appendChild(orders);
 
+  const best = node("p", "quizbestline");
   const note = node("p", "sefernote");
   const start = node("button", "button", ui.seferStart);
   start.type = "button";
-  const refresh = () => {
-    chipButtons.forEach(([p, b]) => b.classList.toggle("on", setup.slugs.has(p.slug)));
-    orderButtons.forEach(([mix, b]) => b.classList.toggle("on", setup.mix === mix));
-    const max = bankSize();
-    const n = Math.min(setup.count, max);
-    start.disabled = !max;
-    note.textContent = !max ? ui.seferPick : ui.seferWillDraw(n, setup.slugs.size, max);
-  };
-  form.append(note, start);
-  host.appendChild(form);
-  syncSizes();
-  refresh();
-  available.forEach((p) => loadQuiz(p.slug).then((r) => { counts.set(p.slug, (r.questions || []).length); if (start.isConnected) refresh(); }).catch(() => {}));
+  form.append(best, note, start);
 
-  const best = quizBest(`${key}:${setup.count}`);
-  if (best) form.insertBefore(node("p", "quizbestline", `${ui.quizBest} (${setup.count}): ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`), note);
+  function refresh(typing) {
+    const max = pool();
+    const n = Math.min(setup.count, max);
+    sizeButtons.forEach((b) => b.classList.toggle("on", Number(b.dataset.n) === setup.count));
+    allButton.textContent = ui.quizAllN(max);
+    allButton.classList.toggle("on", setup.count >= max && !sizeButtons.some((b) => Number(b.dataset.n) === setup.count));
+    if (!typing) input.value = setup.count >= QUIZ_ALL ? "" : String(setup.count);
+    chipButtons.forEach(([p, b]) => b.classList.toggle("on", setup.slugs.has(p.slug)));
+    typeButtons.forEach(([type, b, count]) => {
+      b.classList.toggle("on", setup.types.has(type));
+      count.textContent = String(chosenBanks().reduce((k, bank) => k + bank.questions.filter((q) => typeOf(q) === type).length, 0));
+    });
+    orderButtons.forEach(([mix, b]) => b.classList.toggle("on", setup.mix === mix));
+    start.disabled = !max;
+    note.textContent = book && !setup.slugs.size ? ui.seferPick
+      : !setup.types.size ? ui.quizPickType
+      : book ? ui.seferWillDraw(n, setup.slugs.size, max) : ui.quizWillDraw(n, max);
+    const record = max ? quizBest(quizBestKey(key, n, setup, kinds, banks)) : null;
+    best.textContent = record ? `${ui.quizBest} (${n}): ${ui.quizBestShort(record.right, record.total)} · ${ui.quizPoints(record.points)}` : "";
+    best.hidden = !record;
+  }
+  refresh();
 
   start.onclick = () => {
-    const chosen = available.filter((p) => setup.slugs.has(p.slug));
-    if (!chosen.length) return;
-    start.disabled = true;
-    note.textContent = ui.loading;
-    const wanted = state.quiz;
-    Promise.all(chosen.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))))
-      .then((banks) => {
-        if (state.quiz !== wanted) return;
-        const questions = drawSefer(banks, setup.count, setup.mix);
-        quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions, size: setup.count });
-        renderQuiz();
-        window.scrollTo(0, 0);
-      })
-      .catch(() => { note.textContent = ui.loadFailed; start.disabled = false; });
+    if (!pool()) return;
+    startQuiz(key, banks, setup, kinds);
+    renderQuiz();
+    window.scrollTo(0, 0);
   };
+}
+
+/** The best result is kept per quiz, size and (when not every kind was chosen) kinds and parashiyot. */
+function quizBestKey(key, size, setup, kinds, banks) {
+  let k = `${key}:${size}`;
+  if (setup.types.size < kinds.length) k += `:${[...setup.types].sort().join("+")}`;
+  if (banks.length > 1 && setup.slugs.size < banks.length) k += `:${[...setup.slugs].sort().join("+")}`;
+  return k;
+}
+
+/** Draw a fresh set of questions with the setup's choices and open it. */
+function startQuiz(key, banks, setup, kinds) {
+  const chosen = banks.filter((b) => banks.length === 1 || setup.slugs.has(b.parasha.slug))
+    .map((b) => ({ parasha: banks.length === 1 ? null : b.parasha, questions: b.questions.filter((q) => setup.types.has(typeOf(q))) }));
+  const questions = drawSefer(chosen, setup.count, setup.mix).map(withShuffledOptions);
+  quizRuns.set(key, {
+    chosen: new Map(), hinted: new Set(), questions, size: questions.length,
+    bestKey: quizBestKey(key, questions.length, setup, kinds, banks),
+    again: () => startQuiz(key, banks, setup, kinds),
+  });
 }
 
 /** One quiz, question after question, with the score bar and the results card. */
 function renderQuizRun(host, key, questions, { sefer }) {
-  if (!quizRuns.has(key)) quizRuns.set(key, { chosen: new Map(), hinted: new Set() });
   const run = quizRuns.get(key);
   const total = questions.length;
-  const bestKey = sefer ? `${key}:${run.size}` : key;
+  const bestKey = run.bestKey;
   const ui = t();
   const wrap = node("div", "quizwrap");
   if (ui.quizNote) wrap.appendChild(node("p", "muted", ui.quizNote));
@@ -1417,7 +1503,7 @@ function renderQuizRun(host, key, questions, { sefer }) {
   const countBox = node("span", "quizcount");
   stats.append(pointsBox, streakBox, countBox);
   const restart = () => { quizRuns.delete(key); renderQuiz(); window.scrollTo(0, 0); };
-  const reset = node("button", null, sefer ? ui.seferChange : ui.quizReset);
+  const reset = node("button", null, ui.seferChange);
   reset.type = "button";
   reset.onclick = restart;
   const track = node("div", "quizprogress");
@@ -1468,26 +1554,15 @@ function renderQuizRun(host, key, questions, { sefer }) {
       });
       results.appendChild(again);
     }
-    const replay = node("button", "button", sefer ? ui.seferAgain : ui.quizAgain);
+    // play again: a fresh draw with the same settings
+    const replay = node("button", "button", ui.seferAgain);
     replay.type = "button";
-    // a sefer quiz plays again with a fresh draw of the same size from the same parashiyot
-    replay.onclick = sefer ? () => {
-      const setup = seferSetups.get(sefer.en);
-      const chosen = quizParashot(sefer).filter((p) => !setup || setup.slugs.has(p.slug));
-      Promise.all(chosen.map((p) => loadQuiz(p.slug).then((r) => ({ parasha: p, questions: r.questions || [] }))))
-        .then((banks) => {
-          quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions: drawSefer(banks, run.size, !!(setup && setup.mix)), size: run.size });
-          renderQuiz();
-          window.scrollTo(0, 0);
-        });
-    } : restart;
+    replay.onclick = () => { run.again(); renderQuiz(); window.scrollTo(0, 0); };
     results.appendChild(replay);
-    if (sefer) {
-      const change = node("button", "button ghost", ui.seferChange);
-      change.type = "button";
-      change.onclick = restart;
-      results.appendChild(change);
-    }
+    const change = node("button", "button ghost", ui.seferChange);
+    change.type = "button";
+    change.onclick = restart;
+    results.appendChild(change);
     if (fresh) {
       if (tally.right / total >= 0.7) confetti();
       setTimeout(() => results.scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" }), 350);
@@ -1497,7 +1572,10 @@ function renderQuizRun(host, key, questions, { sefer }) {
   questions.forEach((q, i) => {
     const li = node("li", "quizq");
     items.push(li);
-    if (q.parasha) li.appendChild(node("span", "quiztag", `פרשת ${q.parasha.he}`));
+    const tags = node("div", "quiztags");
+    if (q.parasha) tags.appendChild(node("span", "quiztag", `פרשת ${q.parasha.he}`));
+    tags.appendChild(node("span", "quiztag kind", (ui.quizTypes[typeOf(q)] || "")));
+    li.appendChild(tags);
     li.appendChild(node("p", "quizprompt", q.q));
     const opts = node("div", "quizopts");
     const after = node("div", "quizafter");

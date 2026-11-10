@@ -2,7 +2,7 @@
 // Offline copy of the site. The first online visit saves it on the device, along with every
 // published day; later online visits add the new days. Online, files still come from the
 // network first (up to 4s), so updates show up; the saved copy is the fallback.
-const CACHE = "site-v8";
+const CACHE = "site-v9";
 const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "icon-home.svg", "icon.svg", "index.html", "mail.css", "mail.js", "offline.js", "pdf.css", "pdf.js", "share.css", "share.js", "data/parashot.json"];
 const DAYS = [["data/aliyot/index.json", d => [`data/aliyot/${d.file || d.date}.json`, ...chapters(d.range)]],
               ["data/rjs/index.json", d => [`data/rjs/${d.slug}.json`]],

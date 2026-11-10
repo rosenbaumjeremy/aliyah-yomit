@@ -3,6 +3,11 @@
 
     python3 scripts/quiz.py draft.json [more.json ...]   check, then write site/data/quiz/<slug>.json
     python3 scripts/quiz.py --check draft.json           check only, write nothing
+    python3 scripts/quiz.py --append draft.json          check, then add to the published quiz
+
+A parasha's quiz is a question bank: the site lets the reader choose how many questions to
+draw at random and which types. --append adds a draft's questions after the ones already
+published (it refuses a question already in the bank).
 
 A draft is
     {"slug": "toldot", "questions": [
@@ -10,7 +15,8 @@ A draft is
         "o": ["the right answer", "wrong", "wrong", "wrong"],     # right answer first
         "e": "why, quoting the pasuk: “...”",
         "r": "27:22",                                           # chapter:verse or a range, 27:12-13
-        "h": "optional hint"}]}
+        "h": "optional hint",
+        "t": "said"}]}                                          # the type, one of TYPES
 
 Every “quote” in the question and the explanation may be typed without nikud; it must be
 found word for word (letters only) in the pesukim of "r", and is replaced by the pasuk's own
@@ -33,6 +39,18 @@ MARK = "[֑-ׇ]"          # nikud and te'amim
 TEAMIM = re.compile("[֑-ֽ֯׀׃]")
 FINALS = str.maketrans("ךםןףץ", "כמנפצ")
 QUOTE = re.compile("“([^”]+)”")
+
+# question types (the reader can pick which to play); the site has the labels
+TYPES = {
+    "said": "מי אמר אל מי",
+    "about": "על מי / על מה נאמר",
+    "complete": "השלמת פסוק (___)",
+    "people": "אנשים ושמות",
+    "places": "מקומות",
+    "numbers": "מספרים, שנים וגילים",
+    "events": "מעשים ואירועים",
+    "mitzvot": "מצוות ודינים",
+}
 
 
 def parashot():
@@ -117,12 +135,15 @@ def vocalize_part(quote, words):
     return None
 
 
-def check(draft, table):
+def check(draft, table, first=1, known=()):
+    """first: the number of the draft's first question in the bank (seeds the answer order);
+    known: the letters of questions already in the bank"""
     book, parasha = table[draft["slug"]]
     m = re.match(r"^(\w+) (\d+:\d+)-(\d+:\d+)$", parasha["ref"])
     bookname, lo, hi = m.group(1), pos(m.group(2)), pos(m.group(3))
     problems, out = [], []
-    for n, q in enumerate(draft["questions"], 1):
+    seen = set(known)
+    for n, q in enumerate(draft["questions"], first):
         where = f'{draft["slug"]} #{n}'
         try:
             start, end = parse_range(q["r"])
@@ -135,6 +156,11 @@ def check(draft, table):
             continue
         if len(q["o"]) != 4 or len(set(q["o"])) != 4:
             problems.append(f"{where}: needs 4 different answers")
+        if q.get("t") not in TYPES:
+            problems.append(f"{where}: \"t\" must be one of {', '.join(TYPES)}")
+        if letters(q["q"]) in seen:
+            problems.append(f"{where}: the question is already in the bank")
+        seen.add(letters(q["q"]))
         fixed = {}
         for field in ("q", "e"):
             def sub(mo):
@@ -152,7 +178,7 @@ def check(draft, table):
         c2, v2 = end
         ref = f"{bookname} {c1}:{v1}" + ("" if end == start else f"-{c2}:{v2}" if c2 != c1 else f"-{v2}")
         item = {"q": fixed["q"], "o": [options[i] for i in order], "a": order.index(0),
-                "e": fixed["e"], "ref": ref}
+                "e": fixed["e"], "ref": ref, "t": q.get("t")}
         if q.get("h"):
             item["h"] = q["h"]
         out.append(item)
@@ -161,18 +187,23 @@ def check(draft, table):
 
 def main(args):
     only_check = "--check" in args
+    append = "--append" in args
     files = [a for a in args if not a.startswith("--")]
     table = parashot()
     failed = False
     for path in files:
         draft = json.loads(Path(path).read_text())
-        problems, quiz = check(draft, table)
+        published = OUT / f"{draft['slug']}.json"
+        old = json.loads(published.read_text())["questions"] if append and published.exists() else []
+        problems, quiz = check(draft, table, len(old) + 1, {letters(q["q"]) for q in old})
+        quiz["questions"] = old + quiz["questions"]
         for p in problems:
             print("✗", p)
         if problems:
             failed = True
             continue
-        print(f"✓ {draft['slug']}: {len(quiz['questions'])} questions")
+        added = f" ({len(draft['questions'])} added)" if old else ""
+        print(f"✓ {draft['slug']}: {len(quiz['questions'])} questions{added}")
         if not only_check:
             OUT.mkdir(parents=True, exist_ok=True)
             (OUT / f"{draft['slug']}.json").write_text(json.dumps(quiz, ensure_ascii=False, indent=1) + "\n")

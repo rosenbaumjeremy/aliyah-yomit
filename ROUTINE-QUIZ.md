@@ -20,7 +20,8 @@ parasha card).
       "o": ["יצחק", "רבקה", "עשו", "יעקב"],
       "e": "יצחק אמר זאת לאחר שמישש את יעקב...",
       "r": "27:22",
-      "h": "optional hint"}]}
+      "h": "optional hint",
+      "t": "said"}]}
    ```
 
    - 25 questions, in the order of the parasha, spread over all of it.
@@ -34,7 +35,12 @@ parasha card).
      in the pesukim of `"r"` (`...` skips words, `___` leaves a blank). The script replaces
      them with the pasuk's own words with nikud. Write the divine name ה׳ / אלקים outside quotes.
    - A hint (`"h"`) on a few of the harder questions.
-4. **Check and publish:** `python3 scripts/quiz.py /tmp/quiz-<slug>.json`. It refuses a draft
+   - `"t"`: the question's type, one of `said` (מי אמר אל מי), `about` (על מי / על מה נאמר),
+     `complete` (השלמת פסוק, with `___` in the quote), `people` (names, who did something),
+     `places`, `numbers` (numbers, years, ages, days), `events` (what happened, why), `mitzvot`.
+     The reader can choose which types to play, so tag each one by what it asks.
+4. **Check and publish:** `python3 scripts/quiz.py /tmp/quiz-<slug>.json`
+   (`--append` adds a draft to a quiz already published instead of replacing it). It refuses a draft
    whose quote is not in its pesukim or whose ref is outside the parasha; fix and rerun.
    Then reread every question with its pasuk and make sure the answer is right.
 5. **Commit and push** to `main` (Cloudflare deploys on push):
