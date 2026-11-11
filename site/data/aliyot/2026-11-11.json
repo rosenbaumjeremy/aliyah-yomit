@@ -1,0 +1,1227 @@
+{
+ "date": "2026-11-11",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 26:30-27:27",
+ "hebrew_date": {
+  "hebrew": "א׳ בְּכִסְלֵו תשפ״ז",
+  "english": "1 Kislev 5787"
+ },
+ "english": {
+  "summary": "Isaac makes a feast for Abimelech and his party, they swear an oath and part in peace, and Isaac's servants report water in the well they dug, which he names Shiv'ah, so the city is Be'er Sheva. Esau at forty marries two Hittite women, who are a bitterness of spirit to Isaac and Rebecca. Isaac, old and with dim eyes, asks Esau to hunt and prepare tasty food so that he may bless him. Rebecca overhears and sends Jacob in with food, dressed in Esau's clothes and goatskins; Jacob answers his father's questions, is touched and smelled, and Isaac blesses him.",
+  "questions": [
+   {
+    "title": "What was the 'bitterness of spirit' Esau's wives caused, and why is Isaac named before Rebecca?",
+    "pasuk": {
+     "text": "וַתִּהְיֶיןָ מֹרַת רוּחַ לְיִצְחָק וּלְרִבְקָה",
+     "ref": "Genesis 26:35",
+     "label": "Genesis 26:35"
+    },
+    "question": "The verse does not say what the wives did that embittered the parents, and it names Isaac first although the burden would seem to fall on both equally.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:35:1",
+      "era": "acharon",
+      "quote": "למה ליצחק תחלה ואחר כך לרבקה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 26:35:1",
+      "era": "acharon",
+      "quote": "ועוד מה שייך מורת רוח דמאי היו יכולים לעשות"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 65:4",
+      "era": "chazal",
+      "quote": "למה ליצחק תחלה אלא על ידי שהיתה רבקה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: their deeds were all meant to provoke and grieve, because they were idol worshippers.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:35:2",
+        "quote": "שהיו עובדות ע\"ז",
+        "era": "rishon"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 26:35:1",
+        "quote": "כל מעשיהן היו להכעיס ולעצבון",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it means bitterness of soul, like 'bitter as wormwood', and the passage was written so Israel would guard against the daughters of Canaan.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 26:35:1",
+        "quote": "כטעם מרירות נפש וכן כתוב",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: Isaac is first because Rebecca, a daughter of idolaters, was not bothered by the filth of idolatry, while Isaac, son of holy ones, was.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 65:4",
+        "quote": "על ידי שהיתה רבקה בת כמרים לא היתה מקפדת על טנפת עבודת כוכבים",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah, another view: a woman usually sits at home while a man goes out and learns about people; Isaac, whose eyes dimmed, was sitting at home.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 65:4",
+        "quote": "דרכה של אשה להיות יושבת בתוך ביתה ודרכו של איש להיות יוצא לדרך",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what lay behind Isaac's blindness and Rebecca's later effort on Jacob's behalf."
+   },
+   {
+    "title": "Why did Isaac's eyes grow dim?",
+    "pasuk": {
+     "text": "וַיְהִי כִּי זָקֵן יִצְחָק וַתִּכְהֶיןָ עֵינָיו מֵרְאֹת",
+     "ref": "Genesis 27:1",
+     "label": "Genesis 27:1"
+    },
+    "question": "If it was the smoke of idols, why were Rebecca's eyes not dimmed too, and how could Isaac have tolerated the incense at all?",
+    "asked_by": [
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 27:1:1",
+      "era": "rishon",
+      "quote": "ולהא דפרש\"י שכהו עיניו מעשן ע\"ז קשה קצת למה לא כהו ג\"כ עיני רבקה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 27:1:2",
+      "era": "acharon",
+      "quote": "וכי סלקא דעתך שיצחק ראה אותן מקטירים לעבודה זרה ולא מחה בם"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 27:1:1",
+      "era": "acharon",
+      "quote": "אין לפרש שהזקנה גרמה זאת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: from the smoke of the idols; or the angels' tears fell into his eyes at the Akeidah; or so that Jacob would take the blessings.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 27:1:1",
+        "quote": "בעשנן של אלו",
+        "era": "rishon"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 27:1:1",
+        "quote": "כדי שיטול יעקב את הברכות",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Da'at Zekenim: like a bone vessel striking clay, Isaac, made of earth, was harmed by his daughters-in-law, while Rebecca was not.",
+      "sources": [
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 27:1:1",
+        "quote": "יצחק נברא מן האדמה לכך הזיקו לו מעשה כלותיו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: God dimmed his eyes so that he would not see his daughters-in-law offering to idols and be pained.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 27:1:3",
+        "quote": "כדי שלא יראה כלותיו מקטרות לעבודה זרה ולא יצטער על זה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: so that Isaac would not walk the market and people say, 'this is the father of that wicked one'.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 65:10",
+        "quote": "אמר הקדוש ברוך הוא יהיה יצחק יוצא לשוק ויהון בריתא אמרין דין אבוה דההוא רשיעא",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: it was a cause from heaven, not old age.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 27:1:1",
+        "quote": "אלא סיבה הי׳ מן השמים",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "The cause of the blindness explains how Jacob could take the blessings."
+   },
+   {
+    "title": "Why did Isaac want to bless Esau, and only Esau?",
+    "pasuk": {
+     "text": "וַיִּקְרָא אֶת עֵשָׂו בְּנוֹ הַגָּדֹל",
+     "ref": "Genesis 27:1",
+     "label": "Genesis 27:1"
+    },
+    "question": "Abraham did not bless Esau, Isaac knew Esau's character, and he could have blessed both sons, as Jacob and Moses later did.",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "מה ראה יצחק לברך את עשו והלא אברהם אביו לא ברך אותו בעת מותו"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 27:1:1-2",
+      "era": "acharon",
+      "quote": "מה ראה יצחק לברך את עשו דוקא ולא את יעקב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Alshich: he called Esau first only because he was the eldest, as is the way of people, not to exclude Jacob.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "לא לשלול את יעקב מברכה רק להיותו בנו הגדול",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: Isaac thought the wicked Esau could be blessed only through a great mitzvah, honoring his father.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "אין לו דרך להתברך כ\"א בעשותו מצוה גדולה מעין הברכה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the blessing was worldly, and worldly matters belong to the firstborn, so Isaac wished to bless his firstborn Esau.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 27:19:1",
+        "quote": "רצה יצחק לזכות את עשו בכורו בברכת עוה״ז",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Da'at Zekenim: this shows that the wicked are flattered in their time, or that he was called great because the world was in his hand.",
+      "sources": [
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 27:1:2",
+        "quote": "מכאן שמחניפין לרשעים בשעתן",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "The whole story of the blessings depends on what Isaac intended."
+   },
+   {
+    "title": "Why did Isaac tie the blessing to the day of his death?",
+    "pasuk": {
+     "text": "הִנֵּה נָא זָקַנְתִּי לֹא יָדַעְתִּי יוֹם מוֹתִי",
+     "ref": "Genesis 27:2",
+     "label": "Genesis 27:2"
+    },
+    "question": "A father may bless his son at any time, so why does Isaac speak as if blessing is for the end of life, and why now?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "למה תלה ענין הברכה במותו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, citing Rabbi Yehoshua ben Korcha: a man worries for five years before and after the age his parents reached; Isaac was 123 and feared reaching his mother's age.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 27:2:1",
+        "quote": "אם מגיע אדם לפרק אבותיו ידאג חמש שנים לפניהן וחמש לאחר כן",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the day of death is one of seven things hidden from people.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 65:12",
+        "quote": "שבעה דברים מכוסים מבני אדם",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: old age came upon him suddenly, not gradually, which he took as a sign that his end was near.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "כי אין זה רק סימן שסיליקו קרוב",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the urgency behind the whole scene."
+   },
+   {
+    "title": "Why does Isaac make the blessing depend on a meal?",
+    "pasuk": {
+     "text": "וַעֲשֵׂה לִי מַטְעַמִּים כַּאֲשֶׁר אָהַבְתִּי וְהָבִיאָה לִּי וְאֹכֵלָה בַּעֲבוּר תְּבָרֶכְךָ נַפְשִׁי בְּטֶרֶם אָמוּת",
+     "ref": "Genesis 27:4",
+     "label": "Genesis 27:4"
+    },
+    "question": "Jacob and Moses blessed their children without any meal, so why does Isaac first demand tasty food?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "במה שתלה ברכתו באכילת המטעמי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Alshich, another point: Isaac meant Esau to turn his tools of robbery into a mitzvah, honoring his father, and so earn the blessing.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "והפך נא כל מעשה רשעתך לטובה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah, citing Pirkei DeRabbi Eliezer: it was Passover night, and Isaac meant to make a likeness of the Passover offering.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:1:1",
+        "quote": "הגיע ליל פסח וקרא יצחק לעשו בנו הגדול",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Isaac thought a blessing needed."
+   },
+   {
+    "title": "What does Rebecca mean by 'Your curse be on me'?",
+    "pasuk": {
+     "text": "עָלַי קִלְלָתְךָ בְּנִי",
+     "ref": "Genesis 27:13",
+     "label": "Genesis 27:13"
+    },
+    "question": "Can a person take another's curse upon herself, and how does that answer Jacob's fear?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "ומה תשובת רבקה עלי קללתך בני האם יקח אדם קללת חבירו כשירצה"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 27:1:1-2",
+      "era": "acharon",
+      "quote": "וכי יכול אדם לקחת על עצמו קללת חברו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: do not fear he will curse you, and if he does, let his curse fall on me, not on you.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 27:13:1",
+        "quote": "אל תפחד שיקלל ואם יקלל תהי קללתו עלי ולא עליך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: if he drives you away, I will leave you my whole marriage settlement and press your father to take you back.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 27:13:1",
+        "quote": "אני אורישך כל כתובתי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the curse is mine if you refuse my command.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:13:1",
+        "quote": "אבל עלי לקללך שאתה מסרב מצותי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: the curse is Isaac's anger at whoever he hears planned it, and she planned it all, so it falls on her.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 27:11",
+        "quote": "אני שמעתי ואני עשיתי הכל ולכן עלי תהיה קללתך",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob's hesitation was overcome."
+   },
+   {
+    "title": "How could Jacob say 'I am Esau your firstborn'?",
+    "pasuk": {
+     "text": "אָנֹכִי עֵשָׂו בְּכֹרֶךָ",
+     "ref": "Genesis 27:19",
+     "label": "Genesis 27:19"
+    },
+    "question": "Does this not make the patriarch a liar to his father?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 27:11",
+      "era": "rishon",
+      "quote": "ונדחק רש\"י לפרש המלות האלה כדי שלא יאמר ששקר וכזב יעקב לאביו"
+     },
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 27:19:2",
+      "era": "acharon",
+      "quote": "טימא יעקב אבינו את שפתותיו בטומאת השקר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'I am the one bringing it to you, and Esau is your firstborn.'",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 27:19:1",
+        "quote": "אנכי המביא לך ועשו הוא בכורך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: when asked who he was, he answered 'I', as is customary, then added 'Esau is your firstborn', which is also true.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 27:19:1",
+        "quote": "לא שיקר לאביו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: he said so because he had bought the birthright, so it was true of him.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 27:19:1",
+        "quote": "ואמר יעקב כי אני הבכור באשר קנה הבכורה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the need of the hour allows changing a statement, as with Abraham, David and Elisha.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:19:1",
+        "quote": "שלפי צורך שעה אפשר לשנות הדבור",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: even prophets may say what is not fitting for the need of the hour.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 27:19:1",
+        "quote": "ואם יצטרכו לאמר דבר שאיננו כהוגן לא יזיק",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: 'I (anochi)' will receive the Ten Commandments, but Esau is your firstborn.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 65:18",
+        "quote": "אנכי עתיד לקבל עשרת הדברות אבל עשו בכרך",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "It tests how the patriarchs' truthfulness is read."
+   },
+   {
+    "title": "Why did Isaac bless him despite the voice of Jacob?",
+    "pasuk": {
+     "text": "הַקֹּל קוֹל יַעֲקֹב וְהַיָּדַיִם יְדֵי עֵשָׂו",
+     "ref": "Genesis 27:22",
+     "label": "Genesis 27:22"
+    },
+    "question": "With two signs pointing each way, why did Isaac lean toward Esau and bless?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 27:22:1-3",
+      "era": "acharon",
+      "quote": "מה ראה להטות אל צד היותו עשו מאל הצד האחר"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "בבלבול דברי יצחק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Alshich: it was more fitting to lean on the substance of touch than on the sound of a voice.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:22:1-3",
+        "quote": "יותר ראוי להטות אל ממשות חוש המישוש",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: Jacob spoke in language of pleading, 'please arise', while Esau spoke harshly, 'let my father arise'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 27:22:1",
+        "quote": "שמדבר בלשון תחנונים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: Isaac reasoned that Esau does not habitually mention Heaven, but this one said 'the Lord your God arranged it'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 27:21:1",
+        "quote": "אין דרך עשו להיות שם שמים שגור בפיו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "HaKtav VeHaKabalah: the blessing was given in full intent, with Isaac doubtful who it was, willing that it take effect on either son.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:23:1",
+        "quote": "בכונה שלמה בדעה מסופקת מי הוא המתברך",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the voice of Jacob rules only by voice, and the hands of Esau only by hands.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 65:20",
+        "quote": "אין יעקב שולט אלא בקולו",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mixed signs let the blessing reach Jacob."
+   }
+  ],
+  "sources_consulted": [
+   "Gur Aryeh",
+   "Bereshit Rabbah",
+   "Rashi",
+   "Ibn Ezra",
+   "Da'at Zekenim",
+   "Kli Yakar",
+   "Haamek Davar",
+   "Abarbanel",
+   "Malbim",
+   "Alshich",
+   "HaKtav VeHaKabalah",
+   "Bekhor Shor",
+   "Chizkuni"
+  ]
+ },
+ "hebrew": {
+  "summary": "יצחק עושה משתה לאבימלך ולאנשיו, הם נשבעים ונפרדים בשלום, ועבדי יצחק מבשרים על מים בבאר שחפרו, והוא קורא לה שבעה, ולכן שם העיר באר שבע. עשו בן ארבעים נושא שתי נשים חתיות, והן מורת רוח ליצחק ולרבקה. יצחק הזקן שכהו עיניו מבקש מעשו לצוד ולעשות מטעמים כדי לברכו. רבקה שומעת ושולחת את יעקב עם המטעמים, לבוש בגדי עשו ועורות גדיים; יעקב עונה לשאלות אביו, נמשש ומורח, ויצחק מברך אותו.",
+  "questions": [
+   {
+    "title": "מהי 'מורת הרוח' שגרמו נשות עשו, ולמה נזכר יצחק לפני רבקה?",
+    "pasuk": {
+     "text": "וַתִּהְיֶיןָ מֹרַת רוּחַ לְיִצְחָק וּלְרִבְקָה",
+     "ref": "Genesis 26:35",
+     "label": "בראשית כו, לה"
+    },
+    "question": "הפסוק אינו אומר מה עשו הנשים שהמרו את רוחם של ההורים, ולמה הוזכר יצחק תחילה.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:35:1",
+      "era": "acharon",
+      "quote": "למה ליצחק תחלה ואחר כך לרבקה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 26:35:1",
+      "era": "acharon",
+      "quote": "ועוד מה שייך מורת רוח דמאי היו יכולים לעשות"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 65:4",
+      "era": "chazal",
+      "quote": "למה ליצחק תחלה אלא על ידי שהיתה רבקה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כל מעשיהן היו להכעיס ולעצבון, כי היו עובדות עבודה זרה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:35:2",
+        "quote": "שהיו עובדות ע\"ז",
+        "era": "rishon"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 26:35:1",
+        "quote": "כל מעשיהן היו להכעיס ולעצבון",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: מלשון מרירות נפש, כ'מרה כלענה', והפרשה נכתבה כדי שישמרו בני ישראל מבנות כנען.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 26:35:1",
+        "quote": "כטעם מרירות נפש וכן כתוב",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: ליצחק תחילה, כי רבקה בת כמרים לא הקפידה על טינופת עבודה זרה, ואילו יצחק בן קדושים הקפיד.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 65:4",
+        "quote": "על ידי שהיתה רבקה בת כמרים לא היתה מקפדת על טנפת עבודת כוכבים",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה, דבר אחר: דרכה של אשה לשבת בביתה ודרכו של איש לצאת, ויצחק שכהו עיניו ישב בתוך הבית.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 65:4",
+        "quote": "דרכה של אשה להיות יושבת בתוך ביתה ודרכו של איש להיות יוצא לדרך",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מבהיר את הרקע לכהיית עיני יצחק ולהשתדלות רבקה למען יעקב."
+   },
+   {
+    "title": "מדוע כהו עיני יצחק?",
+    "pasuk": {
+     "text": "וַיְהִי כִּי זָקֵן יִצְחָק וַתִּכְהֶיןָ עֵינָיו מֵרְאֹת",
+     "ref": "Genesis 27:1",
+     "label": "בראשית כז, א"
+    },
+    "question": "אם מעשן עבודה זרה, מדוע לא כהו גם עיני רבקה, ואיך סבל יצחק את הקטורת?",
+    "asked_by": [
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 27:1:1",
+      "era": "rishon",
+      "quote": "ולהא דפרש\"י שכהו עיניו מעשן ע\"ז קשה קצת למה לא כהו ג\"כ עיני רבקה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 27:1:2",
+      "era": "acharon",
+      "quote": "וכי סלקא דעתך שיצחק ראה אותן מקטירים לעבודה זרה ולא מחה בם"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 27:1:1",
+      "era": "acharon",
+      "quote": "אין לפרש שהזקנה גרמה זאת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בעשנן של אלו; ד\"א מדמעות המלאכים בשעת העקדה; ד\"א כדי שיטול יעקב את הברכות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 27:1:1",
+        "quote": "בעשנן של אלו",
+        "era": "rishon"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 27:1:1",
+        "quote": "כדי שיטול יעקב את הברכות",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "דעת זקנים: כמקיש כלי עצם בכלי חרש, יצחק שנברא מן האדמה הוזק מכלותיו, ורבקה לא.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 27:1:1",
+        "quote": "יצחק נברא מן האדמה לכך הזיקו לו מעשה כלותיו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: כדי שלא יראה כלותיו מקטרות לעבודה זרה ויצטער.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 27:1:3",
+        "quote": "כדי שלא יראה כלותיו מקטרות לעבודה זרה ולא יצטער על זה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: שלא יצא יצחק לשוק ויאמרו 'זה אביו של אותו רשע'.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 65:10",
+        "quote": "אמר הקדוש ברוך הוא יהיה יצחק יוצא לשוק ויהון בריתא אמרין דין אבוה דההוא רשיעא",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: סיבה מן השמים, לא הזקנה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 27:1:1",
+        "quote": "אלא סיבה הי׳ מן השמים",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "סיבת העיוורון מסבירה כיצד יכול היה יעקב ליטול את הברכות."
+   },
+   {
+    "title": "מה ראה יצחק לברך את עשו דווקא?",
+    "pasuk": {
+     "text": "וַיִּקְרָא אֶת עֵשָׂו בְּנוֹ הַגָּדֹל",
+     "ref": "Genesis 27:1",
+     "label": "בראשית כז, א"
+    },
+    "question": "אברהם לא ברך את עשו, יצחק הכיר את אופיו, והיה יכול לברך את שני בניו כפי שעשו יעקב ומשה.",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "מה ראה יצחק לברך את עשו והלא אברהם אביו לא ברך אותו בעת מותו"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 27:1:1-2",
+      "era": "acharon",
+      "quote": "מה ראה יצחק לברך את עשו דוקא ולא את יעקב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "האלשיך: קרא לעשו תחילה רק מפני שהוא הבן הגדול, כדרך בני אדם, ולא כדי לשלול את יעקב.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "לא לשלול את יעקב מברכה רק להיותו בנו הגדול",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "האלשיך: יצחק סבר שעשו הרשע יתברך רק בעשיית מצווה גדולה, כיבוד אב.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "אין לו דרך להתברך כ\"א בעשותו מצוה גדולה מעין הברכה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הברכה היתה של העולם הזה, והיא שייכת לבכור, ולכן רצה יצחק לברך את עשו בכורו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 27:19:1",
+        "quote": "רצה יצחק לזכות את עשו בכורו בברכת עוה״ז",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "דעת זקנים: מכאן שמחניפין לרשעים בשעתן, או לפי שהעולם בידו קראו גדול.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 27:1:2",
+        "quote": "מכאן שמחניפין לרשעים בשעתן",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "כל סיפור הברכות תלוי בכוונת יצחק."
+   },
+   {
+    "title": "למה תלה יצחק את הברכה ביום מותו?",
+    "pasuk": {
+     "text": "הִנֵּה נָא זָקַנְתִּי לֹא יָדַעְתִּי יוֹם מוֹתִי",
+     "ref": "Genesis 27:2",
+     "label": "בראשית כז, ב"
+    },
+    "question": "אפשר לברך בן בכל זמן, ולמה מדבר יצחק כאילו הברכה שייכת לסוף החיים, ולמה דווקא עכשיו?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "למה תלה ענין הברכה במותו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י בשם רבי יהושע בן קרחה: אדם דואג חמש שנים לפני פרק אבותיו וחמש אחריו; יצחק היה בן קכ\"ג וחשש שמא יגיע לפרק אמו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 27:2:1",
+        "quote": "אם מגיע אדם לפרק אבותיו ידאג חמש שנים לפניהן וחמש לאחר כן",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: יום המיתה הוא אחד משבעה דברים המכוסים מבני אדם.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 65:12",
+        "quote": "שבעה דברים מכוסים מבני אדם",
+        "era": "chazal"
+       }
+      ]
+     },
+     {
+      "text": "האלשיך: הזקנה באה עליו כרגע ולא בהדרגה, וראה בכך סימן שקצו קרוב.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "כי אין זה רק סימן שסיליקו קרוב",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר את הדחיפות שבכל המעשה."
+   },
+   {
+    "title": "מדוע תולה יצחק את הברכה בסעודה?",
+    "pasuk": {
+     "text": "וַעֲשֵׂה לִי מַטְעַמִּים כַּאֲשֶׁר אָהַבְתִּי וְהָבִיאָה לִּי וְאֹכֵלָה בַּעֲבוּר תְּבָרֶכְךָ נַפְשִׁי בְּטֶרֶם אָמוּת",
+     "ref": "Genesis 27:4",
+     "label": "בראשית כז, ד"
+    },
+    "question": "יעקב ומשה ברכו בלי סעודה, ולמה דורש יצחק תחילה מטעמים?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "במה שתלה ברכתו באכילת המטעמי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "האלשיך: רצה שעשו יהפוך את כלי רשעתו למצווה, כיבוד אב, ובכך יזכה לברכה.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:1:1-3",
+        "quote": "והפך נא כל מעשה רשעתך לטובה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה בשם פרקי דרבי אליעזר: היתה ליל פסח, ויצחק רצה לעשות דוגמה לפסח.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:1:1",
+        "quote": "הגיע ליל פסח וקרא יצחק לעשו בנו הגדול",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מה סבר יצחק שהברכה דורשת."
+   },
+   {
+    "title": "מה כוונת רבקה באמרה 'עלי קללתך'?",
+    "pasuk": {
+     "text": "עָלַי קִלְלָתְךָ בְּנִי",
+     "ref": "Genesis 27:13",
+     "label": "בראשית כז, יג"
+    },
+    "question": "האם אדם יכול לקחת על עצמו קללת חברו, ואיך זה עונה לפחדו של יעקב?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "ומה תשובת רבקה עלי קללתך בני האם יקח אדם קללת חבירו כשירצה"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 27:1:1-2",
+      "era": "acharon",
+      "quote": "וכי יכול אדם לקחת על עצמו קללת חברו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: אל תפחד שיקלל, ואם יקלל תהי קללתו עלי ולא עליך.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 27:13:1",
+        "quote": "אל תפחד שיקלל ואם יקלל תהי קללתו עלי ולא עליך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אם יריבך אורישך כל כתובתי ואפצר באביך להשיבך.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 27:13:1",
+        "quote": "אני אורישך כל כתובתי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: עלי לקללך שאתה מסרב מצותי.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:13:1",
+        "quote": "אבל עלי לקללך שאתה מסרב מצותי",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: קללתו תהיה על מי שעשה את הדבר ממה ששמע, ואמרה: אני שמעתי ואני עשיתי, ולכן עלי קללתך.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 27:11",
+        "quote": "אני שמעתי ואני עשיתי הכל ולכן עלי תהיה קללתך",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד הוסרה הסתייגותו של יעקב."
+   },
+   {
+    "title": "איך אמר יעקב 'אנכי עשו בכרך'?",
+    "pasuk": {
+     "text": "אָנֹכִי עֵשָׂו בְּכֹרֶךָ",
+     "ref": "Genesis 27:19",
+     "label": "בראשית כז, יט"
+    },
+    "question": "האין בזה משום שקר מצד האבות כלפי אביו?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 27:11",
+      "era": "rishon",
+      "quote": "ונדחק רש\"י לפרש המלות האלה כדי שלא יאמר ששקר וכזב יעקב לאביו"
+     },
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 27:19:2",
+      "era": "acharon",
+      "quote": "טימא יעקב אבינו את שפתותיו בטומאת השקר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אנכי המביא לך, ועשו הוא בכורך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 27:19:1",
+        "quote": "אנכי המביא לך ועשו הוא בכורך",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כששאל מי אתה ענה 'אנכי' כדרך, והוסיף 'עשו בכורך', שגם הוא אמת.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 27:19:1",
+        "quote": "לא שיקר לאביו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אמר כך כי קנה את הבכורה והיה בזה דבר אמת.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 27:19:1",
+        "quote": "ואמר יעקב כי אני הבכור באשר קנה הבכורה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: לפי צורך שעה אפשר לשנות הדבור, כאברהם, דוד ואלישע.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:19:1",
+        "quote": "שלפי צורך שעה אפשר לשנות הדבור",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: גם נביאים רשאים לומר דבר שאינו כהוגן לצורך שעה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 27:19:1",
+        "quote": "ואם יצטרכו לאמר דבר שאיננו כהוגן לא יזיק",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אנכי עתיד לקבל עשרת הדברות, אבל עשו בכרך.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 65:18",
+        "quote": "אנכי עתיד לקבל עשרת הדברות אבל עשו בכרך",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "זה מעמיד במבחן את הבנת אמת האבות."
+   },
+   {
+    "title": "למה ברך יצחק למרות קול יעקב?",
+    "pasuk": {
+     "text": "הַקֹּל קוֹל יַעֲקֹב וְהַיָּדַיִם יְדֵי עֵשָׂו",
+     "ref": "Genesis 27:22",
+     "label": "בראשית כז, כב"
+    },
+    "question": "כששני סימנים לכל צד, למה נטה יצחק לעשו וברך?",
+    "asked_by": [
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 27:22:1-3",
+      "era": "acharon",
+      "quote": "מה ראה להטות אל צד היותו עשו מאל הצד האחר"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 27:1",
+      "era": "rishon",
+      "quote": "בבלבול דברי יצחק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "האלשיך: ראוי יותר להטות אל ממשות חוש המישוש מאל הברת הקול.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:22:1-3",
+        "quote": "יותר ראוי להטות אל ממשות חוש המישוש",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: יעקב מדבר בלשון תחנונים 'קום נא', ועשו דיבר בקיצור 'יקם אבי'.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 27:22:1",
+        "quote": "שמדבר בלשון תחנונים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: אין דרך עשו שיהיה שם שמים שגור בפיו, וזה אמר כי הקרה ה' אלהיך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 27:21:1",
+        "quote": "אין דרך עשו להיות שם שמים שגור בפיו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הכתב והקבלה: הברכה היתה בכוונה שלמה בדעה מסופקת מי המתברך, כדי שתחול בין על עשו ובין על יעקב.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:23:1",
+        "quote": "בכונה שלמה בדעה מסופקת מי הוא המתברך",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אין יעקב שולט אלא בקולו, ואין עשו שולט אלא בידים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 65:20",
+        "quote": "אין יעקב שולט אלא בקולו",
+        "era": "chazal"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד הסימנים המעורבים אפשרו לברכה להגיע ליעקב."
+   }
+  ],
+  "sources_consulted": [
+   "גור אריה",
+   "בראשית רבה",
+   "רש\"י",
+   "אבן עזרא",
+   "דעת זקנים",
+   "כלי יקר",
+   "העמק דבר",
+   "אברבנאל",
+   "מלבי\"ם",
+   "האלשיך",
+   "הכתב והקבלה",
+   "בכור שור",
+   "חזקוני"
+  ]
+ }
+}
