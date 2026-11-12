@@ -1,0 +1,967 @@
+{
+ "date": "2026-11-12",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 27:28-28:4",
+ "hebrew_date": {
+  "hebrew": "ב׳ בכסלו תשפ״ז",
+  "english": "2 Kislev 5787"
+ },
+ "english": {
+  "summary": "Isaac finishes blessing Jacob, and Jacob has barely left when Esau returns from the hunt with his own dish. Isaac trembles greatly and says Jacob came with guile and took the blessing, yet he says Jacob will remain blessed. Esau cries out and begs for a blessing, and Isaac says his dwelling will be of the fat of the earth, that he will live by his sword and serve his brother, and that when he grows restive he will break Jacob's yoke. Esau resolves to kill Jacob after the mourning for Isaac. Rebecca hears of it and sends Jacob to her brother Laban in Haran, then tells Isaac she is disgusted with life because of the Hittite women. Isaac blesses Jacob and tells him to take a wife from Laban's daughters in Paddan-aram, and to receive the blessing of Abraham.",
+  "questions": [
+   {
+    "title": "Why does Isaac say 'and may He give' with an extra vav?",
+    "pasuk": {
+     "text": "וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים מִטַּל֙ הַשָּׁמַ֔יִם",
+     "ref": "Genesis 27:28",
+     "label": "Genesis 27:28"
+    },
+    "question": "Isaac begins his blessing with 'VeYiten' (and may He give), though nothing came before it. What does the extra vav add?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 27:28:1",
+      "era": "acharon",
+      "quote": "ויתן לך האלהים. וי״ו של ״ויתן״ מיתרת"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 27:28:1",
+      "era": "chazal",
+      "quote": "לא אמר יתן. אלא ויתן"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 27:28:1",
+      "era": "acharon",
+      "quote": "להיות שקדם ואמר ״ויברכהו״ הוסיף עוד לומר ״ויתן לך״"
+     }
+    ],
+    "answers": [
+     {
+      "text": "God gives, the person repays with mitzvot, and God gives again, as a merchant gives on credit again once the old debt is paid.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 27:28:1",
+        "quote": "כשאדם משלם במצוותיו הקפה ראשונה, הקדוש ברוך הוא חוזר ונותן לו בהקפה, וזהו שאמר יתן ויחזור ויתן"
+       }
+      ]
+     },
+     {
+      "text": "It points to both worlds: He gives in this world and gives in the World to Come. It is also conditional on Jacob's sons keeping the Torah.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 27:28:1",
+        "quote": "יתן לך בעוה\"ז. ויתן לך בעוה\"ב"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 27:28:2",
+        "quote": "ויתן לך בתנאי אם ישמרו בניך את התורה"
+       }
+      ]
+     },
+     {
+      "text": "The name Elokim is the attribute of justice: the attribute of judgment too agrees to the giving, not only mercy.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 27:28:3",
+        "quote": "לא מלבד מדת הרחמים, אלא גם מדת הדין תסכים על נתינה זו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what kind of blessing Jacob receives: not a one-time gift but one tied to his deeds."
+   },
+   {
+    "title": "After Isaac learns he blessed Jacob, why does he confirm 'he too shall be blessed'?",
+    "pasuk": {
+     "text": "גַּם־בָּר֖וּךְ יִהְיֶֽה",
+     "ref": "Genesis 27:33",
+     "label": "Genesis 27:33"
+    },
+    "question": "Isaac could have taken back the blessing, or at least been silent. Why does he add 'he too shall be blessed'?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 27:33:1",
+      "era": "acharon",
+      "quote": "מאי קמשמע לן, וכי היה עשו מספק בברכתו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He cannot take back what he gave: he had already given Jacob the power to bless, so how can he take it from his hand?",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 27:33:1",
+        "quote": "גם ברוך יהיה. שאיני יכול לחזור בי"
+       },
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 27:33:1",
+        "quote": "ואחר שמסרתי הברכות בידו איך אקח מידו מה שכבר נתתי לו"
+       }
+      ]
+     },
+     {
+      "text": "He had said 'cursed be those who curse you'; cursing Jacob would curse himself, and a divine voice told him not to.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:33:2",
+        "quote": "לפי שכבר אמרתי לו אורריך ארור ואם אקללהו אקלל את עצמי"
+       },
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 27:33:2",
+        "quote": "אל תקללהו כי כבר אמרת אורריך ארור ומברכך ברוך"
+       }
+      ]
+     },
+     {
+      "text": "He blesses him willingly, because by the word of God he had blessed him, since Jacob had acquired the birthright.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 27:33:5",
+        "quote": "גם ברוך יהיה. מרצוני"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:33:2",
+        "quote": "שע״פ הדבור ברכתיו שהרי קנה הבכורה ממך"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the blessing is binding even though it was taken by deception."
+   },
+   {
+    "title": "Why does Isaac tremble so violently, when he had already been unsure who stood before him?",
+    "pasuk": {
+     "text": "וַיֶּחֱרַ֨ד יִצְחָ֣ק חֲרָדָה֮ גְּדֹלָ֣ה עַד־מְאֹד֒",
+     "ref": "Genesis 27:33",
+     "label": "Genesis 27:33"
+    },
+    "question": "The verse says Isaac trembled 'a very great trembling'. What shook him so much?",
+    "asked_by": [
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 27:33:1",
+      "era": "acharon",
+      "quote": "כי היה מסופק מתחלה מי הוא המתברך אם יעקב אם עשו"
+     },
+     {
+      "name": "Daat Zekenim",
+      "ref": "Da'at Zekenim on Genesis 27:33:1",
+      "era": "rishon",
+      "quote": "ועכשיו ממה חרד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He saw Gehinnom opened beneath him, because he had wanted to curse Jacob.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 27:33:1",
+        "quote": "וממה חרד ראה גיהנם פתוח תחתיו"
+       }
+      ]
+     },
+     {
+      "text": "He asked himself what sin he had committed that he blessed the younger before the older.",
+      "sources": [
+       {
+        "name": "Daat Zekenim",
+        "ref": "Da'at Zekenim on Genesis 27:33:1",
+        "quote": "לפי שאמר בלבו מה עון ומה מכשול היה בידי שברכתי הקטן לפני הגדול"
+       }
+      ]
+     },
+     {
+      "text": "He trembled over how God had agreed to move the birthright from the older to the younger.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:33:1",
+        "quote": "אבל על זאת אני חרד שאין דבר נסתר מעיני הקב״ה היאך הסכים להעביר הבכורה"
+       }
+      ]
+     },
+     {
+      "text": "It is not fear but astonishment: so many events lined up that it was clear this was God's doing.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:33:1",
+        "quote": "לכן יותר נראה לפרש לשון חרדה כאן ענין פליאה ותמהון"
+       },
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 27:33:1",
+        "quote": "הלא נתקבצו בזה כמה פליאות עד שנראה בעליל כי דבר ה' הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Isaac's fear was about a mistake or about seeing God's hand."
+   },
+   {
+    "title": "How can Esau say Jacob 'took' the birthright, when he sold it willingly?",
+    "pasuk": {
+     "text": "וַֽיַּעְקְבֵ֙נִי֙ זֶ֣ה פַעֲמַ֔יִם אֶת־בְּכֹרָתִ֣י לָקָ֔ח",
+     "ref": "Genesis 27:36",
+     "label": "Genesis 27:36"
+    },
+    "question": "Esau sold the birthright for stew. Why does he now complain that Jacob 'took' it and supplanted him twice?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 27:36:1",
+      "era": "acharon",
+      "quote": "למה אמר שלקח הבכורה בעקבה ורמיה, והלא מכרה לו מרצון טוב"
+     },
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 27:36:2",
+      "era": "acharon",
+      "quote": "העז איש הרשע לשקר בפני אביו לאמר בכורתי לקח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Esau only now realized the birthright was worth much, since the blessings depend on it; he sold it thinking it was worth little.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 27:36:1",
+        "quote": "אבל עכשיו אני רואה שהבכורה שוה הרבה, לפי שהברכות תלויות בה"
+       }
+      ]
+     },
+     {
+      "text": "In truth Jacob did not take it by purchase: Esau's contempt made the birthright ownerless, and Jacob acquired it as an ownerless thing.",
+      "sources": [
+       {
+        "name": "HaKtav VeHaKabalah",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:36:2",
+        "quote": "כי רק מצד בזותו את הבכורה נעשה כהפקר, ויעקב זכה בה כזוכה בדבר הפקר"
+       }
+      ]
+     },
+     {
+      "text": "His own mouth made him stumble, showing that the law of the birthright is Jacob's.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:36:1",
+        "quote": "את בכרתי לקח פיו הכשילו, לגלות כי דינו של יעקב בבכורה"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether Esau's grievance is true or only a claim."
+   },
+   {
+    "title": "Why does Isaac not say 'may God give you' to Esau, and why 'Behold'?",
+    "pasuk": {
+     "text": "הִנֵּ֞ה מִשְׁמַנֵּ֤י הָאָ֙רֶץ֙ יִהְיֶ֣ה מֽוֹשָׁבֶ֔ךָ",
+     "ref": "Genesis 27:39",
+     "label": "Genesis 27:39"
+    },
+    "question": "To Jacob Isaac said 'and may God give you'. To Esau he says only 'Behold, your dwelling shall be of the fat of the earth'. Why the difference?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 27:39:1-2",
+      "era": "acharon",
+      "quote": "מלת הנה תראה מיותרת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Jacob's blessing is a gift of God, depending on the people's deeds; Esau's land is fat on its own, independent of Providence.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 27:39:1",
+        "quote": "שאצל יעקב יהיה מתנת אלהים ותלוי בהשגחת ה' שהוא לפי המעשים אם יזכו, אמר לעשו שמעצמו יהיה מושבו במשמני הארץ בלתי תלוי בהשגחה"
+       }
+      ]
+     },
+     {
+      "text": "Esau gets only what is before him, not the extra 'vav' that Jacob received, which points beyond this world.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 27:39:2",
+        "quote": "אין לו אלא מה שלפניו, לא כיעקב שאמר ויתן לך"
+       }
+      ]
+     },
+     {
+      "text": "God did not agree to Isaac's wish to bless Esau, since Esau was not prepared to receive it.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:39:1-2",
+        "quote": "שעם שהיה רצון יצחק לברכו לא היה הקב\"ה מסכים על ידו"
+       }
+      ]
+     },
+     {
+      "text": "His dwelling is Mount Seir, next to Eretz Yisrael, a land that is fat and watered by dew.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:39:2",
+        "quote": "יהיה מושבך זה הר שעיר הסמוך לא״י"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the two blessings differ even where the words sound alike."
+   },
+   {
+    "title": "Who are the 'both of you' Rebecca fears to lose in one day?",
+    "pasuk": {
+     "text": "לָ֥מָּה אֶשְׁכַּ֛ל גַּם־שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד",
+     "ref": "Genesis 27:45",
+     "label": "Genesis 27:45"
+    },
+    "question": "Rebecca says she will lose 'both of you' in one day. Which two does she mean, and how would they die on one day?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 27:45:1",
+      "era": "rishon",
+      "quote": "למה אשכל. פחדה שמא יהרוג זה את זה"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 27:45:1",
+      "era": "rishon",
+      "quote": "למה אשכל גם שניכם יום אחד אביך ואתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Jacob and Esau: if one kills the other, the family will rise against the survivor.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 27:45:1",
+        "quote": "שאם יהרוג אותך או אתה אותו תקום כל המשפחה עלי"
+       }
+      ]
+     },
+     {
+      "text": "Isaac and Jacob: Esau said he would kill Jacob when the mourning for Isaac came.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 27:45:1",
+        "quote": "נמצא שיצחק מת עשו יהרג את יעקב ואז אהיה שכולה משניהם ביום אחד"
+       }
+      ]
+     },
+     {
+      "text": "Even if Esau died too, at Jacob's hand or by blood avengers, there is no comfort in his dying with him on one day.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 27:45:1",
+        "quote": "לו יהיה שימות גם הוא, או על ידך או על ידי גואלי הדם"
+       }
+      ]
+     },
+     {
+      "text": "It happened: they were buried on one day, since Chushim son of Dan killed Esau on Jacob's bier.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 27:45:1",
+        "quote": "כי ביום אחד נקברו, שחושים בן דן הרג לעשו על מיטתו של יעקב"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the sages read a mother's fear as something that later came true."
+   },
+   {
+    "title": "Why does Rebecca tell Isaac about the Hittite women, not that Esau wants to kill Jacob?",
+    "pasuk": {
+     "text": "קַ֣צְתִּי בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת",
+     "ref": "Genesis 27:46",
+     "label": "Genesis 27:46"
+    },
+    "question": "Rebecca sent Jacob away because of Esau's threat, yet she tells Isaac a different reason. Why hide the truth?",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 27:46:1",
+      "era": "acharon",
+      "quote": "באשר לא רצתה רבקה להודיע ליצחק רשעת עשו"
+     },
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 27:46:1",
+      "era": "rishon",
+      "quote": "דרך חכמה אמרה רבקה ליצחק, להרחיק יעקב מעשו ולא גילתה לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Isaac might get angry and not let Jacob flee, saying Esau would never do it.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 27:46:1",
+        "quote": "דשמא יכעוס יצחק ולא יניח את יעקב לברוח"
+       }
+      ]
+     },
+     {
+      "text": "It would cause Isaac pain, who was already as good as dead in blindness, and he would worry for Jacob.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 27:46:1-4",
+        "quote": "אם אומר ליצחק שעשו בקש להרוג את יעקב ידאג ודי לו צער היותו סומא"
+       }
+      ]
+     },
+     {
+      "text": "Telling it would be forbidden gossip; she told Jacob only to keep 'do not stand by your fellow's blood'.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 27:46:1",
+        "quote": "לא רצתה לגלות הדבר ליצחק משום איסור רכילות"
+       }
+      ]
+     },
+     {
+      "text": "To avoid sowing strife between brothers; it also shows her wisdom and piety.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 27:46:1-2",
+        "quote": "כדי שלא לשלח מדנים בין אחים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows Rebecca acting by wisdom and not hiding anything for herself."
+   }
+  ],
+  "sources_consulted": [
+   "Kli Yakar",
+   "Midrash Lekach Tov",
+   "Or HaChaim",
+   "Bekhor Shor",
+   "Chizkuni",
+   "Hadar Zekenim",
+   "Midrash Aggadah",
+   "HaKtav VeHaKabalah",
+   "Daat Zekenim",
+   "Malbim",
+   "Alshich",
+   "Ibn Ezra",
+   "Haamek Davar",
+   "Rashbam",
+   "Tzror HaMor"
+  ]
+ },
+ "hebrew": {
+  "summary": "יצחק מסיים לברך את יעקב, ויעקב בקושי יצא כשעשו שב מהציד עם מטעמיו. יצחק חרד חרדה גדולה ואומר שיעקב בא במרמה ולקח את הברכה, ובכל זאת אומר שגם הוא יהיה ברוך. עשו צועק ומבקש ברכה, ויצחק אומר לו שמושבו יהיה ממשמני הארץ, שעל חרבו יחיה ואת אחיו יעבוד, ושכאשר יריד יפרוק עולו. עשו מחליט להרוג את יעקב אחרי ימי האבל על אביו. רבקה שומעת ושולחת את יעקב אל אחיה לבן בחרן, ואז אומרת ליצחק שקצה בחייה מפני בנות חת. יצחק מברך את יעקב ומצווהו לקחת אשה מבנות לבן בפדן ארם ולקבל את ברכת אברהם.",
+  "questions": [
+   {
+    "title": "למה אומר יצחק 'ויתן' עם וי״ו יתרה?",
+    "pasuk": {
+     "text": "וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים מִטַּל֙ הַשָּׁמַ֔יִם",
+     "ref": "Genesis 27:28",
+     "label": "בראשית כז, כח"
+    },
+    "question": "יצחק פותח את ברכתו ב'ויתן', בלי שקדם לה דבר. מה מוסיפה הוי״ו?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 27:28:1",
+      "era": "acharon",
+      "quote": "ויתן לך האלהים. וי״ו של ״ויתן״ מיתרת"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 27:28:1",
+      "era": "chazal",
+      "quote": "לא אמר יתן. אלא ויתן"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 27:28:1",
+      "era": "acharon",
+      "quote": "להיות שקדם ואמר ״ויברכהו״ הוסיף עוד לומר ״ויתן לך״"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הקב״ה נותן, האדם משלם במצוותיו, והקב״ה חוזר ונותן, כסוחר שנותן בהקפה שוב אחרי שהחוב הישן שולם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 27:28:1",
+        "quote": "כשאדם משלם במצוותיו הקפה ראשונה, הקדוש ברוך הוא חוזר ונותן לו בהקפה, וזהו שאמר יתן ויחזור ויתן"
+       }
+      ]
+     },
+     {
+      "text": "הוא רומז לשני עולמות: יתן בעולם הזה ויתן בעולם הבא; וגם הברכה בתנאי שישמרו בניו את התורה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 27:28:1",
+        "quote": "יתן לך בעוה\"ז. ויתן לך בעוה\"ב"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 27:28:2",
+        "quote": "ויתן לך בתנאי אם ישמרו בניך את התורה"
+       }
+      ]
+     },
+     {
+      "text": "שם אלהים הוא מדת הדין: גם מדת הדין מסכימה לנתינה, לא רק הרחמים.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 27:28:3",
+        "quote": "לא מלבד מדת הרחמים, אלא גם מדת הדין תסכים על נתינה זו"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איזו ברכה מקבל יעקב: לא מתנה חד־פעמית אלא ברכה הקשורה למעשיו."
+   },
+   {
+    "title": "אחרי שיצחק גילה שברך את יעקב, למה הוא מאשר 'גם ברוך יהיה'?",
+    "pasuk": {
+     "text": "גַּם־בָּר֖וּךְ יִהְיֶֽה",
+     "ref": "Genesis 27:33",
+     "label": "בראשית כז, לג"
+    },
+    "question": "יצחק יכול היה לחזור בו מהברכה או לשתוק. למה הוא מוסיף 'גם ברוך יהיה'?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 27:33:1",
+      "era": "acharon",
+      "quote": "מאי קמשמע לן, וכי היה עשו מספק בברכתו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא אינו יכול לחזור בו: כבר מסר ליעקב כוח לברך, ואיך יקח מידו מה שנתן?",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 27:33:1",
+        "quote": "גם ברוך יהיה. שאיני יכול לחזור בי"
+       },
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 27:33:1",
+        "quote": "ואחר שמסרתי הברכות בידו איך אקח מידו מה שכבר נתתי לו"
+       }
+      ]
+     },
+     {
+      "text": "הוא אמר 'ארריך ארור'; אם יקלל את יעקב יקלל את עצמו, ובת קול אמרה לו שלא יקלל.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:33:2",
+        "quote": "לפי שכבר אמרתי לו אורריך ארור ואם אקללהו אקלל את עצמי"
+       },
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 27:33:2",
+        "quote": "אל תקללהו כי כבר אמרת אורריך ארור ומברכך ברוך"
+       }
+      ]
+     },
+     {
+      "text": "הוא מברכו ברצון, כי על פי הדיבור ברכו, שהרי קנה את הבכורה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 27:33:5",
+        "quote": "גם ברוך יהיה. מרצוני"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:33:2",
+        "quote": "שע״פ הדבור ברכתיו שהרי קנה הבכורה ממך"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת אם הברכה מחייבת גם שנטלה ברמאות."
+   },
+   {
+    "title": "למה חרד יצחק חרדה גדולה כל כך?",
+    "pasuk": {
+     "text": "וַיֶּחֱרַ֨ד יִצְחָ֣ק חֲרָדָה֮ גְּדֹלָ֣ה עַד־מְאֹד֒",
+     "ref": "Genesis 27:33",
+     "label": "בראשית כז, לג"
+    },
+    "question": "הכתוב אומר שיצחק חרד 'חרדה גדולה עד מאד'. מה זעזע אותו כל כך?",
+    "asked_by": [
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 27:33:1",
+      "era": "acharon",
+      "quote": "כי היה מסופק מתחלה מי הוא המתברך אם יעקב אם עשו"
+     },
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 27:33:1",
+      "era": "rishon",
+      "quote": "ועכשיו ממה חרד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ראה גיהנם פתוח תחתיו, כי רצה לקלל את יעקב.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 27:33:1",
+        "quote": "וממה חרד ראה גיהנם פתוח תחתיו"
+       }
+      ]
+     },
+     {
+      "text": "הוא שאל את עצמו איזה עוון היה בידו שברך את הקטן לפני הגדול.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 27:33:1",
+        "quote": "לפי שאמר בלבו מה עון ומה מכשול היה בידי שברכתי הקטן לפני הגדול"
+       }
+      ]
+     },
+     {
+      "text": "הוא חרד איך הסכים הקב״ה להעביר את הבכורה מהגדול לצעיר.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:33:1",
+        "quote": "אבל על זאת אני חרד שאין דבר נסתר מעיני הקב״ה היאך הסכים להעביר הבכורה"
+       }
+      ]
+     },
+     {
+      "text": "אין זו פחד אלא פליאה: כל כך הרבה מאורעות נצטרפו עד שנראה שזה דבר ה'.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:33:1",
+        "quote": "לכן יותר נראה לפרש לשון חרדה כאן ענין פליאה ותמהון"
+       },
+       {
+        "name": "מלבי״ם",
+        "ref": "Malbim on Genesis 27:33:1",
+        "quote": "הלא נתקבצו בזה כמה פליאות עד שנראה בעליל כי דבר ה' הוא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה אם פחדו של יצחק היה על טעות או על ראיית יד ה'."
+   },
+   {
+    "title": "איך עשו אומר שיעקב 'לקח' את הבכורה, אחרי שמכרה ברצון?",
+    "pasuk": {
+     "text": "וַֽיַּעְקְבֵ֙נִי֙ זֶ֣ה פַעֲמַ֔יִם אֶת־בְּכֹרָתִ֣י לָקָ֔ח",
+     "ref": "Genesis 27:36",
+     "label": "בראשית כז, לו"
+    },
+    "question": "עשו מכר את הבכורה בנזיד. למה הוא טוען עכשיו שיעקב 'לקח' אותה ו'עקבני' פעמיים?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 27:36:1",
+      "era": "acharon",
+      "quote": "למה אמר שלקח הבכורה בעקבה ורמיה, והלא מכרה לו מרצון טוב"
+     },
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 27:36:2",
+      "era": "acharon",
+      "quote": "העז איש הרשע לשקר בפני אביו לאמר בכורתי לקח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עשו רק עכשיו הבין שהבכורה שווה הרבה, כי הברכות תלויות בה; הוא מכרה בדבר מועט כי חשב שאינה שווה הרבה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 27:36:1",
+        "quote": "אבל עכשיו אני רואה שהבכורה שוה הרבה, לפי שהברכות תלויות בה"
+       }
+      ]
+     },
+     {
+      "text": "באמת יעקב לא לקחה במקח: בזיון עשו עשה את הבכורה הפקר, ויעקב זכה בה כבדבר הפקר.",
+      "sources": [
+       {
+        "name": "הכתב והקבלה",
+        "ref": "HaKtav VeHaKabalah, Genesis 27:36:2",
+        "quote": "כי רק מצד בזותו את הבכורה נעשה כהפקר, ויעקב זכה בה כזוכה בדבר הפקר"
+       }
+      ]
+     },
+     {
+      "text": "פיו הכשילו, ללמד שדין הבכורה הוא של יעקב.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:36:1",
+        "quote": "את בכרתי לקח פיו הכשילו, לגלות כי דינו של יעקב בבכורה"
+       }
+      ]
+     }
+    ],
+    "why": "היא בוחנת אם טענת עשו אמת או רק טענה."
+   },
+   {
+    "title": "למה לא אמר יצחק לעשו 'ויתן לך', ולמה 'הנה'?",
+    "pasuk": {
+     "text": "הִנֵּ֞ה מִשְׁמַנֵּ֤י הָאָ֙רֶץ֙ יִהְיֶ֣ה מֽוֹשָׁבֶ֔ךָ",
+     "ref": "Genesis 27:39",
+     "label": "בראשית כז, לט"
+    },
+    "question": "ליעקב אמר יצחק 'ויתן לך האלהים'. לעשו הוא אומר רק 'הנה משמני הארץ יהיה מושבך'. מה ההבדל?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 27:39:1-2",
+      "era": "acharon",
+      "quote": "מלת הנה תראה מיותרת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברכת יעקב היא מתנת אלהים התלויה במעשים; ארצו של עשו שמנה מעצמה, בלי תלות בהשגחה.",
+      "sources": [
+       {
+        "name": "מלבי״ם",
+        "ref": "Malbim on Genesis 27:39:1",
+        "quote": "שאצל יעקב יהיה מתנת אלהים ותלוי בהשגחת ה' שהוא לפי המעשים אם יזכו, אמר לעשו שמעצמו יהיה מושבו במשמני הארץ בלתי תלוי בהשגחה"
+       }
+      ]
+     },
+     {
+      "text": "לעשו יש רק מה שלפניו, לא תוספת הוי״ו שניתנה ליעקב.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 27:39:2",
+        "quote": "אין לו אלא מה שלפניו, לא כיעקב שאמר ויתן לך"
+       }
+      ]
+     },
+     {
+      "text": "הקב״ה לא הסכים על ידי יצחק לברך את עשו, כי לא היה מוכן לקבל.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:39:1-2",
+        "quote": "שעם שהיה רצון יצחק לברכו לא היה הקב\"ה מסכים על ידו"
+       }
+      ]
+     },
+     {
+      "text": "מושבו הוא הר שעיר הסמוך לארץ ישראל, ארץ שמנה הנשקית בטל.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:39:2",
+        "quote": "יהיה מושבך זה הר שעיר הסמוך לא״י"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה במה שונות שתי הברכות גם כשהלשון דומה."
+   },
+   {
+    "title": "מי הם 'שניכם' שרבקה חוששת לשכל ביום אחד?",
+    "pasuk": {
+     "text": "לָ֥מָּה אֶשְׁכַּ֛ל גַּם־שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד",
+     "ref": "Genesis 27:45",
+     "label": "בראשית כז, מה"
+    },
+    "question": "רבקה אומרת שתשכל 'גם שניכם' ביום אחד. על אילו שניים היא מדברת, ואיך ימותו ביום אחד?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 27:45:1",
+      "era": "rishon",
+      "quote": "למה אשכל. פחדה שמא יהרוג זה את זה"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 27:45:1",
+      "era": "rishon",
+      "quote": "למה אשכל גם שניכם יום אחד אביך ואתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יעקב ועשו: אם יהרוג אחד את השני, תקום המשפחה על הנותר.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 27:45:1",
+        "quote": "שאם יהרוג אותך או אתה אותו תקום כל המשפחה עלי"
+       }
+      ]
+     },
+     {
+      "text": "יצחק ויעקב: עשו אמר שיהרוג את יעקב כשיגיעו ימי אבל אביו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 27:45:1",
+        "quote": "נמצא שיצחק מת עשו יהרג את יעקב ואז אהיה שכולה משניהם ביום אחד"
+       }
+      ]
+     },
+     {
+      "text": "גם אם ימות עשו, על ידך או על ידי גואלי הדם, אין מרפא לשברך.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 27:45:1",
+        "quote": "לו יהיה שימות גם הוא, או על ידך או על ידי גואלי הדם"
+       }
+      ]
+     },
+     {
+      "text": "וכך היה: ביום אחד נקברו, שחושים בן דן הרג את עשו על מיטתו של יעקב.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 27:45:1",
+        "quote": "כי ביום אחד נקברו, שחושים בן דן הרג לעשו על מיטתו של יעקב"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה כיצד קראו חכמים את פחד האם כדבר שהתקיים אחר כך."
+   },
+   {
+    "title": "למה רבקה מספרת ליצחק על בנות חת ולא על כוונת עשו להרוג?",
+    "pasuk": {
+     "text": "קַ֣צְתִּי בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת",
+     "ref": "Genesis 27:46",
+     "label": "בראשית כז, מו"
+    },
+    "question": "רבקה שלחה את יעקב בגלל איומו של עשו, אך אומרת ליצחק טעם אחר. למה להסתיר?",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 27:46:1",
+      "era": "acharon",
+      "quote": "באשר לא רצתה רבקה להודיע ליצחק רשעת עשו"
+     },
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 27:46:1",
+      "era": "rishon",
+      "quote": "דרך חכמה אמרה רבקה ליצחק, להרחיק יעקב מעשו ולא גילתה לו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יצחק עלול לכעוס ולא להניח ליעקב לברוח, באמרו שעשו לא יעשה זאת.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 27:46:1",
+        "quote": "דשמא יכעוס יצחק ולא יניח את יעקב לברוח"
+       }
+      ]
+     },
+     {
+      "text": "זה יצער את יצחק שכבר דומה למת בעיוורונו, וידאג ליעקב.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 27:46:1-4",
+        "quote": "אם אומר ליצחק שעשו בקש להרוג את יעקב ידאג ודי לו צער היותו סומא"
+       }
+      ]
+     },
+     {
+      "text": "לספר זאת היה איסור רכילות; ליעקב גילתה כדי לקיים 'לא תעמוד על דם רעך'.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 27:46:1",
+        "quote": "לא רצתה לגלות הדבר ליצחק משום איסור רכילות"
+       }
+      ]
+     },
+     {
+      "text": "שלא להטיל מדנים בין אחים; וזה מורה על חכמתה וחסידותה.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 27:46:1-2",
+        "quote": "כדי שלא לשלח מדנים בין אחים"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה את רבקה פועלת בחכמה."
+   }
+  ],
+  "sources_consulted": [
+   "כלי יקר",
+   "מדרש לקח טוב",
+   "אור החיים",
+   "בכור שור",
+   "חזקוני",
+   "הדר זקנים",
+   "מדרש אגדה",
+   "הכתב והקבלה",
+   "דעת זקנים",
+   "מלבי״ם",
+   "אלשיך",
+   "אבן עזרא",
+   "העמק דבר",
+   "רשב\"ם",
+   "צרור המור"
+  ]
+ }
+}
