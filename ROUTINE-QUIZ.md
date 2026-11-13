@@ -36,6 +36,13 @@ parasha card).
    - Quotes go between “ ” and may be typed without nikud. Each must appear word for word
      in the pesukim of `"r"` (`...` skips words, `___` leaves a blank). The script replaces
      them with the pasuk's own words with nikud. Write the divine name ה׳ / אלקים outside quotes.
+   - Ask about the content, never about where something is in the text. The reader does not
+     know the parasha by verse numbers or layout, so no "לפי 16:29", "בפסוק 19:11", "בסוף פרק טז",
+     "בפתיחת הפרשה", "בפסוק האחרון", "באיזה פסוק מסתיימת". Identify the moment by what is
+     happening ("כשטען משה למה הרעתה", "אחרי מלחמת עוג"), not by its place.
+   - No vague "מה נאמר על X?" whose answer is just the next words of the pasuk, and no question
+     whose answer everyone knows without the parasha (that Yom Kippur is a fast, that Moshe
+     did what Hashem commanded). Every question should test something learned from reading it.
    - A hint (`"h"`) on a few of the harder questions.
    - `"t"`: the question's type, one of `said` (מי אמר אל מי), `about` (על מי / על מה נאמר),
      `complete` (השלמת פסוק, with `___` in the quote), `people` (names, who did something),
