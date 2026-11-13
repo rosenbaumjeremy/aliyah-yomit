@@ -1,0 +1,812 @@
+{
+ "date": "2026-11-13",
+ "reading": {
+  "en": "Toldot",
+  "he": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "slugs": [
+   "toldot"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 28:5-28:9",
+ "maftir": "Genesis 28:7-28:9",
+ "hebrew_date": {
+  "hebrew": "ג׳ בְּכִסְלֵו תשפ״ז",
+  "english": "3 Kislev 5787"
+ },
+ "english": {
+  "summary": "Isaac sends Jacob off to Paddan-aram, to Laban the brother of Rebekah. Esau sees that Isaac blessed Jacob, charged him not to take a Canaanite wife, and that Jacob obeyed and left. Esau realizes the Canaanite women displease his father, so he goes to Ishmael and takes Mahalath, Ishmael's daughter and Nebaioth's sister, in addition to his wives. The aliyah closes the parasha of Toledot.",
+  "questions": [
+   {
+    "title": "Why does the verse add \"brother of Rebekah, mother of Jacob and Esau\"?",
+    "pasuk": {
+     "text": "אֲחִי רִבְקָה אֵם יַעֲקֹב וְעֵשָׂו",
+     "ref": "Genesis 28:5",
+     "label": "Genesis 28:5"
+    },
+    "question": "Everyone already knows that Laban is Rebekah's brother and that she is the mother of Jacob and Esau. Why does the Torah spell it out?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:5:1",
+      "era": "rishon",
+      "quote": "אֵינִי יוֹדֵעַ מַה מְּלַמְּדֵנוּ"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 28:5:1",
+      "era": "acharon",
+      "quote": "מִי לֹא יָדַע בָּזֶה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 28:5:1",
+      "era": "acharon",
+      "quote": "לא ידעתי מה מלמדינו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Because Esau too was Laban's nephew, yet Isaac did not send him there: the blessing of Abraham was meant for Jacob and his descendants.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 28:5:1",
+        "quote": "הזכיר הכתוב שהיה גם כן אחי אמו של עשו"
+       }
+      ]
+     },
+     {
+      "text": "So that no one is surprised that a wicked Esau came from righteous parents: most sons resemble their mother's brother, and Esau resembles Laban.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 28:5:1",
+        "quote": "רוב הבנים דומים לאחי האם, עשו דומה אל לבן"
+       }
+      ]
+     },
+     {
+      "text": "Because Laban was close to both brothers, Jacob could tell him of the quarrels between him and Esau, which he could not do among strangers.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Torah, Genesis 28:5:1",
+        "quote": "לפי שהיה קרוב לשניהם ובעבור זה יוכל לספר לו"
+       }
+      ]
+     },
+     {
+      "text": "Simply to identify which Rebekah: there were many, and the verse tells you that Laban is the brother of the Rebekah who is the mother of Jacob and Esau.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 28:5:1",
+        "quote": "כמה רבקות היו ומגיד לך הכתוב"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that even words that seem redundant in the Torah were read as carrying a lesson about Jacob's journey."
+   },
+   {
+    "title": "Why is Jacob named before Esau?",
+    "pasuk": {
+     "text": "אֲחִי רִבְקָה אֵם יַעֲקֹב וְעֵשָׂו",
+     "ref": "Genesis 28:5",
+     "label": "Genesis 28:5"
+    },
+    "question": "Elsewhere the Torah names Esau first. Why does it say \"mother of Jacob and Esau\"?",
+    "asked_by": [
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 28:5:1",
+      "era": "acharon",
+      "quote": "בכל התורה מקדימין עשו ליעקב"
+     },
+     {
+      "name": "Tur HaArokh",
+      "ref": "Tur HaArokh, Genesis 28:5:1",
+      "era": "rishon",
+      "quote": "להקדים יעקב להודיע שנתקיימה בו הברכה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Because Rebekah loved Jacob more, and out of pity for him she sent him to her brother; this was known to her family in Paddan-aram.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 28:5:2",
+        "quote": "הִקְדִּים יַעֲקֹב לְעֵשָׂו בַּעֲבוּר כִּי אֵם יַעֲקֹב הָיְתָה בֶּאֱמֶת"
+       }
+      ]
+     },
+     {
+      "text": "To remind us of Rebekah's love for Jacob, as with \"I gave Isaac Jacob and Esau\" in Joshua, where Jacob is also placed first out of affection.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 28:5:1",
+        "quote": "להזכירנו שהיתה רבקה אוהבת את יעקב"
+       }
+      ]
+     },
+     {
+      "text": "Another view: the order shows that the blessing was fulfilled in Jacob, who now stands above his brother.",
+      "sources": [
+       {
+        "name": "Tur HaArokh",
+        "ref": "Tur HaArokh, Genesis 28:5:1",
+        "quote": "להקדים יעקב להודיע שנתקיימה בו הברכה"
+       }
+      ]
+     },
+     {
+      "text": "Another view: the two were formed in one shared membrane, unlike other twins, and the order of the names points to this.",
+      "sources": [
+       {
+        "name": "Toledot Yitzchak",
+        "ref": "Toledot Yitzchak on Torah, Genesis 28:5:1",
+        "quote": "שיצירת שניהם בשלייא אחת דרך פלא"
+       }
+      ]
+     }
+    ],
+    "why": "The order of two names becomes a window into who Rebekah's heart was with."
+   },
+   {
+    "title": "Why send Jacob to wicked Laban's family?",
+    "pasuk": {
+     "text": "אֶל לָבָן בֶּן בְּתוּאֵל הָאֲרַמִּי",
+     "ref": "Genesis 28:5",
+     "label": "Genesis 28:5"
+    },
+    "question": "Laban is called \"son of Bethuel the Aramean\", the family of deceivers. How could Isaac send the righteous Jacob there to marry?",
+    "asked_by": [
+     {
+      "name": "Yalkut Shimoni",
+      "ref": "Yalkut Shimoni on Torah 110:14",
+      "era": "chazal",
+      "quote": "אָבִיהָ רַמַּאי וְאָחִיהָ רַמַּאי"
+     },
+     {
+      "name": "Tzror HaMor",
+      "ref": "Tzror HaMor on Torah, Genesis 28:5:1-2",
+      "era": "rishon",
+      "quote": "אחי רבקה רשע גמור"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 28:5:2",
+      "era": "acharon",
+      "quote": "שֶׁשָּׁלַח בֵּן צַדִּיק לְאָדָם רָשָׁע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Do not be surprised: he is the brother of the righteous Rebekah, and daughters are likely to resemble their father's sister.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 28:5:2-5",
+        "quote": "אַל תִּתְמַהּ מִזֶּה"
+       }
+      ]
+     },
+     {
+      "text": "Just as the righteous Rebekah came from Bethuel the wicked, so a righteous daughter can come from Laban.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 28:5:2",
+        "quote": "וּכְמוֹ כֵן יֵצֵא מִלָּבָן בַּת צַדֶּקֶת"
+       }
+      ]
+     },
+     {
+      "text": "Jacob, who feared Esau, went to Laban because he was mighty in the land and would protect him.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 28:5:1",
+        "quote": "הלך אל לבן שהיה גבור בארץ ויגן עליו"
+       }
+      ]
+     },
+     {
+      "text": "With Laban he would lack nothing, so Isaac and Rebekah knew he would be supported.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 28:5:1",
+        "quote": "לֹא יֶחְסַר כֹּל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the sages weighed the risk of Jacob's marriage against the line of the family."
+   },
+   {
+    "title": "Was Esau's going to Ishmael repentance?",
+    "pasuk": {
+     "text": "וַיֵּלֶךְ עֵשָׂו אֶל יִשְׁמָעֵאל",
+     "ref": "Genesis 28:9",
+     "label": "Genesis 28:9"
+    },
+    "question": "Esau saw that Isaac disliked the Canaanite women and went to Ishmael. Did he repair his ways, or only add to them?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 67:13",
+      "era": "chazal",
+      "quote": "אִלּוּ הוֹצִיא אֶת הָרִאשׁוֹנוֹת יָפֶה הָיָה"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 28:8:1",
+      "era": "acharon",
+      "quote": "לא גרש בנות כנען מאתו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He turned his mind to conversion.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 67:13",
+        "quote": "נָתַן דַּעְתּוֹ לְהִתְגַּיֵּר"
+       }
+      ]
+     },
+     {
+      "text": "He added wickedness to his wickedness, since he did not divorce the first wives.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:9:2",
+        "quote": "הוֹסִיף רִשְׁעָה עַל רִשְׁעָתוֹ"
+       }
+      ]
+     },
+     {
+      "text": "He cared only about his father's displeasure, not that they were evil, and so he did not send them away.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 28:8:1",
+        "quote": "לֹא חָשׁ עֵשָׂו אֶלָּא לְצַד הַקְפָּדַת אָבִיו"
+       }
+      ]
+     },
+     {
+      "text": "He hoped that now he might inherit Abraham's legacy.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 28:9:1",
+        "quote": "שמא מעתה אזכה לנחלת אברהם"
+       }
+      ]
+     },
+     {
+      "text": "He simply went to someone like himself.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 28:9:1",
+        "quote": "אלא מפני שהוא מינו"
+       }
+      ]
+     }
+    ],
+    "why": "Esau's choice is read as both a move toward his father and a continuation of his own path."
+   },
+   {
+    "title": "Why does the Torah add \"sister of Nebaioth\"?",
+    "pasuk": {
+     "text": "בֶּן אַבְרָהָם אֲחוֹת נְבָיוֹת",
+     "ref": "Genesis 28:9",
+     "label": "Genesis 28:9"
+    },
+    "question": "The verse already says she is Ishmael's daughter. What does \"sister of Nebaioth\" add?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:9:1",
+      "era": "rishon",
+      "quote": "מִמַּשְׁמָע שֶׁנֶּאֱמַר בַּת יִשְׁמָעֵאל אֵינִי יוֹדֵעַ שֶׁהִיא אֲחוֹת נְבָיוֹת"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 28:9:1",
+      "era": "acharon",
+      "quote": "ואם תאמר שהכתוב בא להגיד כי היו לישמעאל נשים הרבה"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 28:9:2",
+      "era": "rishon",
+      "quote": "נכבד היה מכל אחיו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "We learn that Ishmael died after betrothing her to Esau, and Nebaioth gave her in marriage; from this we also learn Jacob's age.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:9:1",
+        "quote": "שֶׁמֵּת יִשְׁמָעֵאל מִשֶּׁיְּעָדָהּ לְעֵשָׂו קֹדֶם נִשּׂוּאֶיהָ"
+       }
+      ]
+     },
+     {
+      "text": "The same is said by Haamek Davar: Ishmael died between betrothal and marriage and Nebaioth gave her away.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 28:9:1",
+        "quote": "שבין אירוסין לנשואין מת ישמעאל ונביות השיאה"
+       }
+      ]
+     },
+     {
+      "text": "She is called by the first-born of Ishmael's sons, as Miriam is called the sister of Aaron.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 28:9:1",
+        "quote": "לפי שהיה ראשון שבבני ישמעאל קורא אותה אחות נביות"
+       }
+      ]
+     },
+     {
+      "text": "Because Nebaioth was a man of name.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 28:9:1",
+        "quote": "כִּי הָיָה נְבָיוֹת בַּעַל הַשֵּׁם"
+       }
+      ]
+     },
+     {
+      "text": "By the plain sense Esau went to the house of Ishmael, since he had already died.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 28:9:1",
+        "quote": "לפי הפשט לבית ישמעאל כי כבר הוא נפטר"
+       }
+      ]
+     }
+    ],
+    "why": "Two words in the Torah become the basis for the chronology of Jacob's years."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Or HaChaim",
+   "Gur Aryeh",
+   "Ramban",
+   "Chizkuni",
+   "Bartenura",
+   "Bekhor Shor",
+   "Shadal",
+   "Tur HaArokh",
+   "Radak",
+   "Toledot Yitzchak",
+   "Yalkut Shimoni",
+   "Tzror HaMor",
+   "Rabbeinu Bahya",
+   "Malbim",
+   "Bereshit Rabbah",
+   "Torah Temimah",
+   "Ibn Ezra",
+   "Haamek Davar",
+   "Rashbam"
+  ]
+ },
+ "hebrew": {
+  "summary": "יצחק שולח את יעקב לפדן ארם אל לבן אחי רבקה. עשו רואה שיצחק בירך את יעקב וצווה עליו שלא יקח אשה מבנות כנען, ושיעקב שמע ללכת. עשו מבין שרעות בנות כנען בעיני אביו, והולך אל ישמעאל ולוקח את מחלת בת ישמעאל אחות נביות על נשיו. בכך מסתיימת פרשת תולדות.",
+  "questions": [
+   {
+    "title": "למה הפסוק מוסיף ״אחי רבקה אם יעקב ועשו״?",
+    "pasuk": {
+     "text": "אֲחִי רִבְקָה אֵם יַעֲקֹב וְעֵשָׂו",
+     "ref": "Genesis 28:5",
+     "label": "בראשית כח, ה"
+    },
+    "question": "הכול יודעים שלבן אחי רבקה ושהיא אם יעקב ועשו. למה התורה מפרטת זאת?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:5:1",
+      "era": "rishon",
+      "quote": "אֵינִי יוֹדֵעַ מַה מְּלַמְּדֵנוּ"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 28:5:1",
+      "era": "acharon",
+      "quote": "מִי לֹא יָדַע בָּזֶה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 28:5:1",
+      "era": "acharon",
+      "quote": "לא ידעתי מה מלמדינו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מפני שגם עשו היה אחי אמו של לבן, ובכל זאת יצחק לא שלח אותו לשם: ברכת אברהם נועדה ליעקב ולזרעו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 28:5:1",
+        "quote": "הזכיר הכתוב שהיה גם כן אחי אמו של עשו"
+       }
+      ]
+     },
+     {
+      "text": "כדי שלא תתמה איך יצא רשע כעשו מצדיקים: רוב הבנים דומים לאחי האם, ועשו דומה ללבן.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 28:5:1",
+        "quote": "רוב הבנים דומים לאחי האם, עשו דומה אל לבן"
+       }
+      ]
+     },
+     {
+      "text": "מפני שלבן היה קרוב לשניהם, יכול יעקב לספר לו את דברי הריבות שבינו לבין עשו, מה שאי אפשר בין זרים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Torah, Genesis 28:5:1",
+        "quote": "לפי שהיה קרוב לשניהם ובעבור זה יוכל לספר לו"
+       }
+      ]
+     },
+     {
+      "text": "רק כדי לזהות: כמה רבקות היו, והכתוב מגיד שהוא אחי הרבקה שהיא אם יעקב ועשו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 28:5:1",
+        "quote": "כמה רבקות היו ומגיד לך הכתוב"
+       }
+      ]
+     }
+    ],
+    "why": "גם מילים שנראות מיותרות נדרשו כמלמדות על דרכו של יעקב."
+   },
+   {
+    "title": "למה מוזכר יעקב לפני עשו?",
+    "pasuk": {
+     "text": "אֲחִי רִבְקָה אֵם יַעֲקֹב וְעֵשָׂו",
+     "ref": "Genesis 28:5",
+     "label": "בראשית כח, ה"
+    },
+    "question": "בכל מקום אחר התורה מקדימה את עשו. למה כאן נאמר ״אם יעקב ועשו״?",
+    "asked_by": [
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 28:5:1",
+      "era": "acharon",
+      "quote": "בכל התורה מקדימין עשו ליעקב"
+     },
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 28:5:1",
+      "era": "rishon",
+      "quote": "להקדים יעקב להודיע שנתקיימה בו הברכה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מפני שרבקה אהבה את יעקב יותר, ומחמלתה עליו שלחה אותו אל אחיה, והדבר היה ידוע בפדן ארם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 28:5:2",
+        "quote": "הִקְדִּים יַעֲקֹב לְעֵשָׂו בַּעֲבוּר כִּי אֵם יַעֲקֹב הָיְתָה בֶּאֱמֶת"
+       }
+      ]
+     },
+     {
+      "text": "להזכיר שרבקה אהבה את יעקב, כמו ביהושע ״ואתן ליצחק את יעקב ואת עשו״ שם הקדים יעקב מחביבותו.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 28:5:1",
+        "quote": "להזכירנו שהיתה רבקה אוהבת את יעקב"
+       }
+      ]
+     },
+     {
+      "text": "לפי דעה אחרת: הסדר מודיע שהברכה נתקיימה ביעקב, שעתה הוא גביר לאחיו.",
+      "sources": [
+       {
+        "name": "טור הארוך",
+        "ref": "Tur HaArokh, Genesis 28:5:1",
+        "quote": "להקדים יעקב להודיע שנתקיימה בו הברכה"
+       }
+      ]
+     },
+     {
+      "text": "לפי דעה אחרת: שניהם נוצרו בשליה אחת, בניגוד לשאר תאומים, והסדר רומז לכך.",
+      "sources": [
+       {
+        "name": "תולדות יצחק",
+        "ref": "Toledot Yitzchak on Torah, Genesis 28:5:1",
+        "quote": "שיצירת שניהם בשלייא אחת דרך פלא"
+       }
+      ]
+     }
+    ],
+    "why": "סדר שני שמות נעשה חלון ללבה של רבקה."
+   },
+   {
+    "title": "למה לשלוח את יעקב אל משפחת לבן הרשע?",
+    "pasuk": {
+     "text": "אֶל לָבָן בֶּן בְּתוּאֵל הָאֲרַמִּי",
+     "ref": "Genesis 28:5",
+     "label": "בראשית כח, ה"
+    },
+    "question": "לבן מכונה ״בן בתואל הארמי״, משפחת הרמאים. איך שלח יצחק את יעקב הצדיק לשם לשאת אשה?",
+    "asked_by": [
+     {
+      "name": "ילקוט שמעוני",
+      "ref": "Yalkut Shimoni on Torah 110:14",
+      "era": "chazal",
+      "quote": "אָבִיהָ רַמַּאי וְאָחִיהָ רַמַּאי"
+     },
+     {
+      "name": "צרור המור",
+      "ref": "Tzror HaMor on Torah, Genesis 28:5:1-2",
+      "era": "rishon",
+      "quote": "אחי רבקה רשע גמור"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 28:5:2",
+      "era": "acharon",
+      "quote": "שֶׁשָּׁלַח בֵּן צַדִּיק לְאָדָם רָשָׁע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אל תתמה: הוא אחי רבקה הצדקת, והבנות ראויות להידמות לאחות אביהן.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 28:5:2-5",
+        "quote": "אַל תִּתְמַהּ מִזֶּה"
+       }
+      ]
+     },
+     {
+      "text": "כשם שיצאה רבקה הצדקת מבתואל הרשע, כך יכולה לצאת מלבן בת צדקת.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 28:5:2",
+        "quote": "וּכְמוֹ כֵן יֵצֵא מִלָּבָן בַּת צַדֶּקֶת"
+       }
+      ]
+     },
+     {
+      "text": "יעקב, שירא מעשו, הלך אל לבן מפני שהיה גבור בארץ ויגן עליו.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 28:5:1",
+        "quote": "הלך אל לבן שהיה גבור בארץ ויגן עליו"
+       }
+      ]
+     },
+     {
+      "text": "אצל לבן לא יחסר לו דבר, ולכן הוריו ידעו שיהיה מפוזר ומסופק.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 28:5:1",
+        "quote": "לֹא יֶחְסַר כֹּל"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך שקלו חכמים את סיכון נישואי יעקב מול שושלת המשפחה."
+   },
+   {
+    "title": "האם הליכת עשו אל ישמעאל הייתה תשובה?",
+    "pasuk": {
+     "text": "וַיֵּלֶךְ עֵשָׂו אֶל יִשְׁמָעֵאל",
+     "ref": "Genesis 28:9",
+     "label": "בראשית כח, ט"
+    },
+    "question": "עשו ראה שרעות בנות כנען בעיני יצחק והלך אל ישמעאל. האם תיקן את דרכו או רק הוסיף?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 67:13",
+      "era": "chazal",
+      "quote": "אִלּוּ הוֹצִיא אֶת הָרִאשׁוֹנוֹת יָפֶה הָיָה"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 28:8:1",
+      "era": "acharon",
+      "quote": "לא גרש בנות כנען מאתו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "נתן דעתו להתגייר.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 67:13",
+        "quote": "נָתַן דַּעְתּוֹ לְהִתְגַּיֵּר"
+       }
+      ]
+     },
+     {
+      "text": "הוסיף רשעה על רשעתו, שהרי לא גירש את הראשונות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:9:2",
+        "quote": "הוֹסִיף רִשְׁעָה עַל רִשְׁעָתוֹ"
+       }
+      ]
+     },
+     {
+      "text": "לא חש אלא להקפדת אביו ולא לרעתן, ולכן לא שילח אותן.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 28:8:1",
+        "quote": "לֹא חָשׁ עֵשָׂו אֶלָּא לְצַד הַקְפָּדַת אָבִיו"
+       }
+      ]
+     },
+     {
+      "text": "קיווה שמא מעתה יזכה לנחלת אברהם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 28:9:1",
+        "quote": "שמא מעתה אזכה לנחלת אברהם"
+       }
+      ]
+     },
+     {
+      "text": "פשוט הלך אל מי שדומה לו.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 28:9:1",
+        "quote": "אלא מפני שהוא מינו"
+       }
+      ]
+     }
+    ],
+    "why": "בחירת עשו נקראת גם כצעד אל אביו וגם כהמשך דרכו."
+   },
+   {
+    "title": "למה התורה מוסיפה ״אחות נביות״?",
+    "pasuk": {
+     "text": "בֶּן אַבְרָהָם אֲחוֹת נְבָיוֹת",
+     "ref": "Genesis 28:9",
+     "label": "בראשית כח, ט"
+    },
+    "question": "הפסוק כבר אמר שהיא בת ישמעאל. מה מוסיף ״אחות נביות״?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:9:1",
+      "era": "rishon",
+      "quote": "מִמַּשְׁמָע שֶׁנֶּאֱמַר בַּת יִשְׁמָעֵאל אֵינִי יוֹדֵעַ שֶׁהִיא אֲחוֹת נְבָיוֹת"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 28:9:1",
+      "era": "acharon",
+      "quote": "ואם תאמר שהכתוב בא להגיד כי היו לישמעאל נשים הרבה"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 28:9:2",
+      "era": "rishon",
+      "quote": "נכבד היה מכל אחיו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "למדנו שמת ישמעאל אחרי שיעדה לעשו ולפני נישואיה, ונביות השיאה; ומכאן גם גילו של יעקב.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:9:1",
+        "quote": "שֶׁמֵּת יִשְׁמָעֵאל מִשֶּׁיְּעָדָהּ לְעֵשָׂו קֹדֶם נִשּׂוּאֶיהָ"
+       }
+      ]
+     },
+     {
+      "text": "כך גם בהעמק דבר: ישמעאל מת בין אירוסין לנישואין ונביות השיאה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 28:9:1",
+        "quote": "שבין אירוסין לנשואין מת ישמעאל ונביות השיאה"
+       }
+      ]
+     },
+     {
+      "text": "היא נקראת על שם הראשון מבני ישמעאל, כשם שמרים נקראת אחות אהרן.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 28:9:1",
+        "quote": "לפי שהיה ראשון שבבני ישמעאל קורא אותה אחות נביות"
+       }
+      ]
+     },
+     {
+      "text": "מפני שנביות היה בעל שם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 28:9:1",
+        "quote": "כִּי הָיָה נְבָיוֹת בַּעַל הַשֵּׁם"
+       }
+      ]
+     },
+     {
+      "text": "לפי הפשט הלך עשו לבית ישמעאל, כי כבר נפטר.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 28:9:1",
+        "quote": "לפי הפשט לבית ישמעאל כי כבר הוא נפטר"
+       }
+      ]
+     }
+    ],
+    "why": "שתי מילים בתורה הופכות ליסוד לחשבון שנות יעקב."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "אור החיים",
+   "גור אריה",
+   "רמב\"ן",
+   "חזקוני",
+   "ברטנורא",
+   "בכור שור",
+   "שד\"ל",
+   "טור הארוך",
+   "רד\"ק",
+   "תולדות יצחק",
+   "ילקוט שמעוני",
+   "צרור המור",
+   "רבנו בחיי",
+   "מלבי\"ם",
+   "בראשית רבה",
+   "תורה תמימה",
+   "אבן עזרא",
+   "העמק דבר",
+   "רשב\"ם"
+  ]
+ }
+}
