@@ -22,7 +22,7 @@ site/
   data/aliyot/index.json     {"days": [{date, reading, aliyah, range}]}
   data/aliyot/YYYY-MM-DD.json  one day's brief, English and Hebrew
   data/quiz/<slug>.json      a bank of multiple-choice questions on the parasha, in Hebrew, each
-                             tagged with its type (75 for each parasha of Bereshit and Shemot); the reader
+                             tagged with its type (75 for each parasha of Bereshit through Bamidbar); the reader
                              chooses how many, which types and the order, and they are drawn at
                              random (scripts/quiz.py, weekly routine: ROUTINE-QUIZ.md)
   data/text/<Book>.<ch>.json   every chapter of the Torah: pesukim, Steinsaltz and Rashi
