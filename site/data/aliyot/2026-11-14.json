@@ -1,0 +1,1139 @@
+{
+ "date": "2026-11-14",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 28:10-28:22",
+ "hebrew_date": {
+  "hebrew": "ד׳ בְּכִסְלֵו תשפ״ז",
+  "english": "4 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob leaves Beer-sheba for Haran. At nightfall he lodges at a certain place and lies down with a stone under his head. He dreams of a ladder reaching heaven, with angels going up and down and God standing beside him, who promises him the land, many descendants, and protection until he returns. Jacob wakes, is awed, sets up the stone as a pillar, calls the place Bethel, and vows that if God protects him and gives him bread and clothing, the Lord will be his God and he will tithe.",
+  "questions": [
+   {
+    "title": "Why does the verse say \"Jacob left\" when \"Jacob went to Haran\" would do?",
+    "pasuk": {
+     "text": "וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע",
+     "ref": "Genesis 28:10",
+     "label": "Genesis 28:10"
+    },
+    "question": "Why mention his leaving Beer-sheba at all, if the point is only that he went to Haran?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:10:2",
+      "quote": "לֹא הָיָה צָרִיךְ לִכְתֹּב אֶלָּא וַיֵּלֶךְ יַעֲקֹב חָרָנָה",
+      "era": "rishon"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 68:6",
+      "quote": "וְכִי לֹא יָצָא מִשָּׁם אֶלָּא הוּא",
+      "era": "chazal"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 28:10:1",
+      "quote": "וְכִי אַבְרָהָם וְיִצְחָק לא הָלְכוּ מִמָּקוֹם לְמָקוֹם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The departure of a righteous person from a place leaves an impression: while he is in the city he is its glory and splendour, and when he leaves, they leave with him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:10:2",
+        "quote": "יְּצִיאַת צַדִּיק מִן הַמָּקוֹם עוֹשָׂה רֹשֶׁם"
+       }
+      ]
+     },
+     {
+      "text": "The midrash gives the same lesson, and adds that the merit of one tzaddik is not like that of two, since Isaac and Rebekah stayed behind.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 68:6",
+        "quote": "פָּנָה זִיוָהּ פָּנָה הֲדָרָה"
+       }
+      ]
+     },
+     {
+      "text": "Leaving the Land of Israel, the place where the Divine Presence is revealed, is a descent, so the departure left its mark on Jacob himself.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 28:10:3",
+        "quote": "אֶרֶץ יִשְׂרָאֵל מְקוֹם גִּלּוּי שְׁכִינָתוֹ יִתְבָּרַך"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Yehoshua ben Levi reads the whole passage as a description of exile.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 68:13",
+        "quote": "פָּתַר קְרָיָה בַּגָּלוּת"
+       }
+      ]
+     }
+    ],
+    "why": "An apparently redundant word becomes a lesson about how a righteous person shapes a place, and how leaving the Land shapes him."
+   },
+   {
+    "title": "What is \"the place\" Jacob came upon, and why does the verse say \"vayifga\"?",
+    "pasuk": {
+     "text": "וַיִּפְגַּע בַּמָּקוֹם וַיָּלֶן שָׁם",
+     "ref": "Genesis 28:11",
+     "label": "Genesis 28:11"
+    },
+    "question": "The verse does not say which place it was, and \"vayifga\" is an unusual verb for arriving.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:11:1",
+      "quote": "לֹא הִזְכִּיר הַכָּתוּב בְּאֵיזֶה מָקוֹם אֶלָּא בַּמָּקוֹם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It is Mount Moriah, \"the place\" mentioned elsewhere.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:11:1",
+        "quote": "הוּא הַר הַמּוֹרִיָּה"
+       }
+      ]
+     },
+     {
+      "text": "Our Sages explain \"vayifga\" as a term for prayer, so Jacob instituted the evening prayer.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:11:2",
+        "quote": "וְרַבּוֹתֵינוּ פֵּרְשׁוּ לְשׁוֹן תְּפִלָּה"
+       }
+      ]
+     },
+     {
+      "text": "Plainly it was by chance: he came to a place he had not aimed for.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 28:11:1",
+        "quote": "קָרָה לוֹ שֶׁהִגִּיעַ אֶל מָקוֹם שֶׁלֹּא כִּוֵּן אֵלָיו"
+       }
+      ]
+     },
+     {
+      "text": "It was a spot outside the city of Luz where he happened upon his way.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 28:11:1",
+        "quote": "אירע לו דרכו במקום אחד חוץ מעיר לוז"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the night at Bethel was an accident of the road or an appointed meeting at a holy place."
+   },
+   {
+    "title": "Why does the verse stress that \"the sun had set\"?",
+    "pasuk": {
+     "text": "וַיָּלֶן שָׁם כִּי־בָא הַשֶּׁמֶשׁ",
+     "ref": "Genesis 28:11",
+     "label": "Genesis 28:11"
+    },
+    "question": "It could have said \"the sun set and he lodged there\". What does \"because the sun had come\" add?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:11:3",
+      "quote": "הָיָה לוֹ לִכְתֹּב וַיָּבֹא הַשֶּׁמֶשׁ וַיָּלֶן שָׁם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The sun set suddenly, out of its time, so that he would lodge there.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:11:3",
+        "quote": "שֶׁשָּׁקְעָה לוֹ חַמָּה פִּתְאוֹם, שֶׁלֹּא בְּעוֹנָתָה"
+       }
+      ]
+     },
+     {
+      "text": "God set the sun early to speak with Jacob in privacy, like a king who orders the lamps put out to talk with his friend.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 68:10",
+        "quote": "הִשְׁקִיעַ הַקָּדוֹשׁ בָּרוּךְ הוּא גַּלְגַּל חַמָּה שֶׁלֹא בְּעוֹנָתָהּ בִּשְׁבִיל לְדַבֵּר עִם יַעֲקֹב אָבִינוּ בְּצִנְעָה"
+       }
+      ]
+     },
+     {
+      "text": "Plainly, he had no time to enter the city while it was still day.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 28:11:2",
+        "quote": "ולא היה לו פנאי ליכנס בעיר ביום"
+       }
+      ]
+     },
+     {
+      "text": "The sunset was the hidden reason for his lodging there, which he understood only after the dream.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 28:16:2",
+        "quote": "הֻכַּר לוֹ הַנִּסְתָּר טַעַם הַעֲרֵב שֶׁמֶש"
+       }
+      ]
+     }
+    ],
+    "why": "It turns a time marker into a sign that the night was arranged for him."
+   },
+   {
+    "title": "Why do the angels go up before they come down?",
+    "pasuk": {
+     "text": "מַלְאֲכֵי אֱלֹהִים עֹלִים וְיֹרְדִים בּוֹ",
+     "ref": "Genesis 28:12",
+     "label": "Genesis 28:12"
+    },
+    "question": "Angels come from heaven, so we would expect them to descend first.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:12:1",
+      "quote": "עוֹלִים תְּחִלָּה וְאַחַר כָּךְ יוֹרְדִים",
+      "era": "rishon"
+     },
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 28:12:2",
+      "quote": "אין לדקדק במה שהקדים עולים ליורדים",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The angels who accompanied him in the Land cannot leave it, so they went up, and the angels of outside the Land came down to accompany him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:12:1",
+        "quote": "מַלְאָכִים שֶׁלִּוּוּהוּ בָּאָרֶץ אֵין יוֹצְאִים חוּצָה לָאָרֶץ"
+       }
+      ]
+     },
+     {
+      "text": "It is only the way of speech to mention going up before going down.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 28:12:2",
+        "quote": "דרך ארץ להזכיר עליה קודם ירידה"
+       }
+      ]
+     },
+     {
+      "text": "It seemed to him that the ladder was meant for ordinary climbing, and people go up a ladder first.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 28:12:2",
+        "quote": "שדרך בני אדם לעלות תחלה בסולם"
+       }
+      ]
+     },
+     {
+      "text": "The angels live here: like a person going up from the house to the attic and then coming down to stay in the house.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 28:12:1",
+        "quote": "כאדם העולה מן הבית לעליה"
+       }
+      ]
+     }
+    ],
+    "why": "The order of two words becomes a question about who accompanies Jacob in the Land and who outside it."
+   },
+   {
+    "title": "Why does God call Himself \"God of Isaac\" and say \"your father\" only of Abraham?",
+    "pasuk": {
+     "text": "אֲנִי יְהֹוָה אֱלֹהֵי אַבְרָהָם אָבִיךָ וֵאלֹהֵי יִצְחָק",
+     "ref": "Genesis 28:13",
+     "label": "Genesis 28:13"
+    },
+    "question": "Scripture does not usually attach God's name to the living righteous. Why Isaac, and why \"your father\" only for Abraham?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 28:13:2",
+      "quote": "שֶׁיִּחֵד הַקָּבָּ\"ה שְׁמוֹ עַל הַצַּדִּיקִים בְּחַיֵּיהֶם",
+      "era": "rishon"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 28:13:2",
+      "quote": "טַעַם אָמְרוֹ ״אָבִיךָ״ לְלֹא צֹרֶך",
+      "era": "acharon"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 28:13:2",
+      "quote": "ועדיין קשה מה שדייק הקב״ה לומר אביך גבי אברהם ביחוד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Isaac's eyes had dimmed and he was confined to the house, so he is like one dead and the evil inclination had left him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:13:2",
+        "quote": "כָּהוּ עֵינָיו וְכָלוּא בַבַּיִת, וַהֲרֵי הוּא כְמֵת"
+       }
+      ]
+     },
+     {
+      "text": "Abraham was already dead, so the Name itself was attached to him; Isaac was only like one dead, so only the name Elohim is used.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 28:13:1",
+        "quote": "אֲבָל יִצְחָק שֶׁלֹּא הָיָה כִּי אִם חָשׁוּב כְּמֵת"
+       }
+      ]
+     },
+     {
+      "text": "\"Your father\" is meant to exclude Esau from Abraham's inheritance: Jacob inherits Abraham directly.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 28:13:2",
+        "quote": "נִתְכַּוֵּן לְמַעֵט עֵשָׂו מִיְּרֻשַּׁת אַבְרָהָם"
+       }
+      ]
+     },
+     {
+      "text": "\"God of Abraham\" means special providence in protection from enemies, \"God of Isaac\" providence in livelihood.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 28:13:2",
+        "quote": "אלהי אברהם משמעו ביחוד השגחה על הגנה מאויבים ואלהי יצחק משמעו השגחה על פרנסה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how each patriarch's relationship to God is named, and who is Abraham's heir."
+   },
+   {
+    "title": "Why does Jacob say \"I did not know\" after waking?",
+    "pasuk": {
+     "text": "אָכֵן יֵשׁ יְהֹוָה בַּמָּקוֹם הַזֶּה וְאָנֹכִי לֹא יָדָעְתִּי",
+     "ref": "Genesis 28:16",
+     "label": "Genesis 28:16"
+    },
+    "question": "What was he missing, and why should he have had to know?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 28:16:1",
+      "quote": "מַה תְּמִיהָא זוֹ וְאָנֹכִי לֹא יָדָעְתִּי",
+      "era": "acharon"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 28:16:1",
+      "quote": "לא ידעתי\" למה לי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Had he known, he would not have slept in so holy a place.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:16:1",
+        "quote": "שֶׁאִם יָדַעְתִּי, לֹא יָשַׁנְתִּי בְּמָקוֹם קָדוֹשׁ כָּזֶה"
+       }
+      ]
+     },
+     {
+      "text": "Had he known, he would have prepared himself for prophecy.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 28:16:2",
+        "quote": "שֶׁאִלּוּ יָדַעְתִּי הָיִיתִי מֵכִין עַצְמִי לַנְּבוּאָה"
+       }
+      ]
+     },
+     {
+      "text": "He regrets sleeping where the Divine Presence appeared; it would have been better to spend that hour awake in prayer.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 28:16:2",
+        "quote": "וטוב היה יותר להרבות באותה שעה שם בתפלה"
+       }
+      ]
+     },
+     {
+      "text": "He was afraid for himself that he had not behaved with humility and modesty while lying there.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 28:17:1",
+        "quote": "אוּלַי לֹא הִתְנַהֵג בַּעֲנָוָה וּבִצְנִיעוּת"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what awareness of holiness demands, and what Jacob felt he had missed."
+   },
+   {
+    "title": "How could Jacob set up a matzevah, which the Torah later forbids?",
+    "pasuk": {
+     "text": "וַיָּשֶׂם אֹתָהּ מַצֵּבָה",
+     "ref": "Genesis 28:18",
+     "label": "Genesis 28:18"
+    },
+    "question": "The Torah later commands \"do not set up a pillar\". How could Jacob do it?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 28:17:1",
+      "quote": "ורבים יתמהו איך הקים יעקב מצבה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Moses himself set up twelve pillars, and the Torah forbids only a pillar that God hates.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 28:17:1",
+        "quote": "י\"ב מצבות הקים משה"
+       }
+      ]
+     },
+     {
+      "text": "A pillar is a single stone for pouring wine or oil, not for offerings; it was forbidden later because the Canaanites made it their custom.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 28:18:1",
+        "quote": "הַמַּצֵּבָה תֵּעָשֶׂה לְנַסֵּךְ עָלֶיהָ נֶסֶךְ יַיִן"
+       }
+      ]
+     },
+     {
+      "text": "He anointed it to sanctify it, to bring offerings on it when he returned.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 28:18:1",
+        "quote": "ומשח אותה לקדשה להקריב עליה קרבנות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a patriarchal act can be permitted before the Torah is given."
+   },
+   {
+    "title": "Why does Jacob say \"if God will be with me\" when God already promised, \"I am with you\"?",
+    "pasuk": {
+     "text": "אִם־יִהְיֶה אֱלֹהִים עִמָּדִי",
+     "ref": "Genesis 28:20",
+     "label": "Genesis 28:20"
+    },
+    "question": "Does Jacob doubt the promise he has just received?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 70:4",
+      "quote": "אִם יִהְיֶה אֱלֹהִים עִמָּדִי, אֶתְמָהָא",
+      "era": "chazal"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 28:20:1",
+      "quote": "שקשה הרי הבטיח אותו הקב\"ה",
+      "era": "acharon"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 28:20:1",
+      "quote": "חָלִילָה לוֹמַר שֶׁהָיָה יַעֲקֹב מְסֻפָּק בְּהַבְטָחַת הַשֵּׁם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "\"If\" means: if He keeps for me these promises He promised.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 28:20:1",
+        "quote": "אִם יִשְׁמֹר לִי הַבְטָחוֹת הַלָּלוּ שֶׁהִבְטִיחַנִי"
+       }
+      ]
+     },
+     {
+      "text": "The condition is his fear that sin may cause the promise to lapse.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 28:20:1",
+        "quote": "וְטַעַם הַתְּנַאי, שֶׁלֹּא יִגְרֹם הַחֵטְא"
+       }
+      ]
+     },
+     {
+      "text": "It is not a condition at all but an oath: \"so may God be with me\".",
+      "sources": [
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 28:20:1",
+        "quote": "אין זה תנאי אלא לשון שבועה"
+       }
+      ]
+     },
+     {
+      "text": "He asked now for protection of the soul from sin, since protection of the body was already promised.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 28:20:1",
+        "quote": "אֶלָּא בִּקֵּשׁ עַכְשָׁיו עַל שְׁמִירַת הַנֶּפֶשׁ מִן הַחֵטְא"
+       }
+      ]
+     },
+     {
+      "text": "The promise may have been for his descendants; he himself was not promised protection, so he asked.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 28:20:1",
+        "quote": "אבל אחר שיולדו כולם אין הוא בעצמו מובטח לשמירה"
+       }
+      ]
+     },
+     {
+      "text": "The Sages differ on livelihood: some say God did not answer him about bread, Rabbi Isi says \"I will not leave you\" covers it.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 69:6",
+        "quote": "עַל הַפַּרְנָסָה לֹא הֱשִׁיבו"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether a righteous person may doubt a promise, or only fear that his own merit may not carry it."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Bereshit Rabbah",
+   "Kli Yakar",
+   "Sforno",
+   "Rashbam",
+   "Or HaChaim",
+   "Bekhor Shor",
+   "Chizkuni",
+   "Haamek Davar",
+   "Gur Aryeh",
+   "Radak",
+   "Ibn Ezra",
+   "Ramban",
+   "Da'at Zekenim"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב יוצא מבאר שבע לחרן. בהגיע הערב הוא לן במקום ושם אבן מראשותיו. הוא חולם סולם מוצב ארצה וראשו מגיע השמימה, מלאכי אלהים עולים ויורדים בו, וה' נצב עליו ומבטיח לו את הארץ, זרע רב ושמירה עד שובו. יעקב מתעורר ונפחד, מציב את האבן מצבה וקורא למקום בית אל, ונודר שאם ישמרו אלהים ויתן לו לחם ובגד, יהיה ה' לו לאלהים ויעשר.",
+  "questions": [
+   {
+    "title": "למה כתוב \"ויצא יעקב\" ולא רק \"וילך יעקב חרנה\"?",
+    "pasuk": {
+     "text": "וַיֵּצֵא יַעֲקֹב מִבְּאֵר שָׁבַע",
+     "ref": "Genesis 28:10",
+     "label": "בראשית כח, י"
+    },
+    "question": "מה בא הכתוב ללמד בזכרו את יציאתו מבאר שבע, אם עיקר העניין הוא שהלך לחרן?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:10:2",
+      "quote": "לֹא הָיָה צָרִיךְ לִכְתֹּב אֶלָּא וַיֵּלֶךְ יַעֲקֹב חָרָנָה",
+      "era": "rishon"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 68:6",
+      "quote": "וְכִי לֹא יָצָא מִשָּׁם אֶלָּא הוּא",
+      "era": "chazal"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 28:10:1",
+      "quote": "וְכִי אַבְרָהָם וְיִצְחָק לא הָלְכוּ מִמָּקוֹם לְמָקוֹם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יציאת צדיק מן המקום עושה רושם: כשהצדיק בעיר הוא הודה וזיוה והדרה, וכשיצא פנו הוד וזיו והדר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:10:2",
+        "quote": "יְּצִיאַת צַדִּיק מִן הַמָּקוֹם עוֹשָׂה רֹשֶׁם"
+       }
+      ]
+     },
+     {
+      "text": "המדרש מביא את אותו לימוד, ומוסיף שאין זכותו של צדיק אחד כזכותם של שני צדיקים, שהרי יצחק ורבקה נשארו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 68:6",
+        "quote": "פָּנָה זִיוָהּ פָּנָה הֲדָרָה"
+       }
+      ]
+     },
+     {
+      "text": "היציאה מארץ ישראל, מקום גילוי השכינה, היא ירידה, ולכן היציאה עשתה רושם גם ביעקב עצמו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 28:10:3",
+        "quote": "אֶרֶץ יִשְׂרָאֵל מְקוֹם גִּלּוּי שְׁכִינָתוֹ יִתְבָּרַך"
+       }
+      ]
+     },
+     {
+      "text": "רבי יהושע בן לוי דורש את כל הפרשה כרמז לגלות.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 68:13",
+        "quote": "פָּתַר קְרָיָה בַּגָּלוּת"
+       }
+      ]
+     }
+    ],
+    "why": "מילה שנראית מיותרת מלמדת איך צדיק משפיע על מקומו, ואיך היציאה מארץ ישראל משפיעה עליו."
+   },
+   {
+    "title": "איזה \"מקום\" פגע בו יעקב, ומה משמעות \"ויפגע\"?",
+    "pasuk": {
+     "text": "וַיִּפְגַּע בַּמָּקוֹם וַיָּלֶן שָׁם",
+     "ref": "Genesis 28:11",
+     "label": "בראשית כח, יא"
+    },
+    "question": "הכתוב אינו אומר באיזה מקום מדובר, ו\"ויפגע\" הוא לשון חריג להגעה.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:11:1",
+      "quote": "לֹא הִזְכִּיר הַכָּתוּב בְּאֵיזֶה מָקוֹם אֶלָּא בַּמָּקוֹם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "זהו הר המוריה, ה\"מקום\" הנזכר במקום אחר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:11:1",
+        "quote": "הוּא הַר הַמּוֹרִיָּה"
+       }
+      ]
+     },
+     {
+      "text": "חכמינו פירשו \"ויפגע\" לשון תפילה, ולמדנו שתיקן תפילת ערבית.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:11:2",
+        "quote": "וְרַבּוֹתֵינוּ פֵּרְשׁוּ לְשׁוֹן תְּפִלָּה"
+       }
+      ]
+     },
+     {
+      "text": "לפי הפשט זה היה במקרה: הגיע למקום שלא התכוון אליו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 28:11:1",
+        "quote": "קָרָה לוֹ שֶׁהִגִּיעַ אֶל מָקוֹם שֶׁלֹּא כִּוֵּן אֵלָיו"
+       }
+      ]
+     },
+     {
+      "text": "זה היה מקום אחד מחוץ לעיר לוז שאירע לו בדרכו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 28:11:1",
+        "quote": "אירע לו דרכו במקום אחד חוץ מעיר לוז"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הלילה בבית אל היה מקרה בדרך או פגישה מכוונת במקום קדוש."
+   },
+   {
+    "title": "למה הכתוב מדגיש \"כי בא השמש\"?",
+    "pasuk": {
+     "text": "וַיָּלֶן שָׁם כִּי־בָא הַשֶּׁמֶשׁ",
+     "ref": "Genesis 28:11",
+     "label": "בראשית כח, יא"
+    },
+    "question": "אפשר היה לכתוב \"ויבא השמש וילן שם\". מה מוסיף \"כי בא השמש\"?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:11:3",
+      "quote": "הָיָה לוֹ לִכְתֹּב וַיָּבֹא הַשֶּׁמֶשׁ וַיָּלֶן שָׁם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "השמש שקעה פתאום שלא בעונתה כדי שילין שם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:11:3",
+        "quote": "שֶׁשָּׁקְעָה לוֹ חַמָּה פִּתְאוֹם, שֶׁלֹּא בְּעוֹנָתָה"
+       }
+      ]
+     },
+     {
+      "text": "הקב\"ה השקיע את גלגל החמה שלא בעונתה כדי לדבר עם יעקב בצנעה, כמלך שמכבה את הנרות כדי לדבר עם אוהבו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 68:10",
+        "quote": "הִשְׁקִיעַ הַקָּדוֹשׁ בָּרוּךְ הוּא גַּלְגַּל חַמָּה שֶׁלֹא בְּעוֹנָתָהּ בִּשְׁבִיל לְדַבֵּר עִם יַעֲקֹב אָבִינוּ בְּצִנְעָה"
+       }
+      ]
+     },
+     {
+      "text": "לפי הפשט לא היה לו פנאי להיכנס לעיר ביום.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 28:11:2",
+        "quote": "ולא היה לו פנאי ליכנס בעיר ביום"
+       }
+      ]
+     },
+     {
+      "text": "השקיעה הייתה הטעם הנסתר ללינתו שם, והוא הוכר לו רק אחרי החלום.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 28:16:2",
+        "quote": "הֻכַּר לוֹ הַנִּסְתָּר טַעַם הַעֲרֵב שֶׁמֶש"
+       }
+      ]
+     }
+    ],
+    "why": "הופך ציון זמן לסימן שהלילה נערך בשבילו."
+   },
+   {
+    "title": "למה המלאכים עולים קודם שהם יורדים?",
+    "pasuk": {
+     "text": "מַלְאֲכֵי אֱלֹהִים עֹלִים וְיֹרְדִים בּוֹ",
+     "ref": "Genesis 28:12",
+     "label": "בראשית כח, יב"
+    },
+    "question": "המלאכים באים מן השמים, ולכן היינו מצפים שירדו קודם.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:12:1",
+      "quote": "עוֹלִים תְּחִלָּה וְאַחַר כָּךְ יוֹרְדִים",
+      "era": "rishon"
+     },
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 28:12:2",
+      "quote": "אין לדקדק במה שהקדים עולים ליורדים",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המלאכים שליוו אותו בארץ אינם יוצאים חוץ לארץ, ועלו לרקיע וירדו מלאכי חוץ לארץ ללוותו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:12:1",
+        "quote": "מַלְאָכִים שֶׁלִּוּוּהוּ בָּאָרֶץ אֵין יוֹצְאִים חוּצָה לָאָרֶץ"
+       }
+      ]
+     },
+     {
+      "text": "זה רק דרך ארץ להזכיר עלייה קודם ירידה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 28:12:2",
+        "quote": "דרך ארץ להזכיר עליה קודם ירידה"
+       }
+      ]
+     },
+     {
+      "text": "נראה לו שהסולם עומד לעלייה כדרך בני אדם, ובני אדם עולים תחילה בסולם.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 28:12:2",
+        "quote": "שדרך בני אדם לעלות תחלה בסולם"
+       }
+      ]
+     },
+     {
+      "text": "דירתם כאן, ולכן עולים תחילה ואחר כך יורדים ונשארים למטה, כאדם העולה מן הבית לעלייה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 28:12:1",
+        "quote": "כאדם העולה מן הבית לעליה"
+       }
+      ]
+     }
+    ],
+    "why": "סדר שתי מילים מעלה שאלה מי מלווה את יעקב בארץ ומי מחוצה לה."
+   },
+   {
+    "title": "למה נקרא ה' \"אלהי יצחק\", ו\"אביך\" נאמר רק באברהם?",
+    "pasuk": {
+     "text": "אֲנִי יְהֹוָה אֱלֹהֵי אַבְרָהָם אָבִיךָ וֵאלֹהֵי יִצְחָק",
+     "ref": "Genesis 28:13",
+     "label": "בראשית כח, יג"
+    },
+    "question": "התורה אינה מייחדת בדרך כלל את שם ה' על צדיקים בחייהם. למה על יצחק, ולמה \"אביך\" רק באברהם?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 28:13:2",
+      "quote": "שֶׁיִּחֵד הַקָּבָּ\"ה שְׁמוֹ עַל הַצַּדִּיקִים בְּחַיֵּיהֶם",
+      "era": "rishon"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 28:13:2",
+      "quote": "טַעַם אָמְרוֹ ״אָבִיךָ״ לְלֹא צֹרֶך",
+      "era": "acharon"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 28:13:2",
+      "quote": "ועדיין קשה מה שדייק הקב״ה לומר אביך גבי אברהם ביחוד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יצחק כהו עיניו וכלוא בבית, והרי הוא כמת ויצר הרע פסק ממנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:13:2",
+        "quote": "כָּהוּ עֵינָיו וְכָלוּא בַבַּיִת, וַהֲרֵי הוּא כְמֵת"
+       }
+      ]
+     },
+     {
+      "text": "אברהם כבר מת ולכן נתייחד עליו השם המיוחד; יצחק היה רק חשוב כמת, ולכן הוזכר בו שם אלהים בלבד.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 28:13:1",
+        "quote": "אֲבָל יִצְחָק שֶׁלֹּא הָיָה כִּי אִם חָשׁוּב כְּמֵת"
+       }
+      ]
+     },
+     {
+      "text": "\"אביך\" בא למעט את עשיו מירושת אברהם, ויעקב הוא היורש את אברהם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 28:13:2",
+        "quote": "נִתְכַּוֵּן לְמַעֵט עֵשָׂו מִיְּרֻשַּׁת אַבְרָהָם"
+       }
+      ]
+     },
+     {
+      "text": "\"אלהי אברהם\" משמעו השגחה על הגנה מאויבים, \"אלהי יצחק\" השגחה על פרנסה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 28:13:2",
+        "quote": "אלהי אברהם משמעו ביחוד השגחה על הגנה מאויבים ואלהי יצחק משמעו השגחה על פרנסה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך נקרא יחסו של כל אב לה', ומי יורש אברהם."
+   },
+   {
+    "title": "מה פשר \"ואנכי לא ידעתי\" של יעקב כשהקיץ?",
+    "pasuk": {
+     "text": "אָכֵן יֵשׁ יְהֹוָה בַּמָּקוֹם הַזֶּה וְאָנֹכִי לֹא יָדָעְתִּי",
+     "ref": "Genesis 28:16",
+     "label": "בראשית כח, טז"
+    },
+    "question": "מה חסר לו, ולמה היה צריך לדעת?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 28:16:1",
+      "quote": "מַה תְּמִיהָא זוֹ וְאָנֹכִי לֹא יָדָעְתִּי",
+      "era": "acharon"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 28:16:1",
+      "quote": "לא ידעתי\" למה לי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אילו ידעתי לא ישנתי במקום קדוש כזה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:16:1",
+        "quote": "שֶׁאִם יָדַעְתִּי, לֹא יָשַׁנְתִּי בְּמָקוֹם קָדוֹשׁ כָּזֶה"
+       }
+      ]
+     },
+     {
+      "text": "אילו ידע היה מכין עצמו לנבואה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 28:16:2",
+        "quote": "שֶׁאִלּוּ יָדַעְתִּי הָיִיתִי מֵכִין עַצְמִי לַנְּבוּאָה"
+       }
+      ]
+     },
+     {
+      "text": "הוא מצטער שישן במקום שהייתה בו התגלות שכינה, וטוב היה להרבות בו בתפילה בהקיץ.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 28:16:2",
+        "quote": "וטוב היה יותר להרבות באותה שעה שם בתפלה"
+       }
+      ]
+     },
+     {
+      "text": "יעקב ירא שמא לא נהג בענווה ובצניעות בשכבו שם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 28:17:1",
+        "quote": "אוּלַי לֹא הִתְנַהֵג בַּעֲנָוָה וּבִצְנִיעוּת"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד מה דורשת ההכרה בקדושה, ומה הרגיש יעקב שפספס."
+   },
+   {
+    "title": "איך הקים יעקב מצבה, שהתורה אסרה אחר כך?",
+    "pasuk": {
+     "text": "וַיָּשֶׂם אֹתָהּ מַצֵּבָה",
+     "ref": "Genesis 28:18",
+     "label": "בראשית כח, יח"
+    },
+    "question": "התורה ציוותה אחר כך \"לא תקים לך מצבה\". איך עשה זאת יעקב?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 28:17:1",
+      "quote": "ורבים יתמהו איך הקים יעקב מצבה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "משה הקים י\"ב מצבות, והתורה אסרה רק מצבה אשר שנא ה'.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 28:17:1",
+        "quote": "י\"ב מצבות הקים משה"
+       }
+      ]
+     },
+     {
+      "text": "מצבה היא אבן אחת לנסוך עליה יין ולצוק שמן, לא להקרבה; ונאסרה אחר כך מפני שהכנענים עשו אותה חוק להם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 28:18:1",
+        "quote": "הַמַּצֵּבָה תֵּעָשֶׂה לְנַסֵּךְ עָלֶיהָ נֶסֶךְ יַיִן"
+       }
+      ]
+     },
+     {
+      "text": "הוא משח אותה כדי לקדשה להקריב עליה קרבנות בשובו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 28:18:1",
+        "quote": "ומשח אותה לקדשה להקריב עליה קרבנות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך מעשה אבות מותר לפני מתן תורה."
+   },
+   {
+    "title": "למה אומר יעקב \"אם יהיה אלהים עמדי\" אחרי שה' כבר הבטיח \"הנה אנכי עמך\"?",
+    "pasuk": {
+     "text": "אִם־יִהְיֶה אֱלֹהִים עִמָּדִי",
+     "ref": "Genesis 28:20",
+     "label": "בראשית כח, כ"
+    },
+    "question": "האם יעקב מפקפק בהבטחה שזה עתה קיבל?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 70:4",
+      "quote": "אִם יִהְיֶה אֱלֹהִים עִמָּדִי, אֶתְמָהָא",
+      "era": "chazal"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 28:20:1",
+      "quote": "שקשה הרי הבטיח אותו הקב\"ה",
+      "era": "acharon"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 28:20:1",
+      "quote": "חָלִילָה לוֹמַר שֶׁהָיָה יַעֲקֹב מְסֻפָּק בְּהַבְטָחַת הַשֵּׁם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אם ישמור לי ההבטחות הללו שהבטיחני.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 28:20:1",
+        "quote": "אִם יִשְׁמֹר לִי הַבְטָחוֹת הַלָּלוּ שֶׁהִבְטִיחַנִי"
+       }
+      ]
+     },
+     {
+      "text": "התנאי הוא מחשש שמא יגרום החטא.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 28:20:1",
+        "quote": "וְטַעַם הַתְּנַאי, שֶׁלֹּא יִגְרֹם הַחֵטְא"
+       }
+      ]
+     },
+     {
+      "text": "אין זה תנאי אלא לשון שבועה.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 28:20:1",
+        "quote": "אין זה תנאי אלא לשון שבועה"
+       }
+      ]
+     },
+     {
+      "text": "הוא ביקש עכשיו על שמירת הנפש מן החטא, שכן שמירת הגוף כבר הובטחה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 28:20:1",
+        "quote": "אֶלָּא בִּקֵּשׁ עַכְשָׁיו עַל שְׁמִירַת הַנֶּפֶשׁ מִן הַחֵטְא"
+       }
+      ]
+     },
+     {
+      "text": "אפשר שההבטחה הייתה בשביל זרעו; הוא עצמו לא הובטח לשמירה, ולכן ביקש.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 28:20:1",
+        "quote": "אבל אחר שיולדו כולם אין הוא בעצמו מובטח לשמירה"
+       }
+      ]
+     },
+     {
+      "text": "חכמים נחלקו על הפרנסה: יש אומרים שלא השיבו על הפרנסה, ורבי איסי אומר ש\"כי לא אעזבך\" כולל גם אותה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 69:6",
+        "quote": "עַל הַפַּרְנָסָה לֹא הֱשִׁיבו"
+       }
+      ]
+     }
+    ],
+    "why": "שואל אם צדיק רשאי לפקפק בהבטחה, או רק לחשוש שזכויותיו לא יעמדו לו."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "בראשית רבה",
+   "כלי יקר",
+   "ספורנו",
+   "רשב\"ם",
+   "אור החיים",
+   "בכור שור",
+   "חזקוני",
+   "העמק דבר",
+   "גור אריה",
+   "רד\"ק",
+   "אבן עזרא",
+   "רמב\"ן",
+   "דעת זקנים"
+  ]
+ }
+}
