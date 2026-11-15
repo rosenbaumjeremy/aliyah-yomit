@@ -1,0 +1,1011 @@
+{
+ "date": "2026-11-15",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 29:1-29:17",
+ "hebrew_date": {
+  "hebrew": "ה׳ בְּכִסְלֵו תשפ״ז",
+  "english": "5 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob continues east and reaches a well in the field where three flocks lie waiting, because a large stone covers its mouth and is rolled off only when all the shepherds gather. The shepherds tell him they are from Haran and know Laban, and that Laban's daughter Rachel is coming with the flock. Jacob urges them to water the sheep, but they say they cannot until everyone has gathered. When Rachel arrives, Jacob rolls the stone off, waters Laban's flock, kisses Rachel and weeps, and tells her he is her father's kinsman. Laban runs to greet him and takes him in, and after a month asks what wages Jacob wants. The aliyah ends by introducing Laban's two daughters, Leah and Rachel.",
+  "questions": [
+   {
+    "title": "Why did Jacob weep when he met Rachel?",
+    "pasuk": {
+     "text": "וישק יעקב לרחל וישא את קולו ויבך",
+     "ref": "Genesis 29:11",
+     "label": "Genesis 29:11"
+    },
+    "question": "Why did Jacob weep when he met Rachel?",
+    "asked_by": [
+     {
+      "name": "Midrash Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Bereshit 29:11:2",
+      "era": "chazal",
+      "quote": "למה בכה שראה בני אדם שם מתלחשים זה עם זה"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 29:11:1",
+      "era": "acharon",
+      "quote": "איך צדיק כזה יבכה על חסרון ממון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he foresaw by divine inspiration that Rachel would not be buried with him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:11:1",
+        "quote": "לפי שצפה ברוח הקודש שאינה נכנסת עמו לקבורה"
+       }
+      ]
+     },
+     {
+      "text": "Rashi and Lekach Tov: he came empty-handed, with none of the jewellery Eliezer brought for Rebekah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:11:1",
+        "quote": "לפי שבא בידים רקניות"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 29:11:2",
+        "quote": "אין עמי לא נזם ולא צמיד"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he wept that he had not merited to marry her in his youth.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 29:11:1",
+        "quote": "על שלא זכה לשאת אותה בנעוריו"
+       }
+      ]
+     },
+     {
+      "text": "Sekhel Tov: he wept because the onlookers suspected him unjustly over the kiss.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 29:11:2",
+        "quote": "ולכך בכה על שחשדוהו חנם על הנשיקה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it was a weeping of joy.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 29:11:2",
+        "quote": "זו היא בכיה של שמחה"
+       }
+      ]
+     }
+    ],
+    "why": "A weeping greeting at a well is strange; each answer reads a different side of Jacob's situation: prophecy, poverty, lost youth, suspicion, or joy."
+   },
+   {
+    "title": "Why did Laban run to meet Jacob and embrace him?",
+    "pasuk": {
+     "text": "ויהי כשמע לבן את שמע יעקב בן אחתו וירץ לקראתו ויחבק לו וינשק לו",
+     "ref": "Genesis 29:13",
+     "label": "Genesis 29:13"
+    },
+    "question": "Why did Laban run to meet Jacob and embrace him?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 29:13:1",
+      "era": "acharon",
+      "quote": "למה רץ ועל מה רץ"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 29:13:2",
+      "era": "acharon",
+      "quote": "אם כן למה חבק אותו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Laban thought Jacob carried money, as Eliezer had come with ten camels, and embraced and kissed him to check his bosom and mouth.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:13:1",
+        "quote": "כסבור ממון הוא טעון"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:13:2",
+        "quote": "שמא זהובים הביא והנם בחיקו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Laban set out to rob Jacob and searched for what he had hidden.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 29:13:1",
+        "quote": "שיצא לגזלו וחפש מצפוניו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that Laban's warmth was in doubt from the very first meeting, before the deal over wages."
+   },
+   {
+    "title": "Why does Jacob tell Rachel that he is her father's brother and Rebekah's son?",
+    "pasuk": {
+     "text": "ויגד יעקב לרחל כי אחי אביה הוא וכי בן רבקה הוא",
+     "ref": "Genesis 29:12",
+     "label": "Genesis 29:12"
+    },
+    "question": "Why does Jacob tell Rachel that he is her father's brother and Rebekah's son?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 29:12:1",
+      "era": "acharon",
+      "quote": "וקשה מה הגיד בזה לרחל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Gur Aryeh: so that Rachel would agree to marry him and not fear that Laban would deceive him.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 29:12:1",
+        "quote": "כדי שתתרצה רחל להינשא לו"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: if Laban came to deceive, Jacob is his brother in deceit; if he is an honest man, he is Rebekah's honest son.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:12:1",
+        "quote": "אם לרמאות הוא בא גם אני אחיו ברמאות"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Jacob told her two kinds of kinship, of body and of soul.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 29:12:1",
+        "quote": "הגיד לה שתי בחינות הקורבה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob prepared for dealing with Laban before he even entered his house."
+   },
+   {
+    "title": "What does Laban mean by \"Are you my brother, that you should serve me for nothing?\"",
+    "pasuk": {
+     "text": "ויאמר לבן ליעקב הכי אחי אתה ועבדתני חנם",
+     "ref": "Genesis 29:15",
+     "label": "Genesis 29:15"
+    },
+    "question": "What does Laban mean by \"Are you my brother, that you should serve me for nothing?\"",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 29:15:1",
+      "era": "acharon",
+      "quote": "קשה מי אמר לו חנם הוא עובדו"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 29:15:1",
+      "era": "rishon",
+      "quote": "לא ספר הכתוב שהיה יעקב עובד אותו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: it is an expression of surprise: because you are my brother, should you serve me for nothing?",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:15:1",
+        "quote": "וכי בשביל שאחי אתה תעבדני חנם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it is not right that he serve only for clothing and keep; he should prosper with Laban.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 29:15:1",
+        "quote": "אינו טוב שתעבדני חנם בעד בגדים ומחיתך לבד"
+       }
+      ]
+     },
+     {
+      "text": "Ramban and Reggio: Jacob had already been tending the flock, and Laban spoke craftily.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 29:15:1",
+        "quote": "לא יצא הצאן מידו"
+       },
+       {
+        "name": "Reggio",
+        "ref": "Reggio on Torah, Genesis 29:15:1",
+        "quote": "והנה לבן בערמה דבר"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Are you a brother as shrewd as I am?",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 29:15:2",
+        "quote": "הכי אחי אתה ערום כמותי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Laban's first offer to Jacob could be read as generosity or as a trap."
+   },
+   {
+    "title": "How could Jacob alone roll a stone that three shepherds' flocks could not move?",
+    "pasuk": {
+     "text": "ויגש יעקב ויגל את האבן מעל פי הבאר",
+     "ref": "Genesis 29:10",
+     "label": "Genesis 29:10"
+    },
+    "question": "How could Jacob alone roll a stone that three shepherds' flocks could not move?",
+    "asked_by": [
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 29:8:1",
+      "era": "acharon",
+      "quote": "והוא רחוק שיעשה יעקב לבדו מה שלא יכלו שלשה אנשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, Rashbam and Chizkuni: Scripture tells it to show how great Jacob's strength was.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:10:1",
+        "quote": "להודיעך שכחו גדול"
+       },
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 29:10:1",
+        "quote": "להודיע גבורתו בא הכתוב"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 29:2:1",
+        "quote": "להודיע כמה גדול כחו של יעקב"
+       }
+      ]
+     },
+     {
+      "text": "Radak: God's blessing gave him extra strength.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 29:10:1",
+        "quote": "שנתן לו כח יתרה"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: the shepherds were bound by an agreement among them not to roll it until all were gathered.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 29:8:1",
+        "quote": "מפני התנאי שהתנו ביניהם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he had not wanted to do so earlier so as not to wrong the other shepherds.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 29:10:1",
+        "quote": "שלא לחוב לאחרים"
+       }
+      ]
+     }
+    ],
+    "why": "It raises whether the shepherds truly could not move the stone, or would not, and what that says about Jacob's strength and conduct."
+   },
+   {
+    "title": "Why does Jacob tell the shepherds, \"It is still broad daylight\"?",
+    "pasuk": {
+     "text": "ויאמר הן עוד היום גדול לא עת האסף המקנה",
+     "ref": "Genesis 29:7",
+     "label": "Genesis 29:7"
+    },
+    "question": "Why does Jacob tell the shepherds, \"It is still broad daylight\"?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 29:7:1",
+      "era": "acharon",
+      "quote": "הן עוד היום גדול לא עת האסף המקנה למה לי"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 29:7:2",
+      "era": "rishon",
+      "quote": "למה היה ליעקב לומר להם כל כך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: if you are hired, you have not completed the day's work.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:7:1",
+        "quote": "אם שכירים אתם לא שלמתם פעולת היום"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: he feared Rachel would leave with the shepherds, and he wanted to speak with her.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 29:7:2",
+        "quote": "מתיירא היה שמא תלך לה רחל עם הרועים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the righteous hates injustice even toward others.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 29:7:1",
+        "quote": "הצדיק ימאס את העול גם כן אל האחרים"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: jealousy came over him and he wanted to keep them away from her.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 29:7:1",
+        "quote": "ובקש להרחיקם מעליה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Jacob's first words at the well were rebuke, concern for Rachel, or something else."
+   },
+   {
+    "title": "Why does the Torah mention that Leah's eyes were weak?",
+    "pasuk": {
+     "text": "ועיני לאה רכות ורחל היתה יפת תאר ויפת מראה",
+     "ref": "Genesis 29:17",
+     "label": "Genesis 29:17"
+    },
+    "question": "Why does the Torah mention that Leah's eyes were weak?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 29:17:1",
+      "era": "acharon",
+      "quote": "וכי בא הפסוק לספר בגנות של הצדקת"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 29:17:1",
+      "era": "rishon",
+      "quote": "ויש שואלים למה היה כן"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 29:17:1",
+      "era": "acharon",
+      "quote": "אין ראוי לספר הכתוב גנאי הצדקת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: she was afraid she would fall to Esau's lot and so wept.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:17:1",
+        "quote": "שהיתה סבורה לעלות בגורלו של עשו ובוכה"
+       }
+      ]
+     },
+     {
+      "text": "Tanchuma Buber: she heard of Esau's evil deeds and wept constantly.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Vayetzei 12:1",
+        "quote": "והיתה לאה שואלת במעשה עשו והיתה שומעת שמעשיו רעים והיתה בוכה בכל שעה"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: she suffered in the wind, which is why Laban sent Rachel out with the flock.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 29:17:1",
+        "quote": "וכשהולכת נגד הרוח קשה לה ולכך היה שולח לבן רחל עם הצאן"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: it shows Laban could not swap the sisters.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 29:17:1",
+        "quote": "שאין מציאות ללבן להחליפם"
+       }
+      ]
+     },
+     {
+      "text": "Radak: she was beautiful, but her eyes were weak and tearful.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 29:17:1",
+        "quote": "אלא שעיניה היו רכות ודומעות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why the Torah, which avoids shaming the righteous, tells us this about Leah."
+   }
+  ],
+  "sources_consulted": [
+   "Midrash Sekhel Tov",
+   "Siftei Chakhamim",
+   "Rashi",
+   "Midrash Lekach Tov",
+   "Sforno",
+   "Radak",
+   "Mizrachi",
+   "Or HaChaim",
+   "Gur Aryeh",
+   "Ramban",
+   "Reggio",
+   "Shadal",
+   "Rashbam",
+   "Chizkuni",
+   "Ibn Ezra",
+   "Midrash Tanchuma Buber",
+   "Bekhor Shor"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב ממשיך מזרחה ומגיע לבאר בשדה שלידה רובצים שלושה עדרים, כי אבן גדולה על פי הבאר ומגללים אותה רק כשכל הרועים מתאספים. הרועים אומרים לו שהם מחרן, שהם מכירים את לבן, ושרחל בתו באה עם הצאן. יעקב מפציר בהם להשקות, והם משיבים שאינם יכולים עד שיתאספו כולם. כשרחל מגיעה, יעקב מגלל את האבן, משקה את צאן לבן, נושק לרחל ובוכה, ומגיד לה שהוא קרוב אביה. לבן רץ לקראתו ומכניסו לביתו, ואחרי חודש ימים שואל אותו מה משכורתו. הקטע מסתיים בהצגת שתי בנות לבן, לאה ורחל.",
+  "questions": [
+   {
+    "title": "למה בכה יעקב כשפגש את רחל?",
+    "pasuk": {
+     "text": "וישק יעקב לרחל וישא את קולו ויבך",
+     "ref": "Genesis 29:11",
+     "label": "בראשית כט, יא"
+    },
+    "question": "למה בכה יעקב כשפגש את רחל?",
+    "asked_by": [
+     {
+      "name": "מדרש שכל טוב",
+      "ref": "Midrash Sekhel Tov, Bereshit 29:11:2",
+      "era": "chazal",
+      "quote": "למה בכה שראה בני אדם שם מתלחשים זה עם זה"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 29:11:1",
+      "era": "acharon",
+      "quote": "איך צדיק כזה יבכה על חסרון ממון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: צפה ברוח הקודש שרחל לא תיקבר עמו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:11:1",
+        "quote": "לפי שצפה ברוח הקודש שאינה נכנסת עמו לקבורה"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י ולקח טוב: בא בידיים ריקות, בלי נזם וצמיד כמו אליעזר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:11:1",
+        "quote": "לפי שבא בידים רקניות"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 29:11:2",
+        "quote": "אין עמי לא נזם ולא צמיד"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בכה על שלא נישאה לו בנעוריו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 29:11:1",
+        "quote": "על שלא זכה לשאת אותה בנעוריו"
+       }
+      ]
+     },
+     {
+      "text": "שכל טוב: בכה על שחשדוהו חינם בגלל הנשיקה.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 29:11:2",
+        "quote": "ולכך בכה על שחשדוהו חנם על הנשיקה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: זו בכייה של שמחה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 29:11:2",
+        "quote": "זו היא בכיה של שמחה"
+       }
+      ]
+     }
+    ],
+    "why": "אנשים בוכים בפגישה בבאר — ולכל פרשן הסבר אחר: רוח הקודש, עוני, נעורים שחלפו, חשד או שמחה."
+   },
+   {
+    "title": "למה רץ לבן לקראת יעקב וחיבק אותו?",
+    "pasuk": {
+     "text": "ויהי כשמע לבן את שמע יעקב בן אחתו וירץ לקראתו ויחבק לו וינשק לו",
+     "ref": "Genesis 29:13",
+     "label": "בראשית כט, יג"
+    },
+    "question": "למה רץ לבן לקראת יעקב וחיבק אותו?",
+    "asked_by": [
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 29:13:1",
+      "era": "acharon",
+      "quote": "למה רץ ועל מה רץ"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 29:13:2",
+      "era": "acharon",
+      "quote": "אם כן למה חבק אותו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: חשב שיעקב מביא ממון, ולכן חיבק ונישק לבדוק אם הוא בחיקו או בפיו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:13:1",
+        "quote": "כסבור ממון הוא טעון"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:13:2",
+        "quote": "שמא זהובים הביא והנם בחיקו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: יצא לגזול אותו, וחיפש את מטמוניו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 29:13:1",
+        "quote": "שיצא לגזלו וחפש מצפוניו"
+       }
+      ]
+     }
+    ],
+    "why": "מה פשר הריצה וההתרגשות של לבן? היה חשש שמא מניע אחר עמד מאחוריהן."
+   },
+   {
+    "title": "למה אמר יעקב לרחל שהוא אחי אביה ובן רבקה?",
+    "pasuk": {
+     "text": "ויגד יעקב לרחל כי אחי אביה הוא וכי בן רבקה הוא",
+     "ref": "Genesis 29:12",
+     "label": "בראשית כט, יב"
+    },
+    "question": "למה אמר יעקב לרחל שהוא אחי אביה ובן רבקה?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 29:12:1",
+      "era": "acharon",
+      "quote": "וקשה מה הגיד בזה לרחל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "גור אריה: כדי שרחל תסכים להינשא לו ולא תחשוש שלבן ירמה אותו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 29:12:1",
+        "quote": "כדי שתתרצה רחל להינשא לו"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: אם בא לרמות — גם אני אחיו ברמאות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:12:1",
+        "quote": "אם לרמאות הוא בא גם אני אחיו ברמאות"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: הגיד לה שתי בחינות של קרבה, קרבת הגוף וקרבת הנפש.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 29:12:1",
+        "quote": "הגיד לה שתי בחינות הקורבה"
+       }
+      ]
+     }
+    ],
+    "why": "מה חידש יעקב לרחל כשהגיד לה את קרבתו? הפרשנים מציעים שלוש תשובות."
+   },
+   {
+    "title": "מה כוונת לבן ב\"הכי אחי אתה ועבדתני חנם\"?",
+    "pasuk": {
+     "text": "ויאמר לבן ליעקב הכי אחי אתה ועבדתני חנם",
+     "ref": "Genesis 29:15",
+     "label": "בראשית כט, טו"
+    },
+    "question": "מה כוונת לבן ב\"הכי אחי אתה ועבדתני חנם\"?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 29:15:1",
+      "era": "acharon",
+      "quote": "קשה מי אמר לו חנם הוא עובדו"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 29:15:1",
+      "era": "rishon",
+      "quote": "לא ספר הכתוב שהיה יעקב עובד אותו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לשון תמיהה — וכי בשביל שאתה אחי תעבדני חינם?",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:15:1",
+        "quote": "וכי בשביל שאחי אתה תעבדני חנם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אין זה טוב שתעבוד חינם בעד בגדים ופרנסה בלבד.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 29:15:1",
+        "quote": "אינו טוב שתעבדני חנם בעד בגדים ומחיתך לבד"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן ורג\"ו: יעקב כבר רעה את הצאן, ולבן דיבר בערמה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 29:15:1",
+        "quote": "לא יצא הצאן מידו"
+       },
+       {
+        "name": "רג\"ו",
+        "ref": "Reggio on Torah, Genesis 29:15:1",
+        "quote": "והנה לבן בערמה דבר"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: אתה ערום כמותי.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 29:15:2",
+        "quote": "הכי אחי אתה ערום כמותי"
+       }
+      ]
+     }
+    ],
+    "why": "הכתוב לא סיפר שיעקב עבד אצל לבן, וגם לא ברור מדוע שהקרבה תחייב עבודה חינם. מה אפוא כוונת לבן?"
+   },
+   {
+    "title": "איך גלל יעקב לבדו אבן שרועי שלושה עדרים לא יכלו לגלול?",
+    "pasuk": {
+     "text": "ויגש יעקב ויגל את האבן מעל פי הבאר",
+     "ref": "Genesis 29:10",
+     "label": "בראשית כט, י"
+    },
+    "question": "איך גלל יעקב לבדו אבן שרועי שלושה עדרים לא יכלו לגלול?",
+    "asked_by": [
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 29:8:1",
+      "era": "acharon",
+      "quote": "והוא רחוק שיעשה יעקב לבדו מה שלא יכלו שלשה אנשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י, רשב\"ם וחזקוני: להודיע שכחו של יעקב גדול.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:10:1",
+        "quote": "להודיעך שכחו גדול"
+       },
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 29:10:1",
+        "quote": "להודיע גבורתו בא הכתוב"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 29:2:1",
+        "quote": "להודיע כמה גדול כחו של יעקב"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ברכת האל נתנה לו כוח יתר.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 29:10:1",
+        "quote": "שנתן לו כח יתרה"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: הרועים התחייבו בתנאי ביניהם שלא יגללו עד שיתאספו כולם.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 29:8:1",
+        "quote": "מפני התנאי שהתנו ביניהם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא רצה לגלול קודם כדי שלא לחוב לאחרים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 29:10:1",
+        "quote": "שלא לחוב לאחרים"
+       }
+      ]
+     }
+    ],
+    "why": "האם הרועים באמת לא יכלו לגלול את האבן — ואם כן, איך עשה זאת יעקב לבדו?"
+   },
+   {
+    "title": "למה אומר יעקב לרועים \"הן עוד היום גדול\"?",
+    "pasuk": {
+     "text": "ויאמר הן עוד היום גדול לא עת האסף המקנה",
+     "ref": "Genesis 29:7",
+     "label": "בראשית כט, ז"
+    },
+    "question": "למה אומר יעקב לרועים \"הן עוד היום גדול\"?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 29:7:1",
+      "era": "acharon",
+      "quote": "הן עוד היום גדול לא עת האסף המקנה למה לי"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 29:7:2",
+      "era": "rishon",
+      "quote": "למה היה ליעקב לומר להם כל כך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אם שכירים אתם — לא השלמתם את פעולת היום.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:7:1",
+        "quote": "אם שכירים אתם לא שלמתם פעולת היום"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: חשש שרחל תלך עם הרועים והוא רצה לדבר עמה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 29:7:2",
+        "quote": "מתיירא היה שמא תלך לה רחל עם הרועים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הצדיק שונא עוול גם כלפי אחרים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 29:7:1",
+        "quote": "הצדיק ימאס את העול גם כן אל האחרים"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: קינא ורצה להרחיקם ממנה.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 29:7:1",
+        "quote": "ובקש להרחיקם מעליה"
+       }
+      ]
+     }
+    ],
+    "why": "למה מוכיח יעקב אנשים זרים כבר בפגישה הראשונה, ומה פשר ההכפלה \"עוד היום גדול\" ו\"לא עת האסף\"?"
+   },
+   {
+    "title": "למה מזכיר הכתוב שעיני לאה רכות?",
+    "pasuk": {
+     "text": "ועיני לאה רכות ורחל היתה יפת תאר ויפת מראה",
+     "ref": "Genesis 29:17",
+     "label": "בראשית כט, יז"
+    },
+    "question": "למה מזכיר הכתוב שעיני לאה רכות?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 29:17:1",
+      "era": "acharon",
+      "quote": "וכי בא הפסוק לספר בגנות של הצדקת"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 29:17:1",
+      "era": "rishon",
+      "quote": "ויש שואלים למה היה כן"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 29:17:1",
+      "era": "acharon",
+      "quote": "אין ראוי לספר הכתוב גנאי הצדקת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בכתה מחשש שתיפול בגורלו של עשו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:17:1",
+        "quote": "שהיתה סבורה לעלות בגורלו של עשו ובוכה"
+       }
+      ]
+     },
+     {
+      "text": "תנחומא בובר: שמעה שמעשיו רעים והייתה בוכה בכל שעה.",
+      "sources": [
+       {
+        "name": "תנחומא בובר",
+        "ref": "Midrash Tanchuma Buber, Vayetzei 12:1",
+        "quote": "והיתה לאה שואלת במעשה עשו והיתה שומעת שמעשיו רעים והיתה בוכה בכל שעה"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: קשה לה ברוח, ולכן לבן שלח את רחל עם הצאן.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 29:17:1",
+        "quote": "וכשהולכת נגד הרוח קשה לה ולכך היה שולח לבן רחל עם הצאן"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: מראה שלבן לא יוכל להחליף ביניהן.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 29:17:1",
+        "quote": "שאין מציאות ללבן להחליפם"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: יפת תואר הייתה, אלא שעיניה דומעות.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 29:17:1",
+        "quote": "אלא שעיניה היו רכות ודומעות"
+       }
+      ]
+     }
+    ],
+    "why": "מדוע מגנה הכתוב את לאה ואומר שעיניה רכות? כל פרשן פותר אחרת: בכי על גורל עשו, סיבה לשליחת רחל לרעות, או הוכחה שלבן לא יוכל להחליפן."
+   }
+  ],
+  "sources_consulted": [
+   "מדרש שכל טוב",
+   "שפתי חכמים",
+   "רש\"י",
+   "מדרש לקח טוב",
+   "ספורנו",
+   "רד\"ק",
+   "מזרחי",
+   "אור החיים",
+   "גור אריה",
+   "רמב\"ן",
+   "רג\"ו",
+   "שד\"ל",
+   "רשב\"ם",
+   "חזקוני",
+   "אבן עזרא",
+   "תנחומא בובר",
+   "בכור שור"
+  ]
+ }
+}
