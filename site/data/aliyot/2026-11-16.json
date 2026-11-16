@@ -1,0 +1,1145 @@
+{
+ "date": "2026-11-16",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 29:18-30:13",
+ "hebrew_date": {
+  "hebrew": "ו׳ בְּכִסְלֵו תשפ״ז",
+  "english": "6 Kislev 5787"
+ },
+ "english": {
+  "summary": "Yaakov asks Lavan for Rachel and serves seven years that seem to him like a few days. Lavan gives him Leah in the night and Yaakov protests; Lavan says the custom does not allow the younger before the elder and offers Rachel after the wedding week for seven more years. Yaakov loves Rachel more, and God opens Leah's womb, who bears Reuven, Shimon, Levi and Yehudah. Rachel, still childless, envies her sister and gives Bilhah, who bears Dan and Naftali; Leah then gives Zilpah, who bears Gad and Asher.",
+  "questions": [
+   {
+    "title": "How can seven years of work feel like \"a few days\"?",
+    "pasuk": {
+     "text": "ויהיו בעיניו כימים אחדים באהבתו אתה",
+     "ref": "Genesis 29:20",
+     "label": "Genesis 29:20"
+    },
+    "question": "Yaakov served seven years for Rachel, yet the verse says they were in his eyes \"like a few days.\" Years are not days, and a man longing for his wife would normally feel time drag. What does the verse mean?",
+    "asked_by": [
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 29:20:1",
+      "quote": "שלא תתמה למה אומר שבע שנים",
+      "era": "rishon"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 29:18:1-2",
+      "quote": "והדרך הוא להפך שהחושק אצלו יום לשנה יחשב",
+      "era": "acharon"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 29:18:1",
+      "quote": "והוספה זו קשה לי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the seven years are the \"few days\" that his mother had told him of, and the verse itself proves it.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:18:1",
+        "quote": "הם ימים אחדים שאמרה לו אמו"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: he loved Rachel so much that the work still seemed too little payment for such a wife.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 29:20:1",
+        "quote": "כל כך היה אוהב את רחל"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: it was a small matter to him out of love, and had Lavan asked for more, Yaakov would have served.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 29:20:1",
+        "quote": "ואילו היה לבן שואל יותר היה יעקב עובד"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: it seemed little because he thought it fitting to give a larger bride-price.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 29:20:1",
+        "quote": "שחשב שהיה ראוי לתת מהר רב מזה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah measures love and time, and ties back to Rivkah's words that Yaakov would stay with Lavan \"a few days.\""
+   },
+   {
+    "title": "Why does Yaakov spell out \"Rachel, your younger daughter\"?",
+    "pasuk": {
+     "text": "ברחל בתך הקטנה",
+     "ref": "Genesis 29:18",
+     "label": "Genesis 29:18"
+    },
+    "question": "Yaakov could have said just \"Rachel.\" Why add \"your daughter\" and \"the younger\"?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 29:18:2",
+      "quote": "כל הסימנים הללו למה",
+      "era": "rishon"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 29:18:2",
+      "quote": "ואם תאמר יאמר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he knew Lavan was a trickster, so he specified Rachel, your daughter, the younger, to rule out another Rachel or a switch of names; even so it did not help.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:18:2",
+        "quote": "לפי שהוא יודע בו שהוא רמאי"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 70:17",
+        "quote": "בִּתְּךָ, שֶׁלֹא תָבִיא אַחֶרֶת מִן הַשּׁוּק"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: \"the younger\", because within seven years she would be of marriageable age, and meanwhile Lavan could marry off the elder.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 29:18:2",
+        "quote": "ותוכל בין כך להשיא הגדולה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: he said \"Rachel\" and not \"for your younger daughter,\" because \"younger\" could imply something lesser, and Lavan could then give Leah.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 29:18:2",
+        "quote": "לכך אמר ברחל דווקא"
+       }
+      ]
+     },
+     {
+      "text": "Tanchuma: otherwise one does not take the younger and leave the elder; Leah was destined for Esav.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma Buber",
+        "ref": "Midrash Tanchuma Buber, Vayetzei 12:2",
+        "quote": "יש אדם שנוטל אשה ומניח את הגדולה ונוטל את הקטנה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Yaakov guarded against before the deception, and why each source thinks he chose these words."
+   },
+   {
+    "title": "Why does Yaakov protest twice: \"What have you done\" and \"why did you deceive me\"?",
+    "pasuk": {
+     "text": "הלא ברחל עבדתי עמך ולמה רמיתני",
+     "ref": "Genesis 29:25",
+     "label": "Genesis 29:25"
+    },
+    "question": "Yaakov asks \"Did I not serve for Rachel? why did you deceive me?\" Is the complaint that Rachel was withheld, or that he was deceived, and why both?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 29:25:3",
+      "quote": "צריך לדעת כוונתו בקובלנות",
+      "era": "acharon"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 29:25:1",
+      "quote": "שאלו שתי שאלות",
+      "era": "acharon"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 29:25:1",
+      "quote": "ולא היל\"ל רק למה רמיתני",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: Yaakov complains of two things, that Leah was given in place of Rachel and that it was done by deceit.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 29:25:4",
+        "quote": "יעקב יקבול על שני דברים"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: he does not ask why Lavan withheld Rachel, only why deceive, since Leah would just return to Lavan.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 29:25:1",
+        "quote": "רק למה רמיתני מה בצע ברמאות"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: the deceit meant relations without his knowledge, which is an act of immorality.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 29:25:2",
+        "quote": "לבעול אשה שלא בידיעתי"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov, in Lavan's reply: I thought I was her father's brother, so I am his brother in trickery, but you tricked me.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 29:25:2",
+        "quote": "אמרתי אחי אביה אני אחיו אני ברמאות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Yaakov reacted to the deception and what kind of reproach he chose."
+   },
+   {
+    "title": "\"In the morning, behold it was Leah\" – was it not Leah all night?",
+    "pasuk": {
+     "text": "ויהי בבקר והנה הוא לאה",
+     "ref": "Genesis 29:25",
+     "label": "Genesis 29:25"
+    },
+    "question": "The verse says that only in the morning \"behold, it was Leah.\" Why did Yaakov not recognize her during the night?",
+    "asked_by": [
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 29:25:1",
+      "quote": "מכלל דעד השתא לא היתה לאה",
+      "era": "chazal"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 29:25:1",
+      "quote": "וכי עד השתא לאו לאה היא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Yaakov had given Rachel signs, and when she saw Leah being brought in she gave her the signs so her sister would not be shamed.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 29:25:1",
+        "quote": "עכשו תכלם אחותי"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the extra letter vav hints at the people of the place murmuring at night \"she is Leah,\" and in the morning he recognized that speech.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 29:25:2",
+        "quote": "מרננים בלילה ואומרים היא לאה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: this teaches Yaakov's modesty, that he did not converse even with his wife; had he spoken he would have known her voice.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 29:25:1",
+        "quote": "מלמדנו צניעותו של יעקב שלא ריבה דברים"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: because of the signs Rachel passed to Leah, Yaakov did not know her.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 29:25:1",
+        "quote": "מתוך הסימנים שמסר יעקב לרחל על הבאר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the deception worked and what Rachel and Leah did."
+   },
+   {
+    "title": "What does \"he also loved Rachel more than Leah\" mean, and why \"also\"?",
+    "pasuk": {
+     "text": "ויאהב גם את רחל מלאה",
+     "ref": "Genesis 29:30",
+     "label": "Genesis 29:30"
+    },
+    "question": "\"Also\" implies Yaakov loved Leah too, yet the next verse says Leah was hated. Why \"also,\" and was Leah loved or not?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 29:30:1",
+      "quote": "משמע שהיה אוהב את לאה",
+      "era": "acharon"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 29:30:1-2",
+      "quote": "ויאהב גם את רחל משמע שאהב גם את לאה",
+      "era": "acharon"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 29:30:1",
+      "quote": "רחל מלאה מהו גם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: nature is to love more the wife one first knew, and Yaakov loved Rachel more than Leah against the way of the world; that is the \"also.\"",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 29:30:1",
+        "quote": "שלא כדרך הארץ"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: \"also\" is often reversed in the Torah: he came to her and also loved her more than Leah.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 29:30:1",
+        "quote": "רוב גם הפוכים כן בתורה"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: at first he loved Leah, then hated her after her retort in the morning.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 29:30:1",
+        "quote": "ללמדך שבתחלה היה אוהב את לאה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it teaches that he loved Leah as a man loves his wife, but loved Rachel more.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 29:30:2",
+        "quote": "אבל יותר אהב רחל"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how to read Yaakov's marriage to Leah and Rachel."
+   },
+   {
+    "title": "Why did Leah say \"seen\" for Reuven and \"heard\" for Shimon?",
+    "pasuk": {
+     "text": "ותאמר כי שמע יהוה כי שנואה אנכי",
+     "ref": "Genesis 29:33",
+     "label": "Genesis 29:33"
+    },
+    "question": "Why does Leah use sight at Reuven's birth and hearing at Shimon's, and what did the Lord hear?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 29:33:1",
+      "quote": "ועוד למה בראשון אמרה ראה ובשני שמע",
+      "era": "acharon"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 29:30:1-2",
+      "quote": "בשם ראובן אמרה כי עתה יאהבני",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Alshich: at first she saw only the lack of love, not hatred; with a second son she understood that she was hated, hence \"heard\".",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 29:33:1",
+        "quote": "יש שנאה ויש העדר אהבה בלבד"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: when the one who is answered knows his troubles and prayed, it is called hearing; where he does not feel it and only the Lord sees, it is called seeing.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 29:32:1",
+        "quote": "אם הנענה ידע מצרותיו והתפלל עליהם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: in exchange for the hatred that came from the suspicion, God gave her this son too.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 29:33:1",
+        "quote": "ותמורת השנאה המסובבת מן החשד נתן לי גם את זה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Leah's understanding of her marriage changed."
+   },
+   {
+    "title": "Why was Yaakov angry at Rachel, and was her request unreasonable?",
+    "pasuk": {
+     "text": "ותאמר אל יעקב הבה לי בנים ואם אין מתה אנכי",
+     "ref": "Genesis 30:1",
+     "label": "Genesis 30:1"
+    },
+    "question": "Rachel asked Yaakov for children, \"and if not, I am dead,\" and Yaakov answered angrily \"Am I in God's place?\" Yet the righteous do pray for others. Why was he angry?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 30:1:1",
+      "quote": "ואני תמה אם כן למה חרה אפו",
+      "era": "rishon"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 30:2:2",
+      "quote": "ואם תאמר ומה בכך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: \"Am I in His place?\" Yaakov said he was not like his father, who had no children; he had children, and God withheld them from her, not from him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:2:2",
+        "quote": "אבא לא היו לו בנים אני יש לי בנים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Rachel meant that he should pray for her, but she spoke improperly in jealousy; Yaakov was angry because the prayers of the righteous are not in their hands.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 30:2:1",
+        "quote": "שאין תפלת הצדיקים בידם שתשמע"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he was angry at \"give me\", as if it were in his hand, and was zealous for the honor of his Maker.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 30:2:1",
+        "quote": "כאלו היה בידו לעשות זה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: perhaps he did pray, and the time for his prayer to be heard had not yet come.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 30:2:1",
+        "quote": "ויתכן שהתפלל ולא הגיע עת שמוע תפלתו"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: the birth of the tribes is not like other births; God intended to bring them from this wife, so Yaakov did not want to change it, unlike Yitzchak.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 30:2:2",
+        "quote": "תולדות השבטים אינן כשאר תולדות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Yaakov could and could not ask of God and how the avot and imahot related to prayer."
+   },
+   {
+    "title": "Why did Leah give Zilpah to Yaakov when she herself was not barren?",
+    "pasuk": {
+     "text": "ותרא לאה כי עמדה מלדת",
+     "ref": "Genesis 30:9",
+     "label": "Genesis 30:9"
+    },
+    "question": "Leah had borne four sons and stopped bearing, and gave Zilpah to Yaakov. Sarah and Rachel did this because they were barren; Leah was not. Why?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 30:9:1",
+      "quote": "לא ידעתי מה המעשה הזה ללאה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: they were prophetesses who knew twelve tribes would come from Yaakov, so she wanted most of his sons to come from her or her maid, so that her sister would not overtake her in sons.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 30:9:1",
+        "quote": "ולא תתגבר אחותה עליה בבנים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: she thought she would bear no more, and though she had sons she wanted more, since all their intent was to multiply children.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 30:9:1",
+        "quote": "רצתה להרבות בנים"
+       }
+      ]
+     },
+     {
+      "text": "Sekhel Tov: when her cycle changed she knew she had stopped bearing.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 30:9:1",
+        "quote": "כיון שנשתנה ווסתה ידעה שפסקה מלדת"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what motivated Leah and the matriarchs."
+   }
+  ],
+  "sources_consulted": [
+   "Bekhor Shor",
+   "Malbim",
+   "Haamek Davar",
+   "Rashi",
+   "Chizkuni",
+   "Sforno",
+   "Gur Aryeh",
+   "Bereshit Rabbah",
+   "Midrash Tanchuma Buber",
+   "Or HaChaim",
+   "Alshich",
+   "Midrash Lekach Tov",
+   "Midrash Aggadah",
+   "Rabbeinu Bahya",
+   "Kli Yakar",
+   "Ramban",
+   "Rashbam",
+   "Radak",
+   "Ibn Ezra",
+   "Midrash Sekhel Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב מבקש מלבן את רחל ועובד שבע שנים שנראות בעיניו כימים אחדים. לבן נותן לו בלילה את לאה ויעקב מוחה; לבן אומר שאין נותנים את הצעירה לפני הבכירה, ומציע את רחל אחרי שבוע המשתה תמורת עוד שבע שנים. יעקב אוהב את רחל יותר, וה' פותח את רחם לאה, שיולדת ראובן, שמעון, לוי ויהודה. רחל, שעודנה עקרה, מקנאה באחותה ונותנת את בלהה, שיולדת דן ונפתלי; ואז לאה נותנת את זלפה, שיולדת גד ואשר.",
+  "questions": [
+   {
+    "title": "איך שבע שנים נראות \"כימים אחדים\"?",
+    "pasuk": {
+     "text": "ויהיו בעיניו כימים אחדים באהבתו אתה",
+     "ref": "Genesis 29:20",
+     "label": "בראשית כט, כ"
+    },
+    "question": "יעקב עבד שבע שנים ברחל, והכתוב אומר שהיו בעיניו \"כימים אחדים\". שנים אינן ימים, ומי שכמה לאשתו דווקא מרגיש שהזמן נמשך. מה כוונת הכתוב?",
+    "asked_by": [
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 29:20:1",
+      "quote": "שלא תתמה למה אומר שבע שנים",
+      "era": "rishon"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 29:18:1-2",
+      "quote": "והדרך הוא להפך שהחושק אצלו יום לשנה יחשב",
+      "era": "acharon"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 29:18:1",
+      "quote": "והוספה זו קשה לי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שבע השנים הן \"הימים אחדים\" שאמרה לו אמו, והכתוב עצמו מוכיח זאת.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:18:1",
+        "quote": "הם ימים אחדים שאמרה לו אמו"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: כל כך אהב את רחל שעדיין נראתה לו העבודה מעטה בשביל אשה כזאת.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 29:20:1",
+        "quote": "כל כך היה אוהב את רחל"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: דבר מועט היה בעיניו מרוב חיבה, ואילו שאל לבן יותר היה יעקב עובד.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 29:20:1",
+        "quote": "ואילו היה לבן שואל יותר היה יעקב עובד"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: נראו מעטים כי חשב שראוי היה לתת מוהר רב מזה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 29:20:1",
+        "quote": "שחשב שהיה ראוי לתת מהר רב מזה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מלמד איך התורה מודדת אהבה וזמן, וקשור לדברי רבקה שיעקב ישב אצל לבן \"ימים אחדים\"."
+   },
+   {
+    "title": "למה יעקב מפרט \"ברחל בתך הקטנה\"?",
+    "pasuk": {
+     "text": "ברחל בתך הקטנה",
+     "ref": "Genesis 29:18",
+     "label": "בראשית כט, יח"
+    },
+    "question": "יעקב יכול היה לומר \"ברחל\" בלבד. למה הוסיף \"בתך\" ו\"הקטנה\"?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 29:18:2",
+      "quote": "כל הסימנים הללו למה",
+      "era": "rishon"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 29:18:2",
+      "quote": "ואם תאמר יאמר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הוא ידע שלבן רמאי, ולכן פירט רחל, בתך, הקטנה, שלא תהיה רחל אחרת ושלא יחליף שמות; ואף על פי כן לא הועיל.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:18:2",
+        "quote": "לפי שהוא יודע בו שהוא רמאי"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 70:17",
+        "quote": "בִּתְּךָ, שֶׁלֹא תָבִיא אַחֶרֶת מִן הַשּׁוּק"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: \"הקטנה\" כי תוך שבע שנים תהיה בת נישואין, ובינתיים יוכל להשיא את הגדולה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 29:18:2",
+        "quote": "ותוכל בין כך להשיא הגדולה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: אמר \"ברחל\" ולא \"בבתך הקטנה\", כי \"קטנה\" משמעה גריעותא, ואז יכול היה לתת לו את לאה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 29:18:2",
+        "quote": "לכך אמר ברחל דווקא"
+       }
+      ]
+     },
+     {
+      "text": "תנחומא: אילולי כן אין אדם נוטל את הקטנה ומניח את הגדולה; לאה ישבה לשמו של עשו.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא (בובר)",
+        "ref": "Midrash Tanchuma Buber, Vayetzei 12:2",
+        "quote": "יש אדם שנוטל אשה ומניח את הגדולה ונוטל את הקטנה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה ממה חשש יעקב קודם הרמאות, ולמה לדעת כל מקור בחר בלשון זו."
+   },
+   {
+    "title": "למה יעקב קובל פעמיים: \"מה זאת עשית לי\" ו\"למה רמיתני\"?",
+    "pasuk": {
+     "text": "הלא ברחל עבדתי עמך ולמה רמיתני",
+     "ref": "Genesis 29:25",
+     "label": "בראשית כט, כה"
+    },
+    "question": "יעקב שואל \"הלא ברחל עבדתי עמך ולמה רמיתני\". האם הטענה שרחל נמנעה ממנו או שרימו אותו, ולמה שתיהן?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 29:25:3",
+      "quote": "צריך לדעת כוונתו בקובלנות",
+      "era": "acharon"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 29:25:1",
+      "quote": "שאלו שתי שאלות",
+      "era": "acharon"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 29:25:1",
+      "quote": "ולא היל\"ל רק למה רמיתני",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: יעקב קובל על שני דברים, שנתנו לו לאה במקום רחל ושנעשה הדבר ברמאות.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 29:25:4",
+        "quote": "יעקב יקבול על שני דברים"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: איני שואל למה מנעת, אלא למה רמיתני, שהרי לאה תחזור אליך.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 29:25:1",
+        "quote": "רק למה רמיתני מה בצע ברמאות"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הרמאות היתה לבעול אשה שלא בידיעתו, וזו בעילת זנות.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 29:25:2",
+        "quote": "לבעול אשה שלא בידיעתי"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב, בתשובת לבן: אמרתי אחי אביה אני, אחיו ברמאות; אבל רימתני.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 29:25:2",
+        "quote": "אמרתי אחי אביה אני אחיו אני ברמאות"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה איך הגיב יעקב לרמאות ואיזו תוכחה בחר."
+   },
+   {
+    "title": "\"ויהי בבקר והנה הוא לאה\" – וכי בלילה לא היתה לאה?",
+    "pasuk": {
+     "text": "ויהי בבקר והנה הוא לאה",
+     "ref": "Genesis 29:25",
+     "label": "בראשית כט, כה"
+    },
+    "question": "הכתוב אומר שרק בבוקר \"והנה הוא לאה\". למה לא הכיר יעקב אותה בלילה?",
+    "asked_by": [
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 29:25:1",
+      "quote": "מכלל דעד השתא לא היתה לאה",
+      "era": "chazal"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 29:25:1",
+      "quote": "וכי עד השתא לאו לאה היא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: יעקב מסר סימנים לרחל, וכשראתה שמכניסים לו לאה מסרה לה אותם הסימנים שלא תיכלם אחותה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 29:25:1",
+        "quote": "עכשו תכלם אחותי"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: האות ו' הנוספת רומזת שאנשי המקום רננו בלילה \"היא לאה\", ובבוקר הכיר את הדיבור.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 29:25:2",
+        "quote": "מרננים בלילה ואומרים היא לאה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: זה מלמד צניעות יעקב שלא ריבה דברים אפילו עם אשתו, שאילו דיבר עמה היה מכירה בקול.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 29:25:1",
+        "quote": "מלמדנו צניעותו של יעקב שלא ריבה דברים"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: מתוך הסימנים שמסרה רחל ללאה לא הכירה יעקב.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 29:25:1",
+        "quote": "מתוך הסימנים שמסר יעקב לרחל על הבאר"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה איך פעלה הרמאות ומה עשו רחל ולאה."
+   },
+   {
+    "title": "מה פירוש \"ויאהב גם את רחל מלאה\", ולמה \"גם\"?",
+    "pasuk": {
+     "text": "ויאהב גם את רחל מלאה",
+     "ref": "Genesis 29:30",
+     "label": "בראשית כט, ל"
+    },
+    "question": "\"גם\" משמע שאהב גם את לאה, ואילו הפסוק הבא אומר שלאה שנואה. למה \"גם\", והאם לאה נאהבה או לא?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 29:30:1",
+      "quote": "משמע שהיה אוהב את לאה",
+      "era": "acharon"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 29:30:1-2",
+      "quote": "ויאהב גם את רחל משמע שאהב גם את לאה",
+      "era": "acharon"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 29:30:1",
+      "quote": "רחל מלאה מהו גם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הטבע לאהוב יותר את האשה שידע האדם בראשונה, ויעקב אהב את רחל מלאה שלא כדרך הארץ, וזה טעם \"גם\".",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 29:30:1",
+        "quote": "שלא כדרך הארץ"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: \"גם\" הפוך הוא רוב פעמים בתורה: בא אליה וגם אהבה יותר מלאה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 29:30:1",
+        "quote": "רוב גם הפוכים כן בתורה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: בתחילה אהב את לאה, ואחר כך שנאה מתוך דבריה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 29:30:1",
+        "quote": "ללמדך שבתחלה היה אוהב את לאה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: להודיע שגם לאה אהב, כאדם האוהב את אשתו, אבל יותר אהב את רחל.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 29:30:2",
+        "quote": "אבל יותר אהב רחל"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע איך לקרוא את נישואי יעקב ללאה ולרחל."
+   },
+   {
+    "title": "למה אמרה לאה \"ראה\" בראובן ו\"שמע\" בשמעון?",
+    "pasuk": {
+     "text": "ותאמר כי שמע יהוה כי שנואה אנכי",
+     "ref": "Genesis 29:33",
+     "label": "בראשית כט, לג"
+    },
+    "question": "למה משתמשת לאה בראיה בלידת ראובן ובשמיעה בשמעון, ומה שמע ה'?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 29:33:1",
+      "quote": "ועוד למה בראשון אמרה ראה ובשני שמע",
+      "era": "acharon"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 29:30:1-2",
+      "quote": "בשם ראובן אמרה כי עתה יאהבני",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אלשיך: בתחילה ראתה העדר אהבה בלבד ולא שנאה; עם הבן השני הבינה שהיא שנואה, ולכן \"שמע\".",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 29:33:1",
+        "quote": "יש שנאה ויש העדר אהבה בלבד"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: כשהנענה ידע צרותיו והתפלל עליהן יתואר בלשון שמיעה, ובמקום שאינו מרגיש יתואר בלשון ראיה.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 29:32:1",
+        "quote": "אם הנענה ידע מצרותיו והתפלל עליהם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בתמורת השנאה שנבעה מהחשד נתן לה גם את זה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 29:33:1",
+        "quote": "ותמורת השנאה המסובבת מן החשד נתן לי גם את זה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה איך השתנתה הבנת לאה את מצבה."
+   },
+   {
+    "title": "למה חרה אף יעקב ברחל, והאם בקשתה לא היתה ראויה?",
+    "pasuk": {
+     "text": "ותאמר אל יעקב הבה לי בנים ואם אין מתה אנכי",
+     "ref": "Genesis 30:1",
+     "label": "בראשית ל, א"
+    },
+    "question": "רחל ביקשה מיעקב בנים, \"ואם אין מתה אנכי\", ויעקב ענה בכעס \"התחת אלהים אנכי\". והרי הצדיקים מתפללים על אחרים. למה כעס?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 30:1:1",
+      "quote": "ואני תמה אם כן למה חרה אפו",
+      "era": "rishon"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 30:2:2",
+      "quote": "ואם תאמר ומה בכך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: \"וכי במקומו אני?\" יעקב אמר שאינו כאבא, שלא היו לו בנים; לו יש בנים, וממך מנע ולא ממנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:2:2",
+        "quote": "אבא לא היו לו בנים אני יש לי בנים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: רחל התכוונה שיתפלל עליה, אך דיברה שלא כהוגן בקנאתה; ויעקב כעס שאין תפילת הצדיקים בידם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 30:2:1",
+        "quote": "שאין תפלת הצדיקים בידם שתשמע"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: כעס על \"הבה לי\" כאילו היה בידו לעשות זאת, וקנא לכבוד קונו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 30:2:1",
+        "quote": "כאלו היה בידו לעשות זה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: ייתכן שהתפלל ולא הגיע עת שמוע תפילתו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 30:2:1",
+        "quote": "ויתכן שהתפלל ולא הגיע עת שמוע תפלתו"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: תולדות השבטים אינן כשאר תולדות, ויעקב לא רצה לשנות הדבר, אבל יצחק היה יודע שכל בניו יהיו מאשה זו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 30:2:2",
+        "quote": "תולדות השבטים אינן כשאר תולדות"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מה יכול היה יעקב לבקש מה' ומה יחס האבות והאמהות לתפילה."
+   },
+   {
+    "title": "למה נתנה לאה את זלפה ליעקב כשהיא עצמה לא היתה עקרה?",
+    "pasuk": {
+     "text": "ותרא לאה כי עמדה מלדת",
+     "ref": "Genesis 30:9",
+     "label": "בראשית ל, ט"
+    },
+    "question": "לאה ילדה ארבעה בנים ועמדה מלדת, ונתנה את זלפה ליעקב. שרה ורחל עשו זאת כי היו עקרות; לאה לא. למה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 30:9:1",
+      "quote": "לא ידעתי מה המעשה הזה ללאה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הן היו נביאות שידעו שיעמיד יעקב שנים עשר שבטים, ורצתה שיהיו לו רוב הבנים ממנה או משפחתה, שלא תתגבר אחותה עליה בבנים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 30:9:1",
+        "quote": "ולא תתגבר אחותה עליה בבנים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: חשבה שלא תוליד עוד, ואף שהיו לה בנים רצתה להרבות בנים, כי כל כוונתם להרבות בנים.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 30:9:1",
+        "quote": "רצתה להרבות בנים"
+       }
+      ]
+     },
+     {
+      "text": "שכל טוב: כשנשתנה וסתה ידעה שפסקה מלדת.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 30:9:1",
+        "quote": "כיון שנשתנה ווסתה ידעה שפסקה מלדת"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מה הניע את לאה ואת האמהות."
+   }
+  ],
+  "sources_consulted": [
+   "בכור שור",
+   "מלבי\"ם",
+   "העמק דבר",
+   "רש\"י",
+   "חזקוני",
+   "ספורנו",
+   "גור אריה",
+   "בראשית רבה",
+   "מדרש תנחומא (בובר)",
+   "אור החיים",
+   "אלשיך",
+   "מדרש לקח טוב",
+   "מדרש אגדה",
+   "רבנו בחיי",
+   "כלי יקר",
+   "רמב\"ן",
+   "רשב\"ם",
+   "רד\"ק",
+   "אבן עזרא",
+   "מדרש שכל טוב"
+  ]
+ }
+}
