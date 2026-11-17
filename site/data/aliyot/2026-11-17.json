@@ -1,0 +1,923 @@
+{
+ "date": "2026-11-17",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 30:14-30:27",
+ "hebrew_date": {
+  "hebrew": "ז׳ בְּכִסְלֵו תשפ״ז",
+  "english": "7 Kislev 5787"
+ },
+ "english": {
+  "summary": "Reuben finds mandrakes in the wheat harvest and brings them to Leah. Rachel asks for some, and Leah protests that Rachel has already taken her husband; Rachel gives Jacob to Leah for the night in exchange. Leah conceives Issachar, then Zebulun, then bears Dinah. God remembers Rachel, who bears Joseph, and Jacob then asks Laban to send him home with his wives and children. Laban pleads that he has learned by divination that the Lord blessed him on Jacob's account.",
+  "questions": [
+   {
+    "title": "Why does the Torah say the mandrakes were found in wheat-harvest time, and why were they free for the taking?",
+    "pasuk": {
+     "text": "וילך ראובן בימי קציר חטים וימצא דודאים בשדה",
+     "ref": "Genesis 30:14",
+     "label": "Genesis 30:14"
+    },
+    "question": "Rashi says the verse is praising the tribes: at harvest Reuben took only ownerless produce. Haamek Davar asks how we know the mandrakes were ownerless at all, and why taking a few ears of wheat would have been such a feat.",
+    "asked_by": [
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 30:14:1",
+      "era": "acharon",
+      "quote": "ואני בעניי לא ידעתי מנלן שדודאים המה הפקר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the verse tells the tribes' praise. It was harvest time, yet Reuben did not reach for wheat or barley, only for something ownerless.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:14:1",
+        "quote": "ולא פשט ידו בגזל להביא חטים ושעורים"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: all agree he brought only ownerless produce, which shows that the tribes were guarded from robbery, and all the more so from every other theft.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 72:2",
+        "quote": "הכל מודים שלא הביא אלא מן ההפקר"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: because it was harvest season everything stood in open fields, unguarded by the owner, and so counted as ownerless.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 30:14:1",
+        "quote": "והכל מצויים בשדות ולא היו משומרות לבעל השדה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the character of Jacob's sons even as children."
+   },
+   {
+    "title": "What are the dudaim, and did they really help a woman conceive?",
+    "pasuk": {
+     "text": "וימצא דודאים בשדה",
+     "ref": "Genesis 30:14",
+     "label": "Genesis 30:14"
+    },
+    "question": "Rashi identifies them with a fragrant plant. Ramban objects that this plant does not bloom at wheat harvest; Ibn Ezra does not know how a cold fruit could help conception; Radak argues that if it worked, Rachel and Leah should both have conceived from it.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 30:14:1",
+      "era": "rishon",
+      "quote": "אֲבָל אֵין זְמַנָּם בִּימֵי קְצִיר חִטִּים"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 30:14:1",
+      "era": "rishon",
+      "quote": "ואנכי לא ידעתי למה יועילו להריון"
+     },
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 30:14:1",
+      "era": "rishon",
+      "quote": "אִלּוּ הָיָה כֵן לָמָּה לֹא הָרְתָה רָחֵל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: Rachel was remembered through prayer, not medicine. Leah wanted the dudaim only for their pleasant scent; Reuben brought the fruit, not the root said to help conception.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 30:14:1",
+        "quote": "בִּתְפִלָּה נִפְקְדָה רָחֵל לֹא בְּדֶרֶךְ הָרְפוּאוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: it is a fragrant herb that prepares the organs of seed for birth and adds love of union, as the Song of Songs says.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 30:14:2",
+        "quote": "מכין כלי הזרע אל התולדה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: Reuben may have heard what the masses say, that they help pregnancy, but Radak calls this untrue; Rachel simply thought the common talk was true.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 30:14:1",
+        "quote": "אֲבָל הַדָּבָר הַזֶּה אֵינוֹ אֱמֶת"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the story is about a remedy or about prayer."
+   },
+   {
+    "title": "Why does Leah say Rachel took her husband, and why does Rachel agree to give up a night?",
+    "pasuk": {
+     "text": "ותאמר לה המעט קחתך את אישי",
+     "ref": "Genesis 30:15",
+     "label": "Genesis 30:15"
+    },
+    "question": "The Alshich asks: it was Leah who took Rachel's husband, so what does 'is it a small thing that you took my husband' mean, and why did Rachel concede the point?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 30:14:1-7",
+      "era": "acharon",
+      "quote": "כי הלא אדרבה היא לקחה את איש רחל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: Jacob's regular bed was with Rachel, so any extra time with her was taken from Leah's share.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 30:15:1",
+        "quote": "קְבִיעוּת מִטָּתוֹ שֶׁל יַעֲקֹב הָיָה אֵצֶל רָחֵל"
+       }
+      ]
+     },
+     {
+      "text": "Radak: because Rachel had no children, Jacob lay with Rachel in order to comfort her.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 30:15:1",
+        "quote": "הָיָה יַעֲקֹב שׁוֹכֵב עִם רָחֵל כְּדֵי לְהָפִיס דַּעְתָּהּ"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel: Jacob thought Leah had stopped bearing, so he reduced his visits to her and kept his nights with Rachel, who was younger and still hoping to conceive.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 30:14",
+        "quote": "היה מיחד שכיבתו אצל רחל"
+       }
+      ]
+     }
+    ],
+    "why": "It explains the tension between the sisters behind the exchange."
+   },
+   {
+    "title": "Why was Rachel not buried with Jacob for a single careless remark?",
+    "pasuk": {
+     "text": "לכן ישכב עמך הלילה תחת דודאי בנך",
+     "ref": "Genesis 30:15",
+     "label": "Genesis 30:15"
+    },
+    "question": "Rashi: because she treated lightly the righteous man's bed, Rachel was not buried with him. Gur Aryeh asks: her burial on the road was for her sons' benefit, but surely lying in the cave would have been a greater merit for her.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 30:15:3",
+      "era": "acharon",
+      "quote": "ואם תאמר והלא לטובת בניה נקברה בדרך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: that night was Rachel's, and she gave it away; because she disparaged the righteous man's bed she was not privileged to be buried beside him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:15:2",
+        "quote": "לא זָכְתָה לְהִקָּבֵר עִמּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: Rashbi taught that because she belittled the righteous man she is not buried with him, and Leah, who lay with him that night, lies with him in the grave.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 30:15:1",
+        "quote": "לפי שזילזלה על על הצדיק"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Shmuel bar Nachman says Leah lost the dudaim but gained tribes and burial with him; Rachel gained the dudaim but lost tribes and burial with him.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 72:3",
+        "quote": "נִשְׂתַּכְּרָה דוּדָאִים וְהִפְסִידָה שְׁבָטִים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how heavily the Torah weighs a casual word spoken about a tzaddik."
+   },
+   {
+    "title": "The verse says God heard Leah, but where did she pray?",
+    "pasuk": {
+     "text": "וישמע אלהים אל לאה ותהר ותלד ליעקב בן חמישי",
+     "ref": "Genesis 30:17",
+     "label": "Genesis 30:17"
+    },
+    "question": "The Alshich asks where Leah prayed that God should hear her. The commentators fill the gap: her yearning, her effort, or an unrecorded prayer.",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 30:14:1-7",
+      "era": "acharon",
+      "quote": "היכן התפללה שישמע אליה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: God heard her because she longed for and pursued the increase of the tribes.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:17:1",
+        "quote": "שהיתה מתאוה ומחזרת להרבות שבטים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: her effort, giving her maid to Jacob, came together with her prayer.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 30:17:1",
+        "quote": "שֶׁהִקְדִּימָה הִשְׁתַּדְּלוּתָהּ בָּזֶה עִם תְּפִלָּתָהּ"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the verse teaches that she prayed to the Lord.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 30:17:1",
+        "quote": "מַגִּיד שֶׁהִתְפַּלְּלָה לַה׳"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: R. Abahu says God saw that her intent was only for the sake of Heaven, to raise up tribes, so the verse had to say He heard her.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 72:5",
+        "quote": "שֶׁלֹּא הָיְתָה כַּוָּנָתָהּ אֶלָּא לְשֵׁם שָׁמַיִם לְהַעֲמִיד שְׁבָטִים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that intent, not only the outward act, brings an answer."
+   },
+   {
+    "title": "Why does it say only 'afterwards she bore a daughter', without 'she conceived'?",
+    "pasuk": {
+     "text": "ואחר ילדה בת ותקרא את שמה דינה",
+     "ref": "Genesis 30:21",
+     "label": "Genesis 30:21"
+    },
+    "question": "Elsewhere the verses say 'she conceived and bore'. Hadar Zekenim asks why this verse omits conceiving; the answer is a midrashic account of Leah's prayer.",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 30:21:1",
+      "era": "rishon",
+      "quote": "הא דלא כתיב ותהר ותלד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hadar Zekenim: she was originally carrying Joseph, and exchanged it for Dinah when she judged that Rachel should not bear fewer tribes than the maidservants.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 30:21:1",
+        "quote": "מתחלה היתה מעוברת מיוסף והחליפה בדינה"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: our Rabbis explained that Leah judged herself, that if the child were male Rachel would be like one of the maidservants, and she prayed and it turned into a female.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:21:1",
+        "quote": "שֶׁדָּנָה לֵאָה דִּין בְּעַצְמָהּ"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma: she saw prophetically twelve tribes would come from Jacob and complained to God; He heard her prayer and the child in her womb became female.",
+      "sources": [
+       {
+        "name": "Midrash Tanchuma",
+        "ref": "Midrash Tanchuma, Vayetzei 8:3",
+        "quote": "נֶהְפַּךְ הָעֻבָּר שֶׁבִּמְעֶיהָ לִנְקֵבָה"
+       }
+      ]
+     }
+    ],
+    "why": "It reveals how the sisters weighed the number of tribes each would build."
+   },
+   {
+    "title": "Why does Jacob ask to leave only after Joseph was born?",
+    "pasuk": {
+     "text": "ויהי כאשר ילדה רחל את יוסף ויאמר יעקב אל לבן שלחני",
+     "ref": "Genesis 30:25",
+     "label": "Genesis 30:25"
+    },
+    "question": "Chizkuni notes that before Joseph's birth Jacob did not ask permission. Several reasons are given: the end of the fourteen years, Esau's fall, or fear for Rachel's standing.",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 30:25:1",
+      "era": "rishon",
+      "quote": "קודם שנולד יוסף לא נטל יעקב רשות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: from the birth of Esau's adversary, as Obadiah says the house of Joseph will be a flame, Jacob felt secure in God and wanted to return.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:25:1",
+        "quote": "בטח יעקב בהקב\"ה ורצה לשוב"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: then the fourteen years of service for his wives were complete.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 30:25:1",
+        "quote": "אז שלמו י\"ד שנים של עבודת נשיו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: before Joseph was born Jacob feared Laban would not let them leave, lest he hate Rachel and send her away because she was barren.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 30:25:1",
+        "quote": "ישנאנה ויגרשנה לפי שהיא עקרה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows Jacob timing his departure around both his service and Esau's threat."
+   },
+   {
+    "title": "What did Laban 'divine', and how can blessing in his flocks be called divination?",
+    "pasuk": {
+     "text": "נחשתי ויברכני יהוה בגללך",
+     "ref": "Genesis 30:27",
+     "label": "Genesis 30:27"
+    },
+    "question": "Gur Aryeh asks how 'I divined' fits a blessing of flocks, which were visible before and after. Chizkuni raises an objection to Rashi's reading about Laban's children.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 30:27:1",
+      "era": "acharon",
+      "quote": "דאין לומר על ברכת הצאן כמשמעו"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 30:27:2-3",
+      "era": "rishon",
+      "quote": "הרי פתחון פה לבעל דין לחלוק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Laban was a diviner; he tested by his divination that blessing came through Jacob, since Laban had no sons when Jacob arrived, and now he had sons.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 30:27:1",
+        "quote": "כְּשֶׁבָּאתָ לְכָאן לֹא הָיוּ לִי בָנִים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: nichashti means 'I tested'; he had learned of the blessing through Jacob's merit as a righteous man.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 30:27:1",
+        "quote": "וּלְשׁוֹן נִחַשְׁתִּי נִסִּיתִי"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra and Chizkuni: Laban had teraphim, which is why he went out to meet omens.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 30:27:1",
+        "quote": "הולך היה לקראת נחשים ויש לו תרפים"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies how Laban himself acknowledged Jacob's blessing."
+   }
+  ],
+  "sources_consulted": [
+   "Haamek Davar",
+   "Rashi",
+   "Bereshit Rabbah",
+   "Ramban",
+   "Ibn Ezra",
+   "Radak",
+   "Sforno",
+   "Alshich",
+   "Or HaChaim",
+   "Abarbanel",
+   "Gur Aryeh",
+   "Midrash Lekach Tov",
+   "Hadar Zekenim",
+   "Midrash Tanchuma",
+   "Chizkuni",
+   "Bekhor Shor"
+  ]
+ },
+ "hebrew": {
+  "summary": "ראובן מוצא דודאים בימי קציר חיטים ומביאם ללאה אמו. רחל מבקשת מהם, ולאה מתרעמת שרחל כבר לקחה את אישה; רחל מוותרת על יעקב ללילה אחד תמורת הדודאים. לאה מתעברת ויולדת את יששכר, אחריו את זבולון, ואחר כך בת ושמה דינה. אלהים זוכר את רחל והיא יולדת את יוסף, ויעקב מבקש מלבן לשלחו עם נשיו וילדיו. לבן מבקש שיישאר ואומר שניחש וברכו ה' בגללו.",
+  "questions": [
+   {
+    "title": "למה מזכירה התורה שהדודאים נמצאו בימי קציר חיטים, ומנין שהיו הפקר?",
+    "pasuk": {
+     "text": "וילך ראובן בימי קציר חטים וימצא דודאים בשדה",
+     "ref": "Genesis 30:14",
+     "label": "בראשית ל, יד"
+    },
+    "question": "רש\"י מפרש שהכתוב משבח את השבטים: בשעת הקציר לקח ראובן רק דבר הפקר. בעל העמק דבר שואל מנין שהדודאים הפקר, ומה הרבותא בכך שלא לקח שבלי חיטים.",
+    "asked_by": [
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 30:14:1",
+      "era": "acharon",
+      "quote": "ואני בעניי לא ידעתי מנלן שדודאים המה הפקר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הכתוב בא להגיד שבחן של השבטים; בשעת הקציר לא פשט ידו בגזל אלא הביא דבר הפקר.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:14:1",
+        "quote": "ולא פשט ידו בגזל להביא חטים ושעורים"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: הכל מודים שלא הביא אלא מן ההפקר, ללמד שהיו שמורים מגזל, וכל שכן מכל גזל אחר.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 72:2",
+        "quote": "הכל מודים שלא הביא אלא מן ההפקר"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: מפני שהיה קציר חיטים והכל מצויים בשדות ולא היו משומרות לבעל השדה, הוי הפקר.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 30:14:1",
+        "quote": "והכל מצויים בשדות ולא היו משומרות לבעל השדה"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד על מידותיהם של בני יעקב כבר בילדותם."
+   },
+   {
+    "title": "מה הם הדודאים, והאם באמת מועילים להריון?",
+    "pasuk": {
+     "text": "וימצא דודאים בשדה",
+     "ref": "Genesis 30:14",
+     "label": "בראשית ל, יד"
+    },
+    "question": "רש\"י מזהה את הדודאים עם עשב בעל ריח. הרמב\"ן מקשה שאין זמנו בימי קציר חיטים; אבן עזרא אינו יודע איך פרי קר יועיל להריון; הרד\"ק מקשה שאילו הועיל, היתה רחל מתעברת ממנו.",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 30:14:1",
+      "era": "rishon",
+      "quote": "אֲבָל אֵין זְמַנָּם בִּימֵי קְצִיר חִטִּים"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 30:14:1",
+      "era": "rishon",
+      "quote": "ואנכי לא ידעתי למה יועילו להריון"
+     },
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 30:14:1",
+      "era": "rishon",
+      "quote": "אִלּוּ הָיָה כֵן לָמָּה לֹא הָרְתָה רָחֵל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: רחל נפקדה בתפילה ולא בדרך הרפואות; לאה רצתה בדודאים כדי להשתעשע ולהתענג בריחם, וראובן הביא את הפרי ולא את השורש.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 30:14:1",
+        "quote": "בִּתְפִלָּה נִפְקְדָה רָחֵל לֹא בְּדֶרֶךְ הָרְפוּאוֹת"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: עשב טוב הריח המכין כלי הזרע אל התולדה ומוסיף אהבת הזווג, כדברי שיר השירים.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 30:14:2",
+        "quote": "מכין כלי הזרע אל התולדה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ראובן אולי שמע מה שאומרים ההמון שהם מועילים להריון, אך הדבר אינו אמת.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 30:14:1",
+        "quote": "אֲבָל הַדָּבָר הַזֶּה אֵינוֹ אֱמֶת"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הסיפור עוסק בסגולה או בתפילה."
+   },
+   {
+    "title": "מדוע אומרת לאה שרחל לקחה את אישה, ומדוע מסכימה רחל לוותר על לילה?",
+    "pasuk": {
+     "text": "ותאמר לה המעט קחתך את אישי",
+     "ref": "Genesis 30:15",
+     "label": "בראשית ל, טו"
+    },
+    "question": "האלשיך שואל: הרי לאה היא שלקחה את איש רחל, ומה פירוש 'המעט קחתך את אישי', ולמה הודתה לה רחל.",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 30:14:1-7",
+      "era": "acharon",
+      "quote": "כי הלא אדרבה היא לקחה את איש רחל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: קביעות מיטתו של יעקב היתה אצל רחל, ולכן החלק העודף אצלה נגרע מחלק לאה.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 30:15:1",
+        "quote": "קְבִיעוּת מִטָּתוֹ שֶׁל יַעֲקֹב הָיָה אֵצֶל רָחֵל"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: מפני שלא היו בנים לרחל, היה יעקב שוכב עם רחל כדי להפיס דעתה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 30:15:1",
+        "quote": "הָיָה יַעֲקֹב שׁוֹכֵב עִם רָחֵל כְּדֵי לְהָפִיס דַּעְתָּהּ"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל: יעקב סבר שלאה פסקה מללדת, ומיעט בואו אצלה והיה מייחד שכיבתו אצל רחל.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 30:14",
+        "quote": "היה מיחד שכיבתו אצל רחל"
+       }
+      ]
+     }
+    ],
+    "why": "מבאר את המתח בין האחיות שמאחורי העסקה."
+   },
+   {
+    "title": "מדוע לא נקברה רחל עם יעקב בגלל משפט אחד שנאמר בקלות?",
+    "pasuk": {
+     "text": "לכן ישכב עמך הלילה תחת דודאי בנך",
+     "ref": "Genesis 30:15",
+     "label": "בראשית ל, טו"
+    },
+    "question": "רש\"י: מפני שזלזלה במשכב הצדיק לא זכתה להיקבר עמו. הגור אריה שואל: והלא נקברה בדרך לטובת בניה, ושכיבתה במערה היתה זכות גדולה יותר.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 30:15:3",
+      "era": "acharon",
+      "quote": "ואם תאמר והלא לטובת בניה נקברה בדרך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שלי היתה שכיבת לילה זו, ואני נותנה לך; ולפי שזלזלה במשכב הצדיק לא זכתה להיקבר עמו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:15:2",
+        "quote": "לא זָכְתָה לְהִקָּבֵר עִמּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: תני רשב\"י שלפי שזלזלה בצדיק אינה נכנסת עמו לקבורה, ולאה שוכבת עמו בקבר.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 30:15:1",
+        "quote": "לפי שזילזלה על על הצדיק"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: רבי שמואל בר נחמן אמר: לאה הפסידה דודאים ונשתכרה שבטים וקבורה עמו, ורחל נשתכרה דודאים והפסידה שבטים וקבורה עמו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 72:3",
+        "quote": "נִשְׂתַּכְּרָה דוּדָאִים וְהִפְסִידָה שְׁבָטִים"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד כמה חמורה בעיני התורה מילה קלה שנאמרה על צדיק."
+   },
+   {
+    "title": "הכתוב אומר שה' שמע אל לאה, אבל היכן התפללה?",
+    "pasuk": {
+     "text": "וישמע אלהים אל לאה ותהר ותלד ליעקב בן חמישי",
+     "ref": "Genesis 30:17",
+     "label": "בראשית ל, יז"
+    },
+    "question": "האלשיך שואל היכן התפללה לאה שישמע אליה ה'. המפרשים ממלאים את החסר: געגועיה, השתדלותה, או תפילה שלא נכתבה.",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 30:14:1-7",
+      "era": "acharon",
+      "quote": "היכן התפללה שישמע אליה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שהיתה מתאוה ומחזרת להרבות שבטים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:17:1",
+        "quote": "שהיתה מתאוה ומחזרת להרבות שבטים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: השתדלותה, בהכניסה צרתה לביתה, קדמה לתפילתה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 30:17:1",
+        "quote": "שֶׁהִקְדִּימָה הִשְׁתַּדְּלוּתָהּ בָּזֶה עִם תְּפִלָּתָהּ"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: מגיד שהתפללה לה'.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 30:17:1",
+        "quote": "מַגִּיד שֶׁהִתְפַּלְּלָה לַה׳"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: אמר רבי אבהו: צפה הקב\"ה שלא היתה כוונתה אלא לשם שמים להעמיד שבטים.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 72:5",
+        "quote": "שֶׁלֹּא הָיְתָה כַּוָּנָתָהּ אֶלָּא לְשֵׁם שָׁמַיִם לְהַעֲמִיד שְׁבָטִים"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד שהכוונה, ולא רק המעשה, היא שמביאה תשובה."
+   },
+   {
+    "title": "מדוע נאמר רק 'ואחר ילדה בת' ולא 'ותהר'?",
+    "pasuk": {
+     "text": "ואחר ילדה בת ותקרא את שמה דינה",
+     "ref": "Genesis 30:21",
+     "label": "בראשית ל, כא"
+    },
+    "question": "בכל מקום נאמר 'ותהר ותלד'. הדר זקנים שואל מדוע כאן חסר 'ותהר'; התשובה היא מדרש על תפילת לאה.",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 30:21:1",
+      "era": "rishon",
+      "quote": "הא דלא כתיב ותהר ותלד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הדר זקנים: מתחילה היתה מעוברת מיוסף והחליפה בדינה, שדנה בעצמה שלא תלד רחל אחותה שני שבטים כשפחות.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 30:21:1",
+        "quote": "מתחלה היתה מעוברת מיוסף והחליפה בדינה"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: פירשו רבותינו שדנה לאה דין בעצמה, ואם זה זכר לא תהא רחל אחותי כאחת השפחות, והתפללה ונהפך לנקבה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:21:1",
+        "quote": "שֶׁדָּנָה לֵאָה דִּין בְּעַצְמָהּ"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא: ראתה בנבואה שיעמדו שנים עשר שבטים, והתרעמה לפני הקב\"ה; שמע תפילתה ונהפך העובר לנקבה.",
+      "sources": [
+       {
+        "name": "מדרש תנחומא",
+        "ref": "Midrash Tanchuma, Vayetzei 8:3",
+        "quote": "נֶהְפַּךְ הָעֻבָּר שֶׁבִּמְעֶיהָ לִנְקֵבָה"
+       }
+      ]
+     }
+    ],
+    "why": "מגלה כיצד שקלו האחיות את מספר השבטים שכל אחת תבנה."
+   },
+   {
+    "title": "מדוע מבקש יעקב ללכת דווקא אחרי לידת יוסף?",
+    "pasuk": {
+     "text": "ויהי כאשר ילדה רחל את יוסף ויאמר יעקב אל לבן שלחני",
+     "ref": "Genesis 30:25",
+     "label": "בראשית ל, כה"
+    },
+    "question": "החזקוני מציין שלפני לידת יוסף לא נטל יעקב רשות. ניתנו כמה טעמים: סיום י\"ד שנה, נפילת עשו, או החשש למעמדה של רחל.",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 30:25:1",
+      "era": "rishon",
+      "quote": "קודם שנולד יוסף לא נטל יעקב רשות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: משנולד שטנו של עשו, שנאמר 'ובית יוסף להבה', בטח יעקב בהקב\"ה ורצה לשוב.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:25:1",
+        "quote": "בטח יעקב בהקב\"ה ורצה לשוב"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: אז שלמו י\"ד שנים של עבודת נשיו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 30:25:1",
+        "quote": "אז שלמו י\"ד שנים של עבודת נשיו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: קודם שנולד יוסף ירא יעקב שמא ישנאנה ויגרשנה לפי שהיא עקרה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 30:25:1",
+        "quote": "ישנאנה ויגרשנה לפי שהיא עקרה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שיעקב תיזמן את יציאתו לפי תום עבודתו ואיום עשו."
+   },
+   {
+    "title": "מה ניחש לבן, ואיך אפשר לקרוא ניחוש לברכה בצאנו?",
+    "pasuk": {
+     "text": "נחשתי ויברכני יהוה בגללך",
+     "ref": "Genesis 30:27",
+     "label": "בראשית ל, כז"
+    },
+    "question": "הגור אריה שואל איך 'נחשתי' מתאים לברכת הצאן. החזקוני מקשה על פירוש רש\"י בעניין בני לבן.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 30:27:1",
+      "era": "acharon",
+      "quote": "דאין לומר על ברכת הצאן כמשמעו"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 30:27:2-3",
+      "era": "rishon",
+      "quote": "הרי פתחון פה לבעל דין לחלוק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מנחש היה; ניסיתי בנחושי שעל ידך באה לי ברכה, כשבאת לכאן לא היו לי בנים ועכשיו היו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 30:27:1",
+        "quote": "כְּשֶׁבָּאתָ לְכָאן לֹא הָיוּ לִי בָנִים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: 'נחשתי' משמעו נסיתי, ובזכותך כי איש צדיק אתה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 30:27:1",
+        "quote": "וּלְשׁוֹן נִחַשְׁתִּי נִסִּיתִי"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא וחזקוני: היו לו תרפים ולכן היה הולך לקראת נחשים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 30:27:1",
+        "quote": "הולך היה לקראת נחשים ויש לו תרפים"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר כיצד הודה לבן בעצמו בברכת יעקב."
+   }
+  ],
+  "sources_consulted": [
+   "העמק דבר",
+   "רש\"י",
+   "בראשית רבה",
+   "רמב\"ן",
+   "אבן עזרא",
+   "רד\"ק",
+   "ספורנו",
+   "אלשיך",
+   "אור החיים",
+   "אברבנאל",
+   "גור אריה",
+   "מדרש לקח טוב",
+   "הדר זקנים",
+   "מדרש תנחומא",
+   "חזקוני",
+   "בכור שור"
+  ]
+ }
+}
