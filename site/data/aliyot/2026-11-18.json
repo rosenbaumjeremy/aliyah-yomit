@@ -1,0 +1,809 @@
+{
+ "date": "2026-11-18",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 30:28-31:16",
+ "hebrew_date": {
+  "hebrew": "ח׳ בְּכִסְלֵו תשפ״ז",
+  "english": "8 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob asks Laban to let him go home and to name his wages. Laban admits he has been blessed because of Jacob. Jacob proposes that he receive the spotted and speckled animals born from now on, and Laban agrees but removes such animals from the flock. Jacob uses peeled sticks at the watering troughs, and his flock grows very large. Laban's sons complain, God tells Jacob to return to the land of his fathers, and Jacob calls Rachel and Leah. They answer that their father has treated them as strangers and agree to leave.",
+  "questions": [
+   {
+    "title": "Why does Laban say \"and he said\" a second time, right after he has already spoken?",
+    "pasuk": {
+     "text": "ויאמר נקבה שכרך עלי ואתנה",
+     "ref": "Genesis 30:28",
+     "label": "Genesis 30:28"
+    },
+    "question": "Malbim lists the surplus wording in this exchange, beginning with the doubled \"and he said\" after Laban has already asked Jacob to name his wages.",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 30:28:1-2",
+      "era": "acharon",
+      "quote": "למה אמר שנית ויאמר, תחלה אמר נקבה שכרך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Malbim: the second \"and he said\" is a rebuttal of Jacob's premise. Laban gave his daughters for free, not as payment for Jacob's labor, so Jacob has no right to take them to another country.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 30:28:1-2",
+        "quote": "להכחיש הנחת יעקב ויסודו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Laban answers Jacob's claim that his years of service paid for his wives."
+   },
+   {
+    "title": "Why does Jacob ask Laban to remove the spotted animals from the flock at all?",
+    "pasuk": {
+     "text": "הסר משם כל שה נקד וטלוא וכל שה חום בכשבים",
+     "ref": "Genesis 30:32",
+     "label": "Genesis 30:32"
+    },
+    "question": "If the animals are already in the flock, Jacob could simply count them. Why does the deal require them to be taken out first?",
+    "asked_by": [
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 30:32:3",
+      "era": "acharon",
+      "quote": "מה צורך שיסירם משם ימנם"
+     },
+     {
+      "name": "Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Bereshit 30:32:5",
+      "era": "chazal",
+      "quote": "ולמה הסירם מתוך הצאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sekhel Tov: so that Laban would not suspect Jacob of mixing in the spotted animals Laban already had with those born afterwards.",
+      "sources": [
+       {
+        "name": "Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 30:32:5",
+        "quote": "שלא יחשדהו לבן לומר שעירב יעקב"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: today's spotted animals can be counted, so there is no suspicion about them. The check is for the future, when the number born is unknown, so that whatever is not spotted is stolen.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 30:33:1",
+        "quote": "ולעתיד אין מספר הנולדים ידוע"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Jacob feared Laban would claim later, and how he built honesty into the agreement."
+   },
+   {
+    "title": "How could Jacob, a completely righteous man, use sticks to make the flock bear spotted young?",
+    "pasuk": {
+     "text": "ויקח לו יעקב מקל לבנה לח",
+     "ref": "Genesis 30:37",
+     "label": "Genesis 30:37"
+    },
+    "question": "The sticks look like a trick played on Laban. Four sources ask how Jacob could do this, and each answers differently.",
+    "asked_by": [
+     {
+      "name": "Da'at Zekenim",
+      "ref": "Da'at Zekenim on Genesis 30:37:1",
+      "era": "rishon",
+      "quote": "וא\"ת צדיק גמור כיעקב היאך עשה רמאות"
+     },
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 30:38:1",
+      "era": "rishon",
+      "quote": "וא\"ת א\"כ היכי עשה יעקב רמאות"
+     },
+     {
+      "name": "Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 30:39:1",
+      "era": "chazal",
+      "quote": "ואם תאמר היאך עשה יעקב ככה להציג את המקלות"
+     },
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 30:39:1",
+      "era": "acharon",
+      "quote": "וא\"ת היאך עשה יעקב רמאות כזה במקלות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Da'at Zekenim: Laban changed the terms. Jacob stipulated only the young, but Laban removed even the adult spotted animals, so Jacob did what he could.",
+      "sources": [
+       {
+        "name": "Da'at Zekenim",
+        "ref": "Da'at Zekenim on Genesis 30:37:1",
+        "quote": "לבן שינה תנאו שלא התנה להסיר אלא הנקודים"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: Laban began the cheating, since he removed the he-goats and the spotted she-goats as well, leaving none to bear spotted young, so Jacob made the sticks.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 30:38:1",
+        "quote": "לבן התחיל לעשות לו רמאות"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov: it was not theft. Jacob acted on the angel's word, and the angel helped, as an action precedes a sign elsewhere in Tanakh.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 30:39:1",
+        "quote": "מה שעשה על פי המלאך עשה"
+       }
+      ]
+     },
+     {
+      "text": "Siftei Chakhamim (citing Maharshal): the young born from Jacob's own animals were by law Jacob's even without markings, so he was only securing what was his.",
+      "sources": [
+       {
+        "name": "Siftei Chakhamim",
+        "ref": "Siftei Chakhamim, Genesis 30:39:1",
+        "quote": "מן הדין היו של יעקב"
+       }
+      ]
+     }
+    ],
+    "why": "It is the central moral question of the aliyah, and the answers range from Laban's cheating to heavenly help."
+   },
+   {
+    "title": "How did Jacob come to own servants and maidservants if the verse is about the growth of his flocks?",
+    "pasuk": {
+     "text": "ויפרץ האיש מאד מאד ויהי לו צאן רבות ושפחות ועבדים וגמלים וחמרים",
+     "ref": "Genesis 30:43",
+     "label": "Genesis 30:43"
+    },
+    "question": "Laban's sons later say Jacob took everything from their father. The flocks could be from Laban, but servants are a different matter.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 30:43:2",
+      "era": "acharon",
+      "quote": "ואיך יתכן זה, בשלמא הצאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Gur Aryeh: Jacob sold his flocks at high prices and bought servants and maidservants, so everything he had still came from their father.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 30:43:2",
+        "quote": "היה מוכר צאנו בדמים יקרים וקונה עבדים ושפחות"
+       }
+      ]
+     }
+    ],
+    "why": "It explains how the verse ties into what Laban's sons say in the next chapter."
+   },
+   {
+    "title": "Why does God promise \"I will be with you\" only on the return to the land, and not already in Charan?",
+    "pasuk": {
+     "text": "ושוב אל ארץ אבותיך ולמולדתך ואהיה עמך",
+     "ref": "Genesis 31:3",
+     "label": "Genesis 31:3"
+    },
+    "question": "Gur Aryeh asks why God would not be with Jacob where he is. Mizrachi adds that Rashi elsewhere reads this promise as protection on the road.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 31:3:1",
+      "era": "acharon",
+      "quote": "והשתא קשה דלמה לא יהיה עמו כאן"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 31:3:1",
+      "era": "acharon",
+      "quote": "אך קשה א\"כ מהו זה שפרש\"י בפרש' וישלח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Mizrachi: \"there\" marks the place where the Shechinah will rest. Jacob is joined to the impure here, and God does not want to rest His presence on him.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 31:3:1",
+        "quote": "מפני שאת' מחובר לטמא ואי אפשי להשרות שכינתי עליך"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: since \"I will be with you\" is written without qualification, it includes everything.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 31:3:1",
+        "quote": "דכיון דסתמא כתיב ואהיה עמך דבר זה יכלול הכל"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what it means for God to be with a person, and whether the place matters."
+   },
+   {
+    "title": "Why does the angel remind Jacob of the anointed pillar and his vow?",
+    "pasuk": {
+     "text": "אנכי האל בית אל אשר משחת שם מצבה אשר נדרת לי שם נדר",
+     "ref": "Genesis 31:13",
+     "label": "Genesis 31:13"
+    },
+    "question": "Alshich asks why the verse mentions the anointing and the vow at all. Mizrachi asks what \"which you vowed to Me\" adds.",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 31:13:1",
+      "era": "acharon",
+      "quote": "וגם למה מזכיר לו משיחת האבן ושנדר לו שם נדר"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 31:13:3",
+      "era": "acharon",
+      "quote": "דאם לא כן אשר נדרת לי למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Mizrachi: the words \"which you vowed\" come to say that Jacob is obliged to fulfil it.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 31:13:3",
+        "quote": "וצריך אתה לשלמו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: it was a reminder that Jacob was considered to be delaying his vow, which is dangerous for him and for them.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 31:13:1",
+        "quote": "והזכירני הנדר להורות אשר הנני נחשב כמאחר נדרי"
+       }
+      ]
+     },
+     {
+      "text": "Meshech Chochmah: the reminder is that one who vows and does not fulfil it loses his wife. Jacob had delayed because pillars had begun to be used for idolatry.",
+      "sources": [
+       {
+        "name": "Meshech Chochmah",
+        "ref": "Meshekh Chokhmah, Vayetze 15",
+        "quote": "הזכיר להם הנדר שכל הנודר ואינו מקיים אשתו מתה"
+       }
+      ]
+     },
+     {
+      "text": "Alshich: God is not obliging Jacob to go to Bethel now. For now he must only leave this place, and he will go to Bethel later.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 31:13:1",
+        "quote": "איני מחייבך עתה ללכת עד בית אל"
+       }
+      ]
+     }
+    ],
+    "why": "It connects the command to leave to the vow Jacob made when he first fled."
+   },
+   {
+    "title": "Why does Jacob's wives' answer say \"and Rachel and Leah answered\" in the singular, and what does \"is there still a share for us\" mean?",
+    "pasuk": {
+     "text": "ותען רחל ולאה ותאמרנה לו העוד לנו חלק ונחלה בבית אבינו",
+     "ref": "Genesis 31:14",
+     "label": "Genesis 31:14"
+    },
+    "question": "Sekhel Tov asks why the verb \"answered\" is singular. Tur HaAroch asks how Rachel could answer before her older sister. Haamek Davar asks why Jacob spoke so much of wealth, and Mizrachi what the answer implies.",
+    "asked_by": [
+     {
+      "name": "Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Bereshit 31:14:1",
+      "era": "chazal",
+      "quote": "ולמה כתיב ותען לשון יחידה"
+     },
+     {
+      "name": "Tur HaAroch",
+      "ref": "Tur HaArokh, Genesis 31:14:1",
+      "era": "rishon",
+      "quote": "איך לא נהגה רחל כבוד בלאה אחותה הגדולה ממנה"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 31:14:2",
+      "era": "acharon",
+      "quote": "למה לך הצעת דברים כ״כ בדבר העושר"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 31:14:1",
+      "era": "acharon",
+      "quote": "משום דמתשובת העוד לנו וגו' משמע שהי' יעקב מונען"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sekhel Tov: Rachel was called first and she answered, and Leah agreed with Rachel's words. The phrase \"Is there still a share for us\" is a rhetorical question.",
+      "sources": [
+       {
+        "name": "Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 31:14:1",
+        "quote": "אלא שלאה הודית לדברי רחל"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbati: R. Yehuda says Rachel died first because she spoke in front of her sister.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbati",
+        "ref": "Bereshit Rabbati, Parashat Vayetze 44",
+        "quote": "ר' יהודה אומר מפני שדברה בפני אחותה"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi: it is a question of surprise: do you need to persuade us, when we cannot hope to inherit from our father?",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 31:14:1",
+        "quote": "וכי אתה צריך לפייס אותנו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: there is no hope that Laban would give them their share, since they see how strangely he has treated them.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 31:14:2",
+        "quote": "הלא אנו רואים כמה התנהג עמנו בדרך זר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows who spoke for the sisters, and how their words are understood as protest, not just agreement."
+   }
+  ],
+  "sources_consulted": [
+   "Malbim",
+   "Mizrachi",
+   "Sekhel Tov",
+   "Da'at Zekenim",
+   "Hadar Zekenim",
+   "Lekach Tov",
+   "Siftei Chakhamim",
+   "Gur Aryeh",
+   "Alshich",
+   "Haamek Davar",
+   "Meshech Chochmah",
+   "Tur HaAroch",
+   "Bereshit Rabbati"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב מבקש מלבן לשלחו לביתו ולקבוע את שכרו. לבן מודה שנתברך בגללו. יעקב מציע לקבל את הנקודים והטלואים שיוולדו מכאן והלאה, ולבן מסכים אך מסיר מן העדר בהמות כאלה. יעקב משתמש במקלות מפוצלים ליד שקתות המים, והצאן שלו מתרבה מאוד. בני לבן מתלוננים, ה' אומר ליעקב לשוב לארץ אבותיו, ויעקב קורא לרחל וללאה. הן עונות שאביהן נהג בהן כנכריות ומסכימות לצאת.",
+  "questions": [
+   {
+    "title": "למה לבן אומר \"ויאמר\" פעם שנייה, מיד אחרי שכבר דיבר?",
+    "pasuk": {
+     "text": "ויאמר נקבה שכרך עלי ואתנה",
+     "ref": "Genesis 30:28",
+     "label": "בראשית ל, כח"
+    },
+    "question": "המלבי\"ם מונה את הלשון המיותר בשיחה הזו, ובראשה ה\"ויאמר\" הכפול אחרי שלבן כבר ביקש מיעקב לקבוע את שכרו.",
+    "asked_by": [
+     {
+      "name": "המלבי\"ם",
+      "ref": "Malbim on Genesis 30:28:1-2",
+      "era": "acharon",
+      "quote": "למה אמר שנית ויאמר, תחלה אמר נקבה שכרך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המלבי\"ם: ה\"ויאמר\" השני בא להכחיש את הנחת יעקב. לבן נתן את בנותיו בחינם ולא כשכר עבודתו, ולכן אין ליעקב רשות להוציאן לארץ אחרת.",
+      "sources": [
+       {
+        "name": "המלבי\"ם",
+        "ref": "Malbim on Genesis 30:28:1-2",
+        "quote": "להכחיש הנחת יעקב ויסודו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך לבן עונה לטענת יעקב ששנות עבודתו היו מחיר נשותיו."
+   },
+   {
+    "title": "למה יעקב מבקש מלבן להסיר את הנקודים והטלואים מן העדר?",
+    "pasuk": {
+     "text": "הסר משם כל שה נקד וטלוא וכל שה חום בכשבים",
+     "ref": "Genesis 30:32",
+     "label": "בראשית ל, לב"
+    },
+    "question": "אם הבהמות כבר בעדר, יעקב יכול היה פשוט למנות אותן. למה ההסכם דורש להוציא אותן קודם?",
+    "asked_by": [
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 30:32:3",
+      "era": "acharon",
+      "quote": "מה צורך שיסירם משם ימנם"
+     },
+     {
+      "name": "שכל טוב",
+      "ref": "Midrash Sekhel Tov, Bereshit 30:32:5",
+      "era": "chazal",
+      "quote": "ולמה הסירם מתוך הצאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שכל טוב: כדי שלבן לא יחשוד ביעקב שערב את הנקודים והטלואים של לבן שכבר היו שם עם אלה שנולדו אחר כך.",
+      "sources": [
+       {
+        "name": "שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 30:32:5",
+        "quote": "שלא יחשדהו לבן לומר שעירב יעקב"
+       }
+      ]
+     },
+     {
+      "text": "המלבי\"ם: מספרם של הנקודים והטלואים כיום ידוע ואין חשד בהם. הבדיקה היא לעתיד, כשאין מספר הנולדים ידוע, וכל מה שאינו נקוד וטלוא גנוב הוא.",
+      "sources": [
+       {
+        "name": "המלבי\"ם",
+        "ref": "Malbim on Genesis 30:33:1",
+        "quote": "ולעתיד אין מספר הנולדים ידוע"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה ממה יעקב חשש שלבן יטען אחר כך, ואיך שילב יושר בתוך ההסכם."
+   },
+   {
+    "title": "איך יעקב, צדיק גמור, עשה את עניין המקלות כדי שהצאן תלד נקודים וטלואים?",
+    "pasuk": {
+     "text": "ויקח לו יעקב מקל לבנה לח",
+     "ref": "Genesis 30:37",
+     "label": "בראשית ל, לז"
+    },
+    "question": "עניין המקלות נראה כרמאות בלבן. ארבעה מקורות שואלים איך עשה זאת יעקב, וכל אחד עונה אחרת.",
+    "asked_by": [
+     {
+      "name": "דעת זקנים",
+      "ref": "Da'at Zekenim on Genesis 30:37:1",
+      "era": "rishon",
+      "quote": "וא\"ת צדיק גמור כיעקב היאך עשה רמאות"
+     },
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 30:38:1",
+      "era": "rishon",
+      "quote": "וא\"ת א\"כ היכי עשה יעקב רמאות"
+     },
+     {
+      "name": "לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 30:39:1",
+      "era": "chazal",
+      "quote": "ואם תאמר היאך עשה יעקב ככה להציג את המקלות"
+     },
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 30:39:1",
+      "era": "acharon",
+      "quote": "וא\"ת היאך עשה יעקב רמאות כזה במקלות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "דעת זקנים: לבן שינה את התנאי. יעקב התנה רק על הקטנים, ולבן הסיר אפילו את הגדולים, ולכן עשה יעקב כל מה שיכול.",
+      "sources": [
+       {
+        "name": "דעת זקנים",
+        "ref": "Da'at Zekenim on Genesis 30:37:1",
+        "quote": "לבן שינה תנאו שלא התנה להסיר אלא הנקודים"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: לבן התחיל ברמאות, שהרי הסיר גם את התישים וגם את העזים הנקודות והטלואות, ולא נשאר מי שיוליד נקודים, ולכן עשה יעקב את המקלות.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 30:38:1",
+        "quote": "לבן התחיל לעשות לו רמאות"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב: אין זו גניבה. יעקב עשה את מעשיו על פי המלאך, והמלאך סייע לו, כדרך האות שבא על עשיית מעשה.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 30:39:1",
+        "quote": "מה שעשה על פי המלאך עשה"
+       }
+      ]
+     },
+     {
+      "text": "שפתי חכמים (בשם המהרש\"ל): אלה שנולדו מצאן יעקב היו לפי הדין שלו גם בלי סימנים, ולכן רק הבטיח את מה ששלו.",
+      "sources": [
+       {
+        "name": "שפתי חכמים",
+        "ref": "Siftei Chakhamim, Genesis 30:39:1",
+        "quote": "מן הדין היו של יעקב"
+       }
+      ]
+     }
+    ],
+    "why": "זו השאלה המוסרית המרכזית של העלייה, והתשובות נעות בין רמאות לבן לבין סיוע משמים."
+   },
+   {
+    "title": "איך הגיעו ליעקב עבדים ושפחות, אם הפסוק מדבר על ריבוי הצאן?",
+    "pasuk": {
+     "text": "ויפרץ האיש מאד מאד ויהי לו צאן רבות ושפחות ועבדים וגמלים וחמרים",
+     "ref": "Genesis 30:43",
+     "label": "בראשית ל, מג"
+    },
+    "question": "בני לבן אומרים אחר כך שיעקב לקח הכול מאביהם. הצאן אפשר שהיה מלבן, אבל עבדים ושפחות הם עניין אחר.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 30:43:2",
+      "era": "acharon",
+      "quote": "ואיך יתכן זה, בשלמא הצאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "גור אריה: יעקב היה מוכר את צאנו בדמים יקרים וקונה עבדים ושפחות, ולכן הכול עדיין מאביהם היה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 30:43:2",
+        "quote": "היה מוכר צאנו בדמים יקרים וקונה עבדים ושפחות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר איך הפסוק מתקשר לדברי בני לבן בפרק הבא."
+   },
+   {
+    "title": "למה ה' מבטיח \"ואהיה עמך\" רק בשובו לארץ, ולא כבר בחרן?",
+    "pasuk": {
+     "text": "ושוב אל ארץ אבותיך ולמולדתך ואהיה עמך",
+     "ref": "Genesis 31:3",
+     "label": "בראשית לא, ג"
+    },
+    "question": "הגור אריה שואל למה לא יהיה ה' עם יעקב במקום שבו הוא נמצא. המזרחי מוסיף שרש\"י במקום אחר מפרש הבטחה זו כשמירה בדרך.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 31:3:1",
+      "era": "acharon",
+      "quote": "והשתא קשה דלמה לא יהיה עמו כאן"
+     },
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 31:3:1",
+      "era": "acharon",
+      "quote": "אך קשה א\"כ מהו זה שפרש\"י בפרש' וישלח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המזרחי: \"ושם\" הוא מראה מקום לשרות השכינה. יעקב כאן מחובר לטמא, ואין ה' רוצה להשרות עליו שכינתו.",
+      "sources": [
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 31:3:1",
+        "quote": "מפני שאת' מחובר לטמא ואי אפשי להשרות שכינתי עליך"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: מכיון שכתוב \"ואהיה עמך\" סתם, דבר זה כולל הכול.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 31:3:1",
+        "quote": "דכיון דסתמא כתיב ואהיה עמך דבר זה יכלול הכל"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל מה פירוש שה' עם האדם, והאם המקום משנה."
+   },
+   {
+    "title": "למה המלאך מזכיר ליעקב את המצבה שמשח ואת נדרו?",
+    "pasuk": {
+     "text": "אנכי האל בית אל אשר משחת שם מצבה אשר נדרת לי שם נדר",
+     "ref": "Genesis 31:13",
+     "label": "בראשית לא, יג"
+    },
+    "question": "האלשיך שואל למה הפסוק מזכיר את המשיחה ואת הנדר. המזרחי שואל מה מוסיף \"אשר נדרת לי\".",
+    "asked_by": [
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 31:13:1",
+      "era": "acharon",
+      "quote": "וגם למה מזכיר לו משיחת האבן ושנדר לו שם נדר"
+     },
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 31:13:3",
+      "era": "acharon",
+      "quote": "דאם לא כן אשר נדרת לי למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המזרחי: המילים \"אשר נדרת\" באות לומר שיעקב מחויב לשלם אותו.",
+      "sources": [
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 31:13:3",
+        "quote": "וצריך אתה לשלמו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: זו תזכורת שיעקב נחשב כמאחר את נדרו, וזה סכנה גם לו וגם להם.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 31:13:1",
+        "quote": "והזכירני הנדר להורות אשר הנני נחשב כמאחר נדרי"
+       }
+      ]
+     },
+     {
+      "text": "משך חכמה: מזכיר שכל הנודר ואינו מקיים אשתו מתה. יעקב איחר מפני שהגויים התחילו לעשות מצבות לעבודה זרה.",
+      "sources": [
+       {
+        "name": "משך חכמה",
+        "ref": "Meshekh Chokhmah, Vayetze 15",
+        "quote": "הזכיר להם הנדר שכל הנודר ואינו מקיים אשתו מתה"
+       }
+      ]
+     },
+     {
+      "text": "האלשיך: ה' אינו מחייב את יעקב ללכת עתה לבית אל. כעת עליו רק לצאת מהמקום הזה, ואחר כך ילך לבית אל.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 31:13:1",
+        "quote": "איני מחייבך עתה ללכת עד בית אל"
+       }
+      ]
+     }
+    ],
+    "why": "זה מקשר את הציווי לצאת אל הנדר שנדר יעקב כשברח לראשונה."
+   },
+   {
+    "title": "למה כתוב \"ותען רחל ולאה\" בלשון יחיד, ומה פירוש \"העוד לנו חלק ונחלה\"?",
+    "pasuk": {
+     "text": "ותען רחל ולאה ותאמרנה לו העוד לנו חלק ונחלה בבית אבינו",
+     "ref": "Genesis 31:14",
+     "label": "בראשית לא, יד"
+    },
+    "question": "שכל טוב שואל למה \"ותען\" בלשון יחיד. הטור הארוך שואל איך ענתה רחל לפני אחותה הגדולה. העמק דבר שואל למה הרבה יעקב לדבר על עושר, והמזרחי מה משמעות התשובה.",
+    "asked_by": [
+     {
+      "name": "שכל טוב",
+      "ref": "Midrash Sekhel Tov, Bereshit 31:14:1",
+      "era": "chazal",
+      "quote": "ולמה כתיב ותען לשון יחידה"
+     },
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 31:14:1",
+      "era": "rishon",
+      "quote": "איך לא נהגה רחל כבוד בלאה אחותה הגדולה ממנה"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 31:14:2",
+      "era": "acharon",
+      "quote": "למה לך הצעת דברים כ״כ בדבר העושר"
+     },
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 31:14:1",
+      "era": "acharon",
+      "quote": "משום דמתשובת העוד לנו וגו' משמע שהי' יעקב מונען"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שכל טוב: לרחל קרא ורחל ענתה, ולאה הודתה לדברי רחל. הביטוי \"העוד לנו חלק ונחלה\" הוא לשון תמיהה.",
+      "sources": [
+       {
+        "name": "שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 31:14:1",
+        "quote": "אלא שלאה הודית לדברי רחל"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבתי: רבי יהודה אומר שרחל מתה ראשונה מפני שדברה בפני אחותה.",
+      "sources": [
+       {
+        "name": "בראשית רבתי",
+        "ref": "Bereshit Rabbati, Parashat Vayetze 44",
+        "quote": "ר' יהודה אומר מפני שדברה בפני אחותה"
+       }
+      ]
+     },
+     {
+      "text": "המזרחי: זו שאלת תימה: וכי אתה צריך לפייס אותנו, כשאין לנו תקווה לירש מאבינו?",
+      "sources": [
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 31:14:1",
+        "quote": "וכי אתה צריך לפייס אותנו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אין תקווה שלבן יתן להן את חלקן, שהרי הן רואות כמה התנהג עמהן בדרך זר.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 31:14:2",
+        "quote": "הלא אנו רואים כמה התנהג עמנו בדרך זר"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מי דיבר בשם האחיות, ואיך דבריהן מובנים כמחאה ולא רק כהסכמה."
+   }
+  ],
+  "sources_consulted": [
+   "המלבי\"ם",
+   "המזרחי",
+   "שכל טוב",
+   "דעת זקנים",
+   "הדר זקנים",
+   "לקח טוב",
+   "שפתי חכמים",
+   "גור אריה",
+   "האלשיך",
+   "העמק דבר",
+   "משך חכמה",
+   "טור הארוך",
+   "בראשית רבתי"
+  ]
+ }
+}
