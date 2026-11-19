@@ -1,0 +1,1135 @@
+{
+ "date": "2026-11-19",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 31:17-31:42",
+ "hebrew_date": {
+  "hebrew": "ט׳ בְּכִסְלֵו תשפ״ז",
+  "english": "9 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob takes his wives, children and flocks and flees toward Canaan while Laban is away shearing his sheep; Rachel steals her father's teraphim. Laban is told on the third day, pursues for seven days and overtakes Jacob in the hill country of Gilead, but God warns him in a dream not to speak with Jacob from good to bad. Laban accuses Jacob of stealing away and of stealing his gods. Jacob, not knowing that Rachel took them, declares that whoever has them shall not live. Laban searches the tents and Rachel hides the teraphim in the camel cushion, saying the way of women is upon her. Jacob then protests his twenty years of faithful service.",
+  "questions": [
+   {
+    "title": "Why did Rachel take her father's teraphim?",
+    "pasuk": {
+     "text": "וַתִּגְנֹ֣ב רָחֵ֔ל אֶת הַתְּרָפִ֖ים",
+     "ref": "Genesis 31:19",
+     "label": "Genesis 31:19"
+    },
+    "question": "If she meant to remove her father from idolatry, why carry the idols with her instead of burying or burning them?",
+    "asked_by": [
+     {
+      "name": "Tur HaArokh",
+      "ref": "Tur HaArokh, Genesis 31:19:1",
+      "era": "rishon",
+      "quote": "ואלו הי' כן למה הוליכתם עמה ולא טמנתם בדרך"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 31:19:2",
+      "era": "acharon",
+      "quote": "ואם תאמר היה לשרוף אותם או להשליך אותם בנהר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi and Midrash Lekach Tov: she meant to separate her father from idolatry, for the sake of heaven.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:19:2",
+        "quote": "לְהַפְרִישׁ אֶת אָבִיהָ"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:19:2",
+        "quote": "לא גנבתם אלא נתכוונה לשם שמים"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: she did not burn them because Laban might not believe her denial and would hold her up.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 31:19:2",
+        "quote": "דסבורה היתה שמא ירדוף אחריהם"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: she took them so they could not tell Laban that Jacob was fleeing.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 31:19:1",
+        "quote": "שלא יגידו ויודיעו ללבן כי רוצה יעקב לברוח"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the teraphim were instruments for fixing the hours and divining the future.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:19:1",
+        "quote": "שֶׁהֵם כֵּלִים לְקַבֵּל הַשָּׁעוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "It touches Rachel's intent, and Laban's later charge against Jacob."
+   },
+   {
+    "title": "Why does the Torah say Jacob 'stole the heart' of Laban?",
+    "pasuk": {
+     "text": "וַיִּגְנֹ֣ב יַעֲקֹ֔ב אֶת לֵ֥ב לָבָ֖ן הָאֲרַמִּ֑י",
+     "ref": "Genesis 31:20",
+     "label": "Genesis 31:20"
+    },
+    "question": "Not telling Laban he was leaving is not theft, and the phrase 'because he was fleeing' sounds as if Jacob should have announced that he was fleeing. What does 'stole the heart' mean?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 31:20:1",
+      "era": "acharon",
+      "quote": "הנה קשה כי מה שלא הגיד לו אינו גניבת לב"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 31:20:1-2",
+      "era": "acharon",
+      "quote": "ויגנוב יעקב את לב לבן נתקשו כלם בבאורו"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 31:20:1",
+      "era": "acharon",
+      "quote": "קָשֶׁה אֵיךְ יֻצְדַּק לוֹמַר אֵלָיו שֶׁהוּא בּוֹרֵחַ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak and Sforno: he hid his intention. Jacob made Laban think he was staying, so no one warned Laban.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 31:20:2",
+        "quote": "גָּנַב דַּעְתּוֹ כִּי בּוֹרֵחַ הוּא וְהֶעְלִים מִמֶּנּוּ"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 31:20:3",
+        "quote": "הֶרְאָה יַעֲקֹב עַצְמוֹ כְּאִלּוּ בִּלְתִּי מַרְגִּישׁ בְּאֵיבַת לָבָן"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra and Midrash Lekach Tov: 'heart' means his knowledge; leaving in secret is called stealing.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 31:20:1",
+        "quote": "לא גנב יעקב כי אם דעתו"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:20:1",
+        "quote": "לפי שהלך בסתר כתוב ויגנוב יעקב את לב לבן"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: the Torah is criticizing Jacob, who should have trusted God and told Laban he was leaving.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 31:20:1",
+        "quote": "יעקב עשה שלא כהוגן בהליכה זו בלי רשות לבן"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Jacob's flight was a fault or a necessity."
+   },
+   {
+    "title": "How did Laban catch Jacob after seven days if he was told on the third?",
+    "pasuk": {
+     "text": "וַיִּרְדֹּ֣ף אַחֲרָ֔יו דֶּ֖רֶךְ שִׁבְעַ֣ת יָמִ֑ים",
+     "ref": "Genesis 31:23",
+     "label": "Genesis 31:23"
+    },
+    "question": "Laban was told on the third day, yet the verse says he pursued a seven-day journey and caught him. The numbers seem not to fit.",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 31:23:1",
+      "era": "rishon",
+      "quote": "וקשה דהא כשברח יעקב הוגד ללבן ביום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: during the three days the messenger travelled, Jacob kept going, so Jacob was six days ahead; Laban covered in one day what Jacob covered in seven.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:23:2",
+        "quote": "כָּל אוֹתָן ג' יָמִים שֶׁהָלַךְ הַמַּגִּיד לְהַגִּיד לְלָבָן הָלַךְ יַעֲקֹב לְדַרְכּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam and Shadal: Jacob moved slowly because of his flocks, while Laban pursued at speed.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 31:23:1",
+        "quote": "כי יעקב היה הולך לאט בשביל צאנו"
+       },
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 31:23:1",
+        "quote": "ולבן רדף אחריו עם אנשי חיל במרוצה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah's wording is read against its own numbers."
+   },
+   {
+    "title": "What is wrong with Laban speaking to Jacob 'from good to bad'?",
+    "pasuk": {
+     "text": "הִשָּׁ֧מֶר לְךָ֛ פֶּן תְּדַבֵּ֥ר עִֽם יַעֲקֹ֖ב מִטּ֥וֹב עַד רָֽע׃",
+     "ref": "Genesis 31:24",
+     "label": "Genesis 31:24"
+    },
+    "question": "Speaking bad words is understandable to forbid, but why forbid speaking good ones?",
+    "asked_by": [
+     {
+      "name": "Torah Temimah",
+      "ref": "Torah Temimah on Torah, Genesis 31:24:1",
+      "era": "acharon",
+      "quote": "אלא טוב אמאי לא"
+     },
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 31:24:1",
+      "era": "chazal",
+      "quote": "ולמה הזהירו הכתוב שידבר בטובה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: all the good of the wicked is bad in the eyes of the righteous.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:24:1",
+        "quote": "כָּל טוֹבָתָן שֶׁל רְשָׁעִים רָעָה הִיא אֵצֶל הַצַּדִּיקִים"
+       }
+      ]
+     },
+     {
+      "text": "Ramban and Sforno: he must not persuade Jacob to return with promises, nor threaten him.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:24:2",
+        "quote": "פֶּן תְּדַבֵּר עִמּוֹ לַעֲשׂוֹת לוֹ טוֹבָה אִם יָשׁוּב עִמְּךָ מִדַּרְכּוֹ"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 31:24:2",
+        "quote": "לֹא תְּפַתֵּנּוּ שֶׁיָּשׁוּב בְּתִתְּךָ לוֹ תִּקְוָה לְהֵיטִיב עִמּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: he may not begin with good and end with bad, but may speak from bad to good.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 31:24:1",
+        "quote": "שבדברו עמו לא יתחיל בטוב ויסיים ברע"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: speaking kindly he would mention the idols, the gods of Abraham and of Nahor.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 31:24:1",
+        "quote": "כשהיה מדבר בטובה היה מזכיר"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches how God shielded Jacob from both Laban's threats and his flattery."
+   },
+   {
+    "title": "If Jacob left out of longing for home, why did he steal Laban's gods?",
+    "pasuk": {
+     "text": "לָ֥מָּה גָנַ֖בְתָּ אֶת אֱלֹהָֽי׃",
+     "ref": "Genesis 31:30",
+     "label": "Genesis 31:30"
+    },
+    "question": "Laban grants that Jacob left out of longing for his father's house, yet asks why he stole the gods. Longing for home does not explain that.",
+    "asked_by": [
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 31:30:2",
+      "era": "rishon",
+      "quote": "בגניבת אלהי מה טעם יש"
+     },
+     {
+      "name": "Sforno",
+      "ref": "Sforno on Genesis 31:30:3",
+      "era": "acharon",
+      "quote": "שֶׁלֹּא הָיְתָה תַּאֲוָתְךָ לְבֵית אָבִיךָ סִבָּה שֶׁתִּגְנוֹב אֶת אֱלֹהַי"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 31:30:1",
+      "era": "acharon",
+      "quote": "הלא בבית אביך אין עובדים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Malbim: Laban reasons that Jacob must have other thefts and took the teraphim so Laban could not learn what was missing.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 31:30:1",
+        "quote": "ויראת שיודע לי ע\"י התרפים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: it was only to anger and pain Laban, with no benefit in Jacob's father's house.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 31:30:1",
+        "quote": "וביחוד גניבת התרפים שהוא רק להכעיס ולצער"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Laban fears the teraphim would be the ones to tell him.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 31:30:1",
+        "quote": "לְצַד שֶׁהוּא הַמַּגִּיד…שֶׁמָּא יוֹדִיעֵ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Laban reads Jacob's motives, and sets up the oath of verse 32."
+   },
+   {
+    "title": "Did Jacob's words really cause Rachel's death?",
+    "pasuk": {
+     "text": "עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת אֱלֹהֶ֘יךָ֮ לֹ֣א יִֽחְיֶה֒",
+     "ref": "Genesis 31:32",
+     "label": "Genesis 31:32"
+    },
+    "question": "Rashi says Rachel died on the road from this curse. But how can a righteous person's curse strike a matriarch who did not deserve it?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 31:32:1",
+      "era": "rishon",
+      "quote": "אם כן יודיעני מי התפלל על אשת פנחס"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 31:32:1",
+      "era": "acharon",
+      "quote": "ואבן עזרא הקשה על דברי חכמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, Rabbeinu Bahya and Midrash Aggadah: Rachel died on the way because of Jacob's curse.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:32:1",
+        "quote": "וּמֵאוֹתָהּ קְלָלָה מֵתָה רָחֵל בַּדֶּרֶךְ"
+       },
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 31:32:1",
+        "quote": "מִן הַחֵרֶם הַזֶּה נֶעֶנְשָׁה רָחֵל שֶׁמֵּתָה בַּדֶּרֶךְ"
+       },
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 31:32:1",
+        "quote": "ומפני החרם הזה מתה רחל בלא זמנה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam, Shadal and Tur HaArokh: it was not a curse; 'will not live' means 'I will put him to death'.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 31:32:1",
+        "quote": "כלומר אני אעשה נקמה מגופו"
+       },
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 31:32:2",
+        "quote": "כי אני אהרגהו"
+       },
+       {
+        "name": "Tur HaArokh",
+        "ref": "Tur HaArokh, Genesis 31:32:1",
+        "quote": "שאינו לשון קללה אלא"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Jacob thought a servant had stolen them to worship them, which carries the death penalty.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 31:32:1",
+        "quote": "כִּי חָשַׁב שֶׁגָּנַב אוֹתָם אֶחָד מֵהָעֲבָדִים לְעָבְדָם"
+       }
+      ]
+     }
+    ],
+    "why": "It touches how far a righteous person is responsible for words said in ignorance."
+   },
+   {
+    "title": "Why does the verse say Laban left Leah's tent and entered Rachel's?",
+    "pasuk": {
+     "text": "וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל׃",
+     "ref": "Genesis 31:33",
+     "label": "Genesis 31:33"
+    },
+    "question": "The verse lists Jacob's tent, Leah's tent and the maidservants' tents, then says he left Leah's tent for Rachel's. Where was Rachel's tent, and in what order did he search?",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 31:33:1",
+      "era": "rishon",
+      "quote": "וא\"ת והלא היה לו לכתוב ויצא מאהל שתי האמהות ויבוא באהל רחל"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 31:33:1",
+      "era": "acharon",
+      "quote": "דקשיא איך יצא מאהל לאה ויבא באהל רחל"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 31:33:1",
+      "era": "rishon",
+      "quote": "וְעַל דֶּרֶךְ הַפְּשָׁט אֵינֶנּוּ נָכוֹן שֶׁיִּקְרָאֶנּוּ בְּפָסוּק אֶחָד בִּשְׁנֵי שֵׁמוֹת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Jacob's tent is Rachel's; after leaving Leah's tent Laban returned to Rachel's before searching the maidservants' tent, since he knew she was a thief.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:33:2",
+        "quote": "כְּשֶׁיָּצָא מֵאֹהֶל לֵאָה חָזַר לוֹ לְאֹהֶל רָחֵל קֹדֶם שֶׁיְּחַפֵּשׂ בְּאֹהֶל הָאֲמָהוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the verse took a short route and mentioned Rachel's tent later.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 31:33:1",
+        "quote": "והקרוב אלי שהכתוב אחז דרך קצרה…ואיחר להזכיר אהל רחל"
+       }
+      ]
+     },
+     {
+      "text": "Hadar Zekenim: only Rachel's tent opened to the public way, so he had to pass through it on his way out.",
+      "sources": [
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 31:33:1",
+        "quote": "שלא היה שום אהל פתוח לרשות הרבים כי אם אהל רחל לבד"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: Rachel's tent had its own entrance, so he had to return through Leah's tent.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 31:33:1",
+        "quote": "והיה יוצא לאהל רחל שהיה לו פתח בפ\"ע"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the wording of the search fixes where Rachel hid the idols."
+   },
+   {
+    "title": "How does 'the way of women is upon me' excuse Rachel from rising?",
+    "pasuk": {
+     "text": "כִּי דֶ֥רֶךְ נָשִׁ֖ים לִ֑י",
+     "ref": "Genesis 31:35",
+     "label": "Genesis 31:35"
+    },
+    "question": "Rachel tells her father she cannot rise because the way of women is upon her. Why would that excuse her from standing before her father?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 31:35:1",
+      "era": "rishon",
+      "quote": "לֹא הֲבִינוֹתִי מָה הִתְנַצְּלוּת זֶה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: in ancient times menstruating women lived apart and did not approach or speak to others.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:35:1",
+        "quote": "כִּי הָיוּ הַנִּדּוֹת בִּימֵי הַקַּדְמוֹנִים מְרֻחָקוֹת מְאֹד"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: she was menstruating and unwell, and could not rise.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 31:35:1",
+        "quote": "נידות והנני חולה ואיני יכולה לקום"
+       }
+      ]
+     },
+     {
+      "text": "Tur HaArokh: some say it refers to her pregnancy with Benjamin.",
+      "sources": [
+       {
+        "name": "Tur HaArokh",
+        "ref": "Tur HaArokh, Genesis 31:35:1",
+        "quote": "על ההריון שהיתה מעוברת מבנימין"
+       }
+      ]
+     },
+     {
+      "text": "Meshekh Chokhmah, citing the Shelah: it alludes to the teraphim, which defile like a niddah.",
+      "sources": [
+       {
+        "name": "Meshekh Chokhmah",
+        "ref": "Meshekh Chokhmah, Vayetze 22",
+        "quote": "הוא רמז על התרפים שע\"ז מטמאה במגע ומשא כנדה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Rachel's answer is read as plain excuse or as a hidden hint."
+   }
+  ],
+  "sources_consulted": [
+   "Tur HaArokh",
+   "Gur Aryeh",
+   "Rashi",
+   "Midrash Lekach Tov",
+   "Rashbam",
+   "Ramban",
+   "Alshich",
+   "Malbim",
+   "Or HaChaim",
+   "Radak",
+   "Sforno",
+   "Ibn Ezra",
+   "Tzror HaMor",
+   "Hadar Zekenim",
+   "Shadal",
+   "Torah Temimah",
+   "Midrash Aggadah",
+   "Bekhor Shor",
+   "Haamek Davar",
+   "Rabbeinu Bahya",
+   "Meshekh Chokhmah"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב נושא את נשיו, בניו ומקנהו ובורח לכיוון כנען בשעה שלבן הלך לגזוז את צאנו, ורחל גונבת את תרפי אביה. ללבן מוגד ביום השלישי, והוא רודף שבעת ימים ומשיג את יעקב בהר הגלעד, אך אלהים מזהיר אותו בחלום לבל ידבר עם יעקב מטוב עד רע. לבן מאשים את יעקב שברח בסתר ושגנב את אלהיו. יעקב, שלא ידע שרחל לקחתם, קובע שאשר ימצא אתו אלהיו לא יחיה. לבן מחפש באהלים, ורחל שמה את התרפים בכר הגמל ואומרת כי דרך נשים לה. אז יעקב מתרעם ומזכיר את עשרים שנות עבודתו הנאמנה.",
+  "questions": [
+   {
+    "title": "מדוע גנבה רחל את התרפים?",
+    "pasuk": {
+     "text": "וַתִּגְנֹ֣ב רָחֵ֔ל אֶת הַתְּרָפִ֖ים",
+     "ref": "Genesis 31:19",
+     "label": "בראשית לא, יט"
+    },
+    "question": "אם נתכוונה להפריש את אביה מעבודה זרה, מדוע לקחתם עמה ולא שרפתם או טמנתם?",
+    "asked_by": [
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 31:19:1",
+      "era": "rishon",
+      "quote": "ואלו הי' כן למה הוליכתם עמה ולא טמנתם בדרך"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 31:19:2",
+      "era": "acharon",
+      "quote": "ואם תאמר היה לשרוף אותם או להשליך אותם בנהר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י ולקח טוב: נתכוונה להפריש את אביה מעבודה זרה, לשם שמים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:19:2",
+        "quote": "לְהַפְרִישׁ אֶת אָבִיהָ"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:19:2",
+        "quote": "לא גנבתם אלא נתכוונה לשם שמים"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: לא שרפתם, שמא ירדוף לבן ולא יאמין לה.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 31:19:2",
+        "quote": "דסבורה היתה שמא ירדוף אחריהם"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: כדי שלא יגידו ללבן שיעקב בורח.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 31:19:1",
+        "quote": "שלא יגידו ויודיעו ללבן כי רוצה יעקב לברוח"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: התרפים היו כלים לקבל השעות ולקסום בהם לדעת עתידות.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:19:1",
+        "quote": "שֶׁהֵם כֵּלִים לְקַבֵּל הַשָּׁעוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע לכוונת רחל ולטענת לבן נגד יעקב."
+   },
+   {
+    "title": "מדוע נאמר שיעקב 'גנב את לב' לבן?",
+    "pasuk": {
+     "text": "וַיִּגְנֹ֣ב יַעֲקֹ֔ב אֶת לֵ֥ב לָבָ֖ן הָאֲרַמִּ֑י",
+     "ref": "Genesis 31:20",
+     "label": "בראשית לא, כ"
+    },
+    "question": "הרי שלא להגיד ללבן אינו גניבה, ואילו היה מגיד לו שהוא בורח לא היה בורח. מה פירוש 'ויגנוב את לב'?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 31:20:1",
+      "era": "acharon",
+      "quote": "הנה קשה כי מה שלא הגיד לו אינו גניבת לב"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 31:20:1-2",
+      "era": "acharon",
+      "quote": "ויגנוב יעקב את לב לבן נתקשו כלם בבאורו"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 31:20:1",
+      "era": "acharon",
+      "quote": "קָשֶׁה אֵיךְ יֻצְדַּק לוֹמַר אֵלָיו שֶׁהוּא בּוֹרֵחַ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רד\"ק וספורנו: יעקב העלים את כוונתו והראה ללבן כאילו הוא נשאר, ולכן איש לא הגיד ללבן.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 31:20:2",
+        "quote": "גָּנַב דַּעְתּוֹ כִּי בּוֹרֵחַ הוּא וְהֶעְלִים מִמֶּנּוּ"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 31:20:3",
+        "quote": "הֶרְאָה יַעֲקֹב עַצְמוֹ כְּאִלּוּ בִּלְתִּי מַרְגִּישׁ בְּאֵיבַת לָבָן"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא ולקח טוב: 'לב' הוא הדעת, והליכה בסתר נקראת גניבה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 31:20:1",
+        "quote": "לא גנב יעקב כי אם דעתו"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:20:1",
+        "quote": "לפי שהלך בסתר כתוב ויגנוב יעקב את לב לבן"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: התורה מבקרת את יעקב, שהיה לו לבטוח באלהיו ולהגיד ללבן.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 31:20:1",
+        "quote": "יעקב עשה שלא כהוגן בהליכה זו בלי רשות לבן"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם בריחת יעקב היתה חטא או הכרח."
+   },
+   {
+    "title": "איך השיג לבן את יעקב אחרי שבעה ימים אם הוגד לו ביום השלישי?",
+    "pasuk": {
+     "text": "וַיִּרְדֹּ֣ף אַחֲרָ֔יו דֶּ֖רֶךְ שִׁבְעַ֣ת יָמִ֑ים",
+     "ref": "Genesis 31:23",
+     "label": "בראשית לא, כג"
+    },
+    "question": "ללבן הוגד ביום השלישי, ובכל זאת נאמר שרדף דרך שבעת ימים והשיגו. המספרים אינם מסתדרים.",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 31:23:1",
+      "era": "rishon",
+      "quote": "וקשה דהא כשברח יעקב הוגד ללבן ביום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בשלושת הימים שהלך המגיד הלך יעקב לדרכו, ולבן עשה ביום אחד מה שיעקב עשה בשבעה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:23:2",
+        "quote": "כָּל אוֹתָן ג' יָמִים שֶׁהָלַךְ הַמַּגִּיד לְהַגִּיד לְלָבָן הָלַךְ יַעֲקֹב לְדַרְכּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם ושד\"ל: יעקב הלך לאט בשביל צאנו, ולבן רדף במרוצה.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 31:23:1",
+        "quote": "כי יעקב היה הולך לאט בשביל צאנו"
+       },
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 31:23:1",
+        "quote": "ולבן רדף אחריו עם אנשי חיל במרוצה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד קוראים את לשון התורה מול המספרים שבה."
+   },
+   {
+    "title": "מה פסול בכך שלבן ידבר עם יעקב 'מטוב עד רע'?",
+    "pasuk": {
+     "text": "הִשָּׁ֧מֶר לְךָ֛ פֶּן תְּדַבֵּ֥ר עִֽם יַעֲקֹ֖ב מִטּ֥וֹב עַד רָֽע׃",
+     "ref": "Genesis 31:24",
+     "label": "בראשית לא, כד"
+    },
+    "question": "להזהיר על דברי רע מובן, אך מדוע להזהיר גם על דברי טוב?",
+    "asked_by": [
+     {
+      "name": "תורה תמימה",
+      "ref": "Torah Temimah on Torah, Genesis 31:24:1",
+      "era": "acharon",
+      "quote": "אלא טוב אמאי לא"
+     },
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 31:24:1",
+      "era": "chazal",
+      "quote": "ולמה הזהירו הכתוב שידבר בטובה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כל טובתן של רשעים רעה היא אצל הצדיקים.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:24:1",
+        "quote": "כָּל טוֹבָתָן שֶׁל רְשָׁעִים רָעָה הִיא אֵצֶל הַצַּדִּיקִים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן וספורנו: אל יפתה את יעקב לשוב באמצעות הבטחות, ואל יפחידו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:24:2",
+        "quote": "פֶּן תְּדַבֵּר עִמּוֹ לַעֲשׂוֹת לוֹ טוֹבָה אִם יָשׁוּב עִמְּךָ מִדַּרְכּוֹ"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 31:24:2",
+        "quote": "לֹא תְּפַתֵּנּוּ שֶׁיָּשׁוּב בְּתִתְּךָ לוֹ תִּקְוָה לְהֵיטִיב עִמּוֹ"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: אל יתחיל בטוב ויסיים ברע, אך מותר לו לדבר מרע ועד טוב.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 31:24:1",
+        "quote": "שבדברו עמו לא יתחיל בטוב ויסיים ברע"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: בדבריו בטובה היה מזכיר ע\"ז, אלהי אברהם ואלהי נחור.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 31:24:1",
+        "quote": "כשהיה מדבר בטובה היה מזכיר"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד כיצד הגן ה' על יעקב גם מאיומי לבן וגם מחנופתו."
+   },
+   {
+    "title": "אם יעקב הלך מגעגועים לבית אביו, למה גנב את אלהי לבן?",
+    "pasuk": {
+     "text": "לָ֥מָּה גָנַ֖בְתָּ אֶת אֱלֹהָֽי׃",
+     "ref": "Genesis 31:30",
+     "label": "בראשית לא, ל"
+    },
+    "question": "לבן מודה שיעקב הלך מגעגועים לבית אביו, ובכל זאת שואל למה גנב את אלהיו. געגועים אינם מסבירים זאת.",
+    "asked_by": [
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 31:30:2",
+      "era": "rishon",
+      "quote": "בגניבת אלהי מה טעם יש"
+     },
+     {
+      "name": "ספורנו",
+      "ref": "Sforno on Genesis 31:30:3",
+      "era": "acharon",
+      "quote": "שֶׁלֹּא הָיְתָה תַּאֲוָתְךָ לְבֵית אָבִיךָ סִבָּה שֶׁתִּגְנוֹב אֶת אֱלֹהַי"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 31:30:1",
+      "era": "acharon",
+      "quote": "הלא בבית אביך אין עובדים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלבי\"ם: לבן מסיק שיש ליעקב גנבות אחרות ולקח את התרפים כדי שלא יֵדע מה חסר.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 31:30:1",
+        "quote": "ויראת שיודע לי ע\"י התרפים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: היה זה רק להכעיס ולצער, בלי תועלת בבית אביו.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 31:30:1",
+        "quote": "וביחוד גניבת התרפים שהוא רק להכעיס ולצער"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: לבן חושש שהתרפים הם שיגידו לו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 31:30:1",
+        "quote": "לְצַד שֶׁהוּא הַמַּגִּיד…שֶׁמָּא יוֹדִיעֵ"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד לבן קורא את כוונות יעקב, ומכין את השבועה שבפסוק לב."
+   },
+   {
+    "title": "האם דברי יעקב גרמו למות רחל?",
+    "pasuk": {
+     "text": "עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת אֱלֹהֶ֘יךָ֮ לֹ֣א יִֽחְיֶה֒",
+     "ref": "Genesis 31:32",
+     "label": "בראשית לא, לב"
+    },
+    "question": "רש\"י אומר שרחל מתה בדרך מאותה קללה. אך איך תחול קללת צדיק על אמא שלא היתה ראויה?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 31:32:1",
+      "era": "rishon",
+      "quote": "אם כן יודיעני מי התפלל על אשת פנחס"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 31:32:1",
+      "era": "acharon",
+      "quote": "ואבן עזרא הקשה על דברי חכמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י, רבנו בחיי ומדרש אגדה: רחל מתה בדרך בגלל הקללה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:32:1",
+        "quote": "וּמֵאוֹתָהּ קְלָלָה מֵתָה רָחֵל בַּדֶּרֶךְ"
+       },
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 31:32:1",
+        "quote": "מִן הַחֵרֶם הַזֶּה נֶעֶנְשָׁה רָחֵל שֶׁמֵּתָה בַּדֶּרֶךְ"
+       },
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 31:32:1",
+        "quote": "ומפני החרם הזה מתה רחל בלא זמנה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם, שד\"ל וטור הארוך: לא היתה קללה, ופירוש 'לא יחיה' הוא 'אהרגנו'.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 31:32:1",
+        "quote": "כלומר אני אעשה נקמה מגופו"
+       },
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 31:32:2",
+        "quote": "כי אני אהרגהו"
+       },
+       {
+        "name": "טור הארוך",
+        "ref": "Tur HaArokh, Genesis 31:32:1",
+        "quote": "שאינו לשון קללה אלא"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: יעקב חשב שאחד העבדים גנבם כדי לעבדם, ובכך חייב מיתה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 31:32:1",
+        "quote": "כִּי חָשַׁב שֶׁגָּנַב אוֹתָם אֶחָד מֵהָעֲבָדִים לְעָבְדָם"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע בשאלה עד כמה צדיק אחראי לדברים שנאמרו מתוך אי ידיעה."
+   },
+   {
+    "title": "למה נאמר שלבן יצא מאהל לאה ונכנס לאהל רחל?",
+    "pasuk": {
+     "text": "וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל׃",
+     "ref": "Genesis 31:33",
+     "label": "בראשית לא, לג"
+    },
+    "question": "הכתוב מונה אהל יעקב, אהל לאה ואהל השפחות, ואז אומר שיצא מאהל לאה ובא באהל רחל. היכן היה אהל רחל, ובאיזה סדר חיפש?",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 31:33:1",
+      "era": "rishon",
+      "quote": "וא\"ת והלא היה לו לכתוב ויצא מאהל שתי האמהות ויבוא באהל רחל"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 31:33:1",
+      "era": "acharon",
+      "quote": "דקשיא איך יצא מאהל לאה ויבא באהל רחל"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 31:33:1",
+      "era": "rishon",
+      "quote": "וְעַל דֶּרֶךְ הַפְּשָׁט אֵינֶנּוּ נָכוֹן שֶׁיִּקְרָאֶנּוּ בְּפָסוּק אֶחָד בִּשְׁנֵי שֵׁמוֹת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: אהל יעקב הוא אהל רחל, ולבן חזר אליו קודם שחיפש באהל האמהות, כי הכיר בה שהיא משמשנית.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:33:2",
+        "quote": "כְּשֶׁיָּצָא מֵאֹהֶל לֵאָה חָזַר לוֹ לְאֹהֶל רָחֵל קֹדֶם שֶׁיְּחַפֵּשׂ בְּאֹהֶל הָאֲמָהוֹת"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הכתוב אחז דרך קצרה ואיחר להזכיר את אהל רחל.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 31:33:1",
+        "quote": "והקרוב אלי שהכתוב אחז דרך קצרה…ואיחר להזכיר אהל רחל"
+       }
+      ]
+     },
+     {
+      "text": "הדר זקנים: רק אהל רחל היה פתוח לרשות הרבים, ולכן עבר בו בדרכו החוצה.",
+      "sources": [
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 31:33:1",
+        "quote": "שלא היה שום אהל פתוח לרשות הרבים כי אם אהל רחל לבד"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: לאהל רחל היה פתח בפני עצמו, ולכן חזר דרך אהל לאה.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 31:33:1",
+        "quote": "והיה יוצא לאהל רחל שהיה לו פתח בפ\"ע"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד לשון החיפוש קובעת את מקום הטמנת התרפים."
+   },
+   {
+    "title": "כיצד 'דרך נשים לי' מתרצת את רחל שלא קמה?",
+    "pasuk": {
+     "text": "כִּי דֶ֥רֶךְ נָשִׁ֖ים לִ֑י",
+     "ref": "Genesis 31:35",
+     "label": "בראשית לא, לה"
+    },
+    "question": "רחל אומרת לאביה שאינה יכולה לקום כי דרך נשים לה. מדוע זה פוטר אותה מלעמוד לפניו?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 31:35:1",
+      "era": "rishon",
+      "quote": "לֹא הֲבִינוֹתִי מָה הִתְנַצְּלוּת זֶה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: בימי הקדמונים היו הנדות מרוחקות ולא היו מתקרבות לאדם או מדברות אתו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:35:1",
+        "quote": "כִּי הָיוּ הַנִּדּוֹת בִּימֵי הַקַּדְמוֹנִים מְרֻחָקוֹת מְאֹד"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: היתה נדה וחולה ולא יכלה לקום.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 31:35:1",
+        "quote": "נידות והנני חולה ואיני יכולה לקום"
+       }
+      ]
+     },
+     {
+      "text": "טור הארוך: יש אומרים שהכוונה להריונה מבנימין.",
+      "sources": [
+       {
+        "name": "טור הארוך",
+        "ref": "Tur HaArokh, Genesis 31:35:1",
+        "quote": "על ההריון שהיתה מעוברת מבנימין"
+       }
+      ]
+     },
+     {
+      "text": "משך חכמה בשם השל\"ה: רמז לתרפים שמטמאים במגע ובמשא כנדה.",
+      "sources": [
+       {
+        "name": "משך חכמה",
+        "ref": "Meshekh Chokhmah, Vayetze 22",
+        "quote": "הוא רמז על התרפים שע\"ז מטמאה במגע ומשא כנדה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד תשובת רחל נקראת כתירוץ פשוט או כרמז נסתר."
+   }
+  ],
+  "sources_consulted": [
+   "טור הארוך",
+   "גור אריה",
+   "רש\"י",
+   "מדרש לקח טוב",
+   "רשב\"ם",
+   "רמב\"ן",
+   "אלשיך",
+   "מלבי\"ם",
+   "אור החיים",
+   "רד\"ק",
+   "ספורנו",
+   "אבן עזרא",
+   "צרור המור",
+   "הדר זקנים",
+   "שד\"ל",
+   "תורה תמימה",
+   "מדרש אגדה",
+   "בכור שור",
+   "העמק דבר",
+   "רבנו בחיי",
+   "משך חכמה"
+  ]
+ }
+}
