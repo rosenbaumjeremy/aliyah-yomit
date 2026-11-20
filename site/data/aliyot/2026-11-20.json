@@ -1,0 +1,1158 @@
+{
+ "date": "2026-11-20",
+ "reading": {
+  "en": "Vayetzei",
+  "he": "ויצא",
+  "ref": "Genesis 28:10-32:3",
+  "slugs": [
+   "vayetzei"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 31:43-32:3",
+ "maftir": "Genesis 32:1-32:3",
+ "hebrew_date": {
+  "hebrew": "י׳ בְּכִסְלֵו תשפ״ז",
+  "english": "10 Kislev 5787"
+ },
+ "english": {
+  "summary": "Laban answers Jacob’s rebuke by claiming that the daughters, children and flocks are all his, then proposes a covenant. Jacob sets up a stone as a pillar, and their kinsmen gather stones into a mound and eat there; Laban names it Yegar-sahadutha and Jacob Gal-ed. Laban adds the name Mizpah and demands that Jacob not mistreat his daughters or take other wives, and each swears: Laban by the God of Abraham and the god of Nahor, Jacob by the Fear of Isaac. Jacob offers a sacrifice and a meal, and in the morning Laban kisses his family, blesses them and returns home. Jacob goes on his way, angels of God meet him, and he names the place Mahanaim. This is the Shevi'i of Vayetzei, including the maftir.",
+  "questions": [
+   {
+    "title": "What does Laban mean by “what can I do to these?”",
+    "pasuk": {
+     "text": "ולבנתי מה אעשה לאלה",
+     "ref": "Genesis 31:43",
+     "label": "Genesis 31:43"
+    },
+    "question": "Laban says, “what can I do now about my daughters or the children they have borne?” What does he mean by asking what he can do, and what does the word “to these” (לאלה) add?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 31:43:4",
+      "era": "acharon",
+      "quote": "תיבת לאלה אין לה משמעות"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 31:43:1",
+      "era": "acharon",
+      "quote": "ומלת לאלה מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi reads the question as rhetorical: how could it enter his mind to harm them? Mizrachi spells this out.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:43:1",
+        "quote": "איך תעלה על לבי להרע להן"
+       },
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 31:43:1",
+        "quote": "מה רעה תעלה על לבי שאעשה לאלה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban prefers an expression of compassion for the daughters and their children, and Ibn Ezra calls the extra word an added clarification.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:43:1",
+        "quote": "ויותר נכון נראה שהוא דרך חמלה"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 31:43:1",
+        "quote": "הוסיף לבאר וכן"
+       }
+      ]
+     },
+     {
+      "text": "Sforno reads it as practical: even if he could take everything, what would he do afterwards to support them?",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 31:43:3",
+        "quote": "מה אעשה לאלה לפרנסן אחר כך"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Laban is pleading, threatening, or excusing himself."
+   },
+   {
+    "title": "Who is the “witness” between Jacob and Laban?",
+    "pasuk": {
+     "text": "והיה לעד ביני ובינך",
+     "ref": "Genesis 31:44",
+     "label": "Genesis 31:44"
+    },
+    "question": "Laban proposes a pact so that “there may be a witness between you and me.” Who or what is the witness?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 31:44:1",
+      "era": "rishon",
+      "quote": "ואיננו כמשמעו אבל יאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says the witness is the Holy One, and Mizrachi supports this from the later verse about God as witness.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:44:1",
+        "quote": "והיה לעד הקב ה"
+       },
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 31:44:1",
+        "quote": "והיה לעד הקב ה הנזכר למעלה אלהי אברהם"
+       }
+      ]
+     },
+     {
+      "text": "Ramban says this is not literal: the covenant itself is the witness, since whoever breaks it is cursed with the curses of the covenant.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:44:1",
+        "quote": "אבל יאמר והיה הברית לעד בינותינו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the covenant was meant to be enforced once the two were out of sight of each other."
+   },
+   {
+    "title": "Who are the “kinsmen” Jacob tells to gather stones?",
+    "pasuk": {
+     "text": "ויאמר יעקב לאחיו לקטו",
+     "ref": "Genesis 31:46",
+     "label": "Genesis 31:46"
+    },
+    "question": "Jacob says to “his kinsmen” (אחיו), “Gather stones.” Who are they? His own brothers are not there.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 31:46:1",
+      "era": "acharon",
+      "quote": "דאין לומר שהם אחיו של לבן כדכתיב"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 31:46:1",
+      "era": "acharon",
+      "quote": "דא א לפרש אחיו כמו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, followed by the Midrash in Lekach Tov, says they are his sons, whom he calls brothers because they stand by him in trouble and war.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:46:1",
+        "quote": "הם בניו שהיו לו אחים"
+       },
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:46:1",
+        "quote": "לקטו אבנים אלו בניו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban says they are Laban’s kinsmen who came with him, because Jacob did not wish to address his father-in-law that way, and Radak says they are the men of Laban.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:46:1",
+        "quote": "לאחי לבן הנזכר אשר באו עמו"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 31:46:1",
+        "quote": "לאנשיו ואף על פי שיעקב"
+       }
+      ]
+     },
+     {
+      "text": "Mizrachi raises both views and notes that the later “he called his kinsmen to eat bread” is a different group, the friends who came with Laban.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 31:54:2",
+        "quote": "לאחיו לאוהביו שבאו עם לבן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whom Jacob counts as his own, and how he treats the men who had pursued him."
+   },
+   {
+    "title": "Why do Laban and Jacob give the same mound two names in two languages?",
+    "pasuk": {
+     "text": "ויקרא לו לבן יגר שהדותא",
+     "ref": "Genesis 31:47",
+     "label": "Genesis 31:47"
+    },
+    "question": "Laban calls the mound Yegar-sahadutha and Jacob calls it Gal-ed, though both mean “the mound of witness.” Why does the Torah record both names, and why does Laban then say “therefore it was called Gal-ed”?",
+    "asked_by": [
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+      "era": "acharon",
+      "quote": "מה הודיענו הפר השמות אחר שהכל אחד"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+      "era": "acharon",
+      "quote": "למה חזר לבן וקראו גלעד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak says each one named it in his own language, Laban in Aramaic, and Sforno adds that Jacob did not change his language.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 31:47:1",
+        "quote": "כל אחד קרא לו שם"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 31:47:1",
+        "quote": "שלא שנה את לשונו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban says that after Jacob named it Gal-ed, Laban spoke in Jacob’s language, and Sforno says Laban gave in and called it in Jacob’s language.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:48:1",
+        "quote": "דבר לבן בלשון יעקב"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 31:48:1",
+        "quote": "נכנע לקראו בלשונו של יעקב"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar distinguishes the words: Laban’s sahadutha means testimony, so the heap serves as the witness, while Jacob’s Gal-ed uses the Hebrew word for a witness.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 31:47:2",
+        "quote": "לא אמר שהדא"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov, citing Rabbi Shimon ben Nachmani, says the Aramaic language is not light in the eyes of the Holy One, who gave it honor in Torah, Prophets and Writings.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:47:1",
+        "quote": "אל יהי לשון סורסי קל בעיניך"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how each side spoke of the covenant, and which language stood for it."
+   },
+   {
+    "title": "Why is the place called Mizpah, and who is the speaker?",
+    "pasuk": {
+     "text": "והמצפה אשר אמר",
+     "ref": "Genesis 31:49",
+     "label": "Genesis 31:49"
+    },
+    "question": "The verse says the place is called Mizpah “because he said, ‘May God watch between you and me.’” Who is “he,” Jacob or Laban, and is Mizpah the name of the mound or of a place?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 31:49:1",
+      "era": "acharon",
+      "quote": "דאין סברא שיקרא הכתוב מצפה"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 31:49:2",
+      "era": "acharon",
+      "quote": "אך קשה שאם פי אשר אמר הוא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says it is the Mizpah in the hills of Gilead, named because each said to the other “may God watch,” and Gur Aryeh explains that the verse cannot be naming it for Laban alone.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:49:1",
+        "quote": "ולמה נקראת שמה מצפה"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 31:49:1",
+        "quote": "לפי שאמר כל אחד יצף"
+       }
+      ]
+     },
+     {
+      "text": "Ramban says in his opinion it is the stone Jacob set up as a pillar, and Radak says Jacob named it Mizpah because he set it up in a high place.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 31:49:1",
+        "quote": "שהיא האבן שהקים יעקב מצבה"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 31:49:1",
+        "quote": "לפי שהקימה במקום גבוה"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov says Mizpah is the stone he set up, and that Laban said: until here we saw each other, from here on a man is hidden from his fellow.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:49:2",
+        "quote": "עד כאן היינו רואים זה את"
+       }
+      ]
+     }
+    ],
+    "why": "It decides who named the pillar and what the name commemorates."
+   },
+   {
+    "title": "What does “if you ill-treat my daughters” mean?",
+    "pasuk": {
+     "text": "אם תענה את בנתי",
+     "ref": "Genesis 31:50",
+     "label": "Genesis 31:50"
+    },
+    "question": "Laban makes Jacob swear “if you ill-treat my daughters.” What is the mistreatment, and why does he add “or take other wives”?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 31:50:1",
+      "era": "rishon",
+      "quote": "וזאת לשון נכריה לא נשמע כמוה בכל המקרא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says it means withholding conjugal rights, and Chizkuni adds that the second condition is that he not take others over them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 31:50:2",
+        "quote": "למנע מהן עונת תשמיש"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 31:50:1",
+        "quote": "ואם תקח נשים על בנתי הרי תנאי"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra rejects the Gaon’s reading as a foreign expression, and says the meaning is that Jacob not cause them harm and force them to do what they do not want.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 31:50:1",
+        "quote": "והטעם שלא יעשה להם רע"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor says it means subjecting them to more labor than proper, and Radak says it means any lack or lack of honor toward them.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 31:50:1",
+        "quote": "להשתעבד יותר מדאי"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 31:50:1",
+        "quote": "אם יחסרו דבר ויצעקו"
+       }
+      ]
+     },
+     {
+      "text": "Lekach Tov says “my daughters” are the matriarchs, and that taking wives means rivals who vex them.",
+      "sources": [
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:50:3",
+        "quote": "ואם תקח נשים אלו הצרות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Laban feared for his daughters and what Jacob accepted on oath."
+   },
+   {
+    "title": "Why does Laban invoke “the God of Nahor,” and why does Jacob swear only by “the Fear of his father Isaac”?",
+    "pasuk": {
+     "text": "אלהי אברהם ואלהי נחור",
+     "ref": "Genesis 31:53",
+     "label": "Genesis 31:53"
+    },
+    "question": "Laban says “the God of Abraham and the god of Nahor judge between us,” and Jacob swears only “by the Fear of his father Isaac.” Why the different formulas?",
+    "asked_by": [
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 31:53:1",
+      "era": "rishon",
+      "quote": "ששיתף יכול עם שאינו יכול"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+      "era": "acharon",
+      "quote": "למה נשבע יעקב ולא לבן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Radak, citing the rule that “the God of their father” is profane, says Laban meant the idol-worship of the earlier generations, and that each swore by his own faith.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 31:53:1",
+        "quote": "אלהי אברהם קדש אלהי נחור"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni says “God of their father” can mean holy or profane, and Jacob did not want to mention the Holy One after the profane that Laban had mentioned; Lekach Tov says he did not want to join the profane to the holy.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 31:53:2",
+        "quote": "אחר החול שהזכיר לבן"
+       },
+       {
+        "name": "Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 31:53:4",
+        "quote": "שלא לשתף חול עם קודש"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra says the Fear is one whose father feared him, and some say it hints at the binding of Isaac; Bekhor Shor likewise says Jacob swore only by the God his father feared.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 31:53:2",
+        "quote": "זה הפחד רמז ליום העקידה"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 31:53:2",
+        "quote": "לא רצה לישבע אלא באלהי אביו"
+       }
+      ]
+     },
+     {
+      "text": "Alshich explains that Jacob did not want a dispute over whose God, so he alone swore, and mentioned his father’s Fear so as not to offend Laban.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+        "quote": "בפחד אביו יצחק לומר הנני נגרר אחר אבי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob refused to share the holy with the profane in an oath."
+   },
+   {
+    "title": "Why did angels meet Jacob here, so far from the Land?",
+    "pasuk": {
+     "text": "ויעקב הלך לדרכו ויפגעו",
+     "ref": "Genesis 32:2",
+     "label": "Genesis 32:2"
+    },
+    "question": "“Angels of God encountered him.” Rashi says they were the angels of the Land of Israel coming to accompany him, but Jacob had not yet reached the Land. Why did they meet him, and why “two camps”?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 32:2:1",
+      "era": "rishon",
+      "quote": "ואני תמה בזה שהרי עדין לא הגיע יעקב"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 32:2:1",
+      "era": "acharon",
+      "quote": "צריך לדעת כונת אמרו ויפגעו בו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi says the angels of the Land of Israel came to meet him to accompany him, and Gur Aryeh defends this: since he was coming to the Land, the angels of the Land came to guard him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:2:1",
+        "quote": "מלאכים של ארץ ישראל באו לקראתו ללוותו לארץ"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 32:2:1",
+        "quote": "אין זה שום קושיא"
+       }
+      ]
+     },
+     {
+      "text": "Ramban answers that this vision came when he entered the border of his enemies, to show him that those with him outnumber those with them.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:2:1",
+        "quote": "להודיעו כי רבים אשר אתו מאשר אתם"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra and Rashbam say they came to help and guard him, and Bekhor Shor says they came only to honor him, like a man arriving from afar.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 32:2:1",
+        "quote": "לעזרו בדרך והוא לבדו ראה"
+       },
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:2:1",
+        "quote": "לשומרו כדכתיב והנה אנכי עמך"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 32:2:1",
+        "quote": "שלא באו רק לכבודו"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Tanchuma says two camps: those that went with him abroad and those who met him on his return.",
+      "sources": [
+       {
+        "name": "Tanchuma",
+        "ref": "Midrash Tanchuma, Vayishlach 3:4",
+        "quote": "מהו מחנים שתי מחנות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Jacob was told on the threshold of facing Esau."
+   }
+  ],
+  "sources_consulted": [
+   "Or HaChaim",
+   "Alshich",
+   "Rashi",
+   "Mizrachi",
+   "Ramban",
+   "Ibn Ezra",
+   "Sforno",
+   "Gur Aryeh",
+   "Haamek Davar",
+   "Lekach Tov",
+   "Radak",
+   "Chizkuni",
+   "Bekhor Shor",
+   "Rashbam",
+   "Tanchuma"
+  ]
+ },
+ "hebrew": {
+  "summary": "לבן משיב לתוכחת יעקב וטוען שהבנות, הבנים והצאן כולם שלו, ומציע לכרות ברית. יעקב מקים אבן מצבה, אחיו מלקטים אבנים ועושים גל ואוכלים שם; לבן קורא לו יגר שהדותא ויעקב גלעד. לבן מוסיף את השם המצפה ודורש שיעקב לא יענה את בנותיו ולא יקח נשים עליהן, וכל אחד נשבע: לבן באלהי אברהם ואלהי נחור, ויעקב בפחד אביו יצחק. יעקב זובח ועושה סעודה, ובבוקר לבן מנשק לבניו ולבנותיו, מברך אותם ושב למקומו. יעקב הולך לדרכו, מלאכי אלהים פוגעים בו, והוא קורא למקום מחנים. זהו השביעי בפרשת ויצא, כולל המפטיר.",
+  "questions": [
+   {
+    "title": "מה פירוש “ולבנותי מה אעשה לאלה”?",
+    "pasuk": {
+     "text": "ולבנתי מה אעשה לאלה",
+     "ref": "Genesis 31:43",
+     "label": "בראשית לא, מג"
+    },
+    "question": "לבן אומר: “ולבנותי מה אעשה לאלה היום או לבניהן אשר ילדו”. מה כוונת השאלה, ומה מוסיפה המילה “לאלה”?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 31:43:4",
+      "era": "acharon",
+      "quote": "תיבת לאלה אין לה משמעות"
+     },
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 31:43:1",
+      "era": "acharon",
+      "quote": "ומלת לאלה מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י מפרש שהשאלה רטורית: איך יעלה על לבו להרע להן. המזרחי מרחיב בכך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:43:1",
+        "quote": "איך תעלה על לבי להרע להן"
+       },
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 31:43:1",
+        "quote": "מה רעה תעלה על לבי שאעשה לאלה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן מעדיף לפרש בדרך חמלה על הבנות ועל בניהן, והראב\"ע אומר שהמילה נוספה לביאור.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:43:1",
+        "quote": "ויותר נכון נראה שהוא דרך חמלה"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 31:43:1",
+        "quote": "הוסיף לבאר וכן"
+       }
+      ]
+     },
+     {
+      "text": "הספורנו מפרש שאלה מעשית: אף אם יוכל ליטול הכול, מה יעשה אחר כך לפרנסן.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 31:43:3",
+        "quote": "מה אעשה לאלה לפרנסן אחר כך"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן תלוי אם לבן מתחנן, מאיים או מתנצל."
+   },
+   {
+    "title": "מי הוא ה“עד” בין יעקב ללבן?",
+    "pasuk": {
+     "text": "והיה לעד ביני ובינך",
+     "ref": "Genesis 31:44",
+     "label": "בראשית לא, מד"
+    },
+    "question": "לבן מציע לכרות ברית ו“היה לעד ביני ובינך”. מי או מה הוא העד?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 31:44:1",
+      "era": "rishon",
+      "quote": "ואיננו כמשמעו אבל יאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י מפרש שהעד הוא הקב\"ה, והמזרחי תומך בכך מן הפסוק על אלהים עד.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:44:1",
+        "quote": "והיה לעד הקב ה"
+       },
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 31:44:1",
+        "quote": "והיה לעד הקב ה הנזכר למעלה אלהי אברהם"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן אומר שאין זה כמשמעו: הברית עצמה היא העד, כי העובר עליה יקולל בכל אלות הברית.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:44:1",
+        "quote": "אבל יאמר והיה הברית לעד בינותינו"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן רואים כיצד נועדה הברית להתקיים כשהם נסתרים זה מזה."
+   },
+   {
+    "title": "מי הם ה“אחים” שיעקב אומר להם ללקט אבנים?",
+    "pasuk": {
+     "text": "ויאמר יעקב לאחיו לקטו",
+     "ref": "Genesis 31:46",
+     "label": "בראשית לא, מו"
+    },
+    "question": "יעקב אומר “לאחיו לקטו אבנים”. מי הם? אחיו שלו אינם שם.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 31:46:1",
+      "era": "acharon",
+      "quote": "דאין לומר שהם אחיו של לבן כדכתיב"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 31:46:1",
+      "era": "acharon",
+      "quote": "דא א לפרש אחיו כמו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י, וכמוהו המדרש בלקח טוב, אומר שהם בניו, שקרא אותם אחים כי הם נגשים אליו לצרה ולמלחמה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:46:1",
+        "quote": "הם בניו שהיו לו אחים"
+       },
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:46:1",
+        "quote": "לקטו אבנים אלו בניו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן אומר שהם אחי לבן שבאו עמו, כי לא רצה לומר כן לחמיו, והרד\"ק אומר שהם אנשיו של לבן.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:46:1",
+        "quote": "לאחי לבן הנזכר אשר באו עמו"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 31:46:1",
+        "quote": "לאנשיו ואף על פי שיעקב"
+       }
+      ]
+     },
+     {
+      "text": "המזרחי מעלה את שתי הדעות ומעיר שה“ויקרא לאחיו לאכל לחם” שבהמשך הוא קבוצה אחרת, האוהבים שבאו עם לבן.",
+      "sources": [
+       {
+        "name": "המזרחי",
+        "ref": "Mizrachi, Genesis 31:54:2",
+        "quote": "לאחיו לאוהביו שבאו עם לבן"
+       }
+      ]
+     }
+    ],
+    "why": "כאן רואים את מי יעקב מחשיב כשלו, ואיך הוא נוהג באנשים שרדפו אחריו."
+   },
+   {
+    "title": "למה נותנים לבן ויעקב לגל שני שמות בשתי לשונות?",
+    "pasuk": {
+     "text": "ויקרא לו לבן יגר שהדותא",
+     "ref": "Genesis 31:47",
+     "label": "בראשית לא, מז"
+    },
+    "question": "לבן קורא לגל יגר שהדותא ויעקב קורא לו גלעד, ושניהם פירושם גל עדות. למה התורה מביאה את שניהם, ולמה לבן אומר אחר כך “על כן קרא שמו גלעד”?",
+    "asked_by": [
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+      "era": "acharon",
+      "quote": "מה הודיענו הפר השמות אחר שהכל אחד"
+     },
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+      "era": "acharon",
+      "quote": "למה חזר לבן וקראו גלעד"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרד״ק אומר שכל אחד קרא בלשונו, לבן בארמית, והספורנו מוסיף שיעקב לא שינה את לשונו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 31:47:1",
+        "quote": "כל אחד קרא לו שם"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 31:47:1",
+        "quote": "שלא שנה את לשונו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב״ן אומר שאחר שיעקב קראו גלעד דיבר לבן בלשון יעקב, והספורנו אומר שלבן נכנע וקראו בלשונו של יעקב.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:48:1",
+        "quote": "דבר לבן בלשון יעקב"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 31:48:1",
+        "quote": "נכנע לקראו בלשונו של יעקב"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר מבחין בין המילים: שהדותא של לבן הוא עדות, והגל משמש לעדות, ואילו גלעד של יעקב הוא בלשון הקודש.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 31:47:2",
+        "quote": "לא אמר שהדא"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב, בשם רבי שמעון בן נחמני, אומר שלשון סורסי אינה קלה בעיני הקב\"ה שחלק לה כבוד בתורה, בנביאים ובכתובים.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:47:1",
+        "quote": "אל יהי לשון סורסי קל בעיניך"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן רואים איך כל צד דיבר על הברית, ובאיזו לשון."
+   },
+   {
+    "title": "למה נקרא המקום מצפה, ומי האומר?",
+    "pasuk": {
+     "text": "והמצפה אשר אמר",
+     "ref": "Genesis 31:49",
+     "label": "בראשית לא, מט"
+    },
+    "question": "הפסוק אומר שהמקום נקרא מצפה “אשר אמר יצף ה’ ביני וביניך”. מי האומר, יעקב או לבן, והאם מצפה הוא שם של הגל או של מקום?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 31:49:1",
+      "era": "acharon",
+      "quote": "דאין סברא שיקרא הכתוב מצפה"
+     },
+     {
+      "name": "המזרחי",
+      "ref": "Mizrachi, Genesis 31:49:2",
+      "era": "acharon",
+      "quote": "אך קשה שאם פי אשר אמר הוא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י אומר שהוא המצפה שבהר הגלעד, שנקרא כך כי כל אחד אמר לחברו יצף ה’, והגור אריה מבאר שאי אפשר לפרש שנקרא על שם לבן לבדו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:49:1",
+        "quote": "ולמה נקראת שמה מצפה"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 31:49:1",
+        "quote": "לפי שאמר כל אחד יצף"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן אומר שלפי דעתו היא האבן שהקים יעקב מצבה, והרד\"ק אומר שיעקב קראה מצפה לפי שהקימה במקום גבוה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 31:49:1",
+        "quote": "שהיא האבן שהקים יעקב מצבה"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 31:49:1",
+        "quote": "לפי שהקימה במקום גבוה"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב אומר שהמצפה היא האבן שהרים, ושלבן אמר: עד כאן היינו רואים זה את זה, מכאן ואילך נסתר איש מרעהו.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:49:2",
+        "quote": "עד כאן היינו רואים זה את"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן תלוי מי קרא למצבה בשם ומה השם מזכיר."
+   },
+   {
+    "title": "מהו “אם תענה את בנותי”?",
+    "pasuk": {
+     "text": "אם תענה את בנתי",
+     "ref": "Genesis 31:50",
+     "label": "בראשית לא, נ"
+    },
+    "question": "לבן משביע את יעקב “אם תענה את בנותי”. מהו העינוי, ולמה הוא מוסיף “ואם תקח נשים”?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 31:50:1",
+      "era": "rishon",
+      "quote": "וזאת לשון נכריה לא נשמע כמוה בכל המקרא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י אומר שהכוונה למנוע מהן עונת תשמיש, והחזקוני מוסיף שהתנאי השני הוא שלא יקח אחרות עליהן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 31:50:2",
+        "quote": "למנע מהן עונת תשמיש"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 31:50:1",
+        "quote": "ואם תקח נשים על בנתי הרי תנאי"
+       }
+      ]
+     },
+     {
+      "text": "האבן עזרא דוחה את פירוש הגאון כלשון נכריה, ואומר שהטעם שלא יעשה להן רע ולא יכריחן על דבר שאינן חפצות בו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 31:50:1",
+        "quote": "והטעם שלא יעשה להם רע"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור אומר שהכוונה לשעבד אותן יותר מדאי, והרד\"ק אומר שהכוונה אם יחסרו דבר או שלא ינהג בהן דרך כבוד.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 31:50:1",
+        "quote": "להשתעבד יותר מדאי"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 31:50:1",
+        "quote": "אם יחסרו דבר ויצעקו"
+       }
+      ]
+     },
+     {
+      "text": "לקח טוב אומר שבנותי אלו האמהות, ו“תקח נשים” אלו הצרות.",
+      "sources": [
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:50:3",
+        "quote": "ואם תקח נשים אלו הצרות"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן רואים ממה חשש לבן עבור בנותיו ומה קיבל יעקב בשבועה."
+   },
+   {
+    "title": "למה מזכיר לבן את “אלהי נחור”, ולמה נשבע יעקב רק “בפחד אביו יצחק”?",
+    "pasuk": {
+     "text": "אלהי אברהם ואלהי נחור",
+     "ref": "Genesis 31:53",
+     "label": "בראשית לא, נג"
+    },
+    "question": "לבן אומר “אלהי אברהם ואלהי נחור ישפטו בינינו”, ויעקב נשבע רק “בפחד אביו יצחק”. למה הנוסחאות שונות?",
+    "asked_by": [
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 31:53:1",
+      "era": "rishon",
+      "quote": "ששיתף יכול עם שאינו יכול"
+     },
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+      "era": "acharon",
+      "quote": "למה נשבע יעקב ולא לבן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרד\"ק, בשם מסכת סופרים, אומר שאלהי אביהם חול, שלבן התכוון לעבודת הכוכבים של הדורות ההם, וכל אחד נשבע באמונתו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 31:53:1",
+        "quote": "אלהי אברהם קדש אלהי נחור"
+       }
+      ]
+     },
+     {
+      "text": "החזקוני אומר שאלהי אביהם משמש קודש וחול, ויעקב לא רצה להזכיר את הקב\"ה אחר החול שהזכיר לבן; ולקח טוב אומר שלא רצה לשתף חול עם קודש.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 31:53:2",
+        "quote": "אחר החול שהזכיר לבן"
+       },
+       {
+        "name": "לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 31:53:4",
+        "quote": "שלא לשתף חול עם קודש"
+       }
+      ]
+     },
+     {
+      "text": "האבן עזרא אומר שהפחד הוא מי שאביו היה מפחד ממנו, ויש אומרים שהוא רמז ליום העקידה; ובכור שור אומר שלא רצה לישבע אלא באלהי אביו שהיה אביו ירא.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 31:53:2",
+        "quote": "זה הפחד רמז ליום העקידה"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 31:53:2",
+        "quote": "לא רצה לישבע אלא באלהי אביו"
+       }
+      ]
+     },
+     {
+      "text": "האלשיך מבאר שיעקב לא רצה מריבה על אלהי מי, ולכן נשבע הוא לבדו, והזכיר את פחד אביו כדי שלא יתחמץ לבו של לבן.",
+      "sources": [
+       {
+        "name": "האלשיך",
+        "ref": "Alshekh on Torah, Genesis 31:45:1-3",
+        "quote": "בפחד אביו יצחק לומר הנני נגרר אחר אבי"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן רואים איך יעקב מסרב לשתף קודש וחול בשבועה."
+   },
+   {
+    "title": "למה פגשו מלאכים את יעקב כאן, רחוק מן הארץ?",
+    "pasuk": {
+     "text": "ויעקב הלך לדרכו ויפגעו",
+     "ref": "Genesis 32:2",
+     "label": "בראשית לב, ב"
+    },
+    "question": "“ויפגעו בו מלאכי אלהים”. רש\"י אומר שאלו מלאכי ארץ ישראל שבאו ללוותו, אך יעקב עדיין לא הגיע לארץ. למה פגשוהו, ולמה “מחנים”?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 32:2:1",
+      "era": "rishon",
+      "quote": "ואני תמה בזה שהרי עדין לא הגיע יעקב"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 32:2:1",
+      "era": "acharon",
+      "quote": "צריך לדעת כונת אמרו ויפגעו בו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י אומר שמלאכי ארץ ישראל באו לקראתו ללוותו, והגור אריה מיישב: כיון שהיה בא לארץ, באו מלאכי הארץ לשמרו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:2:1",
+        "quote": "מלאכים של ארץ ישראל באו לקראתו ללוותו לארץ"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 32:2:1",
+        "quote": "אין זה שום קושיא"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן מיישב שהמראה באה כשהגיע לגבול אויביו, להודיעו שרבים אשר אתו מאשר אתם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 32:2:1",
+        "quote": "להודיעו כי רבים אשר אתו מאשר אתם"
+       }
+      ]
+     },
+     {
+      "text": "האבן עזרא והרשב\"ם אומרים שבאו לעזרו ולשמרו, ובכור שור אומר שבאו רק לכבודו, כאדם שבא ממקום רחוק.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 32:2:1",
+        "quote": "לעזרו בדרך והוא לבדו ראה"
+       },
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 32:2:1",
+        "quote": "לשומרו כדכתיב והנה אנכי עמך"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 32:2:1",
+        "quote": "שלא באו רק לכבודו"
+       }
+      ]
+     },
+     {
+      "text": "מדרש תנחומא אומר שני מחנות: אלה שהלכו עמו בחוץ לארץ ואלה שפגשוהו בשובו.",
+      "sources": [
+       {
+        "name": "תנחומא",
+        "ref": "Midrash Tanchuma, Vayishlach 3:4",
+        "quote": "מהו מחנים שתי מחנות"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן רואים מה הודיעו ליעקב על סף המפגש עם עשו."
+   }
+  ],
+  "sources_consulted": [
+   "אור החיים",
+   "האלשיך",
+   "רש\"י",
+   "המזרחי",
+   "רמב\"ן",
+   "אבן עזרא",
+   "ספורנו",
+   "גור אריה",
+   "העמק דבר",
+   "לקח טוב",
+   "רד\"ק",
+   "חזקוני",
+   "בכור שור",
+   "רשב\"ם",
+   "תנחומא"
+  ]
+ }
+}
