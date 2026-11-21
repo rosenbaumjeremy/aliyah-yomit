@@ -1,0 +1,1187 @@
+{
+ "date": "2026-11-21",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 32:4-32:13",
+ "hebrew_date": {
+  "hebrew": "י״א בְּכִסְלֵו תשפ״ז",
+  "english": "11 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob, now returning toward Canaan, sends messengers ahead to his brother Esau in the land of Seir, instructing them to call Esau 'my lord' and himself 'your servant', and to say that he stayed with Laban until now and has acquired flocks, servants and maidservants, in the hope of finding favor. The messengers come back with the news that Esau is coming to meet him with four hundred men. Jacob is greatly afraid and divides his people, flocks and camels into two camps, thinking that if Esau strikes one, the other may escape. He then prays: he invokes the God of Abraham and Isaac, says he is unworthy of all the kindness shown him, recalls that he crossed the Jordan with only his staff and is now two camps, asks to be saved from Esau lest he strike down mothers with children, and recalls God's promise to do him good and multiply his offspring.",
+  "questions": [
+   {
+    "title": "Why did Jacob send messengers to Esau at all?",
+    "pasuk": {
+     "text": "וישלח יעקב מלאכים לפניו אל עשו אחיו",
+     "ref": "Genesis 32:4",
+     "label": "Genesis 32:4"
+    },
+    "question": "Esau was not yet looking for Jacob. What did the mission accomplish, and was it wise to wake him up?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "ולא ידעתי טעם בשליחות הזה ולמה יצטרך לומר"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 32:4:2",
+      "era": "rishon",
+      "quote": "וּכְבָר תְּפָסוּהוּ הַחֲכָמִים עַל זֶה, אָמְרוּ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the way to Isaac's land in the Negev passes through or near Edom, so Jacob feared Esau might hear of it and sent word first.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:4:2",
+        "quote": "יֵשׁ לוֹ לַעֲבֹר דֶּרֶךְ אֱדוֹם אוֹ קָרוֹב מִשָּׁם,"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: to let Esau know that Jacob is coming to him in peace and seeks his love.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:6:4",
+        "quote": "שֶׁאֲנִי שָׁלֵם עִמְּךָ וּמְבַקֵּשׁ אַהֲבָתְךָ:"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: to get ahead of Esau before he heard of Jacob's arrival from anyone else.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 32:4:5",
+        "quote": "לְהַקְדִּים לִשְׁלֹחַ הוּא שְׁלוּחָיו קֹדֶם שֶׁיֵּדַע עֵשָׂו"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: the mission was a mistake. God said Esau was going his own way and Jacob sent to him with the words 'thus says your servant Jacob'.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 75:3",
+        "quote": "לְדַרְכּוֹ הָיָה מְהַלֵּךְ וְאַתָּה מְשַׁלֵּחַ אֶצְלוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the tension between prudent effort and the charge that Jacob provoked the very danger he feared."
+   },
+   {
+    "title": "Were Jacob's messengers real angels or human servants?",
+    "pasuk": {
+     "text": "וישלח יעקב מלאכים לפניו",
+     "ref": "Genesis 32:4",
+     "label": "Genesis 32:4"
+    },
+    "question": "The word malachim can mean angels or messengers. If they were angels, why use heavenly servants for an errand people could do?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 32:4:2",
+      "era": "acharon",
+      "quote": "לָמָּה יִשְׁתַּמֵּשׁ בִּמְשָׁרְתֵי עֶלְיוֹן לְלֹא צֹרֶךְ,"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 32:4:1-8",
+      "era": "acharon",
+      "quote": "למה בחר בהם מבאנשים."
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they were real angels, based on Bereshit Rabbah.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:4:1",
+        "quote": "מַלְאָכִים מַמָּשׁ (בראשית רבה):"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: they were Jacob's own servants.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 32:4:1",
+        "quote": "ואלה המלאכים הם מעבדיו:"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: they were angels who already stood before him, and he was permitted to use them.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 32:4:2",
+        "quote": "לְצַד הֱיוֹתָם לְפָנָיו דָּן כִּי הוּרְשָׁה לְהִשְׁתַּמֵּשׁ בָּהֶם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Jacob's preparation was a human effort or help from heaven."
+   },
+   {
+    "title": "Why does Jacob call Esau 'my lord' and himself 'your servant'?",
+    "pasuk": {
+     "text": "כה אמר עבדך יעקב עם לבן גרתי ואחר עד עתה",
+     "ref": "Genesis 32:5",
+     "label": "Genesis 32:5"
+    },
+    "question": "What does it help to tell Esau that Jacob lived with Laban, and why such submission when Isaac blessed Jacob to be master over his brothers?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "כי מה תועלת בהכנעה היתירה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 32:5:1",
+      "era": "acharon",
+      "quote": "וְקָשֶׁה עוֹד לָמָּה קְרָאוֹ ״אֲדֹנִי״"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 32:5:2",
+      "era": "acharon",
+      "quote": "צָרִיךְ לָדַעַת מַה מוֹדִיעַ בָּזֶה,"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the younger brother customarily honors the firstborn as a father, and Jacob showed Esau that the sale of the birthright counted for nothing, in order to remove the hatred from his heart.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:5:1",
+        "quote": "הַמִּנְהָג בַּצָּעִיר לָתֵת מַעֲלָה וְכָבוֹד אֶל הַבְּכוֹר כְּאִלּוּ"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: 'I lived as a stranger, not a prince', so Esau has no reason to hate him over the blessing, which was not fulfilled in him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:5:1",
+        "quote": "לֹא נַעֲשֵׂיתִי שַׂר וְחָשׁוּב אֶלָּא גֵּר,"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: Laban was known for wickedness, yet Jacob lived with him unharmed, which shows how good his deeds were and that he deserves to be loved.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 32:5:3",
+        "quote": "הָיָה לָבָן בְּהַפְלָגַת הָרֶשַׁע וְהָרַמָּאוּת,"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Rashi's two explanations do not contradict each other; both are true together.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:5:2",
+        "quote": "שֶׁשְּׁנֵי פֵּרוּשִׁים אֵלּוּ מַרְאֶה שְׁנֵיהֶם כְּאֶחָד אֱמֶת, לֹא"
+       }
+      ]
+     }
+    ],
+    "why": "The message mixes humility with a hint of strength, which sets up Jacob's fear when Esau does not answer in kind."
+   },
+   {
+    "title": "Did Esau come to make peace or to make war?",
+    "pasuk": {
+     "text": "באנו אל אחיך אל עשו וגם הולך לקראתך וארבע מאות איש עמו",
+     "ref": "Genesis 32:7",
+     "label": "Genesis 32:7"
+    },
+    "question": "What does the 'also' in 'and also he is coming to meet you' add, and how did the messengers know where Esau was headed?",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "כי מי הגיד להם שהיה הולך לקראתו"
+     },
+     {
+      "name": "Alshich",
+      "ref": "Alshekh on Torah, Genesis 32:4:1-8",
+      "era": "acharon",
+      "quote": "ומלת גם מה בא לרבות."
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Esau is still hostile and acts toward Jacob as Esau the wicked.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:7:1",
+        "quote": "אֲבָל הוּא נוֹהֵג עִמְּךָ כְּעֵשָׂו הָרָשָׁע,"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam, on the plain meaning: Esau is coming with four hundred men in honor of Jacob.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:7:1",
+        "quote": "וארבע מאות איש עמו לכבודך."
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Esau did not receive the messengers properly and sent back no words of peace.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:8:1",
+        "quote": "עֵשָׂו לֹא קִבֵּל הַשְּׁלוּחִים כַּהֹגֶן"
+       }
+      ]
+     }
+    ],
+    "why": "The same report is read as a welcome or as a threat, and Jacob prepares for the worse reading."
+   },
+   {
+    "title": "Why was Jacob afraid after God had promised to protect him?",
+    "pasuk": {
+     "text": "ויירא יעקב מאד ויצר לו",
+     "ref": "Genesis 32:8",
+     "label": "Genesis 32:8"
+    },
+    "question": "God told Jacob 'I am with you and will guard you' and again 'Return, and I will be with you'. Why was he still greatly afraid?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 32:8:1",
+      "era": "acharon",
+      "quote": "וְלֹא מָצְאוּ טַעַם נָכוֹן"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "ואיך היה מספק יעקב בנבואתו"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 76:1",
+      "era": "chazal",
+      "quote": "שְׁנֵי בְּנֵי אָדָם הִבְטִיחָן הַקָּדוֹשׁ בָּרוּךְ הוּא וְנִתְיָרְאוּ,"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: his merits may have been reduced by the kindnesses he received, and he feared sin had spoiled the promise.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:11:1",
+        "quote": "שֶׁמָּא מִשֶּׁהִבְטַחְתַּנִי נִתְקַלְקַלְתִּי בְחֵטְא וְיִגְרֹם"
+       }
+      ]
+     },
+     {
+      "text": "Abarbanel, citing Rav Chasdai: Jacob was not afraid at all; his heart was sure, but he made every effort to be saved.",
+      "sources": [
+       {
+        "name": "Abarbanel",
+        "ref": "Abarbanel on Torah, Genesis 32:4",
+        "quote": "לא פחד כי היה לבו נכון בטוח"
+       }
+      ]
+     },
+     {
+      "text": "Bereshit Rabbah: from here we learn that a righteous person has no guarantee in this world.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 76:2",
+        "quote": "שֶׁאֵין הַבְטָחָה לַצַּדִּיק בָּעוֹלָם הַזֶּה."
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: Jacob sensed that by flattering the wicked Esau he had sinned, and whoever flatters the wicked eventually falls into his hands.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:8:2",
+        "quote": "הַמַּחֲנִיף לָרָשָׁע לְסוֹף נוֹפֵל בְּיָדוֹ,"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what a divine promise guarantees, and how a person must still act."
+   },
+   {
+    "title": "Why does the verse say Jacob was both 'afraid' and 'distressed'?",
+    "pasuk": {
+     "text": "ויירא יעקב מאד ויצר לו",
+     "ref": "Genesis 32:8",
+     "label": "Genesis 32:8"
+    },
+    "question": "The two words seem to say the same thing. What is the difference between fear and distress here?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 32:8:1",
+      "era": "rishon",
+      "quote": "כָּפַל הָעִנְיָן בְּמִלּוֹת שׁוֹנוֹת"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 76:2",
+      "era": "chazal",
+      "quote": "לֹא הִיא יִרְאָה לֹא הִיא צָרָה,"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi, from Bereshit Rabbah and Tanchuma: he feared being killed and was distressed at having to kill others.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:8:1",
+        "quote": "וַיֵּצֶר לוֹ אִם יַהֲרֹג הוּא אֶת אֲחֵרִים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the verse repeats in different words to show how great his fear was.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:8:1",
+        "quote": "בְּמִלּוֹת שׁוֹנוֹת לְרֹב יִרְאָתוֹ."
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar, citing others: he was distressed over the death of his father Isaac, since Esau had said he would kill Jacob once the days of mourning for his father drew near.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:8:3",
+        "quote": "״וַיֵּצֶר לוֹ״ שֶׁהָיָה מֵצֵר עַל מִיתַת אָבִיו יִצְחָק,"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that Jacob feared not only for himself but also over the moral cost of fighting his brother."
+   },
+   {
+    "title": "Why did Jacob divide his people into two camps?",
+    "pasuk": {
+     "text": "אם יבוא עשו אל המחנה האחת והכהו והיה המחנה הנשאר לפליטה",
+     "ref": "Genesis 32:9",
+     "label": "Genesis 32:9"
+    },
+    "question": "Would it not have been better to gather everyone into one camp and fight Esau? Is the division meant for war or only for escape?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 32:9:1",
+      "era": "acharon",
+      "quote": "יותר היה מסתברא לקבץ הכל למחנה אחת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the remaining camp would escape in spite of himself, since he would fight. He prepared for gift, prayer and war.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:9:2",
+        "quote": "הִתְקִין עַצְמוֹ לִשְׁלֹשָׁה דְּבָרִים, לְדוֹרוֹן, לִתְפִלָּה וּלְמִלְחָמָה. לְדוֹרוֹן,"
+       }
+      ]
+     },
+     {
+      "text": "Ramban, on the plain meaning: perhaps one camp will be saved, since when one is struck the others will flee.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:9:1",
+        "quote": "אוּלַי יִנָּצֵל הַמַּחֲנֶה הָאֶחָד כִּי בְּהַכּוֹתוֹ הָאֶחָד יִבְרְחוּ הָאֲחֵרִים,"
+       }
+      ]
+     },
+     {
+      "text": "Radak, citing a teaching: the Torah taught the way of the world, that a person should not keep all his property in one house.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:8:2",
+        "quote": "לִמְּדָךְ תּוֹרָה דֶּרֶךְ אֶרֶץ שֶׁלֹּא יְהֵא אָדָם מַנִּיחַ מָמוֹנוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: the camps were far from each other, so if one saw disaster it could flee.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:9:1",
+        "quote": "שהיו רחוקים המחנות זה מזה"
+       }
+      ]
+     }
+    ],
+    "why": "The same plan is read as a three-part strategy, a practical rule, or simple prudence."
+   },
+   {
+    "title": "Why does Jacob say 'God of my father Isaac' and then repeat God's Name?",
+    "pasuk": {
+     "text": "אלהי אבי אברהם ואלהי אבי יצחק",
+     "ref": "Genesis 32:10",
+     "label": "Genesis 32:10"
+    },
+    "question": "Elsewhere the Torah says 'the Fear of Isaac'. Why does Jacob mention God's Name here, and why repeat it when he could have said 'who said to me'?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 32:10:1",
+      "era": "rishon",
+      "quote": "וּלְהַלָּן הוּא אוֹמֵר וּפַחַד יִצְחָק?"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Jacob came before God on the strength of two promises, one on leaving Beer Sheva and one at Laban's house, where God appeared by the Name alone.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:10:1",
+        "quote": "שְׁתֵּי הַבְטָחוֹת הִבְטַחְתַּנִי,"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: this answers those who said 'Fear of Isaac' was used because one does not attach God's Name to the living, since Isaac was still alive.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 32:10:1",
+        "quote": "מכאן תשובה לאומרים שלכך אמר ופחד יצחק שאין מיחדים שמו של"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: he mentioned God, the attribute of justice, with his fathers, since their merit can stand before justice, but with Hashem, the attribute of mercy, for himself.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:8:4",
+        "quote": "הַמּוֹרֶה עַל מִדַּת הַדִּין הִזְכִּיר דַּוְקָא בַּאֲבוֹתָיו,"
+       }
+      ]
+     }
+    ],
+    "why": "The wording of the prayer opens a window on how Jacob saw his own merit against that of his fathers."
+   },
+   {
+    "title": "What does Jacob mean by 'I have become small', and is Rashi's reading right?",
+    "pasuk": {
+     "text": "קטנתי מכל החסדים ומכל האמת אשר עשית את עבדך",
+     "ref": "Genesis 32:11",
+     "label": "Genesis 32:11"
+    },
+    "question": "Rashi reads it as 'my merits have shrunk'. Does that fit the words of the verse and the prayer that follows?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 32:11:1",
+      "era": "rishon",
+      "quote": "וְאֵינֶנּוּ נָכוֹן בִּלְשׁוֹן הַכָּתוּב."
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "שהתר רש\"י אינו מספיק."
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: my merits were reduced by the kindnesses and truth You showed me.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:11:1",
+        "quote": "נִתְמַעֲטוּ זְכֻיּוֹתַי עַל יְדֵי הַחֲסָדִים וְהָאֱמֶת שֶׁעָשִׂיתָ"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it means that he is too small to deserve all the kindnesses done for him.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:11:1",
+        "quote": "לוֹמַר כִּי קָטֹן הוּא מֵהֱיוֹתוֹ רָאוּי לְכָל הַחֲסָדִים"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: You gave me more kindness and truth than I deserve, and I have not yet fulfilled my vow.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:11:2",
+        "quote": "שעשית לי חסדים ואמת יותר מן הראוי לי"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: I do not ask You to act for my own merit, but on Your promise and mercy.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 32:11:1",
+        "quote": "איני מבקש שתעשה לי בזכות עצמי"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it means I am less and smaller than all the kindnesses You have done with me.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 32:11:1",
+        "quote": "והטעם פחות אני וקטן"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Jacob's prayer is about fear of sin or about humility before God's grace."
+   }
+  ],
+  "sources_consulted": [
+   "Abarbanel",
+   "Ramban",
+   "Rashi",
+   "Or HaChaim",
+   "Bereshit Rabbah",
+   "Alshich",
+   "Ibn Ezra",
+   "Kli Yakar",
+   "Rashbam",
+   "Radak",
+   "Siftei Chakhamim",
+   "Bekhor Shor"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב, בדרכו חזרה לארץ כנען, שולח מלאכים לפניו אל עשו אחיו ארצה שעיר שדה אדום, ומצווה אותם לקרוא לעשו ״אדוני״ ולעצמו ״עבדך״, ולומר שגר עם לבן ואיחר עד עתה, ושקנה שור וחמור, צאן ועבד ושפחה, ושלח להגיד לאדוני למצוא חן בעיניו. המלאכים שבים ומספרים שעשו הולך לקראתו וארבע מאות איש עמו. יעקב ירא מאד ויצר לו, ומחלק את העם, הצאן, הבקר והגמלים לשני מחנות, מתוך מחשבה שאם יבוא עשו אל המחנה האחת והכהו, יהיה המחנה הנשאר לפליטה. אחר כך הוא מתפלל: פונה אל אלוהי אברהם ואלוהי יצחק, אומר שקטן הוא מכל החסדים והאמת שעשה עמו האל, מזכיר שעבר את הירדן במקלו ועתה הוא שני מחנות, מבקש להינצל מיד עשו פן יכה אם על בנים, ומזכיר את הבטחת ה׳ להיטיב עמו ולהרבות את זרעו.",
+  "questions": [
+   {
+    "title": "למה שלח יעקב מלאכים אל עשו מלכתחילה?",
+    "pasuk": {
+     "text": "וישלח יעקב מלאכים לפניו אל עשו אחיו",
+     "ref": "Genesis 32:4",
+     "label": "בראשית לב, ד"
+    },
+    "question": "עשו עדיין לא חיפש את יעקב. מה השיגה השליחות הזאת, והאם היה זה נכון לעורר אותו?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "ולא ידעתי טעם בשליחות הזה ולמה יצטרך לומר"
+     },
+     {
+      "name": "רמב״ן",
+      "ref": "Ramban on Genesis 32:4:2",
+      "era": "rishon",
+      "quote": "וּכְבָר תְּפָסוּהוּ הַחֲכָמִים עַל זֶה, אָמְרוּ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב״ן: הדרך אל ארץ הנגב עוברת דרך אדום או קרוב אליה, ולכן חשש יעקב שעשו ישמע, והקדים לשלוח אליו.",
+      "sources": [
+       {
+        "name": "רמב״ן",
+        "ref": "Ramban on Genesis 32:4:2",
+        "quote": "יֵשׁ לוֹ לַעֲבֹר דֶּרֶךְ אֱדוֹם אוֹ קָרוֹב מִשָּׁם,"
+       }
+      ]
+     },
+     {
+      "text": "רש״י: להודיע לעשו שיעקב בא אליו בשלום ומבקש את אהבתו.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:6:4",
+        "quote": "שֶׁאֲנִי שָׁלֵם עִמְּךָ וּמְבַקֵּשׁ אַהֲבָתְךָ:"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: להקדים לשלוח את שלוחיו לפני שעשו ישמע מאחר שיעקב בא.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 32:4:5",
+        "quote": "לְהַקְדִּים לִשְׁלֹחַ הוּא שְׁלוּחָיו קֹדֶם שֶׁיֵּדַע עֵשָׂו"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: השליחות הייתה טעות. אמר לו הקב״ה: לדרכו היה מהלך, ואתה משלח אצלו ואומר לו ״כה אמר עבדך יעקב״.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 75:3",
+        "quote": "לְדַרְכּוֹ הָיָה מְהַלֵּךְ וְאַתָּה מְשַׁלֵּחַ אֶצְלוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן עולה המתח בין השתדלות נבונה לבין הטענה שיעקב עורר בעצמו את הסכנה."
+   },
+   {
+    "title": "האם שלוחי יעקב היו מלאכים ממש או עבדיו?",
+    "pasuk": {
+     "text": "וישלח יעקב מלאכים לפניו",
+     "ref": "Genesis 32:4",
+     "label": "בראשית לב, ד"
+    },
+    "question": "המילה ״מלאכים״ יכולה להיות מלאכים או שליחים. אם היו מלאכים ממש, למה להשתמש במשרתי עליון לשליחות שבני אדם יכולים לעשותה?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 32:4:2",
+      "era": "acharon",
+      "quote": "לָמָּה יִשְׁתַּמֵּשׁ בִּמְשָׁרְתֵי עֶלְיוֹן לְלֹא צֹרֶךְ,"
+     },
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 32:4:1-8",
+      "era": "acharon",
+      "quote": "למה בחר בהם מבאנשים."
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: מלאכים ממש, על פי בראשית רבה.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:4:1",
+        "quote": "מַלְאָכִים מַמָּשׁ (בראשית רבה):"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הם היו מעבדי יעקב.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 32:4:1",
+        "quote": "ואלה המלאכים הם מעבדיו:"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: היו מלאכים שכבר עמדו לפניו, והורשה להשתמש בהם.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 32:4:2",
+        "quote": "לְצַד הֱיוֹתָם לְפָנָיו דָּן כִּי הוּרְשָׁה לְהִשְׁתַּמֵּשׁ בָּהֶם"
+       }
+      ]
+     }
+    ],
+    "why": "ההכרעה קובעת אם ההכנה של יעקב הייתה מאמץ אנושי או סיוע מן השמים."
+   },
+   {
+    "title": "למה קורא יעקב לעשו ״אדוני״ ולעצמו ״עבדך״?",
+    "pasuk": {
+     "text": "כה אמר עבדך יעקב עם לבן גרתי ואחר עד עתה",
+     "ref": "Genesis 32:5",
+     "label": "בראשית לב, ה"
+    },
+    "question": "מה התועלת בכך שיגידו לעשו שיעקב גר עם לבן, ולמה כל ההכנעה הזאת אחרי שיצחק ברך את יעקב ״הוה גביר לאחיך״?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "כי מה תועלת בהכנעה היתירה"
+     },
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 32:5:1",
+      "era": "acharon",
+      "quote": "וְקָשֶׁה עוֹד לָמָּה קְרָאוֹ ״אֲדֹנִי״"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 32:5:2",
+      "era": "acharon",
+      "quote": "צָרִיךְ לָדַעַת מַה מוֹדִיעַ בָּזֶה,"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב״ן: המנהג שהצעיר נותן כבוד לבכור כאילו הוא אביו, ויעקב הראה לעשו כאילו אין המכירה כלום, כדי להוציא את המשטמה מלבו.",
+      "sources": [
+       {
+        "name": "רמב״ן",
+        "ref": "Ramban on Genesis 32:5:1",
+        "quote": "הַמִּנְהָג בַּצָּעִיר לָתֵת מַעֲלָה וְכָבוֹד אֶל הַבְּכוֹר כְּאִלּוּ"
+       }
+      ]
+     },
+     {
+      "text": "רש״י: ״גרתי״, לא נעשיתי שר וחשוב אלא גר, ולכן אין לעשו סיבה לשנוא אותו על הברכה, שלא נתקיימה בו.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:5:1",
+        "quote": "לֹא נַעֲשֵׂיתִי שַׂר וְחָשׁוּב אֶלָּא גֵּר,"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: לבן היה ידוע ברשעו, ובכל זאת גר עמו יעקב, ובכך נראה גודל מעשיו, וראוי לקרבו ולאהבו.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 32:5:3",
+        "quote": "הָיָה לָבָן בְּהַפְלָגַת הָרֶשַׁע וְהָרַמָּאוּת,"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: שני פירושי רש״י אינם סותרים, ושניהם אמת יחד.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:5:2",
+        "quote": "שֶׁשְּׁנֵי פֵּרוּשִׁים אֵלּוּ מַרְאֶה שְׁנֵיהֶם כְּאֶחָד אֱמֶת, לֹא"
+       }
+      ]
+     }
+    ],
+    "why": "השליחות מערבת הכנעה ברמז לעוצמה, והיא מכינה את פחדו של יעקב כשעשו אינו עונה כמותה."
+   },
+   {
+    "title": "האם עשו בא לשלום או למלחמה?",
+    "pasuk": {
+     "text": "באנו אל אחיך אל עשו וגם הולך לקראתך וארבע מאות איש עמו",
+     "ref": "Genesis 32:7",
+     "label": "בראשית לב, ז"
+    },
+    "question": "מה מוסיפה המילה ״וגם״ ב״וגם הולך לקראתך״, ומנין ידעו המלאכים לאן הולך עשו?",
+    "asked_by": [
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "כי מי הגיד להם שהיה הולך לקראתו"
+     },
+     {
+      "name": "האלשיך",
+      "ref": "Alshekh on Torah, Genesis 32:4:1-8",
+      "era": "acharon",
+      "quote": "ומלת גם מה בא לרבות."
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: עשו עודנו בשנאתו ונוהג עם יעקב כעשו הרשע.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:7:1",
+        "quote": "אֲבָל הוּא נוֹהֵג עִמְּךָ כְּעֵשָׂו הָרָשָׁע,"
+       }
+      ]
+     },
+     {
+      "text": "רשב״ם, על דרך הפשט: עשו בא עם ארבע מאות איש לכבוד יעקב.",
+      "sources": [
+       {
+        "name": "רשב״ם",
+        "ref": "Rashbam on Genesis 32:7:1",
+        "quote": "וארבע מאות איש עמו לכבודך."
+       }
+      ]
+     },
+     {
+      "text": "רמב״ן: עשו לא קיבל את השלוחים כהוגן, ולא שלח דברי שלום.",
+      "sources": [
+       {
+        "name": "רמב״ן",
+        "ref": "Ramban on Genesis 32:8:1",
+        "quote": "עֵשָׂו לֹא קִבֵּל הַשְּׁלוּחִים כַּהֹגֶן"
+       }
+      ]
+     }
+    ],
+    "why": "אותה ידיעה נקראת כקבלת פנים או כאיום, ויעקב נערך לקריאה הקשה יותר."
+   },
+   {
+    "title": "למה פחד יעקב אחרי שהבטיחו הקב״ה לשמרו?",
+    "pasuk": {
+     "text": "ויירא יעקב מאד ויצר לו",
+     "ref": "Genesis 32:8",
+     "label": "בראשית לב, ח"
+    },
+    "question": "אמר לו ה׳ ״והנה אנכי עמך ושמרתיך״ ושוב ״שוב ... ואהיה עמך״. למה נתיירא בכל זאת מאד?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 32:8:1",
+      "era": "acharon",
+      "quote": "וְלֹא מָצְאוּ טַעַם נָכוֹן"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "ואיך היה מספק יעקב בנבואתו"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 76:1",
+      "era": "chazal",
+      "quote": "שְׁנֵי בְּנֵי אָדָם הִבְטִיחָן הַקָּדוֹשׁ בָּרוּךְ הוּא וְנִתְיָרְאוּ,"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: זכויותיו נתמעטו על ידי החסדים, והוא חשש שמא חטא וקלקל את ההבטחה.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:11:1",
+        "quote": "שֶׁמָּא מִשֶּׁהִבְטַחְתַּנִי נִתְקַלְקַלְתִּי בְחֵטְא וְיִגְרֹם"
+       }
+      ]
+     },
+     {
+      "text": "אברבנאל בשם רב חסדאי: יעקב לא פחד כלל, ליבו היה בטוח, אך השתדל בכל דרכי ההצלה.",
+      "sources": [
+       {
+        "name": "אברבנאל",
+        "ref": "Abarbanel on Torah, Genesis 32:4",
+        "quote": "לא פחד כי היה לבו נכון בטוח"
+       }
+      ]
+     },
+     {
+      "text": "בראשית רבה: מכאן שאין הבטחה לצדיק בעולם הזה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 76:2",
+        "quote": "שֶׁאֵין הַבְטָחָה לַצַּדִּיק בָּעוֹלָם הַזֶּה."
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: יעקב הרגיש שחטא בכך שהחניף לעשו הרשע, וכל המחניף לרשע לסוף נופל בידו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:8:2",
+        "quote": "הַמַּחֲנִיף לָרָשָׁע לְסוֹף נוֹפֵל בְּיָדוֹ,"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה היא מה בדיוק מבטיחה הבטחה אלוקית, ומה עוד נדרש מן האדם."
+   },
+   {
+    "title": "למה כתוב על יעקב גם ״ויירא״ וגם ״ויצר לו״?",
+    "pasuk": {
+     "text": "ויירא יעקב מאד ויצר לו",
+     "ref": "Genesis 32:8",
+     "label": "בראשית לב, ח"
+    },
+    "question": "שתי המילים נראות כאומרות דבר אחד. מה ההבדל בין יראה לצרה כאן?",
+    "asked_by": [
+     {
+      "name": "רד״ק",
+      "ref": "Radak on Genesis 32:8:1",
+      "era": "rishon",
+      "quote": "כָּפַל הָעִנְיָן בְּמִלּוֹת שׁוֹנוֹת"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 76:2",
+      "era": "chazal",
+      "quote": "לֹא הִיא יִרְאָה לֹא הִיא צָרָה,"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י, מבראשית רבה ותנחומא: ירא שמא יהרג, ויצר לו אם יהרוג הוא אחרים.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:8:1",
+        "quote": "וַיֵּצֶר לוֹ אִם יַהֲרֹג הוּא אֶת אֲחֵרִים"
+       }
+      ]
+     },
+     {
+      "text": "רד״ק: הכתוב כופל בלשונות שונים כדי להראות את גודל יראתו.",
+      "sources": [
+       {
+        "name": "רד״ק",
+        "ref": "Radak on Genesis 32:8:1",
+        "quote": "בְּמִלּוֹת שׁוֹנוֹת לְרֹב יִרְאָתוֹ."
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר, בשם יש אומרים: יצר לו על מיתת אביו יצחק, שהרי עשו אמר שיהרוג את יעקב כשיקרבו ימי אבל אביו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:8:3",
+        "quote": "״וַיֵּצֶר לוֹ״ שֶׁהָיָה מֵצֵר עַל מִיתַת אָבִיו יִצְחָק,"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן שיעקב חשש לא רק לעצמו אלא גם מן המחיר המוסרי שבהילחמות באחיו."
+   },
+   {
+    "title": "למה חילק יעקב את העם לשני מחנות?",
+    "pasuk": {
+     "text": "אם יבוא עשו אל המחנה האחת והכהו והיה המחנה הנשאר לפליטה",
+     "ref": "Genesis 32:9",
+     "label": "בראשית לב, ט"
+    },
+    "question": "האם לא היה טוב יותר לקבץ הכל למחנה אחד ולהילחם בעשו? האם החלוקה באה למלחמה או רק לבריחה?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 32:9:1",
+      "era": "acharon",
+      "quote": "יותר היה מסתברא לקבץ הכל למחנה אחת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: המחנה הנשאר לפליטה על כרחו, כי יילחם עמו. הוא התקין עצמו לדורון, לתפילה ולמלחמה.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:9:2",
+        "quote": "הִתְקִין עַצְמוֹ לִשְׁלֹשָׁה דְּבָרִים, לְדוֹרוֹן, לִתְפִלָּה וּלְמִלְחָמָה. לְדוֹרוֹן,"
+       }
+      ]
+     },
+     {
+      "text": "רמב״ן, על דרך הפשט: אולי ינצל מחנה אחד, כי כשיכה את האחד יברחו האחרים.",
+      "sources": [
+       {
+        "name": "רמב״ן",
+        "ref": "Ramban on Genesis 32:9:1",
+        "quote": "אוּלַי יִנָּצֵל הַמַּחֲנֶה הָאֶחָד כִּי בְּהַכּוֹתוֹ הָאֶחָד יִבְרְחוּ הָאֲחֵרִים,"
+       }
+      ]
+     },
+     {
+      "text": "רד״ק, בשם חז״ל: לימדך תורה דרך ארץ שלא יהא אדם מניח ממונו בבית אחד.",
+      "sources": [
+       {
+        "name": "רד״ק",
+        "ref": "Radak on Genesis 32:8:2",
+        "quote": "לִמְּדָךְ תּוֹרָה דֶּרֶךְ אֶרֶץ שֶׁלֹּא יְהֵא אָדָם מַנִּיחַ מָמוֹנוֹ"
+       }
+      ]
+     },
+     {
+      "text": "רשב״ם: המחנות היו רחוקים זה מזה, ואם יראו פורענות יברחו.",
+      "sources": [
+       {
+        "name": "רשב״ם",
+        "ref": "Rashbam on Genesis 32:9:1",
+        "quote": "שהיו רחוקים המחנות זה מזה"
+       }
+      ]
+     }
+    ],
+    "why": "אותה תכנית נקראת כאסטרטגיה משולשת, ככלל מעשי או כזהירות פשוטה."
+   },
+   {
+    "title": "למה אומר יעקב ״אלהי אבי יצחק״ וחוזר ומזכיר שם ה׳?",
+    "pasuk": {
+     "text": "אלהי אבי אברהם ואלהי אבי יצחק",
+     "ref": "Genesis 32:10",
+     "label": "בראשית לב, י"
+    },
+    "question": "במקום אחר נאמר ״פחד יצחק״. למה מזכיר יעקב כאן את שם ה׳, ולמה הוא חוזר ומזכירו כשהיה יכול לומר ״האומר אלי״?",
+    "asked_by": [
+     {
+      "name": "רש״י",
+      "ref": "Rashi on Genesis 32:10:1",
+      "era": "rishon",
+      "quote": "וּלְהַלָּן הוּא אוֹמֵר וּפַחַד יִצְחָק?"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: יעקב בא לפני ה׳ בשתי הבטחות, האחת בצאתו מבאר שבע והשנייה בבית לבן, שם נגלה אליו בשם המיוחד.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:10:1",
+        "quote": "שְׁתֵּי הַבְטָחוֹת הִבְטַחְתַּנִי,"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: מכאן תשובה לאומרים שנאמר ״פחד יצחק״ מפני שאין מייחדים את שמו של ה׳ בחייהם, שהרי יצחק עדיין חי.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 32:10:1",
+        "quote": "מכאן תשובה לאומרים שלכך אמר ופחד יצחק שאין מיחדים שמו של"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: הזכיר ״אלהים״, מידת הדין, באבותיו, כי זכות אבות מספיקה לעמוד גם במידת הדין, ואת שם ה׳, מידת הרחמים, אצל עצמו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:8:4",
+        "quote": "הַמּוֹרֶה עַל מִדַּת הַדִּין הִזְכִּיר דַּוְקָא בַּאֲבוֹתָיו,"
+       }
+      ]
+     }
+    ],
+    "why": "נוסח התפילה מגלה איך ראה יעקב את זכותו לעומת זכות אבותיו."
+   },
+   {
+    "title": "מה כוונת ״קטנתי״, והאם פירוש רש״י נכון?",
+    "pasuk": {
+     "text": "קטנתי מכל החסדים ומכל האמת אשר עשית את עבדך",
+     "ref": "Genesis 32:11",
+     "label": "בראשית לב, יא"
+    },
+    "question": "רש״י מפרש ״נתמעטו זכויותיי״. האם זה מתיישב עם לשון הכתוב ועם התפילה שאחריו?",
+    "asked_by": [
+     {
+      "name": "רמב״ן",
+      "ref": "Ramban on Genesis 32:11:1",
+      "era": "rishon",
+      "quote": "וְאֵינֶנּוּ נָכוֹן בִּלְשׁוֹן הַכָּתוּב."
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 32:4",
+      "era": "rishon",
+      "quote": "שהתר רש\"י אינו מספיק."
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש״י: נתמעטו זכויותיי על ידי החסדים והאמת שעשית עמי.",
+      "sources": [
+       {
+        "name": "רש״י",
+        "ref": "Rashi on Genesis 32:11:1",
+        "quote": "נִתְמַעֲטוּ זְכֻיּוֹתַי עַל יְדֵי הַחֲסָדִים וְהָאֱמֶת שֶׁעָשִׂיתָ"
+       }
+      ]
+     },
+     {
+      "text": "רמב״ן: כוונתו שהוא קטן מלהיות ראוי לכל החסדים שעשה עמו.",
+      "sources": [
+       {
+        "name": "רמב״ן",
+        "ref": "Ramban on Genesis 32:11:1",
+        "quote": "לוֹמַר כִּי קָטֹן הוּא מֵהֱיוֹתוֹ רָאוּי לְכָל הַחֲסָדִים"
+       }
+      ]
+     },
+     {
+      "text": "רשב״ם: עשית לי חסדים ואמת יותר מן הראוי לי, ועדיין לא קיימתי את נדרי.",
+      "sources": [
+       {
+        "name": "רשב״ם",
+        "ref": "Rashbam on Genesis 32:11:2",
+        "quote": "שעשית לי חסדים ואמת יותר מן הראוי לי"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: איני מבקש שתעשה לי בזכות עצמי, אלא על הבטחתך ורחמיך.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 32:11:1",
+        "quote": "איני מבקש שתעשה לי בזכות עצמי"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: פירושו שהוא פחות וקטן עד שתעשה עמו כל החסדים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 32:11:1",
+        "quote": "והטעם פחות אני וקטן"
+       }
+      ]
+     }
+    ],
+    "why": "ההכרעה קובעת אם תפילת יעקב נובעת מחשש לחטא או מענווה לפני חסדי ה׳."
+   }
+  ],
+  "sources_consulted": [
+   "אברבנאל",
+   "רמב״ן",
+   "רש״י",
+   "אור החיים",
+   "בראשית רבה",
+   "האלשיך",
+   "אבן עזרא",
+   "כלי יקר",
+   "רשב״ם",
+   "רד״ק",
+   "שפתי חכמים",
+   "בכור שור"
+  ]
+ }
+}
