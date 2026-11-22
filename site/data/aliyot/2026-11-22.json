@@ -1,0 +1,1045 @@
+{
+ "date": "2026-11-22",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 2,
+ "aliyah_name": {
+  "en": "Sheni",
+  "he": "שני"
+ },
+ "range": "Genesis 32:14-32:30",
+ "hebrew_date": {
+  "hebrew": "י״ב בְּכִסְלֵו תשפ״ז",
+  "english": "12 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob spends the night in the camp and prepares a gift for Esau: goats, ewes, camels, cows and donkeys, sent ahead in separate droves, with his servants told to say that the gift is from Jacob and that he himself is coming behind. He hopes to appease Esau with the gift before facing him. That same night he takes his wives, maidservants and eleven children across the ford of the Jabbok, and sends over all his possessions. Left alone, Jacob is wrestled by a man until dawn. The man sees that he cannot prevail, strikes Jacob's hip socket and dislocates it. He asks to be let go as dawn is breaking, but Jacob will not release him unless he blesses him. The man asks his name, says it will no longer be Jacob but Israel for he has striven with God and with men and prevailed, and when Jacob asks his name, he declines and blesses him there.",
+  "questions": [
+   {
+    "title": "Where was Dinah when Jacob crossed the river?",
+    "pasuk": {
+     "text": "ואת אחד עשר ילדיו",
+     "ref": "Genesis 32:23",
+     "label": "Genesis 32:23"
+    },
+    "question": "The verse counts Jacob's two wives, two maidservants and eleven children, but Jacob had twelve children, and Dinah is not mentioned. Where was she?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 32:23:1",
+      "era": "rishon",
+      "quote": "וְדִינָה הֵיכָן הָיְתָה"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 32:23:2",
+      "era": "acharon",
+      "quote": "ודינה היכן היתה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 32:23:1",
+      "era": "acharon",
+      "quote": "ודינה היכן היתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "She was hidden in a chest and locked in, so that Esau would not set his eyes on her. For this Jacob was punished, because he withheld her from his brother, who might have brought him back to the good, and she fell into the hands of Shechem.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:23:1",
+        "quote": "נְתָנָהּ בְּתֵבָה וְנָעַל בְּפָנֶיהָ"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 32:23:2",
+        "quote": "ששם אותה בתוך התבה ונעל בפניה מפני עשו"
+       }
+      ]
+     },
+     {
+      "text": "She was not missing: a daughter does not part from her mother, so she is counted among the wives, since she was with Leah.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:23:3",
+        "quote": "וְדִינָה בִּכְלַל נָשָׁיו, כִּי עִם לֵאָה הָיְתָה"
+       },
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 32:23:2",
+        "quote": "נ\"ל שהבנות היו הולכות עם אִמָן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Chazal read a missing detail, and links this night to what later befalls Dinah."
+   },
+   {
+    "title": "Why does the verse describe the crossing twice?",
+    "pasuk": {
+     "text": "וַיַּעֲבֹר אֵת מַעֲבַר יַבֹּק",
+     "ref": "Genesis 32:23",
+     "label": "Genesis 32:23"
+    },
+    "question": "Verse 23 says Jacob 'crossed the ford of the Jabbok', and verse 24 says he took them and brought them across the stream. Did he cross before them or with them?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 32:23:1",
+      "era": "rishon",
+      "quote": "והנה פי' ויעבר כבר עבר"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 32:24:1",
+      "era": "acharon",
+      "quote": "ויקחם ויעברם את הנחל. הוא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Jacob first crossed alone to test the river, and then went back, took them and brought them across.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:23:2",
+        "quote": "וְעָבַר הוּא לְנַסּוֹת אִם הַמַּיִם עֲמֻקִּים"
+       },
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:23:1",
+        "quote": "אֵין מֻקְדָּם וּמְאֻחָר בַּפָּסוּק הַזֶּה"
+       }
+      ]
+     },
+     {
+      "text": "He brought them back across so that they, now strong and able, could help him bring over his possessions, once he saw that Esau was not close by.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 32:24:1",
+        "quote": "העבירם בחזרה את הנחל כדי שאח״כ יסייעוהו להעביר את אשר לו"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Jacob scouted the river first, which tells us what he feared that night."
+   },
+   {
+    "title": "Why did Jacob stay behind alone?",
+    "pasuk": {
+     "text": "ויותר יעקב לבדו",
+     "ref": "Genesis 32:25",
+     "label": "Genesis 32:25"
+    },
+    "question": "Everything and everyone had crossed, yet 'Jacob was left alone'. What kept him on the near bank at night, when Esau was coming?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 32:25:1",
+      "era": "acharon",
+      "quote": "ואם תאמר מנא ליה דשכח אותם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He had forgotten small jars and went back for them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:25:1",
+        "quote": "שָׁכַח פַּכִּים קְטַנִּים וְחָזַר עֲלֵיהֶם"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 32:25:1",
+        "quote": "חזר לראות שמא שכח כלום"
+       }
+      ]
+     },
+     {
+      "text": "On the plain meaning he stayed last, after giving orders that the rest cross before him, to see that nothing was left in the camp.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:25:1",
+        "quote": "חָזַר וְצִוָּה שֶׁיַּעַבְרוּ לְפָנָיו וְנִשְׁאַר הוּא אַחֲרֵיהֶם"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 32:25:1",
+        "quote": "אַחֲרוֹן לְכֻלָּם לִנְסֹעַ מִן הַמַּחֲנֶה"
+       }
+      ]
+     },
+     {
+      "text": "He meant to cross after them in order to flee by another way, so that Esau would not meet him.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:25:1",
+        "quote": "רצה לעבור אחריהם, כדי לברוח דרך אחרת שלא יפגשנו עשו"
+       }
+      ]
+     }
+    ],
+    "why": "The answers range from a lesson in how righteous people treat their property to a plan of escape."
+   },
+   {
+    "title": "Who was the man who wrestled with Jacob, and why?",
+    "pasuk": {
+     "text": "וַיֵּאָבֵק אִישׁ עִמּוֹ",
+     "ref": "Genesis 32:25",
+     "label": "Genesis 32:25"
+    },
+    "question": "The verse says only 'a man'. Who was he, who sent him, and what was the purpose of the struggle?",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 32:25:1",
+      "era": "acharon",
+      "quote": "בְּעִנְיַן הִתְאַבְּקוּת עִם יַעֲקֹב רַבּוּ הַדֵּעוֹת"
+     },
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 32:25",
+      "era": "rishon",
+      "quote": "צריך לבאר ראשונה הענין הזה על פי הפשט"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He was the guardian angel of Esau.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:25:2",
+        "quote": "שֶׁהוּא שָׂרוֹ שֶׁל עֵשָׂו"
+       },
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:25:1",
+        "quote": "סַמָּאֵל שָׂרוֹ שֶׁל עֵשָׂו"
+       }
+      ]
+     },
+     {
+      "text": "He was an angel sent by God to strengthen Jacob's heart, showing that Esau likewise could not overcome him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:25:2",
+        "quote": "וְשָׁלַח הָאֵל זֶה הַמַּלְאָךְ לְיַעֲקֹב לְחַזֵּק לִבּוֹ"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 32:25:1",
+        "quote": "מלאך בדמות איש לעכבו שלא יוכל לברוח"
+       }
+      ]
+     },
+     {
+      "text": "He appeared as an angel in the form of a man and embraced Jacob not to harm him but in an honorable contest, as athletes wrestle.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 32:25:4",
+        "quote": "והנה נראה אליו מלאך בדמות איש והתחבק עמו לא להזיקו"
+       }
+      ]
+     }
+    ],
+    "why": "The identity of the 'man' decides what the night means for Jacob and for his descendants."
+   },
+   {
+    "title": "If the angel could not prevail, why was Jacob injured?",
+    "pasuk": {
+     "text": "וַיַּרְא כִּי לֹא יָכֹל לוֹ וַיִּגַּע בְּכַף־יְרֵכוֹ",
+     "ref": "Genesis 32:26",
+     "label": "Genesis 32:26"
+    },
+    "question": "The verse says 'he saw that he could not prevail against him', yet he dislocated Jacob's thigh. Why the thigh, and why was it allowed?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 32:26:6",
+      "era": "rishon",
+      "quote": "אעפ״‎י שהבטיחו הקב״‎ה ושמרתיך בכל אשר תלך הזיקו המלאך"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 32:26:1-4",
+      "era": "acharon",
+      "quote": "והנה היה מקום לומר איך שרה עם אלהים והלא נקעה יריכו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The angel was allowed only to touch the thigh, and the blow hints at descendants: generations of persecution in which Esau would prevail over Jacob's children.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:26:1",
+        "quote": "לֹא הֻרְשָׁה רַק בַּמֶּה שֶׁעָשָׂה עִמּוֹ לְהָקֵעַ כַּף יְרֵכוֹ"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 32:26:5",
+        "quote": "נגע בצדיקים שעתידין לצאת ממנו"
+       }
+      ]
+     },
+     {
+      "text": "It was a punishment for Jacob's marrying two sisters, the only fault the angel could find, and the thigh is the place of descendants.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 32:25:3-5",
+        "quote": "מִצַּד עֲוֹן שְׁתֵּי אֲחָיוֹת שֶׁנָּשָׂא בְּחַיֵּיהֶן"
+       },
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 32:26:1",
+        "quote": "לא היה ראוי לישא שתי אחיות"
+       }
+      ]
+     },
+     {
+      "text": "It hinted at his daughter Dinah, who would be taken by a Canaanite; the palm (kaf) is a feminine word.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:26:2",
+        "quote": "וְהוּא בִּתּוֹ שֶׁנִּבְעֲלָה לִכְנַעֲנִי"
+       }
+      ]
+     },
+     {
+      "text": "It was because God had promised him and he was fleeing: whoever goes on a way not in line with God's will is punished.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:29:1",
+        "quote": "לפי שהקב\"ה הבטיחו והוא היה בורח"
+       }
+      ]
+     }
+    ],
+    "why": "It ties a single night to Jacob's own conduct and to the future of his children."
+   },
+   {
+    "title": "Why did the angel need to leave at dawn?",
+    "pasuk": {
+     "text": "שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר",
+     "ref": "Genesis 32:27",
+     "label": "Genesis 32:27"
+    },
+    "question": "Why does the man say 'let me go, for dawn is breaking'? What is the dawn to him?",
+    "asked_by": [
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 32:27:1",
+      "era": "chazal",
+      "quote": "וכי גנב אתה שאתה מתיירא מן השחר"
+     },
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 32:27:1",
+      "era": "chazal",
+      "quote": "וכי גנב אתה או  קוביוסטוס. שאתה מתיירא מן השחר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The time had come for him to say praise, and he had not yet been given his turn since creation.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:27:1",
+        "quote": "וְצָרִיךְ אֲנִי לוֹמַר שִׁירָה בַּיּוֹם"
+       },
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 32:27:2",
+        "quote": "מִיּוֹם שֶׁנִּבְרֵאתִי לֹא הִגִּיעַ זְמַנִּי לוֹמַר שִׁירָה"
+       }
+      ]
+     },
+     {
+      "text": "He was telling Jacob not to fear being left alone, since it is day and harmful beings are not seen by day.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 32:27:1",
+        "quote": "ואין לך לדאוג כי אין דרך מזיקים להתראות ביום"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 32:27:2",
+        "quote": "לֹא תִפְחַד בַּעֲבוּר שֶׁאֲנִיחֲךָ יְחִידִי"
+       }
+      ]
+     },
+     {
+      "text": "Samael's rule is only at night, in the manner of thieves.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 32:27:1-2",
+        "quote": "לפי שסמאל אין ממשלתו אלא בלילה"
+       }
+      ]
+     }
+    ],
+    "why": "The answers reveal who Chazal thought he was: an angel, a prosecutor of the night, or a harmful spirit."
+   },
+   {
+    "title": "What blessing did Jacob demand?",
+    "pasuk": {
+     "text": "לֹא אֲשַׁלֵּחֲךָ כִּי אִם־בֵּרַכְתָּנִי",
+     "ref": "Genesis 32:27",
+     "label": "Genesis 32:27"
+    },
+    "question": "Jacob says 'I will not let you go unless you bless me'. What blessing did he want, and why from his opponent?",
+    "asked_by": [
+     {
+      "name": "HaKtav VeHaKabalah",
+      "ref": "HaKtav VeHaKabalah, Genesis 32:27:1",
+      "era": "acharon",
+      "quote": "תברכני מבעי ליה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "That the angel admit that Jacob was entitled to the blessings his father gave him, which Esau contests.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:27:2",
+        "quote": "הוֹדֵה לִי עַל הַבְּרָכוֹת שֶׁבֵּרְכַנִי אָבִי"
+       }
+      ]
+     },
+     {
+      "text": "That he make peace with Jacob and not bear a grudge or harm him for wrestling with him.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 32:27:2",
+        "quote": "שלא תהיה נוטר איבה"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 32:27:2",
+        "quote": "עד שתעשה עמי שלום"
+       }
+      ]
+     },
+     {
+      "text": "That the angel send him off in peace, so that he not be harmed from the wrestling.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:27:2",
+        "quote": "שתשלחני מאתך בשלום"
+       }
+      ]
+     }
+    ],
+    "why": "It turns the struggle into a settling of accounts over the blessings Jacob took from Esau."
+   },
+   {
+    "title": "Why would the angel not reveal his name?",
+    "pasuk": {
+     "text": "הַגִּידָה־נָּא שְׁמֶךָ וַיֹּאמֶר לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי",
+     "ref": "Genesis 32:30",
+     "label": "Genesis 32:30"
+    },
+    "question": "Jacob asks 'tell me your name' and is answered with a question. Why does the angel refuse?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 32:30:2",
+      "era": "rishon",
+      "quote": "וְלֹא יָדַעְנוּ לָמָּה מַעֲלִימִים שְׁמָם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Angels have no fixed name; their names change according to the mission they are sent on.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 32:30:1-2",
+        "quote": "אֵין לָנוּ שֵׁם קָבוּעַ"
+       }
+      ]
+     },
+     {
+      "text": "The name would not help: all power belongs to God alone, so Jacob would gain nothing by calling the angel.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 32:30:1",
+        "quote": "אֵין לְךָ בִּידִיעַת שְׁמִי תּוֹעֶלֶת"
+       }
+      ]
+     },
+     {
+      "text": "An angel does not want to take honor, as though a miracle depended on him; he is only a servant doing a mission.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 32:30:1-2",
+        "quote": "שֶׁלֹּא לִטּוֹל עֲטָרָה וְכָבוֹד"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the angel understands his role: a messenger without an independent name or power."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Shadal",
+   "Gur Aryeh",
+   "Midrash Lekach Tov",
+   "Radak",
+   "Ibn Ezra",
+   "Haamek Davar",
+   "Ramban",
+   "Sforno",
+   "Rashbam",
+   "Kli Yakar",
+   "Abarbanel",
+   "Chizkuni",
+   "Alshekh",
+   "Rabbeinu Bahya",
+   "Tzror HaMor",
+   "Midrash Aggadah",
+   "HaKtav VeHaKabalah",
+   "Bekhor Shor"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב לן במחנה ומכין מנחה לעשו: עזים, רחלים, גמלים, פרות ואתונות, ששלח לפניו עדר עדר, ועבדיו מצווים לומר שהמנחה מיעקב ושהוא עצמו בא אחריהם. הוא מקווה לכפר את פני עשו במנחה לפני שיראהו. באותו לילה לקח את נשיו, שפחותיו ואחד עשר ילדיו והעבירם את מעבר יבק, והעביר את כל אשר לו. יעקב נשאר לבדו ואיש נאבק עמו עד עלות השחר. האיש רואה שלא יכול לו, נוגע בכף ירכו ותקע כף ירכו. הוא מבקש שישלחו כי עלה השחר, אך יעקב אינו מסכים אלא אם יברכנו. האיש שואל לשמו, אומר שלא יעקב יאמר עוד שמו כי אם ישראל, כי שרה עם אלהים ועם אנשים ויוכל, ועל שאלת יעקב לשמו משיב בשאלה ומברכו שם.",
+  "questions": [
+   {
+    "title": "היכן היתה דינה כשיעקב העביר את משפחתו?",
+    "pasuk": {
+     "text": "ואת אחד עשר ילדיו",
+     "ref": "Genesis 32:23",
+     "label": "בראשית לב, כג"
+    },
+    "question": "הפסוק מונה שתי נשים, שתי שפחות ואחד עשר ילדים, אך ליעקב היו שנים עשר ילדים, ודינה אינה נזכרת. היכן היתה?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 32:23:1",
+      "era": "rishon",
+      "quote": "וְדִינָה הֵיכָן הָיְתָה"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 32:23:2",
+      "era": "acharon",
+      "quote": "ודינה היכן היתה"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 32:23:1",
+      "era": "acharon",
+      "quote": "ודינה היכן היתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "היא הוחבאה בתיבה ננעלה, כדי שעשו לא יתן בה עיניו. על כך נענש יעקב, שמנע אותה מאחיו, שאולי היה מחזירו למוטב, והיא נפלה בידי שכם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:23:1",
+        "quote": "נְתָנָהּ בְּתֵבָה וְנָעַל בְּפָנֶיהָ"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 32:23:2",
+        "quote": "ששם אותה בתוך התבה ונעל בפניה מפני עשו"
+       }
+      ]
+     },
+     {
+      "text": "היא לא חסרה: הבת אינה נפרדת מאמה, ולכן היא נכללת בנשיו, כי היתה עם לאה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 32:23:3",
+        "quote": "וְדִינָה בִּכְלַל נָשָׁיו, כִּי עִם לֵאָה הָיְתָה"
+       },
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 32:23:2",
+        "quote": "נ\"ל שהבנות היו הולכות עם אִמָן"
+       }
+      ]
+     }
+    ],
+    "why": "רואים כיצד חז\"ל דורשים פרט חסר, וכיצד הלילה הזה קשור למה שיקרה לדינה אחר כך."
+   },
+   {
+    "title": "מדוע הכתוב מתאר את העברת הנחל פעמיים?",
+    "pasuk": {
+     "text": "וַיַּעֲבֹר אֵת מַעֲבַר יַבֹּק",
+     "ref": "Genesis 32:23",
+     "label": "בראשית לב, כג"
+    },
+    "question": "בפסוק כג כתוב 'ויעבר את מעבר יבק', ובפסוק כד 'ויקחם ויעברם את הנחל'. האם עבר לפניהם או עמהם?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 32:23:1",
+      "era": "rishon",
+      "quote": "והנה פי' ויעבר כבר עבר"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 32:24:1",
+      "era": "acharon",
+      "quote": "ויקחם ויעברם את הנחל. הוא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יעקב עבר תחילה לבדו כדי לבדוק את הנחל, ואחר כך חזר, לקח אותם והעבירם.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 32:23:2",
+        "quote": "וְעָבַר הוּא לְנַסּוֹת אִם הַמַּיִם עֲמֻקִּים"
+       },
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 32:23:1",
+        "quote": "אֵין מֻקְדָּם וּמְאֻחָר בַּפָּסוּק הַזֶּה"
+       }
+      ]
+     },
+     {
+      "text": "העבירם בחזרה כדי שיסייעו לו להעביר את רכושו, אחרי שראה שעשו אינו קרוב.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 32:24:1",
+        "quote": "העבירם בחזרה את הנחל כדי שאח״כ יסייעוהו להעביר את אשר לו"
+       }
+      ]
+     }
+    ],
+    "why": "ההכרעה קובעת אם יעקב בדק את הנחל תחילה, ומכאן מה חשש באותו לילה."
+   },
+   {
+    "title": "מדוע נשאר יעקב לבדו?",
+    "pasuk": {
+     "text": "ויותר יעקב לבדו",
+     "ref": "Genesis 32:25",
+     "label": "בראשית לב, כה"
+    },
+    "question": "הכל והכל כבר עברו, ובכל זאת 'ויותר יעקב לבדו'. מה עצר אותו בלילה בעבר הנחל, כשעשו בא?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 32:25:1",
+      "era": "acharon",
+      "quote": "ואם תאמר מנא ליה דשכח אותם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא שכח פכים קטנים וחזר עליהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:25:1",
+        "quote": "שָׁכַח פַּכִּים קְטַנִּים וְחָזַר עֲלֵיהֶם"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 32:25:1",
+        "quote": "חזר לראות שמא שכח כלום"
+       }
+      ]
+     },
+     {
+      "text": "לפי הפשט נשאר אחרון, אחרי שציווה שיעברו לפניו, כדי שלא יישאר דבר במחנה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 32:25:1",
+        "quote": "חָזַר וְצִוָּה שֶׁיַּעַבְרוּ לְפָנָיו וְנִשְׁאַר הוּא אַחֲרֵיהֶם"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 32:25:1",
+        "quote": "אַחֲרוֹן לְכֻלָּם לִנְסֹעַ מִן הַמַּחֲנֶה"
+       }
+      ]
+     },
+     {
+      "text": "הוא התכוון לעבור אחריהם כדי לברוח בדרך אחרת, שלא יפגוש אותו עשו.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 32:25:1",
+        "quote": "רצה לעבור אחריהם, כדי לברוח דרך אחרת שלא יפגשנו עשו"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות נעות בין לימוד על יחס הצדיקים לממונם לבין תכנית בריחה."
+   },
+   {
+    "title": "מי היה האיש שנאבק עם יעקב, ולמה?",
+    "pasuk": {
+     "text": "וַיֵּאָבֵק אִישׁ עִמּוֹ",
+     "ref": "Genesis 32:25",
+     "label": "בראשית לב, כה"
+    },
+    "question": "הכתוב אומר רק 'איש'. מי היה, מי שלח אותו, ומה מטרת המאבק?",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 32:25:1",
+      "era": "acharon",
+      "quote": "בְּעִנְיַן הִתְאַבְּקוּת עִם יַעֲקֹב רַבּוּ הַדֵּעוֹת"
+     },
+     {
+      "name": "אברבנאל",
+      "ref": "Abarbanel on Torah, Genesis 32:25",
+      "era": "rishon",
+      "quote": "צריך לבאר ראשונה הענין הזה על פי הפשט"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא היה שרו של עשו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:25:2",
+        "quote": "שֶׁהוּא שָׂרוֹ שֶׁל עֵשָׂו"
+       },
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:25:1",
+        "quote": "סַמָּאֵל שָׂרוֹ שֶׁל עֵשָׂו"
+       }
+      ]
+     },
+     {
+      "text": "הוא היה מלאך ששלח האל לחזק את לבו של יעקב, להראות שגם עשו לא יוכל לו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 32:25:2",
+        "quote": "וְשָׁלַח הָאֵל זֶה הַמַּלְאָךְ לְיַעֲקֹב לְחַזֵּק לִבּוֹ"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 32:25:1",
+        "quote": "מלאך בדמות איש לעכבו שלא יוכל לברוח"
+       }
+      ]
+     },
+     {
+      "text": "הוא נראה כמלאך בדמות איש והתחבק עם יעקב לא להזיקו אלא במלחמת כבוד, כדרך המתגוששים.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 32:25:4",
+        "quote": "והנה נראה אליו מלאך בדמות איש והתחבק עמו לא להזיקו"
+       }
+      ]
+     }
+    ],
+    "why": "זהות ה'איש' קובעת מה משמעות הלילה ליעקב ולצאצאיו."
+   },
+   {
+    "title": "אם המלאך לא יכול ליעקב, מדוע נפגע יעקב?",
+    "pasuk": {
+     "text": "וַיַּרְא כִּי לֹא יָכֹל לוֹ וַיִּגַּע בְּכַף־יְרֵכוֹ",
+     "ref": "Genesis 32:26",
+     "label": "בראשית לב, כו"
+    },
+    "question": "הכתוב אומר 'וירא כי לא יכול לו', ובכל זאת נגע בכף ירכו. מדוע דווקא הירך, ולמה הורשה?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 32:26:6",
+      "era": "rishon",
+      "quote": "אעפ״‎י שהבטיחו הקב״‎ה ושמרתיך בכל אשר תלך הזיקו המלאך"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 32:26:1-4",
+      "era": "acharon",
+      "quote": "והנה היה מקום לומר איך שרה עם אלהים והלא נקעה יריכו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המלאך הורשה רק לפגוע בכף הירך, והמכה רומזת לצאצאים: דורות של שמד שבהם יתגבר עשו על בני יעקב.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 32:26:1",
+        "quote": "לֹא הֻרְשָׁה רַק בַּמֶּה שֶׁעָשָׂה עִמּוֹ לְהָקֵעַ כַּף יְרֵכוֹ"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 32:26:5",
+        "quote": "נגע בצדיקים שעתידין לצאת ממנו"
+       }
+      ]
+     },
+     {
+      "text": "זה עונש על נישואי שתי אחיות, העוון היחיד שהמלאך מצא, והירך היא מקום הצאצאים.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 32:25:3-5",
+        "quote": "מִצַּד עֲוֹן שְׁתֵּי אֲחָיוֹת שֶׁנָּשָׂא בְּחַיֵּיהֶן"
+       },
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 32:26:1",
+        "quote": "לא היה ראוי לישא שתי אחיות"
+       }
+      ]
+     },
+     {
+      "text": "זה רמז לבתו דינה שתיבעל לכנעני, כי 'כף' לשון נקבה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 32:26:2",
+        "quote": "וְהוּא בִּתּוֹ שֶׁנִּבְעֲלָה לִכְנַעֲנִי"
+       }
+      ]
+     },
+     {
+      "text": "זה משום שהקב\"ה הבטיחו והוא היה בורח, וההולכים שלא ברצון הקב\"ה נענשים.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 32:29:1",
+        "quote": "לפי שהקב\"ה הבטיחו והוא היה בורח"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קושר לילה אחד למעשיו של יעקב ולעתיד בניו."
+   },
+   {
+    "title": "מדוע המלאך צריך ללכת עם עלות השחר?",
+    "pasuk": {
+     "text": "שַׁלְּחֵנִי כִּי עָלָה הַשָּׁחַר",
+     "ref": "Genesis 32:27",
+     "label": "בראשית לב, כז"
+    },
+    "question": "מדוע אומר האיש 'שלחני כי עלה השחר'? מה משמעות השחר לגביו?",
+    "asked_by": [
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 32:27:1",
+      "era": "chazal",
+      "quote": "וכי גנב אתה שאתה מתיירא מן השחר"
+     },
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 32:27:1",
+      "era": "chazal",
+      "quote": "וכי גנב אתה או  קוביוסטוס. שאתה מתיירא מן השחר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הגיע זמנו לומר שירה, ומיום שנברא לא הגיע תורו עד עתה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:27:1",
+        "quote": "וְצָרִיךְ אֲנִי לוֹמַר שִׁירָה בַּיּוֹם"
+       },
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 32:27:2",
+        "quote": "מִיּוֹם שֶׁנִּבְרֵאתִי לֹא הִגִּיעַ זְמַנִּי לוֹמַר שִׁירָה"
+       }
+      ]
+     },
+     {
+      "text": "הוא אמר ליעקב שלא יירא, כי יום הוא ואין דרך המזיקים להתראות ביום.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 32:27:1",
+        "quote": "ואין לך לדאוג כי אין דרך מזיקים להתראות ביום"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 32:27:2",
+        "quote": "לֹא תִפְחַד בַּעֲבוּר שֶׁאֲנִיחֲךָ יְחִידִי"
+       }
+      ]
+     },
+     {
+      "text": "ממשלת סמאל היא רק בלילה, כדרך הגנבים.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 32:27:1-2",
+        "quote": "לפי שסמאל אין ממשלתו אלא בלילה"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות מגלות מי היה לדעת חז\"ל: מלאך, קטיגור של הלילה, או מזיק."
+   },
+   {
+    "title": "איזו ברכה תבע יעקב?",
+    "pasuk": {
+     "text": "לֹא אֲשַׁלֵּחֲךָ כִּי אִם־בֵּרַכְתָּנִי",
+     "ref": "Genesis 32:27",
+     "label": "בראשית לב, כז"
+    },
+    "question": "יעקב אומר 'לא אשלחך כי אם ברכתני'. איזו ברכה רצה, ולמה דווקא מיריבו?",
+    "asked_by": [
+     {
+      "name": "הכתב והקבלה",
+      "ref": "HaKtav VeHaKabalah, Genesis 32:27:1",
+      "era": "acharon",
+      "quote": "תברכני מבעי ליה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שהמלאך יודה ליעקב על הברכות שברכו אביו, שעשו מערער עליהן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:27:2",
+        "quote": "הוֹדֵה לִי עַל הַבְּרָכוֹת שֶׁבֵּרְכַנִי אָבִי"
+       }
+      ]
+     },
+     {
+      "text": "שיעשה שלום עם יעקב ולא ינטור איבה ולא יזיקו על שנאבק עמו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 32:27:2",
+        "quote": "שלא תהיה נוטר איבה"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 32:27:2",
+        "quote": "עד שתעשה עמי שלום"
+       }
+      ]
+     },
+     {
+      "text": "שישלחו מעליו בשלום, כדי שלא ייפגע מן המאבק.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 32:27:2",
+        "quote": "שתשלחני מאתך בשלום"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר הופך את המאבק להשבת חשבון על הברכות שיעקב לקח מעשו."
+   },
+   {
+    "title": "מדוע המלאך לא גילה את שמו?",
+    "pasuk": {
+     "text": "הַגִּידָה־נָּא שְׁמֶךָ וַיֹּאמֶר לָמָּה זֶּה תִּשְׁאַל לִשְׁמִי",
+     "ref": "Genesis 32:30",
+     "label": "בראשית לב, ל"
+    },
+    "question": "יעקב מבקש 'הגידה נא שמך' ומקבל שאלה בתשובה. מדוע המלאך מסרב?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 32:30:2",
+      "era": "rishon",
+      "quote": "וְלֹא יָדַעְנוּ לָמָּה מַעֲלִימִים שְׁמָם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "למלאכים אין שם קבוע; שמותיהם משתנים לפי השליחות.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 32:30:1-2",
+        "quote": "אֵין לָנוּ שֵׁם קָבוּעַ"
+       }
+      ]
+     },
+     {
+      "text": "השם לא יועיל: הכוח כולו לה' לבדו, ולכן אין תועלת בקריאה למלאך.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 32:30:1",
+        "quote": "אֵין לְךָ בִּידִיעַת שְׁמִי תּוֹעֶלֶת"
+       }
+      ]
+     },
+     {
+      "text": "מלאך אינו רוצה ליטול כבוד, כאילו הנס תלוי בו; הוא רק עבד העושה שליחות.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 32:30:1-2",
+        "quote": "שֶׁלֹּא לִטּוֹל עֲטָרָה וְכָבוֹד"
+       }
+      ]
+     }
+    ],
+    "why": "התשובה מלמדת על מעמד המלאך: שליח שאין לו שם או כוח עצמאי."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "שד\"ל",
+   "גור אריה",
+   "מדרש לקח טוב",
+   "רד\"ק",
+   "אבן עזרא",
+   "העמק דבר",
+   "רמב\"ן",
+   "ספורנו",
+   "רשב\"ם",
+   "כלי יקר",
+   "אברבנאל",
+   "חזקוני",
+   "אלשיך",
+   "רבינו בחיי",
+   "צרור המור",
+   "מדרש אגדה",
+   "הכתב והקבלה",
+   "בכור שור"
+  ]
+ }
+}
