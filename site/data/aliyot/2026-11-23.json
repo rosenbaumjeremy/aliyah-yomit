@@ -1,0 +1,1063 @@
+{
+ "date": "2026-11-23",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 3,
+ "aliyah_name": {
+  "en": "Shlishi",
+  "he": "שלישי"
+ },
+ "range": "Genesis 32:31-33:5",
+ "hebrew_date": {
+  "hebrew": "י״ג בְּכִסְלֵו תשפ״ז",
+  "english": "13 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob names the place Peniel, saying he has seen a divine being face to face and his life was spared. The sun rises on him as he leaves Penuel, limping on his hip, and the text gives the reason the children of Israel do not eat the thigh muscle. Jacob then sees Esau coming with four hundred men and divides the children among Leah, Rachel and the two maids, with the maids first and Rachel and Joseph last. He goes ahead and bows seven times until he reaches his brother. Esau runs to greet him, embraces him and kisses him, and they weep. Esau then asks who the women and children are, and Jacob answers that they are the children with whom God has favored him.",
+  "questions": [
+   {
+    "title": "Why does the verse say the sun rose 'for him'? Did it not rise for everyone?",
+    "pasuk": {
+     "text": "ויזרח לו השמש",
+     "ref": "Genesis 32:32",
+     "label": "Genesis 32:32"
+    },
+    "question": "The Torah says the sun rose upon Jacob as he passed Penuel. But the sun rises for the whole world, and it is hard to see why a verse would mark it as rising for him.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 32:32:1",
+      "era": "acharon",
+      "quote": "וכי לו לבד זרחה, והלא לכל העולם זרחה"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 78:5",
+      "era": "chazal",
+      "quote": "וּלְמִי לֹא זָרְחָה הַשֶּׁמֶשׁ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It rose for his sake, to heal his limp.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:32:1",
+        "quote": "לְרַפְּאוֹת אֶת צָלַעְתּוֹ"
+       },
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 32:32:1",
+        "quote": "זָרַח הַשֶּׁמֶשׁ וְנִרְפָּא"
+       }
+      ]
+     },
+     {
+      "text": "For others the sun was only light; for Jacob it was a healing.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:5",
+        "quote": "אֶלָּא לוֹ לִרְפוּאָתוֹ, אֲבָל לַאֲחֵרִים אוֹרָה"
+       }
+      ]
+     },
+     {
+      "text": "Because the sun had set early for him when he left Be'er Sheva, it was now right for it to rise early, to heal him.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 32:32:1",
+        "quote": "אלא מפני ששקעה תחלה בלא זמנה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the sun, and the timing of the day, were moved for Jacob's sake."
+   },
+   {
+    "title": "If the sun healed him, why is he still limping?",
+    "pasuk": {
+     "text": "והוא צלע על ירכו",
+     "ref": "Genesis 32:32",
+     "label": "Genesis 32:32"
+    },
+    "question": "The verse says the sun rose to heal Jacob, and in the same breath says he was limping on his hip.",
+    "asked_by": [
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 32:31:1",
+      "era": "acharon",
+      "quote": "(בראשית לב:לב) – קַשְׁיָין אַהֲדָדֵי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He was limping at the moment the sun rose; the verse tells when, not that the healing had not come.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 32:32:2",
+        "quote": "הָיָה צוֹלֵעַ כְּשֶׁזָּרְחָה הַשֶּׁמֶשׁ"
+       }
+      ]
+     },
+     {
+      "text": "It is only when the sun rose that they could see him limping, as in 'and in the morning, behold it was Leah'.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:32:1",
+        "quote": "עתה כשהיה השמש ראוהו צולע על יריכו"
+       }
+      ]
+     },
+     {
+      "text": "The sun healed the wound Samael wanted to strike, which was to blind his intellect; the limp that remained shut the gates of understanding for anyone whose eye is on money.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:31:1",
+        "quote": "לַעֲשׂוֹתוֹ צוֹלֵעַ עַל יְרֵכוֹ וְלִסְגֹּר בַּעֲדוֹ שַׁעֲרֵי בִּינָה"
+       }
+      ]
+     }
+    ],
+    "why": "It tells us what kind of healing the sun brought, and what remained."
+   },
+   {
+    "title": "Why are Israel forbidden the thigh sinew because of what happened to Jacob?",
+    "pasuk": {
+     "text": "על כן לא יאכלו בני ישראל את גיד הנשה",
+     "ref": "Genesis 32:33",
+     "label": "Genesis 32:33"
+    },
+    "question": "The verse gives the incident with the angel as the reason for the prohibition. How is that a reason, and why is it said of 'the children of Israel'?",
+    "asked_by": [
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 32:33:1",
+      "era": "rishon",
+      "quote": "בדין הוא שיש לקנוס ולענוש בני ישראל מאכילת גיד הנשה"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 32:33:1",
+      "era": "rishon",
+      "quote": "וכי נאמר על כן לא יאכלו בני יעקב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It is a remembrance of Jacob's strength and of the miracle that God did for him, that he did not die.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 32:33:1",
+        "quote": "לזיכרון גבורתו של יעקב ונס שעשה לו הקב\"ה שלא מת"
+       }
+      ]
+     },
+     {
+      "text": "It is a penalty: his sons were warriors and did not wait to escort their father and help him, so they should learn to be careful with the mitzvah of escorting.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 32:33:1",
+        "quote": "והן היו גבורים והיה להם להמתין אביהם ולסייעו אם יצטרך"
+       }
+      ]
+     },
+     {
+      "text": "It hints that Israel should not probe hidden matters, since deep ideas are compared to sinews and understanding to eating.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 32:33:1",
+        "quote": "לִמְנוֹעַ מִיִּשְׂרָאֵל הַחֲקִירָה בַּנִּסְתָּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "As for 'children of Israel' and not 'children of Jacob': it was said at Sinai and written here to tell the reason it was forbidden.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 32:33:1",
+        "quote": "בסיני נאמר ונכתב כאן לדעת מאיזה טעם נאסר להם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows several ways the Torah ties a mitzvah to the patriarchs' story."
+   },
+   {
+    "title": "Why did Jacob place the maids first and Rachel and Joseph last?",
+    "pasuk": {
+     "text": "וישם את השפחות ואת ילדיהן ראשנה",
+     "ref": "Genesis 33:2",
+     "label": "Genesis 33:2"
+    },
+    "question": "Jacob arranged his family in an order as Esau approached with four hundred men. What was the reasoning behind the order?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 33:2:1",
+      "era": "rishon",
+      "quote": "ושם רחל ויוסף באחרונה"
+     },
+     {
+      "name": "Midrash Sekhel Tov",
+      "ref": "Midrash Sekhel Tov, Bereshit 33:2:1",
+      "era": "chazal",
+      "quote": "וישם את השפחות ואת ילדיהן ראשונה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The last is the most beloved.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:2:1",
+        "quote": "אַחֲרוֹן אַחֲרוֹן חָבִיב"
+       },
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 33:2:1",
+        "quote": "למדנו אחרון אחרון חביב יותר"
+       }
+      ]
+     },
+     {
+      "text": "It was a precaution: if Esau meant vengeance, better that he strike those of lesser standing than the mistresses.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 33:2:1",
+        "quote": "מוטב שיפגע באלו, משיפגע בגבירות"
+       }
+      ]
+     },
+     {
+      "text": "Perhaps Rachel and Joseph would escape because of his love for them.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 33:2:1",
+        "quote": "אולי ימלטו בעבור אהבתו אותם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob prepared for the meeting with Esau."
+   },
+   {
+    "title": "Why did Jacob go ahead of them and bow seven times?",
+    "pasuk": {
+     "text": "ויעבר לפניהם וישתחו ארצה שבע פעמים",
+     "ref": "Genesis 33:3",
+     "label": "Genesis 33:3"
+    },
+    "question": "Jacob goes before his family and bows to the ground seven times before reaching his brother. What lies behind this, and why seven?",
+    "asked_by": [
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 78:8",
+      "era": "chazal",
+      "quote": "דָּבָר אַחֵר, לָמָּה שֶׁבַע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He went first so that if the wicked one came to fight, he would fight Jacob first.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:3:1",
+        "quote": "אִם יָבֹא אוֹתוֹ רָשָׁע לְהִלָּחֵם יִלָּחֵם בִּי תְּחִלָּה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:8",
+        "quote": "טַב דְּיִגַּע בִּי וְלָא בְהוֹן"
+       }
+      ]
+     },
+     {
+      "text": "Seven, for 'a righteous man falls seven times and rises'.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:8",
+        "quote": "כִּי שֶׁבַע יִפּוֹל צַדִּיק וָקָם"
+       }
+      ]
+     },
+     {
+      "text": "He bowed before reaching Esau so that Esau ran to meet him, and would not make him bow still more.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 33:3:1",
+        "quote": "השתחוואה קודם גשתו לאחיו ועשו רץ לקראתו כדי שלא ישתחווה עוד"
+       }
+      ]
+     },
+     {
+      "text": "Jacob bowed seven times to soften the bitter anger of the Esau in him, until he reached the stage of 'his brother'.",
+      "sources": [
+       {
+        "name": "Alshich",
+        "ref": "Alshekh on Torah, Genesis 33:3:1-2",
+        "quote": "למתק מרורות חמת בחינת היותו עשו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows a father putting himself in danger for his children, and humility before an enemy."
+   },
+   {
+    "title": "Why are there dots over the word 'and he kissed him'?",
+    "pasuk": {
+     "text": "וירץ עשו לקראתו ויחבקהו",
+     "ref": "Genesis 33:4",
+     "label": "Genesis 33:4"
+    },
+    "question": "Esau runs, embraces and kisses Jacob, but the word 'and he kissed him' is dotted in the Torah scroll. What do the dots tell us about whether the kiss was sincere?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 33:4:2",
+      "era": "rishon",
+      "quote": "וְיֵשׁ חוֹלְקִין בַּדָּבָר הַזֶּה"
+     },
+     {
+      "name": "Bereshit Rabbah",
+      "ref": "Bereshit Rabbah 78:9",
+      "era": "chazal",
+      "quote": "אִם כֵּן לָמָּה נָקוּד עָלָיו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "His compassion was stirred at that moment and he kissed him with all his heart.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:9",
+        "quote": "אֶלָא מְלַמֵּד שֶׁנִּכְמְרוּ רַחֲמָיו … וּנְשָׁקוֹ בְּכָל לִבּוֹ"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 33:4:1",
+        "quote": "כִּפֵּר לוֹ כָּל מַה שֶּׁעָשָׂה לוֹ וְנִתְמַלֵּא עָלָיו רַחֲמִים"
+       }
+      ]
+     },
+     {
+      "text": "He came not to kiss but to bite; Jacob's neck became like marble and the wicked one's teeth were blunted.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:9",
+        "quote": "שֶׁלֹא בָּא לְנַשְּׁקוֹ אֶלָּא לְנָשְׁכוֹ"
+       },
+       {
+        "name": "Pirkei DeRabbi Eliezer",
+        "ref": "Pirkei DeRabbi Eliezer 37:8",
+        "quote": "וְקָהוּ שִׁנָּיו שֶׁל אוֹתוֹ רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "The kiss was not wholehearted, a kiss of anger, as in 'the kisses of an enemy are profuse'.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 33:4:1",
+        "quote": "שֶׁנְּשִׁיקָה זוֹ לֹא הָיְתָה בְּכָל לִבּוֹ רַק נְשִׁיקַת אַף"
+       }
+      ]
+     },
+     {
+      "text": "On the plain meaning, Esau did not plan to harm his brother, and the proof is 'and they wept'.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 33:4:1",
+        "quote": "על דרך הפשט לא חשב עשו לעשות רע לאחיו והעד ויבכו"
+       }
+      ]
+     },
+     {
+      "text": "The dots may show that in some books the word was not written at all.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 33:4:1",
+        "quote": "להורות שבקצת ספרים לא היתה כתובה"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether the meeting of Jacob and Esau was truly reconciliation."
+   },
+   {
+    "title": "Why does Esau ask 'Who are these to you?', and why does Jacob answer only about the children?",
+    "pasuk": {
+     "text": "מי אלה לך ויאמר הילדים אשר חנן אלהים את עבדך",
+     "ref": "Genesis 33:5",
+     "label": "Genesis 33:5"
+    },
+    "question": "Esau asks about 'the women and the children', and Jacob answers only about the children. What is Esau asking, and why does Jacob not mention the women?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 33:5:1",
+      "era": "acharon",
+      "quote": "ודאי אני יודע שהם שלך שהרי הם עמך"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 33:5:1",
+      "era": "acharon",
+      "quote": "איך נשאת נשים הרבה ואתה התם"
+     },
+     {
+      "name": "Sforno",
+      "ref": "Sforno on Genesis 33:5:1",
+      "era": "rishon",
+      "quote": "שָׁאַל אִם הֵם בָּנָיו אוֹ עֲבָדָיו וּבְנֵי בֵיתוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Jacob answered in a modest way because he did not want to say that they were his wives, and Esau understood that they were the mothers of the children.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 33:5:1",
+        "quote": "דֶּרֶךְ מוּסָר, כִּי לֹא רָצָה לוֹמַר שֶׁהֵם נָשָׁיו"
+       },
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 33:5:1",
+        "quote": "וּמֵעַצְמוֹ יָדַע כִּי הַנָּשִׁים אִמּוֹתֵיהֶם"
+       }
+      ]
+     },
+     {
+      "text": "He married many wives to raise up seed for God.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 33:5:1",
+        "quote": "נשאתים להקים זרע אלהים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the modesty of Jacob's reply."
+   },
+   {
+    "title": "Why did Jacob say 'graciously given' about his children?",
+    "pasuk": {
+     "text": "הילדים אשר חנן אלהים את עבדך",
+     "ref": "Genesis 33:5",
+     "label": "Genesis 33:5"
+    },
+    "question": "Jacob could have said 'whom God gave me', but chose the word for grace. What does this word tell us?",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 33:5:1",
+      "era": "chazal",
+      "quote": "מה ראה יעקב אבינו לומר בלשון חנינה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Because 'grace' stands in the middle of the Priestly Blessing, with seven words on each side, matching the fourteen years he served Laban.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 33:5:1",
+        "quote": "לפי שחנינה מוצעת בברכת כהנים"
+       }
+      ]
+     },
+     {
+      "text": "Because we had heard 'grace' for eleven tribes but not yet for Benjamin.",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:10",
+        "quote": "לְפִי שֶׁשָּׁמַעְנוּ חֲנִינָה בְּאַחַד עָשָׂר שְׁבָטִים"
+       }
+      ]
+     },
+     {
+      "text": "'Chanan' simply means 'gave'.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 33:5:2",
+        "quote": "חנן. כמו נתן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the midrash reads a single word."
+   }
+  ],
+  "sources_consulted": [
+   "Gur Aryeh",
+   "Bereshit Rabbah",
+   "Rashi",
+   "Sforno",
+   "Kli Yakar",
+   "Rashbam",
+   "Chizkuni",
+   "Ibn Ezra",
+   "Midrash Sekhel Tov",
+   "Midrash Lekach Tov",
+   "Bekhor Shor",
+   "Alshich",
+   "Radak",
+   "Pirkei DeRabbi Eliezer",
+   "Rabbeinu Bahya",
+   "Shadal",
+   "Malbim",
+   "Ramban"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב קורא למקום פניאל, כי ראה אלהים פנים אל פנים ונצלה נפשו. השמש זורחת לו כשהוא עובר את פנואל והוא צולע על ירכו, והכתוב נותן את הטעם שבני ישראל אינם אוכלים גיד הנשה. יעקב רואה את עשו בא ועמו ארבע מאות איש, ומחלק את הילדים על לאה, רחל ושתי השפחות, השפחות ראשונות ורחל ויוסף אחרונים. הוא עובר לפניהם ומשתחווה שבע פעמים עד גשתו אל אחיו. עשו רץ לקראתו, מחבק אותו ומנשק אותו, והם בוכים. עשו שואל מי הנשים והילדים, ויעקב עונה שהם הילדים אשר חנן אלהים את עבדו.",
+  "questions": [
+   {
+    "title": "למה נאמר 'ויזרח לו השמש'? והרי השמש זורחת לכל העולם?",
+    "pasuk": {
+     "text": "ויזרח לו השמש",
+     "ref": "Genesis 32:32",
+     "label": "בראשית לב, לב"
+    },
+    "question": "הכתוב אומר שהשמש זרחה ליעקב כשעבר את פנואל. אך השמש זורחת לכל העולם, ויש לשאול מדוע נאמר בכתוב שזרחה לו.",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 32:32:1",
+      "era": "acharon",
+      "quote": "וכי לו לבד זרחה, והלא לכל העולם זרחה"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 78:5",
+      "era": "chazal",
+      "quote": "וּלְמִי לֹא זָרְחָה הַשֶּׁמֶשׁ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "זרחה בשבילו, כדי לרפא את צלעתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:32:1",
+        "quote": "לְרַפְּאוֹת אֶת צָלַעְתּוֹ"
+       },
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 32:32:1",
+        "quote": "זָרַח הַשֶּׁמֶשׁ וְנִרְפָּא"
+       }
+      ]
+     },
+     {
+      "text": "לאחרים השמש היא אור בלבד, ואילו ליעקב היא רפואה.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:5",
+        "quote": "אֶלָּא לוֹ לִרְפוּאָתוֹ, אֲבָל לַאֲחֵרִים אוֹרָה"
+       }
+      ]
+     },
+     {
+      "text": "מפני שהשמש שקעה לפני זמנה בשבילו, ראוי עתה שתזרח מוקדם כדי לרפאותו.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 32:32:1",
+        "quote": "אלא מפני ששקעה תחלה בלא זמנה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהשמש וסדר היום זזו למען יעקב."
+   },
+   {
+    "title": "אם השמש ריפאה אותו, למה הוא עדיין צולע?",
+    "pasuk": {
+     "text": "והוא צלע על ירכו",
+     "ref": "Genesis 32:32",
+     "label": "בראשית לב, לב"
+    },
+    "question": "הכתוב אומר שהשמש זרחה לרפאות את יעקב, ובאותו משפט אומר שהוא צולע על ירכו.",
+    "asked_by": [
+     {
+      "name": "כלי יקר",
+      "ref": "Kli Yakar on Genesis 32:31:1",
+      "era": "acharon",
+      "quote": "(בראשית לב:לב) – קַשְׁיָין אַהֲדָדֵי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא היה צולע בשעה שזרחה השמש; הכתוב מתאר את הזמן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 32:32:2",
+        "quote": "הָיָה צוֹלֵעַ כְּשֶׁזָּרְחָה הַשֶּׁמֶשׁ"
+       }
+      ]
+     },
+     {
+      "text": "רק כשזרחה השמש ראו שהוא צולע, כמו 'ויהי בבוקר והנה היא לאה'.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 32:32:1",
+        "quote": "עתה כשהיה השמש ראוהו צולע על יריכו"
+       }
+      ]
+     },
+     {
+      "text": "השמש רפאה את המכה שביקש סמאל להכות, והיא עיוורון שכלו; והצליעה שנשארה סוגרת שערי בינה בפני מי שעינו על ממונו.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:31:1",
+        "quote": "לַעֲשׂוֹתוֹ צוֹלֵעַ עַל יְרֵכוֹ וְלִסְגֹּר בַּעֲדוֹ שַׁעֲרֵי בִּינָה"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד איזו רפואה הביאה השמש ומה נשאר."
+   },
+   {
+    "title": "מדוע נאסר על בני ישראל גיד הנשה בגלל מה שאירע ליעקב?",
+    "pasuk": {
+     "text": "על כן לא יאכלו בני ישראל את גיד הנשה",
+     "ref": "Genesis 32:33",
+     "label": "בראשית לב, לג"
+    },
+    "question": "הכתוב נותן את המאבק עם המלאך כטעם לאיסור. כיצד זה טעם, ולמה נאמר 'בני ישראל'?",
+    "asked_by": [
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 32:33:1",
+      "era": "rishon",
+      "quote": "בדין הוא שיש לקנוס ולענוש בני ישראל מאכילת גיד הנשה"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 32:33:1",
+      "era": "rishon",
+      "quote": "וכי נאמר על כן לא יאכלו בני יעקב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "זכר לגבורת יעקב ולנס שעשה לו הקב\"ה שלא מת.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 32:33:1",
+        "quote": "לזיכרון גבורתו של יעקב ונס שעשה לו הקב\"ה שלא מת"
+       }
+      ]
+     },
+     {
+      "text": "זה קנס: בניו היו גבורים ולא ליוו את אביהם, ולכן ילמדו להיזהר במצוות לוויה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 32:33:1",
+        "quote": "והן היו גבורים והיה להם להמתין אביהם ולסייעו אם יצטרך"
+       }
+      ]
+     },
+     {
+      "text": "זה רמז שאין לחקור בנסתרות, כי דברים עמוקים נמשלו לגידים והשגה נקראת אכילה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 32:33:1",
+        "quote": "לִמְנוֹעַ מִיִּשְׂרָאֵל הַחֲקִירָה בַּנִּסְתָּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "'בני ישראל' ולא 'בני יעקב': נאמר בסיני ונכתב כאן לדעת מאיזה טעם נאסר.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 32:33:1",
+        "quote": "בסיני נאמר ונכתב כאן לדעת מאיזה טעם נאסר להם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כמה דרכים לקשר מצווה לסיפור האבות."
+   },
+   {
+    "title": "למה סידר יעקב את השפחות ראשונות ואת רחל ויוסף אחרונים?",
+    "pasuk": {
+     "text": "וישם את השפחות ואת ילדיהן ראשנה",
+     "ref": "Genesis 33:2",
+     "label": "בראשית לג, ב"
+    },
+    "question": "יעקב סידר את משפחתו בסדר מסוים כשעשו התקרב עם ארבע מאות איש. מה הטעם לסדר?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 33:2:1",
+      "era": "rishon",
+      "quote": "ושם רחל ויוסף באחרונה"
+     },
+     {
+      "name": "מדרש שכל טוב",
+      "ref": "Midrash Sekhel Tov, Bereshit 33:2:1",
+      "era": "chazal",
+      "quote": "וישם את השפחות ואת ילדיהן ראשונה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "האחרון האחרון חביב.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:2:1",
+        "quote": "אַחֲרוֹן אַחֲרוֹן חָבִיב"
+       },
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 33:2:1",
+        "quote": "למדנו אחרון אחרון חביב יותר"
+       }
+      ]
+     },
+     {
+      "text": "זו זהירות: אם בא לנקום, מוטב שיפגע באלו ולא בגבירות.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 33:2:1",
+        "quote": "מוטב שיפגע באלו, משיפגע בגבירות"
+       }
+      ]
+     },
+     {
+      "text": "אולי ימלטו בגלל אהבתו אותם.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 33:2:1",
+        "quote": "אולי ימלטו בעבור אהבתו אותם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך יעקב התכונן לפגישה עם עשו."
+   },
+   {
+    "title": "למה עבר יעקב לפניהם והשתחווה שבע פעמים?",
+    "pasuk": {
+     "text": "ויעבר לפניהם וישתחו ארצה שבע פעמים",
+     "ref": "Genesis 33:3",
+     "label": "בראשית לג, ג"
+    },
+    "question": "יעקב עובר לפני משפחתו ומשתחווה ארצה שבע פעמים לפני שהגיע לאחיו. מה הטעם, ולמה שבע?",
+    "asked_by": [
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 78:8",
+      "era": "chazal",
+      "quote": "דָּבָר אַחֵר, לָמָּה שֶׁבַע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עבר ראשון כדי שאם יבוא הרשע להילחם, יילחם בו תחילה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:3:1",
+        "quote": "אִם יָבֹא אוֹתוֹ רָשָׁע לְהִלָּחֵם יִלָּחֵם בִּי תְּחִלָּה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:8",
+        "quote": "טַב דְּיִגַּע בִּי וְלָא בְהוֹן"
+       }
+      ]
+     },
+     {
+      "text": "שבע, על שם 'כי שבע יפול צדיק וקם'.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:8",
+        "quote": "כִּי שֶׁבַע יִפּוֹל צַדִּיק וָקָם"
+       }
+      ]
+     },
+     {
+      "text": "הוא השתחווה לפני שהגיע, ועשו רץ לקראתו כדי שלא ישתחווה עוד.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 33:3:1",
+        "quote": "השתחוואה קודם גשתו לאחיו ועשו רץ לקראתו כדי שלא ישתחווה עוד"
+       }
+      ]
+     },
+     {
+      "text": "יעקב השתחווה שבע פעמים כדי למתק את מרירות הכעס של בחינת עשו, עד שהגיע לגדר אחיו.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 33:3:1-2",
+        "quote": "למתק מרורות חמת בחינת היותו עשו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה אב המסכן את עצמו למען ילדיו, והכנעה לפני אויב."
+   },
+   {
+    "title": "למה יש נקודות על המילה 'וישקהו'?",
+    "pasuk": {
+     "text": "וירץ עשו לקראתו ויחבקהו",
+     "ref": "Genesis 33:4",
+     "label": "בראשית לג, ד"
+    },
+    "question": "עשו רץ, מחבק ומנשק את יעקב, אך המילה 'וישקהו' מנוקדת בספר התורה. מה באות הנקודות ללמד על כנות הנשיקה?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 33:4:2",
+      "era": "rishon",
+      "quote": "וְיֵשׁ חוֹלְקִין בַּדָּבָר הַזֶּה"
+     },
+     {
+      "name": "בראשית רבה",
+      "ref": "Bereshit Rabbah 78:9",
+      "era": "chazal",
+      "quote": "אִם כֵּן לָמָּה נָקוּד עָלָיו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "נכמרו רחמיו באותה שעה ונשקו בכל לבו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:9",
+        "quote": "אֶלָא מְלַמֵּד שֶׁנִּכְמְרוּ רַחֲמָיו … וּנְשָׁקוֹ בְּכָל לִבּוֹ"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 33:4:1",
+        "quote": "כִּפֵּר לוֹ כָּל מַה שֶּׁעָשָׂה לוֹ וְנִתְמַלֵּא עָלָיו רַחֲמִים"
+       }
+      ]
+     },
+     {
+      "text": "לא בא לנשקו אלא לנשכו; צוארו של יעקב נעשה שיש וקהו שיניו.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:9",
+        "quote": "שֶׁלֹא בָּא לְנַשְּׁקוֹ אֶלָּא לְנָשְׁכוֹ"
+       },
+       {
+        "name": "פרקי דרבי אליעזר",
+        "ref": "Pirkei DeRabbi Eliezer 37:8",
+        "quote": "וְקָהוּ שִׁנָּיו שֶׁל אוֹתוֹ רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "הנשיקה לא הייתה בכל לבו אלא נשיקת אף.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 33:4:1",
+        "quote": "שֶׁנְּשִׁיקָה זוֹ לֹא הָיְתָה בְּכָל לִבּוֹ רַק נְשִׁיקַת אַף"
+       }
+      ]
+     },
+     {
+      "text": "לפי הפשט עשו לא חשב להרע לאחיו, והעד 'ויבכו'.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 33:4:1",
+        "quote": "על דרך הפשט לא חשב עשו לעשות רע לאחיו והעד ויבכו"
+       }
+      ]
+     },
+     {
+      "text": "הנקודות אולי מורות שבקצת ספרים המילה לא הייתה כתובה.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 33:4:1",
+        "quote": "להורות שבקצת ספרים לא היתה כתובה"
+       }
+      ]
+     }
+    ],
+    "why": "שואל אם הפגישה בין יעקב לעשו הייתה פיוס אמיתי."
+   },
+   {
+    "title": "למה שואל עשו 'מי אלה לך', ולמה עונה יעקב רק על הילדים?",
+    "pasuk": {
+     "text": "מי אלה לך ויאמר הילדים אשר חנן אלהים את עבדך",
+     "ref": "Genesis 33:5",
+     "label": "בראשית לג, ה"
+    },
+    "question": "עשו שואל על 'הנשים והילדים', ויעקב עונה רק על הילדים. מה שואל עשו, ולמה לא מזכיר יעקב את הנשים?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 33:5:1",
+      "era": "acharon",
+      "quote": "ודאי אני יודע שהם שלך שהרי הם עמך"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 33:5:1",
+      "era": "acharon",
+      "quote": "איך נשאת נשים הרבה ואתה התם"
+     },
+     {
+      "name": "ספורנו",
+      "ref": "Sforno on Genesis 33:5:1",
+      "era": "rishon",
+      "quote": "שָׁאַל אִם הֵם בָּנָיו אוֹ עֲבָדָיו וּבְנֵי בֵיתוֹ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יעקב ענה בדרך מוסר כי לא רצה לומר שהן נשיו, ועשו הבין שהן אמות הילדים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 33:5:1",
+        "quote": "דֶּרֶךְ מוּסָר, כִּי לֹא רָצָה לוֹמַר שֶׁהֵם נָשָׁיו"
+       },
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 33:5:1",
+        "quote": "וּמֵעַצְמוֹ יָדַע כִּי הַנָּשִׁים אִמּוֹתֵיהֶם"
+       }
+      ]
+     },
+     {
+      "text": "נשא נשים רבות כדי להקים זרע אלהים.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 33:5:1",
+        "quote": "נשאתים להקים זרע אלהים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את צניעות תשובתו של יעקב."
+   },
+   {
+    "title": "למה אמר יעקב 'חנן' על ילדיו?",
+    "pasuk": {
+     "text": "הילדים אשר חנן אלהים את עבדך",
+     "ref": "Genesis 33:5",
+     "label": "בראשית לג, ה"
+    },
+    "question": "יעקב יכול היה לומר 'אשר נתן לי', אך בחר במילה של חנינה. מה מלמדת מילה זו?",
+    "asked_by": [
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 33:5:1",
+      "era": "chazal",
+      "quote": "מה ראה יעקב אבינו לומר בלשון חנינה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כי חנינה מוצעת בברכת כהנים, שבע מילים מכאן ושבע מכאן, כנגד י\"ד השנים שעבד.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 33:5:1",
+        "quote": "לפי שחנינה מוצעת בברכת כהנים"
+       }
+      ]
+     },
+     {
+      "text": "כי שמענו חנינה באחד עשר שבטים ולא בבנימין.",
+      "sources": [
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:10",
+        "quote": "לְפִי שֶׁשָּׁמַעְנוּ חֲנִינָה בְּאַחַד עָשָׂר שְׁבָטִים"
+       }
+      ]
+     },
+     {
+      "text": "'חנן' כמו 'נתן'.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 33:5:2",
+        "quote": "חנן. כמו נתן"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד המדרש קורא מילה אחת."
+   }
+  ],
+  "sources_consulted": [
+   "גור אריה",
+   "בראשית רבה",
+   "רש\"י",
+   "ספורנו",
+   "כלי יקר",
+   "רשב\"ם",
+   "חזקוני",
+   "אבן עזרא",
+   "מדרש שכל טוב",
+   "מדרש לקח טוב",
+   "בכור שור",
+   "אלשיך",
+   "רד\"ק",
+   "פרקי דרבי אליעזר",
+   "רבנו בחיי",
+   "שד\"ל",
+   "מלבי\"ם",
+   "רמב\"ן"
+  ]
+ }
+}
