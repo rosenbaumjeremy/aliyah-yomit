@@ -1,0 +1,969 @@
+{
+ "date": "2026-11-24",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 4,
+ "aliyah_name": {
+  "en": "Revi'i",
+  "he": "רביעי"
+ },
+ "range": "Genesis 33:6-33:20",
+ "hebrew_date": {
+  "hebrew": "י״ד בְּכִסְלֵו תשפ״ז",
+  "english": "14 Kislev 5787"
+ },
+ "english": {
+  "summary": "The maids, Leah and Joseph with Rachel come forward with their children and bow to Esau. Esau asks what the whole camp he met was for, and Jacob answers that it was to find favor with him. Esau says he has enough, but Jacob presses him to accept the gift, and he does. Esau offers to travel together and then to leave some of his people with Jacob, and Jacob declines both, saying the children and flocks are frail. Esau returns to Seir that day, and Jacob goes on to Succoth, where he builds a house and huts for his cattle. He then arrives safely at Shechem, buys the parcel of land where he pitched his tent for a hundred kesitah, and sets up an altar called El-elohe-yisrael.",
+  "questions": [
+   {
+    "title": "Why are the maids' children said to bow in a feminine form, while Leah's and Rachel's children bow in the masculine?",
+    "pasuk": {
+     "text": "ותגשן השפחות הנה וילדיהן ותשתחוין",
+     "ref": "Genesis 33:6",
+     "label": "Genesis 33:6"
+    },
+    "question": "Of the maids and their children the verse says 'vatishtachavena' (feminine plural), but of Leah, Joseph and Rachel it says 'vayishtachavu' (masculine). Did the maids' children not bow at all, or is this only the way the verse is worded?",
+    "asked_by": [
+     {
+      "name": "Hadar Zekenim",
+      "ref": "Hadar Zekenim on Torah, Genesis 33:6:1",
+      "era": "rishon",
+      "quote": "וא\"ת והלא בני השפחות ראו כמו כן שהשתחוה אביהם"
+     },
+     {
+      "name": "Riva",
+      "ref": "Riva on Torah, Genesis 33:7:1",
+      "era": "rishon",
+      "quote": "וק' על זה שהרי ראו בני השפחות שיעקב השתחוה"
+     },
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 33:6:1",
+      "era": "rishon",
+      "quote": "והלא כבר ראו יעקב שהוא גביר לכולם שהשתחווה ג' פעמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The sons of the maids did not bow: they said their mothers were maidservants and it is fitting for them to bow, but 'we are the sons of Jacob'.",
+      "sources": [
+       {
+        "name": "Riva",
+        "ref": "Riva on Torah, Genesis 33:7:1",
+        "quote": "שלא השתחוו בני השפחות"
+       },
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 33:6:1",
+        "quote": "אבל ילדיהן לא רצו להשתחוות"
+       }
+      ]
+     },
+     {
+      "text": "They did bow with their mothers; the verse hangs the bowing on the two maids because it can speak of them in the plural.",
+      "sources": [
+       {
+        "name": "Riva",
+        "ref": "Riva on Torah, Genesis 33:7:1",
+        "quote": "אף בני השפחות השתחוו עם אמותיהם"
+       },
+       {
+        "name": "Hadar Zekenim",
+        "ref": "Hadar Zekenim on Torah, Genesis 33:6:1",
+        "quote": "אף בני השפחות השתחוו עם אמם"
+       }
+      ]
+     },
+     {
+      "text": "It is only a rule of style: when a verse begins with females it speaks in the feminine, and all of them bowed.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 33:6:1",
+        "quote": "כל מקום שיש שם זכרים ונקיבות אם מתחיל בנקיבות מדבר בלשון נקיבה"
+       }
+      ]
+     }
+    ],
+    "why": "It touches the question of how the sons of Jacob stood before Esau."
+   },
+   {
+    "title": "Why does Joseph come forward before Rachel, when in every other family the mother comes first?",
+    "pasuk": {
+     "text": "ואחר נגש יוסף ורחל וישתחוו",
+     "ref": "Genesis 33:7",
+     "label": "Genesis 33:7"
+    },
+    "question": "Of the maids and of Leah the mothers come forward before their children, but of Rachel the verse says 'Joseph and Rachel', with Joseph first. Why is the order reversed, and why was Rachel not hidden from Esau?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 33:7:1",
+      "era": "rishon",
+      "quote": "בכולן האמהות נגשות לפני הבנים אבל ברחל יוסף נגש לפניה"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 33:7:1",
+      "era": "rishon",
+      "quote": "וא\"ת למה לא הטמינה בתיבה כמו שעשה לדינה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Joseph stood in front of his mother to block the wicked Esau from looking at her.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:7:1",
+        "quote": "אמר אמי יפת תאר שמא יתלה בה עיניו אותו רשע"
+       },
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 33:6:1",
+        "quote": "והגביה יוסף קומתו וכסה אותה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:10",
+        "quote": "וְגָבְהָה קוֹמָתוֹ וְכִסָּה אוֹתָהּ"
+       }
+      ]
+     },
+     {
+      "text": "The verse usually names the man first; and the descendants of Abraham were careful about a married woman, so Joseph did not rely on hiding her and stood before his mother.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 33:7:1",
+        "quote": "דרך הכתוב להזכיר האיש תחלה"
+       },
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 33:7:1",
+        "quote": "כל זרעו של אברהם היו נזהרים מאשת איש"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Rachel was protected, and what Joseph already was as a boy."
+   },
+   {
+    "title": "Why does Jacob tell Esau that seeing his face is 'like seeing the face of God'?",
+    "pasuk": {
+     "text": "כי על כן ראיתי פניך כראות פני אלהים",
+     "ref": "Genesis 33:10",
+     "label": "Genesis 33:10"
+    },
+    "question": "Jacob has just bowed to Esau seven times. Why does he compare Esau's face to the face of God, and is such flattery of a wicked man permitted?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 33:10:2",
+      "era": "rishon",
+      "quote": "ולמה הזכיר לו ראיית המלאך"
+     },
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 33:10:1",
+      "era": "chazal",
+      "quote": "ולמה מזכיר יעקב שמו של הקב\"ה כאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "To frighten him: if Esau thinks Jacob has seen angels and was saved, he will conclude he cannot overcome him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:10:2",
+        "quote": "כדי שיתירא הימנו"
+       },
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 33:10:1",
+        "quote": "כדי ליראו ולבהלו"
+       }
+      ]
+     },
+     {
+      "text": "It is the way people come before a ruler, with a gift: one does not appear before him empty-handed.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 33:10:1",
+        "quote": "כמנהג בפקוד את השרים"
+       },
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 33:10:1",
+        "quote": "כדרך שרואים פני אלהים במנחה"
+       },
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 78:12",
+        "quote": "וְלֹא יֵרָאוּ פָנֶיךָ רֵיקָם"
+       }
+      ]
+     },
+     {
+      "text": "It is flattery, and it is permitted to flatter the wicked in this world, especially where there is a risk.",
+      "sources": [
+       {
+        "name": "Torah Temimah",
+        "ref": "Torah Temimah on Torah, Genesis 33:10:1",
+        "quote": "מותר להחניף לרשעים בעוה\"ז"
+       }
+      ]
+     }
+    ],
+    "why": "It teaches what Jacob was doing in the meeting with Esau: gift, fear, honor or flattery."
+   },
+   {
+    "title": "Jacob says he will come to Esau in Seir. Did he mean it, and did he ever go?",
+    "pasuk": {
+     "text": "עד אשר אבא אל אדני שעירה",
+     "ref": "Genesis 33:14",
+     "label": "Genesis 33:14"
+    },
+    "question": "Jacob tells Esau to go ahead while he travels slowly 'until I come to my lord in Seir', yet the Torah never says that he went there. Was this a promise, and when is it kept?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 33:14:6",
+      "era": "rishon",
+      "quote": "והוא לא הלך ואימתי ילך בימי המשיח"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 33:14:1",
+      "era": "rishon",
+      "quote": "ולא היה זה נדר ממנו שיבא אליו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The promise will be kept in the days of the Messiah, when 'saviors shall go up on Mount Zion to judge the mount of Esau'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:14:6",
+        "quote": "שנאמר ועלו מושיעים בהר ציון לשפט את הר עשו"
+       }
+      ]
+     },
+     {
+      "text": "It was no vow: Jacob meant that Esau would return to his city and, if Jacob came by it, Esau would honor him.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 33:14:1",
+        "quote": "אני אלך לאטי ואדוני ישוב אל עיר ממשלתו"
+       }
+      ]
+     },
+     {
+      "text": "Jacob never meant to return by way of Seir and wished to keep away from Esau; he only 'widened the road' for him.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 33:14:1",
+        "quote": "שלא היה בדעת יעקב לשוב דרך שעיר"
+       }
+      ]
+     }
+    ],
+    "why": "It asks how far Jacob's words to Esau were a plan and how far a strategy."
+   },
+   {
+    "title": "Why does Jacob say 'Why this? Let me find favor in your eyes' while refusing Esau's offer?",
+    "pasuk": {
+     "text": "למה זה אמצא חן בעיני אדני",
+     "ref": "Genesis 33:15",
+     "label": "Genesis 33:15"
+    },
+    "question": "Esau offers to leave some of his people with Jacob, and Jacob answers 'lama zeh emtza chen b'einei adoni'. How is this phrase to be read, since 'let me find favor' seems to contradict the refusal?",
+    "asked_by": [
+     {
+      "name": "Siftei Chakhamim",
+      "ref": "Siftei Chakhamim, Genesis 33:15:1",
+      "era": "acharon",
+      "quote": "דק\"ל דפסוק ויאמר למה זה אמצא חן משמע שלא רצה למצא חן"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 33:15:1",
+      "era": "acharon",
+      "quote": "יהיה המובן מזה למה אמצא חן בעיניך שפירושו איני רוצה אהבתך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "'Why this' is one sentence: why do me a favor I do not need; 'let me find favor' is a separate request, meaning I want nothing but your goodwill.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:15:1",
+        "quote": "תעשה לי טובה זו שאיני צריך לה"
+       },
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 33:15:1",
+        "quote": "ומאמר אמצא חן בעיניך הוא דבור בפני עצמו"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 33:15:1",
+        "quote": "וטעם למה זה אין לי צורך"
+       }
+      ]
+     },
+     {
+      "text": "'Let me find favor' means that you agree to my request not to leave anyone with me; the Gur Aryeh defends this against the objection of the Re'em.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 33:15:1",
+        "quote": "אמצא חן בעיניך שתסכים עמי לעשות שאילתי"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 33:15:1",
+        "quote": "ולא הקשה מידי"
+       }
+      ]
+     },
+     {
+      "text": "Jacob had no wish at all for their company, and he meant to go another way.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 33:15:1",
+        "quote": "כי לא היה חפץ בהם ובחבורתם כלל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob refused without offending Esau."
+   },
+   {
+    "title": "Why is the place called Succoth for the cattle's huts, and why does Rashi bring an 18-month midrash?",
+    "pasuk": {
+     "text": "ויעקב נסע סכתה ויבן לו בית ולמקנהו עשה סכת",
+     "ref": "Genesis 33:17",
+     "label": "Genesis 33:17"
+    },
+    "question": "The verse says Jacob built a house for himself and made huts for his cattle, 'therefore the place was called Succoth'. Why is the place named for the animals' huts and not for his house, and why does Rashi turn the verse into a stay of eighteen months?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 33:16:3",
+      "era": "acharon",
+      "quote": "למה קרא שם המקום סכות על סכות בהמתו ולא בית על שם ביתו"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 33:17:1",
+      "era": "acharon",
+      "quote": "ולא ידעתי למה הביאו רש\"י ז\"ל בפירושו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He stayed there eighteen months: huts in summer, a house in winter, and huts again the next summer.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:17:1",
+        "quote": "שהה שם י\"ח חדש קיץ וחרף וקיץ"
+       },
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 33:16:3",
+        "quote": "כלומר שעשה י\"ח חדש שם"
+       }
+      ]
+     },
+     {
+      "text": "Rashi brings it to make up the twenty-two years in which Jacob did not honor his father and mother.",
+      "sources": [
+       {
+        "name": "Siftei Chakhamim",
+        "ref": "Siftei Chakhamim, Genesis 33:17:1",
+        "quote": "הביא זה המדרש כדי לכוין מספר הכ\"ב שנים שלא קיים יעקב כבוד אב ואם"
+       }
+      ]
+     },
+     {
+      "text": "Plainly the house and the huts were made at one time, the house for himself and the huts for his cattle, and 'Succoth' is simply the name of a place.",
+      "sources": [
+       {
+        "name": "Mizrachi",
+        "ref": "Mizrachi, Genesis 33:17:1",
+        "quote": "הבית והסכות שניהם נעשו בזמן אחד"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the plain meaning against the midrash about the years Jacob was away from his father."
+   },
+   {
+    "title": "Why does Jacob call the altar 'El, God of Israel'?",
+    "pasuk": {
+     "text": "ויקרא לו אל אלהי ישראל",
+     "ref": "Genesis 33:20",
+     "label": "Genesis 33:20"
+    },
+    "question": "The verse says Jacob 'called it' El-elohe-yisrael. Is the altar itself named God, and who gave the name?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 33:20:1",
+      "era": "rishon",
+      "quote": "לא שהמזבח קרוי אלהי ישראל"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 33:20:1",
+      "era": "rishon",
+      "quote": "לא שהמזבח קרוי אלהי ישראל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The altar is not itself called God; Jacob named it for the miracle, in praise of God who was with him and saved him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:20:1",
+        "quote": "על שם שהיה הקב\"ה עמו והצילו"
+       },
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 33:20:1",
+        "quote": "והנכון הוא שכן הוא שם המזבח"
+       }
+      ]
+     },
+     {
+      "text": "Our Rabbis expounded that God called Jacob 'El'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 33:20:1",
+        "quote": "ורבותינו דרשו שהקב\"ה קראו ליעקב אל"
+       }
+      ]
+     },
+     {
+      "text": "It is the custom in Israel to give names that praise God, as in 'Tzuriel' and 'Gavriel'.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 33:20:1",
+        "quote": "המנהג הזה בישראל כן שיקראו השמות בשבחי האל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Rishonim read names that contain God's name."
+   }
+  ],
+  "sources_consulted": [
+   "Hadar Zekenim",
+   "Riva",
+   "Bekhor Shor",
+   "Rashi",
+   "Chizkuni",
+   "Midrash Aggadah",
+   "Bereshit Rabbah",
+   "Sforno",
+   "Torah Temimah",
+   "Ramban",
+   "Siftei Chakhamim",
+   "Mizrachi",
+   "Ibn Ezra",
+   "Gur Aryeh"
+  ]
+ },
+ "hebrew": {
+  "summary": "השפחות, לאה ויוסף עם רחל נגשים עם ילדיהם ומשתחווים לעשו. עשו שואל מה כוונת כל המחנה שפגש, ויעקב משיב שהוא כדי למצוא חן בעיניו. עשו אומר שיש לו רב, אך יעקב מפציר בו לקבל את המנחה והוא לוקח. עשו מציע ללכת יחד ואחר כך להציג עם יעקב מאנשיו, ויעקב מסרב לשניהם בטענה שהילדים רכים והצאן עלות. עשו שב באותו יום שעירה, ויעקב נוסע סוכתה, בונה לו בית ולמקנהו עושה סוכות. אחר כך הוא בא שלם עיר שכם, קונה את חלקת השדה אשר נטה שם אהלו במאה קשיטה, ומציב שם מזבח וקורא לו אל אלהי ישראל.",
+  "questions": [
+   {
+    "title": "למה אצל השפחות נאמר 'ותשתחוין' בלשון נקבה, ואצל לאה ורחל 'וישתחוו' בלשון זכר?",
+    "pasuk": {
+     "text": "ותגשן השפחות הנה וילדיהן ותשתחוין",
+     "ref": "Genesis 33:6",
+     "label": "בראשית לג, ו"
+    },
+    "question": "על השפחות וילדיהן נאמר 'ותשתחוין' בלשון נקבות, ואילו על לאה, יוסף ורחל נאמר 'וישתחוו' בלשון זכרים. האם בני השפחות לא השתחוו כלל, או שזו רק דרך הכתיבה?",
+    "asked_by": [
+     {
+      "name": "הדר זקנים",
+      "ref": "Hadar Zekenim on Torah, Genesis 33:6:1",
+      "era": "rishon",
+      "quote": "וא\"ת והלא בני השפחות ראו כמו כן שהשתחוה אביהם"
+     },
+     {
+      "name": "ריב\"א",
+      "ref": "Riva on Torah, Genesis 33:7:1",
+      "era": "rishon",
+      "quote": "וק' על זה שהרי ראו בני השפחות שיעקב השתחוה"
+     },
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 33:6:1",
+      "era": "rishon",
+      "quote": "והלא כבר ראו יעקב שהוא גביר לכולם שהשתחווה ג' פעמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בני השפחות לא השתחוו: אמרו שאמותיהם שפחות ונאה להן להשתחוות, אך 'אנחנו בני יעקב'.",
+      "sources": [
+       {
+        "name": "ריב\"א",
+        "ref": "Riva on Torah, Genesis 33:7:1",
+        "quote": "שלא השתחוו בני השפחות"
+       },
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 33:6:1",
+        "quote": "אבל ילדיהן לא רצו להשתחוות"
+       }
+      ]
+     },
+     {
+      "text": "גם בני השפחות השתחוו עם אמותיהם, אלא שהכתוב תולה את ההשתחוואה בשתי השפחות, כי אפשר לדבר עליהן בלשון רבים.",
+      "sources": [
+       {
+        "name": "ריב\"א",
+        "ref": "Riva on Torah, Genesis 33:7:1",
+        "quote": "אף בני השפחות השתחוו עם אמותיהם"
+       },
+       {
+        "name": "הדר זקנים",
+        "ref": "Hadar Zekenim on Torah, Genesis 33:6:1",
+        "quote": "אף בני השפחות השתחוו עם אמם"
+       }
+      ]
+     },
+     {
+      "text": "זה רק כלל של סגנון: כשהכתוב פותח בנקבות הוא ממשיך בלשון נקבה, וכולם השתחוו.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 33:6:1",
+        "quote": "כל מקום שיש שם זכרים ונקיבות אם מתחיל בנקיבות מדבר בלשון נקיבה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר נוגע לשאלה כיצד עמדו בני יעקב לפני עשו."
+   },
+   {
+    "title": "למה יוסף נגש לפני רחל, כשבכל המשפחות האם קודמת?",
+    "pasuk": {
+     "text": "ואחר נגש יוסף ורחל וישתחוו",
+     "ref": "Genesis 33:7",
+     "label": "בראשית לג, ז"
+    },
+    "question": "אצל השפחות ואצל לאה האמהות נגשות לפני הילדים, אך אצל רחל כתוב 'יוסף ורחל' ויוסף קודם. מדוע הסדר הפוך, ולמה לא הוטמנה רחל מעיני עשו?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 33:7:1",
+      "era": "rishon",
+      "quote": "בכולן האמהות נגשות לפני הבנים אבל ברחל יוסף נגש לפניה"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 33:7:1",
+      "era": "rishon",
+      "quote": "וא\"ת למה לא הטמינה בתיבה כמו שעשה לדינה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יוסף עמד לפני אמו כדי למנוע מעשו הרשע להסתכל בה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:7:1",
+        "quote": "אמר אמי יפת תאר שמא יתלה בה עיניו אותו רשע"
+       },
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 33:6:1",
+        "quote": "והגביה יוסף קומתו וכסה אותה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:10",
+        "quote": "וְגָבְהָה קוֹמָתוֹ וְכִסָּה אוֹתָהּ"
+       }
+      ]
+     },
+     {
+      "text": "דרך הכתוב להזכיר את האיש תחילה; וכל זרעו של אברהם נזהרו מאשת איש, ולכן יוסף לא סמך על הטמנתה אלא עמד לפני אמו.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 33:7:1",
+        "quote": "דרך הכתוב להזכיר האיש תחלה"
+       },
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 33:7:1",
+        "quote": "כל זרעו של אברהם היו נזהרים מאשת איש"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד כיצד נשמרה רחל, ומה היה יוסף כבר בילדותו."
+   },
+   {
+    "title": "למה אומר יעקב לעשו שראיית פניו היא 'כראות פני אלהים'?",
+    "pasuk": {
+     "text": "כי על כן ראיתי פניך כראות פני אלהים",
+     "ref": "Genesis 33:10",
+     "label": "בראשית לג, י"
+    },
+    "question": "יעקב השתחווה לעשו שבע פעמים. מדוע הוא משווה את פני עשו לפני אלהים, והאם מותר להחניף כך לרשע?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 33:10:2",
+      "era": "rishon",
+      "quote": "ולמה הזכיר לו ראיית המלאך"
+     },
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 33:10:1",
+      "era": "chazal",
+      "quote": "ולמה מזכיר יעקב שמו של הקב\"ה כאן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כדי להטיל עליו אימה: אם יחשוב עשו שיעקב ראה מלאכים ונצל, יבין שאינו יכול לו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:10:2",
+        "quote": "כדי שיתירא הימנו"
+       },
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 33:10:1",
+        "quote": "כדי ליראו ולבהלו"
+       }
+      ]
+     },
+     {
+      "text": "כך דרך בני אדם לבוא לפני שר, במנחה: לא באים לפניו ריקם.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 33:10:1",
+        "quote": "כמנהג בפקוד את השרים"
+       },
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 33:10:1",
+        "quote": "כדרך שרואים פני אלהים במנחה"
+       },
+       {
+        "name": "בראשית רבה",
+        "ref": "Bereshit Rabbah 78:12",
+        "quote": "וְלֹא יֵרָאוּ פָנֶיךָ רֵיקָם"
+       }
+      ]
+     },
+     {
+      "text": "זו חנופה, ומותר להחניף לרשעים בעולם הזה, ובפרט כשיש חשש סכנה.",
+      "sources": [
+       {
+        "name": "תורה תמימה",
+        "ref": "Torah Temimah on Torah, Genesis 33:10:1",
+        "quote": "מותר להחניף לרשעים בעוה\"ז"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד מה עשה יעקב בפגישה עם עשו: מנחה, פחד, כבוד או חנופה."
+   },
+   {
+    "title": "יעקב אומר שיבוא אל עשו שעירה. האם התכוון לכך, והאם הלך?",
+    "pasuk": {
+     "text": "עד אשר אבא אל אדני שעירה",
+     "ref": "Genesis 33:14",
+     "label": "בראשית לג, יד"
+    },
+    "question": "יעקב מבקש מעשו לעבור לפניו והוא ילך לאטו 'עד אשר אבא אל אדני שעירה', אך התורה לא מספרת שהלך. האם זה היה הבטחה, ומתי היא מתקיימת?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 33:14:6",
+      "era": "rishon",
+      "quote": "והוא לא הלך ואימתי ילך בימי המשיח"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 33:14:1",
+      "era": "rishon",
+      "quote": "ולא היה זה נדר ממנו שיבא אליו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ההבטחה תתקיים בימות המשיח, כשיעלו מושיעים בהר ציון לשפוט את הר עשו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:14:6",
+        "quote": "שנאמר ועלו מושיעים בהר ציון לשפט את הר עשו"
+       }
+      ]
+     },
+     {
+      "text": "זה לא היה נדר: יעקב התכוון שעשו ישוב לעירו, ואם יעבור יעקב שם יכבדו עשו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 33:14:1",
+        "quote": "אני אלך לאטי ואדוני ישוב אל עיר ממשלתו"
+       }
+      ]
+     },
+     {
+      "text": "יעקב לא התכוון לשוב דרך שעיר ורצה להתרחק מעשו; הוא רק הרחיב לו את הדרך.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 33:14:1",
+        "quote": "שלא היה בדעת יעקב לשוב דרך שעיר"
+       }
+      ]
+     }
+    ],
+    "why": "שואל עד כמה דברי יעקב לעשו היו תכנית ועד כמה תחבולה."
+   },
+   {
+    "title": "למה אומר יעקב 'למה זה אמצא חן בעיני אדני' כשהוא דוחה את הצעת עשו?",
+    "pasuk": {
+     "text": "למה זה אמצא חן בעיני אדני",
+     "ref": "Genesis 33:15",
+     "label": "בראשית לג, טו"
+    },
+    "question": "עשו מציע להשאיר אצל יעקב מאנשיו, ויעקב עונה 'למה זה אמצא חן בעיני אדני'. כיצד יש לפרש את הלשון, שהרי 'אמצא חן' נראה כסותר את הסירוב?",
+    "asked_by": [
+     {
+      "name": "שפתי חכמים",
+      "ref": "Siftei Chakhamim, Genesis 33:15:1",
+      "era": "acharon",
+      "quote": "דק\"ל דפסוק ויאמר למה זה אמצא חן משמע שלא רצה למצא חן"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 33:15:1",
+      "era": "acharon",
+      "quote": "יהיה המובן מזה למה אמצא חן בעיניך שפירושו איני רוצה אהבתך"
+     }
+    ],
+    "answers": [
+     {
+      "text": "'למה זה' הוא משפט בפני עצמו: למה לעשות לי טובה שאיני צריך לה; 'אמצא חן' הוא בקשה נפרדת, שאין לי חפץ אלא בחנך.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:15:1",
+        "quote": "תעשה לי טובה זו שאיני צריך לה"
+       },
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 33:15:1",
+        "quote": "ומאמר אמצא חן בעיניך הוא דבור בפני עצמו"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 33:15:1",
+        "quote": "וטעם למה זה אין לי צורך"
+       }
+      ]
+     },
+     {
+      "text": "'אמצא חן' פירושו שתסכים לבקשתי שלא להציג עמי אדם; הגור אריה מגן על פירוש זה מפני קושיית הרא\"ם.",
+      "sources": [
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 33:15:1",
+        "quote": "אמצא חן בעיניך שתסכים עמי לעשות שאילתי"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 33:15:1",
+        "quote": "ולא הקשה מידי"
+       }
+      ]
+     },
+     {
+      "text": "יעקב לא רצה בחברתם כלל, ודעתו הייתה ללכת בדרך אחרת.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 33:15:1",
+        "quote": "כי לא היה חפץ בהם ובחבורתם כלל"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד איך סירב יעקב בלי לפגוע בעשו."
+   },
+   {
+    "title": "למה נקרא המקום סוכות על שם סוכות הבהמה, ולמה מביא רש\"י מדרש של י\"ח חודש?",
+    "pasuk": {
+     "text": "ויעקב נסע סכתה ויבן לו בית ולמקנהו עשה סכת",
+     "ref": "Genesis 33:17",
+     "label": "בראשית לג, יז"
+    },
+    "question": "הכתוב אומר שיעקב בנה לו בית ועשה סוכות למקנהו, 'על כן קרא שם המקום סוכות'. מדוע נקרא המקום על שם סוכות הבהמה ולא על שם ביתו, ולמה הופך רש\"י את הכתוב לשהייה של שמונה עשר חודש?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 33:16:3",
+      "era": "acharon",
+      "quote": "למה קרא שם המקום סכות על סכות בהמתו ולא בית על שם ביתו"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 33:17:1",
+      "era": "acharon",
+      "quote": "ולא ידעתי למה הביאו רש\"י ז\"ל בפירושו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא שהה שם שמונה עשר חודש: סוכות בקיץ, בית בחורף, וסוכות שוב בקיץ הבא.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:17:1",
+        "quote": "שהה שם י\"ח חדש קיץ וחרף וקיץ"
+       },
+       {
+        "name": "גור אריה",
+        "ref": "Gur Aryeh on Bereishit 33:16:3",
+        "quote": "כלומר שעשה י\"ח חדש שם"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י הביא את המדרש כדי להשלים את עשרים ושתים השנים שלא קיים יעקב כיבוד אב ואם.",
+      "sources": [
+       {
+        "name": "שפתי חכמים",
+        "ref": "Siftei Chakhamim, Genesis 33:17:1",
+        "quote": "הביא זה המדרש כדי לכוין מספר הכ\"ב שנים שלא קיים יעקב כבוד אב ואם"
+       }
+      ]
+     },
+     {
+      "text": "לפי הפשט הבית והסוכות נעשו בזמן אחד, הבית לעצמו והסוכות למקנהו, ו'סוכות' הוא שם מקום.",
+      "sources": [
+       {
+        "name": "מזרחי",
+        "ref": "Mizrachi, Genesis 33:17:1",
+        "quote": "הבית והסכות שניהם נעשו בזמן אחד"
+       }
+      ]
+     }
+    ],
+    "why": "מעמיד את פשט הכתוב מול המדרש על שנות היעדרו של יעקב מבית אביו."
+   },
+   {
+    "title": "למה קורא יעקב למזבח 'אל אלהי ישראל'?",
+    "pasuk": {
+     "text": "ויקרא לו אל אלהי ישראל",
+     "ref": "Genesis 33:20",
+     "label": "בראשית לג, כ"
+    },
+    "question": "הכתוב אומר שיעקב 'קרא לו' אל אלהי ישראל. האם המזבח עצמו נקרא אל, ומי נתן את השם?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 33:20:1",
+      "era": "rishon",
+      "quote": "לא שהמזבח קרוי אלהי ישראל"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 33:20:1",
+      "era": "rishon",
+      "quote": "לא שהמזבח קרוי אלהי ישראל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המזבח עצמו אינו נקרא אל; יעקב קרא לו כך על שם הנס, לשבח את ה' שהיה עמו והצילו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:20:1",
+        "quote": "על שם שהיה הקב\"ה עמו והצילו"
+       },
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 33:20:1",
+        "quote": "והנכון הוא שכן הוא שם המזבח"
+       }
+      ]
+     },
+     {
+      "text": "רבותינו דרשו שהקדוש ברוך הוא קרא ליעקב 'אל'.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 33:20:1",
+        "quote": "ורבותינו דרשו שהקב\"ה קראו ליעקב אל"
+       }
+      ]
+     },
+     {
+      "text": "מנהג ישראל לקרוא שמות בשבחי האל, כגון צוריאל וגבריאל.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 33:20:1",
+        "quote": "המנהג הזה בישראל כן שיקראו השמות בשבחי האל"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד קראו הראשונים שמות שיש בהם שם ה'."
+   }
+  ],
+  "sources_consulted": [
+   "הדר זקנים",
+   "ריב\"א",
+   "בכור שור",
+   "רש\"י",
+   "חזקוני",
+   "מדרש אגדה",
+   "בראשית רבה",
+   "ספורנו",
+   "תורה תמימה",
+   "רמב\"ן",
+   "שפתי חכמים",
+   "מזרחי",
+   "אבן עזרא",
+   "גור אריה"
+  ]
+ }
+}
