@@ -1,0 +1,1047 @@
+{
+ "date": "2026-11-25",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 5,
+ "aliyah_name": {
+  "en": "Chamishi",
+  "he": "חמישי"
+ },
+ "range": "Genesis 34:1-35:11",
+ "hebrew_date": {
+  "hebrew": "ט״ו בְּכִסְלֵו תשפ״ז",
+  "english": "15 Kislev 5787"
+ },
+ "english": {
+  "summary": "Dinah goes out among the daughters of the land and is taken by Shechem, who then wants to marry her. Jacob keeps silent until his sons return; Hamor proposes intermarriage, and the sons demand that every male of the city be circumcised. On the third day Shimon and Levi kill the males of the city and take Dinah back, and the other sons plunder it. Jacob rebukes them for making him odious in the land. God then tells Jacob to go up to Bethel; he has his household remove the foreign gods, they are buried under the terebinth near Shechem, and terror from God keeps the cities from pursuing. At Luz (Bethel) Jacob builds an altar, Deborah dies, and God appears again, renames him Israel and blesses him.",
+  "questions": [
+   {
+    "title": "Why is Dinah called 'daughter of Leah' when she is Jacob's daughter?",
+    "pasuk": {
+     "text": "ותצא דינה בת לאה אשר ילדה ליעקב",
+     "ref": "Genesis 34:1",
+     "label": "Genesis 34:1"
+    },
+    "question": "The verse introduces Dinah as Leah's daughter, and then adds 'whom she bore to Jacob'. Why name the mother, and why the extra phrase?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 34:1:1",
+      "era": "rishon",
+      "quote": "בת לאה ולא בת יעקב"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 34:1:1-3",
+      "era": "acharon",
+      "quote": "בת לאה אשר ילדה ליעקב הוא שפת יתר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: she is named for her going out, for she too was a 'yatzanit', like her mother, of whom it says 'Leah went out to meet him'.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 34:1:1",
+        "quote": "על שם יציאתה נקראת בת לאה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: it tells us she was the sister of Shimon and Levi, who would avenge her; 'whom she bore to Jacob' because all the brothers were zealous for her.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 34:1:1",
+        "quote": "לומר שהיא אחות שמעון ולוי המקנאים ונוקמים נקמתה"
+       }
+      ]
+     },
+     {
+      "text": "Malbim: the opposite of blame: she was Leah's daughter, who was modest in her tent, and what she bore to Jacob was modest and proper; she went out only to see the daughters of the land.",
+      "sources": [
+       {
+        "name": "Malbim",
+        "ref": "Malbim on Genesis 34:1:1-3",
+        "quote": "כי היתה בת לאה שהיתה צנועה באהלה"
+       }
+      ]
+     },
+     {
+      "text": "Tzror HaMor: she is Leah's and not Jacob's daughter because, although born to Jacob, she did not learn from his ways and discipline.",
+      "sources": [
+       {
+        "name": "Tzror HaMor",
+        "ref": "Tzror HaMor on Torah, Genesis 34:1:1",
+        "quote": "לא למדה מדרכיו ומוסריו"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the story blames Dinah, Leah's line, or only Shechem."
+   },
+   {
+    "title": "Why did Jacob's sons answer Shechem, and not Jacob himself?",
+    "pasuk": {
+     "text": "ויענו בני יעקב את שכם ואת חמור אביו במרמה",
+     "ref": "Genesis 34:13",
+     "label": "Genesis 34:13"
+    },
+    "question": "Hamor and Shechem spoke to Dinah's father and brothers, yet it is the sons who answer. Why did Jacob say nothing?",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 34:13:1-5",
+      "era": "acharon",
+      "quote": "ראוי לשים לב למה לא ענה יעקב והם למה ענו במקומו"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 34:13:1-2",
+      "era": "rishon",
+      "quote": "מן הראוי היה שידבר יעקב כי לפניו היו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the old man answered nothing; his sons spoke in his place, for his honor, since the matter was a disgrace to them and they did not want him to open his mouth about it at all.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 34:13:1",
+        "quote": "כי בניו ידברו במקומו בענין הזה לכבודו"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: the opposite: they knew their father's heart was not with their plan, so they hurried to answer before he could.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 34:13:1-5",
+        "quote": "ולא נעלם מהם כי לא כן לב יעקב אביהם … טרם יענה אביהם הקדימו ויענו הם"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: they jumped in before their father because they knew he was wholly simple and pious and would not deal deceitfully with Shechem.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 34:13:1",
+        "quote": "ולמה קפצו לדבר לפני אביהן שהיו יודעין בו שהוא תם וחסיד ביותר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether Jacob took part in the plan or was bypassed."
+   },
+   {
+    "title": "Why does the verse add 'because he defiled Dinah their sister'?",
+    "pasuk": {
+     "text": "וידברו אשר טמא את דינה אחותם",
+     "ref": "Genesis 34:13",
+     "label": "Genesis 34:13"
+    },
+    "question": "The sons answered with guile, as the verse says. Why add that they spoke 'because he had defiled Dinah'? And did they say it to Shechem, or is it the Torah's comment?",
+    "asked_by": [
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 34:13:1-3",
+      "era": "acharon",
+      "quote": "אשר טמא את דינה לא ידענו משמעותו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 34:13:1",
+      "era": "acharon",
+      "quote": "אשר טמא אחותם למה לכתוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Scripture tells us it was not deceit, since he had defiled Dinah their sister.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 34:13:2",
+        "quote": "שלא היתה רמיה שהרי טמא את דינה אחותם"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: they answered that the generous gifts Shechem and his father offered were not fitting now, after he defiled her, like a harlot's fee.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 34:13:2",
+        "quote": "לא היו ראויים עתה אחרי שטמא כדרך אתנן זונה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: lest you say it was deceit, the verse says 'because he defiled Dinah their sister': they acted justly and properly.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 34:13:1",
+        "quote": "ת\"ל אשר טמא את דינה אחותם כדין וכשורה עשו"
+       }
+      ]
+     }
+    ],
+    "why": "It frames the whole episode: was this treachery, or a reply to a wrong?"
+   },
+   {
+    "title": "Was it permitted to answer with deceit?",
+    "pasuk": {
+     "text": "ויענו בני יעקב את שכם ואת חמור אביו במרמה",
+     "ref": "Genesis 34:13",
+     "label": "Genesis 34:13"
+    },
+    "question": "Onkelos renders 'with guile' as 'with wisdom'. What was the wisdom here, if it was only theft of knowledge, deceiving someone?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 34:13:1",
+      "era": "acharon",
+      "quote": "ואין זה אלא גנבת דעת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Midrash Lekach Tov: as Jacob took the blessing with guile and that was wisdom, so the sons of Jacob answered with guile.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 34:13:1",
+        "quote": "כשם שלקח יעקב הברכה במרמה והיא חכמה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: the guile was that they asked every male to be circumcised, thinking only Shechem and Hamor would agree; yet they came upon them through a complete and sound pretext.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 34:13:1",
+        "quote": "מ\"מ ע\"י עלילה גמורה ונכונה באו עליהם"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: Scripture tells us they never really agreed to relax religious standards in intermarriage; from the start they spoke only with guile.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 34:13:1",
+        "quote": "לא עלה עה\"ד להסכים להנחה זו שלא להקפיד בעניני הדת הנוגעים לחיתון"
+       }
+      ]
+     }
+    ],
+    "why": "It asks what moral limits apply to a plan the Torah itself narrates."
+   },
+   {
+    "title": "If Jacob knew of the plan, why did he rebuke Shimon and Levi?",
+    "pasuk": {
+     "text": "ויאמר יעקב אל שמעון ואל לוי עכרתם אתי",
+     "ref": "Genesis 34:30",
+     "label": "Genesis 34:30"
+    },
+    "question": "The sons answered with guile in front of their father, apparently with his consent. Why then was he angry afterward, saying 'you have brought trouble on me'?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 34:13:1",
+      "era": "rishon",
+      "quote": "ויש כאן שאלה"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 34:13:1-2",
+      "era": "rishon",
+      "quote": "למה כעס על שמעון ולוי שאמר להם עכרתם אותי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the deceit was only in asking that every male be circumcised; Jacob's anger was that they killed the men of the city, who had not sinned against him; they should have killed Shechem alone.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 34:13:1",
+        "quote": "הכעס ליעקב שארר אפם על שהרגו אנשי העיר אשר לא חטאו לו"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the words show Jacob did not know they had spoken with guile; he thought it was only to take Dinah from the house by force, or to kill Shechem alone, not the whole city.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 34:30:1",
+        "quote": "נכרים הדברים כי יעקב לא ידע כי במרמה זו דברו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: his fear was that they would say we broke faith after they were circumcised, and so be hated in the land.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 34:30:1",
+        "quote": "שיאמרו ששקרנו באמונתנו אחר שנמולו"
+       }
+      ]
+     }
+    ],
+    "why": "It sets Ramban's view (Jacob approved the ruse) against Or HaChaim's (he did not know)."
+   },
+   {
+    "title": "Why did Jacob bury the idols and not destroy them?",
+    "pasuk": {
+     "text": "ויטמן אותם יעקב תחת האלה אשר עם שכם",
+     "ref": "Genesis 35:4",
+     "label": "Genesis 35:4"
+    },
+    "question": "Idols are not buried; the law is to crush them and scatter them to the wind or cast them into the sea. Why did Jacob only bury them?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 35:4:1",
+      "era": "rishon",
+      "quote": "עבודה זרה ומשמשיה אינן מן הנקברים"
+     },
+     {
+      "name": "Rabbeinu Bahya",
+      "ref": "Rabbeinu Bahya, Bereshit 35:4:1",
+      "era": "rishon",
+      "quote": "דין תורה באיבוד עבודה זרה אינו בקבורה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: the sons of Jacob took them only after Shechem's people annulled them, and an idol annulled by a gentile is permitted; Jacob ordered their removal for the purity of holiness, and burial sufficed.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 35:4:1",
+        "quote": "יעקב צוה להסיר אותה לטהרת הקדש"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he did not destroy them because they were already annulled and permitted to derive benefit from.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 35:4:1",
+        "quote": "לא איבדם מפני שהיו כבר מבוטלים ומותרין בהנאה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya, second answer: even if real idols, he could not take them to the Dead Sea since he was on the road, nor burn them lest he delay and the peoples round about gather against him; burial was the easiest.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 35:4:1",
+        "quote": "לא היה בידו להוליכה לים המלח כי בדרך היה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Sekhel Tov: he hid them so that others would not stumble over them.",
+      "sources": [
+       {
+        "name": "Midrash Sekhel Tov",
+        "ref": "Midrash Sekhel Tov, Bereshit 35:4:3",
+        "quote": "שלא יכשלו בהן אחרים"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: those already annulled and permitted were neither burned nor buried for good, but hidden so they could be retrieved after leaving Bethel.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 35:4:2",
+        "quote": "אותם שכבר נתבטלו ומותרים בהנאה מש\"ה לא שרפם ולא קברם אלא טמנם"
+       }
+      ]
+     }
+    ],
+    "why": "It tests how Jacob's household handled the spoils of Shechem under a law not yet given."
+   },
+   {
+    "title": "What is the meaning of 'and dwell there' in God's command to Jacob?",
+    "pasuk": {
+     "text": "קום עלה בית אל ושב שם ועשה שם מזבח",
+     "ref": "Genesis 35:1",
+     "label": "Genesis 35:1"
+    },
+    "question": "God says 'go up to Bethel, dwell there, and build an altar'. Why 'dwell' first? If the point is the altar, wouldn't it be better to hurry and build it?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 35:1:1",
+      "era": "rishon",
+      "quote": "לא ידעתי מהו ושב שם"
+     },
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 35:1:1-6",
+      "era": "acharon",
+      "quote": "וגם אומרו שב שם שהוא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: perhaps he was commanded to dwell there first, to purify himself from idolatry or from the slain, and then build; or to clear his mind and cling to God.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 35:1:1",
+        "quote": "להטהר מעבודה זרה או מן החללים שהרגו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: to focus his mind before building the altar, as the early pious ones waited an hour before praying.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 35:1:1",
+        "quote": "לכוון דעתך קודם שתבנה המזבח"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: he was in distress, so before fulfilling the vow he should pray; 'dwell there' means not to hurry to set up the pillar.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 35:1:1",
+        "quote": "לא ימהר להקים המצבה אלא יתעכב"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: 'dwell' only means delay; he stayed there six months offering burnt offerings and paying vows.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 35:1:2",
+        "quote": "אין ישיבה אלא איחור"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what Jacob owed God before and after the vow he made on fleeing."
+   },
+   {
+    "title": "Why is Deborah's death recorded here, in the middle of the Bethel story?",
+    "pasuk": {
+     "text": "ותמת דבורה מינקת רבקה ותקבר מתחת לבית אל תחת האלון",
+     "ref": "Genesis 35:8",
+     "label": "Genesis 35:8"
+    },
+    "question": "Deborah, Rebekah's nurse, has never appeared in Jacob's household. Why does her death interrupt the account of Bethel and the second appearance of God?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 35:8:1",
+      "era": "rishon",
+      "quote": "לא ידעתי למה נכנס הפסוק הזה בין ויקרא למקום אל בית אל"
+     },
+     {
+      "name": "Malbim",
+      "ref": "Malbim on Genesis 35:7:1-2",
+      "era": "acharon",
+      "quote": "למה הודיע ממיתת דבורה ומקבורתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: our Sages said it hints at Rebekah's death; Jacob wept for his mother, so the place is called the oak of weeping, and God appeared and blessed him to console him.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 35:8:1",
+        "quote": "ולכן קרא שם המקום ההוא אלון בכות"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: it explains how Deborah came to be with Jacob: Rebekah sent her after him, as she had said 'I will send and take you from there'.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 35:8:1",
+        "quote": "ששלחה רבקה את דבורה אחר יעקב להחזירו"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: like the death of Miriam placed beside the red heifer, the death of the righteous atones; so Jacob built an altar where he learned of it.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 35:7:1",
+        "quote": "מיתת צדיקים מכפרת"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the weeping interrupted the revelation of the Shechinah, since the Shechinah does not rest amid sadness.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 35:8:1",
+        "quote": "אין השכינה שורה מתוך עצבות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how grief and revelation are joined in the aliyah's last scene."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Malbim",
+   "Ramban",
+   "Tzror HaMor",
+   "Alshekh",
+   "Rabbeinu Bahya",
+   "Midrash Sekhel Tov",
+   "Gur Aryeh",
+   "Sforno",
+   "Midrash Lekach Tov",
+   "Or HaChaim",
+   "Chizkuni",
+   "Haamek Davar",
+   "Kli Yakar"
+  ]
+ },
+ "hebrew": {
+  "summary": "דינה יוצאת לראות בבנות הארץ ושכם לוקח אותה, ואחר כך חפץ לשאת אותה. יעקב מחריש עד בוא בניו; חמור מציע התחתנות, ובני יעקב דורשים שימולו כל זכרי העיר. ביום השלישי שמעון ולוי הורגים את זכרי העיר ולוקחים את דינה, ושאר הבנים בוזזים את העיר. יעקב גוער בהם על שהבאישו אותו בארץ. אלהים מצווה את יעקב לעלות לבית אל; הוא מצווה את ביתו להסיר את אלהי הנכר, הם נטמנים תחת האלה אשר עם שכם, וחיתת אלהים מונעת מהערים לרדוף. בלוז היא בית אל בונה יעקב מזבח, דבורה מתה, ואלהים נראה אליו שוב, מכנה אותו ישראל ומברכו.",
+  "questions": [
+   {
+    "title": "למה נקראת דינה \"בת לאה\" ולא בת יעקב?",
+    "pasuk": {
+     "text": "ותצא דינה בת לאה אשר ילדה ליעקב",
+     "ref": "Genesis 34:1",
+     "label": "בראשית לד, א"
+    },
+    "question": "הכתוב מציג את דינה כבת לאה, ואחר כך מוסיף \"אשר ילדה ליעקב\". למה להזכיר את האם, ומה בא להוסיף הכינוי היתר?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 34:1:1",
+      "era": "rishon",
+      "quote": "בת לאה ולא בת יעקב"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 34:1:1-3",
+      "era": "acharon",
+      "quote": "בת לאה אשר ילדה ליעקב הוא שפת יתר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: נקראת בת לאה על שם יציאתה, שאף היא יצאנית הייתה, כאמה שנאמר עליה \"ותצא לאה לקראתו\".",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 34:1:1",
+        "quote": "על שם יציאתה נקראת בת לאה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: לומר שהיא אחות שמעון ולוי שיקנאו וינקמו את נקמתה, והזכיר \"אשר ילדה ליעקב\" כי כל האחים קנאו לה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 34:1:1",
+        "quote": "לומר שהיא אחות שמעון ולוי המקנאים ונוקמים נקמתה"
+       }
+      ]
+     },
+     {
+      "text": "מלבי\"ם: להפך, מודיע שדינה לא אשמה: היא בת לאה שהייתה צנועה באהלה, ולידתה מתייחסת ליעקב הצנוע והכשר, ויצאה רק לראות בבנות הארץ.",
+      "sources": [
+       {
+        "name": "מלבי\"ם",
+        "ref": "Malbim on Genesis 34:1:1-3",
+        "quote": "כי היתה בת לאה שהיתה צנועה באהלה"
+       }
+      ]
+     },
+     {
+      "text": "צרור המור: בת לאה ולא בת יעקב, כי אף שנולדה ליעקב לא למדה מדרכיו ומוסריו.",
+      "sources": [
+       {
+        "name": "צרור המור",
+        "ref": "Tzror HaMor on Torah, Genesis 34:1:1",
+        "quote": "לא למדה מדרכיו ומוסריו"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם הסיפור מטיל אשמה על דינה, על שושלת לאה, או רק על שכם."
+   },
+   {
+    "title": "למה ענו בני יעקב לשכם ולא יעקב עצמו?",
+    "pasuk": {
+     "text": "ויענו בני יעקב את שכם ואת חמור אביו במרמה",
+     "ref": "Genesis 34:13",
+     "label": "בראשית לד, יג"
+    },
+    "question": "חמור ושכם דיברו אל אביה ואל אחיה, אך הבנים הם העונים. מדוע שתק יעקב?",
+    "asked_by": [
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 34:13:1-5",
+      "era": "acharon",
+      "quote": "ראוי לשים לב למה לא ענה יעקב והם למה ענו במקומו"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 34:13:1-2",
+      "era": "rishon",
+      "quote": "מן הראוי היה שידבר יעקב כי לפניו היו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: הזקן לא ענה דבר, כי בניו ידברו במקומו לכבודו, שהדבר להם לקלון ולא רצו שיפתח פיו בו כלל.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 34:13:1",
+        "quote": "כי בניו ידברו במקומו בענין הזה לכבודו"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: להפך, ידעו שלב אביהם אינו כך, ולכן הקדימו לענות לפני שיענה אביהם.",
+      "sources": [
+       {
+        "name": "אלשיך",
+        "ref": "Alshekh on Torah, Genesis 34:13:1-5",
+        "quote": "ולא נעלם מהם כי לא כן לב יעקב אביהם … טרם יענה אביהם הקדימו ויענו הם"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: קפצו לדבר לפני אביהם כי ידעו שהוא תם וחסיד ביותר ולא היה עושה מרמה בשכם.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 34:13:1",
+        "quote": "ולמה קפצו לדבר לפני אביהן שהיו יודעין בו שהוא תם וחסיד ביותר"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה אם יעקב היה שותף לתכנית או שעקפו אותו."
+   },
+   {
+    "title": "למה מוסיף הכתוב \"אשר טמא את דינה אחותם\"?",
+    "pasuk": {
+     "text": "וידברו אשר טמא את דינה אחותם",
+     "ref": "Genesis 34:13",
+     "label": "בראשית לד, יג"
+    },
+    "question": "הכתוב כבר אמר שענו במרמה. מה מוסיף \"אשר טמא את דינה אחותם\", והאם אמרו זאת לשכם או שזו הערת הכתוב?",
+    "asked_by": [
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 34:13:1-3",
+      "era": "acharon",
+      "quote": "אשר טמא את דינה לא ידענו משמעותו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 34:13:1",
+      "era": "acharon",
+      "quote": "אשר טמא אחותם למה לכתוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הכתוב אומר שלא הייתה רמיה, שהרי טימא את דינה אחותם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 34:13:2",
+        "quote": "שלא היתה רמיה שהרי טמא את דינה אחותם"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: השיבו שמיני הנדיבות שהציעו שכם ואביו אינם ראויים עתה אחרי שטמא, כדרך אתנן זונה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 34:13:2",
+        "quote": "לא היו ראויים עתה אחרי שטמא כדרך אתנן זונה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: שמא תאמר ברמיה, תלמוד לומר \"אשר טמא את דינה אחותם\": כדין וכשורה עשו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 34:13:1",
+        "quote": "ת\"ל אשר טמא את דינה אחותם כדין וכשורה עשו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מעצב את כל הפרשה: האם זו בגידה, או מענה לעוול."
+   },
+   {
+    "title": "האם היה מותר לענות במרמה?",
+    "pasuk": {
+     "text": "ויענו בני יעקב את שכם ואת חמור אביו במרמה",
+     "ref": "Genesis 34:13",
+     "label": "בראשית לד, יג"
+    },
+    "question": "אונקלוס מתרגם \"במרמה\" \"בחכמתא\". מה הייתה החכמה כאן, אם אין זה אלא גנבת דעת?",
+    "asked_by": [
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 34:13:1",
+      "era": "acharon",
+      "quote": "ואין זה אלא גנבת דעת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מדרש לקח טוב: כשם שלקח יעקב הברכה במרמה והיא חכמה, כך ענו בני יעקב במרמה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 34:13:1",
+        "quote": "כשם שלקח יעקב הברכה במרמה והיא חכמה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: המרמה הייתה ששאלו שימולו כל זכר, וסברו שרק שכם וחמור יסכימו; ומכל מקום בעלילה גמורה ונכונה באו עליהם.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 34:13:1",
+        "quote": "מ\"מ ע\"י עלילה גמורה ונכונה באו עליהם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הכתוב מודיע שלא עלה על דעתם להסכים להקל בענייני הדת הנוגעים לחיתון, ומתחילה דיברו רק במרמה.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 34:13:1",
+        "quote": "לא עלה עה\"ד להסכים להנחה זו שלא להקפיד בעניני הדת הנוגעים לחיתון"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל אילו גבולות מוסריים חלים על תכנית שהתורה עצמה מספרת."
+   },
+   {
+    "title": "אם ידע יעקב על התכנית, למה גער בשמעון ולוי?",
+    "pasuk": {
+     "text": "ויאמר יעקב אל שמעון ואל לוי עכרתם אתי",
+     "ref": "Genesis 34:30",
+     "label": "בראשית לד, ל"
+    },
+    "question": "הבנים ענו במרמה לפני אביהם, כנראה ברצונו. מדוע אפוא כעס אחר כך ואמר \"עכרתם אותי\"?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 34:13:1",
+      "era": "rishon",
+      "quote": "ויש כאן שאלה"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 34:13:1-2",
+      "era": "rishon",
+      "quote": "למה כעס על שמעון ולוי שאמר להם עכרתם אותי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: המרמה הייתה רק בבקשה למול כל זכר, והכעס של יעקב היה על שהרגו את אנשי העיר אשר לא חטאו לו, והיה ראוי שיהרגו את שכם לבדו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 34:13:1",
+        "quote": "הכעס ליעקב שארר אפם על שהרגו אנשי העיר אשר לא חטאו לו"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: ניכר שיעקב לא ידע שבמרמה דיברו, וחשב שהמרמה הייתה כדי לקחת את דינה מביתו, או להרוג את שכם לבדו, לא את כל אנשי העיר.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 34:30:1",
+        "quote": "נכרים הדברים כי יעקב לא ידע כי במרמה זו דברו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: חשש שיאמרו ששיקרנו באמונתנו אחר שנמולו, וישנאו אותו בארץ.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 34:30:1",
+        "quote": "שיאמרו ששקרנו באמונתנו אחר שנמולו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מעמיד את דעת הרמב\"ן (יעקב הסכים לתחבולה) מול דעת אור החיים (לא ידע)."
+   },
+   {
+    "title": "למה טמן יעקב את אלהי הנכר ולא איבדם?",
+    "pasuk": {
+     "text": "ויטמן אותם יעקב תחת האלה אשר עם שכם",
+     "ref": "Genesis 35:4",
+     "label": "בראשית לה, ד"
+    },
+    "question": "עבודה זרה אינה מן הנקברים; דינה לפרר ולזרות לרוח או להטיל לים. מדוע רק טמן אותם יעקב?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 35:4:1",
+      "era": "rishon",
+      "quote": "עבודה זרה ומשמשיה אינן מן הנקברים"
+     },
+     {
+      "name": "רבנו בחיי",
+      "ref": "Rabbeinu Bahya, Bereshit 35:4:1",
+      "era": "rishon",
+      "quote": "דין תורה באיבוד עבודה זרה אינו בקבורה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: בני יעקב לא לקחו אותן עד שנתבטלה והותרה להם, וגוי מבטל עבודה זרה בעל כרחו; יעקב צוה להסיר לטהרת הקודש, והיה די להם בקבורה.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 35:4:1",
+        "quote": "יעקב צוה להסיר אותה לטהרת הקדש"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לא איבדם כי כבר היו מבוטלים ומותרים בהנאה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 35:4:1",
+        "quote": "לא איבדם מפני שהיו כבר מבוטלים ומותרין בהנאה"
+       }
+      ]
+     },
+     {
+      "text": "רבנו בחיי, תירוץ שני: גם אם הייתה עבודה זרה ממש, לא היה בידו להוליכה לים המלח כי בדרך היה, ולא לשרפה פן יתאספו עליו העמים; הקבורה הייתה הקלה.",
+      "sources": [
+       {
+        "name": "רבנו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 35:4:1",
+        "quote": "לא היה בידו להוליכה לים המלח כי בדרך היה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש שכל טוב: טמנם שלא יכשלו בהם אחרים.",
+      "sources": [
+       {
+        "name": "מדרש שכל טוב",
+        "ref": "Midrash Sekhel Tov, Bereshit 35:4:3",
+        "quote": "שלא יכשלו בהן אחרים"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אלה שכבר נתבטלו ומותרים בהנאה לא נשרפו ולא נקברו, אלא נטמנו כדי ליטלם שוב כשיצאו מבית אל.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 35:4:2",
+        "quote": "אותם שכבר נתבטלו ומותרים בהנאה מש\"ה לא שרפם ולא קברם אלא טמנם"
+       }
+      ]
+     }
+    ],
+    "why": "זה בוחן איך נהג בית יעקב בשלל שכם לפי דין שטרם ניתן."
+   },
+   {
+    "title": "מה פירוש \"ושב שם\" בציווי לעלות לבית אל?",
+    "pasuk": {
+     "text": "קום עלה בית אל ושב שם ועשה שם מזבח",
+     "ref": "Genesis 35:1",
+     "label": "בראשית לה, א"
+    },
+    "question": "נאמר \"עלה בית אל ושב שם ועשה שם מזבח\". למה \"ושב\" קודם? אם העיקר המזבח, לא טוב יותר למהר ולבנותו?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 35:1:1",
+      "era": "rishon",
+      "quote": "לא ידעתי מהו ושב שם"
+     },
+     {
+      "name": "אלשיך",
+      "ref": "Alshekh on Torah, Genesis 35:1:1-6",
+      "era": "acharon",
+      "quote": "וגם אומרו שב שם שהוא מיותר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: יתכן שצווהו לשבת שם תחילה ואחר כך יעשה המזבח, להיטהר מעבודה זרה או מן החללים; או לפנות מחשבתו לדבקה באל.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 35:1:1",
+        "quote": "להטהר מעבודה זרה או מן החללים שהרגו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: לכוון דעתך קודם שתבנה המזבח, כחסידים הראשונים ששוהים שעה אחת לפני תפילה.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 35:1:1",
+        "quote": "לכוון דעתך קודם שתבנה המזבח"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: הוא בעת צרה, ולכן קודם שיביא נדרו עליו להתפלל; \"ושב שם\" - לא ימהר להקים את המצבה אלא יתעכב.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 35:1:1",
+        "quote": "לא ימהר להקים המצבה אלא יתעכב"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: אין ישיבה אלא איחור; שהה שם ששה חדשים, מקריב עולות ומשלם נדרים.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 35:1:2",
+        "quote": "אין ישיבה אלא איחור"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה חב יעקב לה' לפני הנדר שנדר בברחו ואחריו."
+   },
+   {
+    "title": "למה נזכרת מיתת דבורה כאן, באמצע פרשת בית אל?",
+    "pasuk": {
+     "text": "ותמת דבורה מינקת רבקה ותקבר מתחת לבית אל תחת האלון",
+     "ref": "Genesis 35:8",
+     "label": "בראשית לה, ח"
+    },
+    "question": "דבורה מינקת רבקה לא נזכרה קודם בבית יעקב. מדוע מיתתה מפסיקה את הסיפור על בית אל ועל ההתגלות השנייה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 35:8:1",
+      "era": "rishon",
+      "quote": "לא ידעתי למה נכנס הפסוק הזה בין ויקרא למקום אל בית אל"
+     },
+     {
+      "name": "מלבי\"ם",
+      "ref": "Malbim on Genesis 35:7:1-2",
+      "era": "acharon",
+      "quote": "למה הודיע ממיתת דבורה ומקבורתה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: אמרו רבותינו שרומז למיתת רבקה; יעקב בכה והתאבל על אמו, ולכן נקרא אלון בכות, ונגלה אליו האלהים וברכו לנחמו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 35:8:1",
+        "quote": "ולכן קרא שם המקום ההוא אלון בכות"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: מסביר מהיכן הייתה דבורה עם יעקב: רבקה שלחה אותה אחריו, כמו שאמרה \"ושלחתי ולקחתיך משם\".",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 35:8:1",
+        "quote": "ששלחה רבקה את דבורה אחר יעקב להחזירו"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: כמו שמיתת מרים סמוכה לפרה אדומה, מיתת צדיקים מכפרת; לכן בנה יעקב מזבח במקום שנודע לו על מיתתם.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 35:7:1",
+        "quote": "מיתת צדיקים מכפרת"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: זה הפסיק את התגלות השכינה, כי אין השכינה שורה מתוך עצבות.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 35:8:1",
+        "quote": "אין השכינה שורה מתוך עצבות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך האבל וההתגלות מתחברים בסצנה האחרונה של העלייה."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "מלבי\"ם",
+   "רמב\"ן",
+   "צרור המור",
+   "אלשיך",
+   "רבנו בחיי",
+   "מדרש שכל טוב",
+   "גור אריה",
+   "ספורנו",
+   "מדרש לקח טוב",
+   "אור החיים",
+   "חזקוני",
+   "העמק דבר",
+   "כלי יקר"
+  ]
+ }
+}
