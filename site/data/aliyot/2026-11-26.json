@@ -1,0 +1,1227 @@
+{
+ "date": "2026-11-26",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 6,
+ "aliyah_name": {
+  "en": "Shishi",
+  "he": "שישי"
+ },
+ "range": "Genesis 35:12-36:19",
+ "hebrew_date": {
+  "hebrew": "ט״ז בְּכִסְלֵו תשפ״ז",
+  "english": "16 Kislev 5787"
+ },
+ "english": {
+  "summary": "In this sixth aliyah God repeats to Jacob the promise of the land and of nations and kings coming from him, and goes up from him at the place where He spoke with him. Jacob sets up a stone pillar, pours a libation and oil on it, and calls the place Beit El. On the road to Efrat Rachel gives birth to Benjamin with great difficulty and dies; Jacob buries her on the way and sets up a pillar. In that time Reuven lies with Bilhah and Israel hears of it, and the sons of Jacob are listed as twelve. Jacob comes to his father Isaac at Hebron, Isaac dies at 180 and Esau and Jacob bury him. Chapter 36 opens with the generations of Esau: his wives and sons, his departure to Seir, and the list of the chiefs through verse 19.",
+  "questions": [
+   {
+    "title": "Why does the verse add 'in the place where He spoke with him' when God goes up from Jacob?",
+    "pasuk": {
+     "text": "ויעל מעליו אלהים במקום אשר דבר אתו",
+     "ref": "Genesis 35:13",
+     "label": "Genesis 35:13"
+    },
+    "question": "The verse says God went up from Jacob 'in the place where He spoke with him'. From where else would He have gone up? Rashi says he does not know what this teaches, and later mefarshim try to say.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 35:13:1",
+      "era": "rishon",
+      "quote": "איני יודע מה מלמדנו"
+     },
+     {
+      "name": "Haamek Davar",
+      "ref": "Haamek Davar on Genesis 35:13:1",
+      "era": "acharon",
+      "quote": "ובאמת כל המקרא צריך ביאור מה מלמדנו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Haamek Davar: after God's word ended, the Shekhinah left Jacob completely and suddenly, and from that he understood that the time had come to fulfil his vow; since he was no longer absorbed in the vision, he knew exactly where God had spoken with him.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 35:13:1",
+        "quote": "נסתלקה השכינה מעליו לגמרי"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: it teaches that the Avot are the chariot, and that the Beit HaMikdash below is aligned with the one above; without the phrase I would think the Shekhinah went to another place and rose from there.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 35:13:1",
+        "quote": "שהאבות הן הן המרכבה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: it teaches that God appeared to him twice in Beit El after his return from Padan Aram, apart from the first time when he fled from his brother.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 35:13:2",
+        "quote": "ששני פעמים נגלה אליו בבית אל"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: on leaving for Charan, the speaking was at that same lodging place; God appeared and departed from there, so Jacob set up a pillar in that very place.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 35:13:1",
+        "quote": "בצאתו ללכת לחרן באותו המלון היה הדבור שם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the verse adds when Rashi himself says he does not know."
+   },
+   {
+    "title": "Why did Jacob bury Rachel on the road to Efrat and not in a city?",
+    "pasuk": {
+     "text": "ותמת רחל ותקבר בדרך אפרתה",
+     "ref": "Genesis 35:19",
+     "label": "Genesis 35:19"
+    },
+    "question": "Rachel dies and is buried 'on the way to Efrat', by the roadside. Why did Jacob not bring her to Efrat, or to the Cave of Machpelah?",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 35:19:1",
+      "era": "chazal",
+      "quote": "מה ראה יעקב אבינו לקבור את רחל בדרך אפרת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Midrash Lekach Tov: Jacob foresaw that the exiles would pass that way, and he buried her there so that Rachel could weep for her children, as in 'a voice is heard in Ramah'.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 35:19:1",
+        "quote": "צפה שהגליות עתידות לעבור משם"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: the way to Efrat was long, so he did not bring her all the way, and he also had no place of burial there.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 35:16:1",
+        "quote": "הדרך רב עד אפרת ולכך לא הוליכה עד אפרת ועוד שלא היה לו מקום לקבורה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: Rachel did not manage to reach Efrat before she gave birth.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 35:16:2",
+        "quote": "לא הספיקה ללכת עד אפרת"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: Chazal taught that it is the honor of women to be buried where they died, and so Rachel died in Bethlehem and was buried in Bethlehem, like Sarah in Hebron.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 35:19:1",
+        "quote": "כבוד הנשים שתהא קבורתן במקום מיתתן"
+       }
+      ]
+     },
+     {
+      "text": "Ramban, on the 'long way' reading: he saw with his own eyes that from Rachel's tomb to Bethlehem there is not even a mil, so that reading does not stand.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 35:16:1",
+        "quote": "ראיתי בעיני שאין מן קבורת רחל לבית לחם אפילו מיל"
+       }
+      ]
+     }
+    ],
+    "why": "The place where Rachel is buried is tied to the later exile and return of her children."
+   },
+   {
+    "title": "How can the Torah say Reuven 'lay with' Bilhah if he is counted among the righteous?",
+    "pasuk": {
+     "text": "וילך ראובן וישכב את בלהה פילגש אביו",
+     "ref": "Genesis 35:22",
+     "label": "Genesis 35:22"
+    },
+    "question": "The verse says Reuven lay with his father's concubine, but Moses later has the tribes curse one who lies with his father's wife, and Chazal say Reuven did not sin. What did he actually do?",
+    "asked_by": [
+     {
+      "name": "Midrash Lekach Tov",
+      "ref": "Midrash Lekach Tov, Genesis 35:22:1",
+      "era": "chazal",
+      "quote": "אפשר עתידין בניו לעמוד על הר עיבל ולומר ארור שוכב עם אשת אביו"
+     },
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 35:22:2",
+      "era": "rishon",
+      "quote": "מעלה עליו הכתוב כאילו שכבה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: because he disturbed his father's bed, the verse counts it as if he had lain with her.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 35:22:2",
+        "quote": "מתוך שבלבל משכבו מעלה עליו הכתוב כאילו שכבה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: he claimed his mother's honor, and the verse counts it as if he had lain with her.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 35:22:1",
+        "quote": "מלמד שתבע עלבון אמו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: he did not sin by lying but by disturbing, and Chazal said that whoever says Reuven sinned is only mistaken.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 35:22:1-3",
+        "quote": "כל האומר ראובן חטא אינו אלא טועה"
+       }
+      ]
+     },
+     {
+      "text": "Radak: Reuven thought that Bilhah, called a concubine, was not forbidden to him, but she was his father's wife and forbidden, and so Jacob took his birthright from him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 35:22:3",
+        "quote": "לפיכך נטל ממנו יעקב בכורתו"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Reuven is a sinner, a man who made a mistake, or one who only protested."
+   },
+   {
+    "title": "Why did Reuven disturb his father's bed?",
+    "pasuk": {
+     "text": "וילך ראובן וישכב את בלהה פילגש אביו",
+     "ref": "Genesis 35:22",
+     "label": "Genesis 35:22"
+    },
+    "question": "Whatever Reuven did, why did he do it to his father's bed? What moved him?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 35:22:2",
+      "era": "rishon",
+      "quote": "ולמה בלבל וחלל יצועיו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: when Rachel died, Jacob moved his bed into Bilhah's tent, and Reuven claimed his mother Leah's honor: if my mother's sister was a rival to my mother, shall her maidservant also be a rival?",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 35:22:2",
+        "quote": "בא ראובן ותבע עלבון אמו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban, on the plain sense: Reuven disturbed Bilhah's bed out of fear that she would bear Jacob more sons; as the firstborn he would then lose more than all his brothers.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 35:22:1",
+        "quote": "מפחדו שלא תלד ליעקב עוד"
+       }
+      ]
+     }
+    ],
+    "why": "The motive decides whether this was an act of filial honor, fear for his inheritance or a mistake."
+   },
+   {
+    "title": "Why does the Torah join 'and Israel heard' to 'and the sons of Jacob were twelve'?",
+    "pasuk": {
+     "text": "ויהיו בני יעקב שנים עשר",
+     "ref": "Genesis 35:22",
+     "label": "Genesis 35:22"
+    },
+    "question": "The story of Reuven stops with 'and Israel heard', and the very next words, 'and the sons of Jacob were twelve', open the list of the tribes. What does this teach?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 35:22:1",
+      "era": "rishon",
+      "quote": "ולכך עשה משתי הפרשיות פסוק אחד"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 35:22:1",
+      "era": "acharon",
+      "quote": "הטעמים המחברים וישמע ישראל עם ויהיו בני יעקב לפסוק אחד אין ספק שהם מוטעים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ramban: Jacob did not order Reuven out of the house and the tribes; he is counted with them as one of twelve, and the verse is joined to hint that Reuven was not rejected for his deed.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 35:22:1",
+        "quote": "רמז כי ראובן לא נדחה במעשהו"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the Rabbis taught that it comes to teach that all the sons were equal and all were righteous, for Reuven did not sin.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 35:22:3",
+        "quote": "שכלן שוין וכלן צדיקים שלא חטא ראובן"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: even though Jacob heard, he did not drop him from the number of his sons, for he had no doubt that Reuven had repented at once.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 35:22:1",
+        "quote": "לא הפילו ממנין בניו"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: from then on Jacob did not live with his wives again, so the sons of Jacob were twelve and no more.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 35:22:1",
+        "quote": "שלא הוסיף עוד יעקב להזקק עם נשיו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob treated Reuven after the act: he was not removed from the tribes."
+   },
+   {
+    "title": "Why are Esau's wives named differently here than in Toldot?",
+    "pasuk": {
+     "text": "עשו לקח את נשיו מבנות כנען את עדה בת אילון החתי",
+     "ref": "Genesis 36:2",
+     "label": "Genesis 36:2"
+    },
+    "question": "In Toldot Esau's wives are Judith daughter of Beeri, Basemath daughter of Elon and Mahalath daughter of Ishmael. Here they are Adah daughter of Elon, Oholibamah daughter of Anah and Basemath daughter of Ishmael. Are these the same women?",
+    "asked_by": [
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 36:2:1",
+      "era": "rishon",
+      "quote": "בפרשה זו לא הוזכר בת בארי כלל לא שמה ולא שם אביה"
+     },
+     {
+      "name": "Chizkuni",
+      "ref": "Chizkuni, Genesis 36:2:1",
+      "era": "rishon",
+      "quote": "כאן לא נזכרה בת בארי כלל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Adah is Basemath daughter of Elon, who was called Basemath because she burned incense to idols; and Oholibamah is Judith, whom Esau called Judith to say that she rejects idolatry, in order to deceive his father.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:2:1",
+        "quote": "היא בשמת בת אילון ונקראת בשמת על שם שהיתה מקטרת בשמים"
+       },
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:2:2",
+        "quote": "כדי להטעות את אביו"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: the daughters' names were swapped, as in many places; Judith daughter of Beeri died without children, and Oholibamah was taken later, after Esau went to Mount Seir.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 36:2:1",
+        "quote": "יהודית בת בארי מתה בלא בנים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: each of them had two names, and many such cases are found in Scripture.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 36:2:1",
+        "quote": "כי שני שמות היו לכל אחת מהן"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar, against Rashi: Oholibamah is not Judith the Hittite; she is a later wife, and Judith is not mentioned because she bore no sons.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 36:2:1",
+        "quote": "ולא כפרש\"י שהיא יהודית החתית"
+       },
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 36:2:1",
+        "quote": "מפני שלא ילדה זכרים"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how many wives Esau had and whether Oholibamah is Judith."
+   },
+   {
+    "title": "Is Oholibamah the daughter of Anah or of Tzivon?",
+    "pasuk": {
+     "text": "אהליבמה בת ענה בת צבעון",
+     "ref": "Genesis 36:2",
+     "label": "Genesis 36:2"
+    },
+    "question": "The verse calls her 'daughter of Anah, daughter of Tzivon', yet Anah is Tzivon's son (36:24). How can she be the daughter of both?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 36:2:3",
+      "era": "rishon",
+      "quote": "אם בת ענה לא בת צבעון"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 36:2:1",
+      "era": "rishon",
+      "quote": "והנה מצאנו כי יש ענה אחי צבעון גם שם בנו ענה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Tzivon was intimate with his daughter-in-law, Anah's wife, and Oholibamah came from the two of them; the verse tells us that all of them were of illegitimate birth.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:2:3",
+        "quote": "בא צבעון על כלתו אשת ענה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the verse names her father and her grandfather to tell this Anah apart from the other Anah.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 36:2:1",
+        "quote": "ויחסה הכתוב לשם אביה ואבי אביה להפריש בין ענה ובין ענה"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: Tzivon died, and Anah his son took his widow by yibum and had a daughter, named after the dead father, so she is called 'daughter of Tzivon' though she is truly Anah's.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 36:2:1",
+        "quote": "והנכון כי צבעון מת והיו לו נשים הרבה"
+       }
+      ]
+     },
+     {
+      "text": "Chizkuni: it is possible that 'daughter of Tzivon' is said of Oholibamah and not of Anah, as grandchildren are like children.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 36:2:3",
+        "quote": "מה שכתוב בת צבעון אינו מוסב אענה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah's family record is read when two names do not fit."
+   },
+   {
+    "title": "To which land did Esau go, and why 'because of Jacob'?",
+    "pasuk": {
+     "text": "וילך אל ארץ מפני יעקב אחיו",
+     "ref": "Genesis 36:6",
+     "label": "Genesis 36:6"
+    },
+    "question": "The verse says Esau went 'to a land' without naming it, 'because of his brother Jacob', and then says the land could not hold them. Which land, and what does Jacob have to do with it?",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 36:6:2",
+      "era": "acharon",
+      "quote": "קשיא מאי טעמא וילך אל ארץ אחרת מפני יעקב אחיו"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 36:6:2",
+      "era": "rishon",
+      "quote": "וטעם וילך אל ארץ אמר אונקלוס"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he went to live wherever he would find, because of the bond of the decree 'your seed shall be strangers', which rests on Isaac's seed; he said, I have no share in the gift of this land or in repaying the bond, and he was also ashamed of having sold his birthright.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:7:1",
+        "quote": "מפני שטר חוב של גזרת כי גר יהיה זרעך"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the right reading is 'to the land of Seir', the name left out because it was understood; he left the land of Canaan, the inheritance of his brother whom their father had blessed.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 36:6:2",
+        "quote": "והנכון בעיני שיאמר וילך אל ארץ שעיר"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: because Jacob bought the birthright and by law he should inherit Isaac, so Esau settled in another land.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 36:6:1",
+        "quote": "כי יעקב קנה את הבכורה ודינו היה לירש את יצחק"
+       }
+      ]
+     },
+     {
+      "text": "Radak: his possessions were many and he was pushed aside, for he knew from his father's blessings that the land of Canaan belongs to Jacob's seed; perhaps he heard that Mount Seir would be given to him.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 36:6:2",
+        "quote": "כי ידע מברכות אביו שברך את יעקב כי תהיה ארץ כנען לזרע יעקב"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Esau left over land and herds or over the debt of the covenant with Abraham."
+   },
+   {
+    "title": "Why does the Torah tell us that Timna was a concubine, and name her at all?",
+    "pasuk": {
+     "text": "ותמנע היתה פילגש לאליפז בן עשו ותלד לאליפז את עמלק",
+     "ref": "Genesis 36:12",
+     "label": "Genesis 36:12"
+    },
+    "question": "Among Esau's descendants the mothers are not named, yet here Timna, Eliphaz's concubine and mother of Amalek, is named. Why this exception?",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 36:12:1",
+      "era": "rishon",
+      "quote": "מפני שלא הקפיד בכל האחרים להודיע שם האם"
+     },
+     {
+      "name": "Bekhor Shor",
+      "ref": "Bekhor Shor, Genesis 36:12:1",
+      "era": "rishon",
+      "quote": "בדברי הימים מונה תמנע עם בני עשו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: to teach the greatness of Abraham, how much they longed to cling to his seed: Timna, daughter of chiefs, said, I am not worthy to marry you, let me at least be a concubine.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:12:1",
+        "quote": "להודיע גדלותו של אברהם כמה היו תאבים לדבק בזרעו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbeinu Bahya: Amalek was the son of the concubine and not of the main wives, so he is not counted among Esau's seed whom we may not abhor, and we were commanded to blot out Amalek's memory.",
+      "sources": [
+       {
+        "name": "Rabbeinu Bahya",
+        "ref": "Rabbeinu Bahya, Bereshit 36:12:1-2",
+        "quote": "כי אין עמלק זה בן השפחה נחשב בכלל זרעו של עשו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: Eliphaz was among those who conquered the land, and he took Timna, sister of the chiefs, and made her his concubine by conquest.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 36:12:1",
+        "quote": "שהיה אליפז מהכובשים את הארץ"
+       }
+      ]
+     },
+     {
+      "text": "Bekhor Shor: Timna is the name of a son and also of a concubine, so the verse answers to both, and he brings other verses where one name answers to both places.",
+      "sources": [
+       {
+        "name": "Bekhor Shor",
+        "ref": "Bekhor Shor, Genesis 36:12:1",
+        "quote": "נמצא דתמנע דהכא עונה לכאן ולכאן"
+       }
+      ]
+     }
+    ],
+    "why": "It marks Amalek apart from Edom, whom the Torah forbids us to abhor."
+   }
+  ],
+  "sources_consulted": [
+   "Rashi",
+   "Haamek Davar",
+   "Kli Yakar",
+   "Midrash Lekach Tov",
+   "Sforno",
+   "Bekhor Shor",
+   "Chizkuni",
+   "Rabbeinu Bahya",
+   "Ramban",
+   "Radak",
+   "Shadal",
+   "Rashbam",
+   "Ibn Ezra",
+   "Gur Aryeh"
+  ]
+ },
+ "hebrew": {
+  "summary": "בעלייה השישית חוזר ה' ומבטיח ליעקב את הארץ ואת גוי וקהל גוים ומלכים שיצאו ממנו, ועולה מעליו במקום אשר דבר אתו. יעקב מציב מצבת אבן, מסך עליה נסך ויוצק שמן, וקורא למקום בית אל. בדרך אפרת ילדה רחל את בנימין בקושי ומתה, ויעקב קברה בדרך והציב עליה מצבה. בימים ההם שכב ראובן את בלהה וישראל שמע, ובני יעקב נמנים שנים עשר. יעקב בא אל יצחק אביו לחברון, יצחק מת בן מאה ושמונים שנה ועשו ויעקב קוברים אותו. פרק לו פותח בתולדות עשו: נשיו ובניו, הליכתו לשעיר, ורשימת האלופים עד פסוק יט.",
+  "questions": [
+   {
+    "title": "למה הכתוב מוסיף 'במקום אשר דבר אתו' כשאלהים עולה מעל יעקב?",
+    "pasuk": {
+     "text": "ויעל מעליו אלהים במקום אשר דבר אתו",
+     "ref": "Genesis 35:13",
+     "label": "בראשית לה, יג"
+    },
+    "question": "הכתוב אומר שאלהים עלה מעליו 'במקום אשר דבר אתו'. ומאיזה מקום אחר היה עולה? רש\"י אומר שאינו יודע מה הכתוב בא ללמדנו, והמפרשים שאחריו מנסים לבאר.",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 35:13:1",
+      "era": "rishon",
+      "quote": "איני יודע מה מלמדנו"
+     },
+     {
+      "name": "העמק דבר",
+      "ref": "Haamek Davar on Genesis 35:13:1",
+      "era": "acharon",
+      "quote": "ובאמת כל המקרא צריך ביאור מה מלמדנו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "העמק דבר: אחרי שנסתיים דבר ה' נסתלקה השכינה מעליו לגמרי ופתאום, ומכך הבין יעקב שהגיעה שעה לקיים את נדרו; ומפני שכבר אינו שקוע בחזון ידע בדיוק את מקום הדיבור.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 35:13:1",
+        "quote": "נסתלקה השכינה מעליו לגמרי"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: בא ללמדנו שהאבות הן הן המרכבה, ושבית המקדש שלמטה מכוון כנגד בית המקדש שלמעלה; בלי המילים האלה הייתי אומר שהשכינה הלכה למקום אחר ומשם עלתה.",
+      "sources": [
+       {
+        "name": "כלי יקר",
+        "ref": "Kli Yakar on Genesis 35:13:1",
+        "quote": "שהאבות הן הן המרכבה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: מלמד ששני פעמים נגלה אליו בבית אל אחרי שובו מפדן ארם, חוץ מן הפעם הראשונה כשברח מפני אחיו.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 35:13:2",
+        "quote": "ששני פעמים נגלה אליו בבית אל"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: בצאתו ללכת לחרן באותו המלון היה הדבור שם, ושם נסתלק, ולפיכך הציב מצבה באותו מקום עצמו.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 35:13:1",
+        "quote": "בצאתו ללכת לחרן באותו המלון היה הדבור שם"
+       }
+      ]
+     }
+    ],
+    "why": "רואים מה הכתוב מוסיף כאשר רש\"י עצמו אומר שאינו יודע."
+   },
+   {
+    "title": "למה קבר יעקב את רחל בדרך אפרת ולא בעיר?",
+    "pasuk": {
+     "text": "ותמת רחל ותקבר בדרך אפרתה",
+     "ref": "Genesis 35:19",
+     "label": "בראשית לה, יט"
+    },
+    "question": "רחל מתה ונקברה 'בדרך אפרתה', בצד הדרך. למה לא הביאה יעקב עד אפרת, או למערת המכפלה?",
+    "asked_by": [
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 35:19:1",
+      "era": "chazal",
+      "quote": "מה ראה יעקב אבינו לקבור את רחל בדרך אפרת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מדרש לקח טוב: יעקב צפה שהגליות עתידות לעבור משם, וקברה שם כדי שתבכה רחל על בניה, כמו 'קול ברמה נשמע'.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 35:19:1",
+        "quote": "צפה שהגליות עתידות לעבור משם"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: הדרך רב עד אפרת ולכן לא הוליכה עד אפרת, ועוד שלא היה לו מקום לקבורה.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 35:16:1",
+        "quote": "הדרך רב עד אפרת ולכך לא הוליכה עד אפרת ועוד שלא היה לו מקום לקבורה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: רחל לא הספיקה ללכת עד אפרת לפני שילדה.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 35:16:2",
+        "quote": "לא הספיקה ללכת עד אפרת"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: דרשו רז\"ל שכבוד הנשים שתהא קבורתן במקום מיתתן, ורחל מתה בבית לחם ונקברה בבית לחם, וכן שרה בחברון.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 35:19:1",
+        "quote": "כבוד הנשים שתהא קבורתן במקום מיתתן"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן, על פירוש 'הדרך הרב': ראה בעיניו שאין מקבורת רחל לבית לחם אפילו מיל, ולכן הפירוש הזה נסתר.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 35:16:1",
+        "quote": "ראיתי בעיני שאין מן קבורת רחל לבית לחם אפילו מיל"
+       }
+      ]
+     }
+    ],
+    "why": "מקום קבורת רחל קשור לגלות בניה ולשיבתם."
+   },
+   {
+    "title": "איך אומרת התורה שראובן 'שכב' את בלהה אם הוא נמנה עם הצדיקים?",
+    "pasuk": {
+     "text": "וילך ראובן וישכב את בלהה פילגש אביו",
+     "ref": "Genesis 35:22",
+     "label": "בראשית לה, כב"
+    },
+    "question": "הכתוב אומר שראובן שכב את פילגש אביו, ואילו בהר עיבל מקללים את השוכב עם אשת אביו, וחז\"ל אמרו שראובן לא חטא. מה עשה בפועל?",
+    "asked_by": [
+     {
+      "name": "מדרש לקח טוב",
+      "ref": "Midrash Lekach Tov, Genesis 35:22:1",
+      "era": "chazal",
+      "quote": "אפשר עתידין בניו לעמוד על הר עיבל ולומר ארור שוכב עם אשת אביו"
+     },
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 35:22:2",
+      "era": "rishon",
+      "quote": "מעלה עליו הכתוב כאילו שכבה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: מתוך שבלבל משכבו, מעלה עליו הכתוב כאילו שכבה.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 35:22:2",
+        "quote": "מתוך שבלבל משכבו מעלה עליו הכתוב כאילו שכבה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: הוא תבע עלבון אמו, והכתוב מעלה עליו כאילו שכבה.",
+      "sources": [
+       {
+        "name": "מדרש לקח טוב",
+        "ref": "Midrash Lekach Tov, Genesis 35:22:1",
+        "quote": "מלמד שתבע עלבון אמו"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: לא חטא בשכיבה אלא בבילבול, ואמרו רז\"ל שכל האומר ראובן חטא אינו אלא טועה.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 35:22:1-3",
+        "quote": "כל האומר ראובן חטא אינו אלא טועה"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: ראובן חשב שבלהה, שנקראת פילגש, אינה אסורה עליו, אך היא אשת אביו ואסורה, ולפיכך נטל ממנו יעקב את בכורתו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 35:22:3",
+        "quote": "לפיכך נטל ממנו יעקב בכורתו"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם ראובן חוטא, טועה או רק מוחה."
+   },
+   {
+    "title": "למה בילבל ראובן את מיטת אביו?",
+    "pasuk": {
+     "text": "וילך ראובן וישכב את בלהה פילגש אביו",
+     "ref": "Genesis 35:22",
+     "label": "בראשית לה, כב"
+    },
+    "question": "מה שעשה ראובן, למה עשה זאת למיטת אביו? מה הניע אותו?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 35:22:2",
+      "era": "rishon",
+      "quote": "ולמה בלבל וחלל יצועיו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: כשמתה רחל נטל יעקב מיטתו ונתנה באהל בלהה, ובא ראובן ותבע עלבון אמו, ואמר: אם אחות אמי הייתה צרה לאמי, שפחת אחות אמי תהא צרה לאמי?",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 35:22:2",
+        "quote": "בא ראובן ותבע עלבון אמו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן, על דרך הפשט: ראובן בלבל יצועי בלהה מפחדו שלא תלד ליעקב עוד, כי הוא הבכור ויפסיד יותר מכל האחים.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 35:22:1",
+        "quote": "מפחדו שלא תלד ליעקב עוד"
+       }
+      ]
+     }
+    ],
+    "why": "המניע קובע אם זה מעשה כבוד לאם, חשש לירושה או טעות."
+   },
+   {
+    "title": "למה מחברת התורה 'וישמע ישראל' אל 'ויהיו בני יעקב שנים עשר'?",
+    "pasuk": {
+     "text": "ויהיו בני יעקב שנים עשר",
+     "ref": "Genesis 35:22",
+     "label": "בראשית לה, כב"
+    },
+    "question": "סיפור ראובן נפסק ב'וישמע ישראל', ומיד אחר כך 'ויהיו בני יעקב שנים עשר' פותח את רשימת השבטים. מה מלמד הדבר?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 35:22:1",
+      "era": "rishon",
+      "quote": "ולכך עשה משתי הפרשיות פסוק אחד"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 35:22:1",
+      "era": "acharon",
+      "quote": "הטעמים המחברים וישמע ישראל עם ויהיו בני יעקב לפסוק אחד אין ספק שהם מוטעים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ן: יעקב לא ציווה להוציא את ראובן מבית ומכלל בניו; הוא נמנה עמהם ויהיו שנים עשר, והפסוק מחובר לרמוז שראובן לא נדחה במעשהו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 35:22:1",
+        "quote": "רמז כי ראובן לא נדחה במעשהו"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: רבותינו דרשו שבא ללמדנו שכולן שוין וכולן צדיקים, שלא חטא ראובן.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 35:22:3",
+        "quote": "שכלן שוין וכלן צדיקים שלא חטא ראובן"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אף על פי ששמע, לא הפילו ממנין בניו, כי לא היה ספק אצלו שעשה תשובה לאלתר.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 35:22:1",
+        "quote": "לא הפילו ממנין בניו"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: שמשם והלאה לא הוסיף יעקב להזקק עם נשיו, ולכן היו בני יעקב שנים עשר ולא יותר.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 35:22:1",
+        "quote": "שלא הוסיף עוד יעקב להזקק עם נשיו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך נהג יעקב בראובן אחרי המעשה: לא הוציאו מן השבטים."
+   },
+   {
+    "title": "למה נשי עשו נקראות כאן בשמות אחרים מאשר בפרשת תולדות?",
+    "pasuk": {
+     "text": "עשו לקח את נשיו מבנות כנען את עדה בת אילון החתי",
+     "ref": "Genesis 36:2",
+     "label": "בראשית לו, ב"
+    },
+    "question": "בפרשת תולדות נשי עשו הן יהודית בת בארי, בשמת בת אילון ומחלת בת ישמעאל. כאן הן עדה בת אילון, אהליבמה בת ענה ובשמת בת ישמעאל. האם אלה אותן נשים?",
+    "asked_by": [
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 36:2:1",
+      "era": "rishon",
+      "quote": "בפרשה זו לא הוזכר בת בארי כלל לא שמה ולא שם אביה"
+     },
+     {
+      "name": "חזקוני",
+      "ref": "Chizkuni, Genesis 36:2:1",
+      "era": "rishon",
+      "quote": "כאן לא נזכרה בת בארי כלל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: עדה היא בשמת בת אילון, ונקראת בשמת על שם שהייתה מקטרת בשמים לעבודה זרה; ואהליבמה היא יהודית, והוא כינה שמה יהודית לומר שהיא כופרת בעבודה זרה כדי להטעות את אביו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:2:1",
+        "quote": "היא בשמת בת אילון ונקראת בשמת על שם שהיתה מקטרת בשמים"
+       },
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:2:2",
+        "quote": "כדי להטעות את אביו"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: שמות הבנות הוחלפו כמו שמצינו בכמה מקומות; יהודית בת בארי מתה בלא בנים, ואהליבמה נלקחה אחר כך, אחר שהלך עשו לשבת בהר שעיר.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 36:2:1",
+        "quote": "יהודית בת בארי מתה בלא בנים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: שני שמות היו לכל אחת מהן, והרבה נמצאים במקרא כזה.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 36:2:1",
+        "quote": "כי שני שמות היו לכל אחת מהן"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר, נגד רש\"י: אהליבמה אינה יהודית החתית; היא אשה מאוחרת, ויהודית לא נזכרה מפני שלא ילדה זכרים.",
+      "sources": [
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 36:2:1",
+        "quote": "ולא כפרש\"י שהיא יהודית החתית"
+       },
+       {
+        "name": "העמק דבר",
+        "ref": "Haamek Davar on Genesis 36:2:1",
+        "quote": "מפני שלא ילדה זכרים"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע כמה נשים היו לעשו והאם אהליבמה היא יהודית."
+   },
+   {
+    "title": "האם אהליבמה בת ענה או בת צבעון?",
+    "pasuk": {
+     "text": "אהליבמה בת ענה בת צבעון",
+     "ref": "Genesis 36:2",
+     "label": "בראשית לו, ב"
+    },
+    "question": "הכתוב קורא לה 'בת ענה בת צבעון', ואילו ענה הוא בנו של צבעון (לו, כד). איך היא בת שניהם?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 36:2:3",
+      "era": "rishon",
+      "quote": "אם בת ענה לא בת צבעון"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 36:2:1",
+      "era": "rishon",
+      "quote": "והנה מצאנו כי יש ענה אחי צבעון גם שם בנו ענה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: צבעון בא על כלתו אשת ענה, ויצאה אהליבמה מבין שניהם, והודיעך הכתוב שכולן בני ממזרות היו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:2:3",
+        "quote": "בא צבעון על כלתו אשת ענה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: ויחסה הכתוב לשם אביה ואבי אביה להפריש בין ענה ובין ענה.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 36:2:1",
+        "quote": "ויחסה הכתוב לשם אביה ואבי אביה להפריש בין ענה ובין ענה"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: צבעון מת ובא ענה בנו ויבם את אשתו והוליד בת, וקמה על שם אביו המת, ונקראת בת צבעון אך היא באמת בת ענה.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 36:2:1",
+        "quote": "והנכון כי צבעון מת והיו לו נשים הרבה"
+       }
+      ]
+     },
+     {
+      "text": "חזקוני: יתכן שמה שכתוב 'בת צבעון' אינו מוסב על ענה אלא על אהליבמה, שבני בנים הרי הם כבנים.",
+      "sources": [
+       {
+        "name": "חזקוני",
+        "ref": "Chizkuni, Genesis 36:2:3",
+        "quote": "מה שכתוב בת צבעון אינו מוסב אענה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך קוראים את רישום המשפחה בתורה כששני שמות אינם מתיישבים."
+   },
+   {
+    "title": "לאיזו ארץ הלך עשו, ולמה 'מפני יעקב'?",
+    "pasuk": {
+     "text": "וילך אל ארץ מפני יעקב אחיו",
+     "ref": "Genesis 36:6",
+     "label": "בראשית לו, ו"
+    },
+    "question": "הכתוב אומר שעשו הלך 'אל ארץ' בלי לנקוב בשמה, 'מפני יעקב אחיו', ואחר כך אומר שהארץ לא יכלה לשאת אותם. איזו ארץ, ומה עניין יעקב?",
+    "asked_by": [
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 36:6:2",
+      "era": "acharon",
+      "quote": "קשיא מאי טעמא וילך אל ארץ אחרת מפני יעקב אחיו"
+     },
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 36:6:2",
+      "era": "rishon",
+      "quote": "וטעם וילך אל ארץ אמר אונקלוס"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הלך לגור באשר ימצא, מפני שטר חוב של גזרת 'כי גר יהיה זרעך' המוטל על זרעו של יצחק; אמר אלך לי מכאן, אין לי חלק לא במתנה שניתנה לו הארץ הזאת ולא בפירעון השטר, ומפני הבושה שמכר בכורתו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:7:1",
+        "quote": "מפני שטר חוב של גזרת כי גר יהיה זרעך"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הנכון בעיני שיאמר 'וילך אל ארץ שעיר' וחסרו הכנוי בעבור היותו מובן; הוא עזב את ארץ כנען, נחלת אחיו שנתן לו אביו בברכתו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 36:6:2",
+        "quote": "והנכון בעיני שיאמר וילך אל ארץ שעיר"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: כי יעקב קנה את הבכורה ודינו היה לירש את יצחק, ולכן ישב עשו בארץ אחרת.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 36:6:1",
+        "quote": "כי יעקב קנה את הבכורה ודינו היה לירש את יצחק"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: רכושם היה רב ונדחה הוא מפניו, כי ידע מברכות אביו שארץ כנען תהיה לזרע יעקב; ואולי שמע שיינתן לו הר שעיר.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 36:6:2",
+        "quote": "כי ידע מברכות אביו שברך את יעקב כי תהיה ארץ כנען לזרע יעקב"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם עשו הלך בגלל שטח ומקנה או בגלל חוב הברית של אברהם."
+   },
+   {
+    "title": "למה התורה מספרת שתמנע הייתה פילגש, ולמה מזכירה אותה?",
+    "pasuk": {
+     "text": "ותמנע היתה פילגש לאליפז בן עשו ותלד לאליפז את עמלק",
+     "ref": "Genesis 36:12",
+     "label": "בראשית לו, יב"
+    },
+    "question": "בין צאצאי עשו לא נזכרו האמהות, ופה נזכרת תמנע, פילגש אליפז ואם עמלק. למה יוצאת היא מן הכלל?",
+    "asked_by": [
+     {
+      "name": "רמב\"ן",
+      "ref": "Ramban on Genesis 36:12:1",
+      "era": "rishon",
+      "quote": "מפני שלא הקפיד בכל האחרים להודיע שם האם"
+     },
+     {
+      "name": "בכור שור",
+      "ref": "Bekhor Shor, Genesis 36:12:1",
+      "era": "rishon",
+      "quote": "בדברי הימים מונה תמנע עם בני עשו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: להודיע גדולתו של אברהם, כמה היו תאבים לידבק בזרעו; תמנע, בת אלופים, אמרה: איני זוכה להנשא לך, הלואי ואהיה פילגש.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:12:1",
+        "quote": "להודיע גדלותו של אברהם כמה היו תאבים לדבק בזרעו"
+       }
+      ]
+     },
+     {
+      "text": "רבינו בחיי: עמלק בן הפילגש ולא מבני הגבירות, ולכן אינו נחשב בכלל זרעו של עשו שלא נתעבו, ונצטווינו למחות זכר עמלק.",
+      "sources": [
+       {
+        "name": "רבינו בחיי",
+        "ref": "Rabbeinu Bahya, Bereshit 36:12:1-2",
+        "quote": "כי אין עמלק זה בן השפחה נחשב בכלל זרעו של עשו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אליפז היה מן הכובשים את הארץ, ולקח את תמנע אחות האלופים, וכבש אותה לפילגש.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 36:12:1",
+        "quote": "שהיה אליפז מהכובשים את הארץ"
+       }
+      ]
+     },
+     {
+      "text": "בכור שור: תמנע הוא שם בנו וכן שם פילגשו, ועונה לכאן ולכאן, והוא מביא פסוקים אחרים שבהם שם אחד עונה לכאן ולכאן.",
+      "sources": [
+       {
+        "name": "בכור שור",
+        "ref": "Bekhor Shor, Genesis 36:12:1",
+        "quote": "נמצא דתמנע דהכא עונה לכאן ולכאן"
+       }
+      ]
+     }
+    ],
+    "why": "מבדיל בין עמלק לאדום שנצטווינו שלא לתעבו."
+   }
+  ],
+  "sources_consulted": [
+   "רש\"י",
+   "העמק דבר",
+   "כלי יקר",
+   "מדרש לקח טוב",
+   "ספורנו",
+   "בכור שור",
+   "חזקוני",
+   "רבינו בחיי",
+   "רמב\"ן",
+   "רד\"ק",
+   "שד\"ל",
+   "רשב\"ם",
+   "אבן עזרא",
+   "גור אריה"
+  ]
+ }
+}
