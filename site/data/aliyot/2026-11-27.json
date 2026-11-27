@@ -1,0 +1,1004 @@
+{
+ "date": "2026-11-27",
+ "reading": {
+  "en": "Vayishlach",
+  "he": "וישלח",
+  "ref": "Genesis 32:4-36:43",
+  "slugs": [
+   "vayishlach"
+  ]
+ },
+ "aliyah": 7,
+ "aliyah_name": {
+  "en": "Shevi'i",
+  "he": "שביעי"
+ },
+ "range": "Genesis 36:20-36:43",
+ "maftir": "Genesis 36:40-36:43",
+ "hebrew_date": {
+  "hebrew": "י״ז בְּכִסְלֵו תשפ״ז",
+  "english": "17 Kislev 5787"
+ },
+ "english": {
+  "summary": "The seventh aliyah (Shevi'i) lists the sons and chiefs of Seir the Horite, the original inhabitants of the land that Esau took over, including Ana, who found the 'yemim' in the wilderness, and Timna's brother Lotan. It then names the eight kings who reigned in Edom before any king reigned over Israel, from Bela son of Beor to Hadar, whose wife is Mehetavel. It closes with the chiefs of Esau by their clans and their settlements, 'that is Esau, father of Edom'. The aliyah includes the maftir, Genesis 36:40-43.",
+  "questions": [
+   {
+    "title": "Why does the Torah list the sons of Seir the Horite?",
+    "pasuk": {
+     "text": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י",
+     "ref": "Genesis 36:20",
+     "label": "Genesis 36:20"
+    },
+    "question": "The Torah spends a whole passage on the family tree of a Horite clan that is not Esau's own. What is the point of recording it?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 36:20:1",
+      "era": "rishon",
+      "quote": "שעיר. לא ידענו יחוסו"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 36:20:1",
+      "era": "acharon",
+      "quote": "טַעַם הוֹדָעַת עִנְיָן זֶה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: it separates the lineage of Seir from that of Esau, because Israel will later be commanded about the descendants of Esau.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 36:20:1",
+        "quote": "הזכירם הכתוב להפריש יחוסי שעיר ועשו כי ישראל יצוו על בני עשו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: it shows that the earth is the Lord's, who takes it from one nation and gives it to another; these Horites were the original settlers and God drove them out before Esau.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 36:20:1",
+        "quote": "וְהָיָה הַסִּפּוּר הַזֶּה לְהוֹדִיעַ כִּי לַה׳ הָאָרֶץ וּמְלוֹאָהּ נוֹטְלָהּ מִזֶּה וְנוֹתְנָהּ לָזֶה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: it tells how much God gave Esau in the merit of the fathers, even though Esau was wicked.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 36:20:1",
+        "quote": "לְהוֹדִיעַ שִׁעוּר מַה שֶׁנָּתַן ה׳ בִּזְכוּת הָאָבוֹת לְעֵשָׂו הֲגַם הֱיוֹתוֹ רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "Rashi: the Torah needed to list the Horite families only because of Timna, and to show the greatness of Abraham.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:24:3",
+        "quote": "וְלֹא הֻזְקַק לִכְתֹּב לָנוּ מִשְׁפְּחוֹת הַחוֹרִי אֶלָּא מִפְּנֵי תִּמְנָע, וּלְהוֹדִיעַ גְּדֻלַּת אַבְרָהָם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the genealogy is about Edom's history, God's gift of the land, or the family of Esau's wives."
+   },
+   {
+    "title": "Why are the Horites called 'inhabitants of the land'?",
+    "pasuk": {
+     "text": "הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ",
+     "ref": "Genesis 36:20",
+     "label": "Genesis 36:20"
+    },
+    "question": "Everyone is an inhabitant of some land, and Esau's descendants also settled in Seir. What does 'inhabitants of the land' add about these Horites?",
+    "asked_by": [
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 36:20:3",
+      "era": "chazal",
+      "quote": "וכי יושבי שמים היו"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 36:20:1",
+      "era": "acharon",
+      "quote": "דאל\"כ מאי יושבי הארץ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: they were its inhabitants before Esau came; and our Rabbis expounded that they were expert in settling the land, knowing which planting suited which soil.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:20:1",
+        "quote": "שֶׁהָיוּ יוֹשְׁבֶיהָ קֹדֶם שֶׁבָּא עֵשָׂו לְשָׁם. וְרַבּוֹתֵינוּ דָּרְשׁוּ (שבת פ\"ה) שֶׁהָיוּ בְּקִיאִין בְּיִשּׁוּבָהּ שֶׁל אֶרֶץ; מְלֹא קָנֶה זֶה לְזֵיתִים, מְלֹא קָנֶה זֶה לִגְפָנִים, שֶׁהָיוּ טוֹעֲמִין הֶעָפָר וְיוֹדְעִין אֵי זוֹ נְטִיעָה"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: they smelled the earth and knew the good field, and sowed it.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 36:20:3",
+        "quote": "אלא היו מריחין את הארץ וידעו השדה הטובה, והיו זורעין אותה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: they were inhabitants from the beginning, and the sons of Esau would dispossess them.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 36:20:1",
+        "quote": "יושבי הארץ - מתחלה, ובני עשו יירשום"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the verse is hinting at who held the land first, and why they are remembered."
+   },
+   {
+    "title": "Is Ana the brother of Tzivon, or his son?",
+    "pasuk": {
+     "text": "ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א",
+     "ref": "Genesis 36:24",
+     "label": "Genesis 36:24"
+    },
+    "question": "Verse 20 lists Ana as a brother of Tzivon, but verse 24 calls Ana the son of Tzivon. Who is he?",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 36:24:2",
+      "era": "rishon",
+      "quote": "הָאָמוּר לְמַעְלָה שֶׁהוּא אָחִיו שֶׁל צִבְעוֹן וְכָאן הוּא קוֹרֵא אוֹתוֹ בְּנו"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 36:24:1",
+      "era": "acharon",
+      "quote": "דאם לא כן קשה מאי \"הוא ענה אשר מצא הימים"
+     },
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 36:25:1",
+      "era": "rishon",
+      "quote": "כי אילו היה הוא מה צורך להזכירו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the same Ana; this teaches that Tzivon had relations with his own mother and she bore Ana, so he was both his brother and his son.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:24:2",
+        "quote": "מְלַמֵּד שֶׁבָּא צִבְעוֹן עַל אִמּוֹ וְהוֹלִיד אֶת עֲנָה"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: this is not the Ana mentioned at the head of the verse, since otherwise there would be no need to mention him; it is the Ana of the first verse.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 36:25:1",
+        "quote": "אין זה ענה הנזכר בראש הפסוק כי אילו היה הוא מה צורך להזכירו רק הוא ענה הנזכר בפסוק הראשון"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Tzivon's son Ana is distinguished from Ana his uncle, Tzivon's brother.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 36:24:1",
+        "quote": "לְהַבְדִּיל בֵּינוֹ וּבֵין עֲנָה דּוֹדוֹ אֲחִי צִבְעוֹן אָבִיו"
+       }
+      ]
+     },
+     {
+      "text": "Radak: this Ana is another Ana, not the one mentioned above, since that one was the son of Seir and this one the son of Tzivon.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 36:24:1",
+        "quote": "וְזֶה עֲנָה הוּא עֲנָה אַחֵר לֹא הַנִּזְכָּר לְמַעְלָה, כִּי אוֹתוֹ הָיָה בֶּן שֵׂעִיר וְזֶה בֶּן צִבְעוֹן"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the verses record a scandal in the Horite family or just two people with the same name."
+   },
+   {
+    "title": "What exactly did Ana find in the wilderness?",
+    "pasuk": {
+     "text": "אֲשֶׁ֨ר מָצָ֤א אֶת־הַיֵּמִם",
+     "ref": "Genesis 36:24",
+     "label": "Genesis 36:24"
+    },
+    "question": "What are the 'yemim' that Ana found while tending his father's donkeys, and why are donkeys mentioned?",
+    "asked_by": [
+     {
+      "name": "Ibn Ezra",
+      "ref": "Ibn Ezra on Genesis 36:24:2",
+      "era": "rishon",
+      "quote": "ואילו היו הימים צמחים כאשר פי' רבים מה טעם להזכיר החמורים"
+     },
+     {
+      "name": "Midrash Aggadah",
+      "ref": "Midrash Aggadah, Genesis 36:24:1",
+      "era": "chazal",
+      "quote": "ולמה נקראו ימים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: mules; he mated a donkey with a mare, and the mule was born. They are called yemim because their dread lies upon people.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:24:3",
+        "quote": "פְּרָדִים, הִרְבִּיעַ חֲמוֹר עַל סוּס נְקֵבָה וְיָלְדָה פֶּרֶד, וְהוּא הָיָה מַמְזֵר וְהֵבִיא פְסוּלִין לָעוֹלָם; וְלָמָּה נִקְרָא שְׁמָם יֵמִים? שֶׁאֵימָתָן מֻטֶּלֶת עַל הַבְּרִיּוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it may mean that he was the first to find this skill, since one species does not normally bear young with another; this fits the mention of the donkeys.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 36:24:2",
+        "quote": "ויתכן להיות מצא שהוא מצא בתחלה זאת החכמה, כי מין אחד עם מין אחר לא יולידו, ויחזיק זה הפירוש שאמר הכתוב ברעותו את החמורים"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: giants or wild beasts that he defeated; by the plain sense there is no need to be more precise.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 36:24:3",
+        "quote": "הגיבורים או חיות רעות ונצחם. לפי פשוטו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Onkelos translated it 'the mighty ones'; Ana rescued his father's donkeys from a people called Emim, who wanted to steal them.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 36:24:2",
+        "quote": "וְאוּנְקְלוֹס (תרגום אונקלוס על בראשית ל\"ו:כ\"ד) תִּרְגֵּם \"גִּבָּרַיָּא\""
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the sages and the plain-sense commentators read an obscure word."
+   },
+   {
+    "title": "Why does 'v'Aya' carry an extra vav?",
+    "pasuk": {
+     "text": "בְנֵֽי־צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה",
+     "ref": "Genesis 36:24",
+     "label": "Genesis 36:24"
+    },
+    "question": "Everywhere else the list of sons has no extra conjunction, and Chronicles gives the name without a vav. Why does the Torah write 'v'Aya v'Ana'?",
+    "asked_by": [
+     {
+      "name": "Rashbam",
+      "ref": "Rashbam on Genesis 36:24:1",
+      "era": "rishon",
+      "quote": "והמפרש לו' יתירה יש לתמוה"
+     },
+     {
+      "name": "Mizrachi",
+      "ref": "Mizrachi, Genesis 36:20:1",
+      "era": "acharon",
+      "quote": "ואיה וענה וי\"ו יתירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: the vav is extra, as in 'Aya and Ana', and many such cases appear in Scripture.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:24:1",
+        "quote": "וָי\"ו יְתֵרָה, וְהוּא כְּמוֹ אַיָּה וַעֲנָה, וְהַרְבֵּה יֵשׁ בַּמִּקְרָא, תֵּת וְקֹדֶשׁ וְצָבָא מִרְמָס (דניאל ח'), נִרְדָּם וְרֶכֶב וָסוּס"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: the vav is extra, like 'your servant, and I am' and similar verses.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 36:24:1",
+        "quote": "הַוָּי\"ו יְתֵרָה, וְכֵן \"עֶבֶד אָבִיךָ וַאֲנִי מֵאָז וְעַתָּה וַאֲנִי עַבְדֶּךָ\" (שמו\"ב טו לד) דִּין שְׁנֵיהֶם אֲנִי, \"וְאֵלֶּה רָאשֵׁי בֵית אֲבוֹתָם וְעֵפֶר וְיִשְׁעִי\" (דהי\"א ה כד), וּכְמוֹהֶם רַבִּים"
+       }
+      ]
+     },
+     {
+      "text": "Radak: his father held that these vavs are not extra but indicate a missing word, meaning that Tzivon had other sons earlier whom the verse does not name.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 36:24:1",
+        "quote": "אֲבָל הֵם מוֹרוֹת עַל מִלָּה חֲסֵרָה, כְּעִנְיַן וָי״ו שֶׁל ״וַיִּשָּׂא אַבְרָהָם״, רוֹצֶה לוֹמַר הִשְׁכִּים בַּיּוֹם הַשְּׁלִישִׁי וַיִּשָּׂא אֶת עֵינָיו. וּפֵרַשׁ וְאַיָּה וַעֲנָה, כִּי הָיוּ לוֹ בָּנִים אֲחֵרִים קֹדֶם אֵלֶּה וְלֹא זְכָרָם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows a small grammatical detail turning into a question about missing family members."
+   },
+   {
+    "title": "Which 'king of Israel' came after these Edomite kings?",
+    "pasuk": {
+     "text": "לִפְנֵ֥י מְלׇךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל",
+     "ref": "Genesis 36:31",
+     "label": "Genesis 36:31"
+    },
+    "question": "Moses wrote the Torah before Israel had a king, so how can he refer to kings who ruled 'before a king reigned over Israel'?",
+    "asked_by": [
+     {
+      "name": "Tur HaArokh",
+      "ref": "Tur HaArokh, Genesis 36:31:2",
+      "era": "rishon",
+      "quote": "מפני שהקשה לו האיך כתב משה שמות אלה המלכים ועדיין לא מלכו"
+     },
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 36:31:1",
+      "era": "acharon",
+      "quote": "ויש שאולים והלא מיעקב ועשו עד משה לא היו אלא ד' דורות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: it means Moses, king of Israel, as in 'And there was a king in Jeshurun'.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 36:31:1",
+        "quote": "והאמת שפי' לפני מלך מלך על משה מלך ישראל, וכן כתוב ויהי בישורון מלך"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: before Moses, who saved Israel.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 36:31:1",
+        "quote": "לפני מלך מלך - לפני משה שהושיע את ישראל"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: before Moses reigns over them by the command of God.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 36:31:2",
+        "quote": "קוֹדֶם שֶׁיִּמְלוֹךְ מֹשֶׁה עֲלֵיהֶם בְּמִצְוַת הָאֵל"
+       }
+      ]
+     },
+     {
+      "text": "Radak: the Edomite kings came before the reign of Israel's kings, a dynasty of son after father.",
+      "sources": [
+       {
+        "name": "Radak",
+        "ref": "Radak on Genesis 36:31:1",
+        "quote": "זָכַר מַלְכֵי אֱדוֹם לִפְנֵי מְלָךְ־מֶלֶךְ בִבְנֵי יִשְׂרָאֵל"
+       }
+      ]
+     }
+    ],
+    "why": "It touches how the Torah's text is read as given in Moses's time."
+   },
+   {
+    "title": "Where is Bozrah, the city of Jobab ben Zerach?",
+    "pasuk": {
+     "text": "יוֹבָ֥ב בֶּן־זֶ֖רַח מִבׇּצְרָֽה",
+     "ref": "Genesis 36:33",
+     "label": "Genesis 36:33"
+    },
+    "question": "Is Bozrah a city of Edom or of Moab?",
+    "asked_by": [
+     {
+      "name": "Shadal",
+      "ref": "Shadal on Genesis 36:33:1",
+      "era": "acharon",
+      "quote": "עיר באדום, עיין ישעיה ל\"ד ו', וס\"ג א'. ועמוס א' י\"ב (הרמב\"ן) ולדעת חז\"ל ורש\"י היא בצרה אשר במואב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: Bozrah is one of the cities of Moab, and because it appointed a king over Edom it will be punished with them.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:33:1",
+        "quote": "בָּצְרָה מֵעָרֵי מוֹאָב הִיא, שֶׁנֶּאֱמַר וְעַל קְרִיּוֹת וְעַל בָּצְרָה וגו' (ירמיהו מ\"ח); וּלְפִי שֶׁהֶעֱמִידָה מֶלֶךְ לֶאֱדוֹם, עֲתִידָה לִלְקוֹת עִמָּהֶם"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Bozrah belongs to Edom, as in 'a sacrifice to the Lord in Bozrah and a great slaughter in the land of Edom'.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 36:31:1",
+        "quote": "כִּי בָּצְרָה לֶאֱדוֹם הִיא, כְּמוֹ שֶׁכָּתוּב (ישעיהו לד ו) \"כִּי זֶבַח לַה' בְּבָצְרָה וְטֶבַח גָּדוֹל בְּאֶרֶץ אֱדוֹם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two readings of the same verse in the geography of Edom."
+   },
+   {
+    "title": "Why does the Torah name Hadar's wife and her parents?",
+    "pasuk": {
+     "text": "וְשֵׁ֨ם אִשְׁתּ֤וֹ מְהֵֽיטַבְאֵל֙ בַּת־מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב",
+     "ref": "Genesis 36:39",
+     "label": "Genesis 36:39"
+    },
+    "question": "Of all the Edomite kings, only the last one is described with the name of his wife and her father. Why?",
+    "asked_by": [
+     {
+      "name": "Radak",
+      "ref": "Radak on Genesis 36:39:1",
+      "era": "rishon",
+      "quote": "לֹא יָדַעְנוּ לָמָּה הִזְכִּיר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'Mei Zahav' means 'what is gold?': he was so rich that gold meant nothing to him.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 36:39:1",
+        "quote": "מַהוּ זָהָב? עָשִׁיר הָיָה, וְאֵין זָהָב חָשׁוּב בְּעֵינָיו לִכְלוּם"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Aggadah: Mehetavel means they themselves did good to idolatry.",
+      "sources": [
+       {
+        "name": "Midrash Aggadah",
+        "ref": "Midrash Aggadah, Genesis 36:39:1",
+        "quote": "שעצמן היו מטיבים לע\"ז"
+       }
+      ]
+     },
+     {
+      "text": "Shadal: perhaps she was a famous woman because of her virtues or her lineage, the latter being more likely since the verse gives her ancestry at length.",
+      "sources": [
+       {
+        "name": "Shadal",
+        "ref": "Shadal on Genesis 36:39:1",
+        "quote": "ואולי היתה אשה מפורסמת בעבור מעלותיה או בעבור ייחוסיה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a single odd detail receives a moral, an Aggadic and a historical reading."
+   }
+  ],
+  "sources_consulted": [
+   "Ibn Ezra",
+   "Or HaChaim",
+   "Radak",
+   "Rashi",
+   "Midrash Aggadah",
+   "Mizrachi",
+   "Rashbam",
+   "Gur Aryeh",
+   "Ramban",
+   "Tur HaArokh",
+   "Shadal",
+   "Sforno"
+  ]
+ },
+ "hebrew": {
+  "summary": "העלייה השביעית מונה את בני שעיר החורי ואלופיהם, יושבי הארץ הראשונים שעשו ירש מהם, ובהם ענה שמצא את הימם במדבר ותמנע אחות לוטן. אחר כך נמנים שמונת המלכים שמלכו באדום לפני מלוך מלך לבני ישראל, מבלע בן בעור ועד הדר ואשתו מהיטבאל. העלייה מסתיימת באלופי עשו למשפחותם ולמקומותיהם, 'הוא עשו אבי אדום', וכוללת את המפטיר, בראשית לו, מ-מג.",
+  "questions": [
+   {
+    "title": "למה התורה מונה את בני שעיר החורי?",
+    "pasuk": {
+     "text": "אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י",
+     "ref": "Genesis 36:20",
+     "label": "בראשית לו, כ"
+    },
+    "question": "התורה מקדישה פרשה שלמה לייחוס משפחה חורית שאינה משפחת עשו. מה טעם הדבר?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 36:20:1",
+      "era": "rishon",
+      "quote": "שעיר. לא ידענו יחוסו"
+     },
+     {
+      "name": "אור החיים",
+      "ref": "Or HaChaim on Genesis 36:20:1",
+      "era": "acharon",
+      "quote": "טַעַם הוֹדָעַת עִנְיָן זֶה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: להפריש בין ייחוס שעיר לייחוס עשו, כי ישראל עתידים להצטוות על בני עשו.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 36:20:1",
+        "quote": "הזכירם הכתוב להפריש יחוסי שעיר ועשו כי ישראל יצוו על בני עשו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: להורות שלה' הארץ ומלואה, נוטלה מזה ונותנה לזה; החורים ישבו בארץ מתחילה והקב\"ה הורישם מפני עשו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 36:20:1",
+        "quote": "וְהָיָה הַסִּפּוּר הַזֶּה לְהוֹדִיעַ כִּי לַה׳ הָאָרֶץ וּמְלוֹאָהּ נוֹטְלָהּ מִזֶּה וְנוֹתְנָהּ לָזֶה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: להודיע כמה נתן ה' לעשו בזכות האבות, אף שהיה רשע.",
+      "sources": [
+       {
+        "name": "אור החיים",
+        "ref": "Or HaChaim on Genesis 36:20:1",
+        "quote": "לְהוֹדִיעַ שִׁעוּר מַה שֶׁנָּתַן ה׳ בִּזְכוּת הָאָבוֹת לְעֵשָׂו הֲגַם הֱיוֹתוֹ רָשָׁע"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י: לא הוצרכה התורה לכתוב משפחות החורי אלא בגלל תמנע, ולהודיע גדולת אברהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:24:3",
+        "quote": "וְלֹא הֻזְקַק לִכְתֹּב לָנוּ מִשְׁפְּחוֹת הַחוֹרִי אֶלָּא מִפְּנֵי תִּמְנָע, וּלְהוֹדִיעַ גְּדֻלַּת אַבְרָהָם"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הייחוס בא ללמד על תולדות אדום, על מתנת הארץ או על משפחת נשי עשו."
+   },
+   {
+    "title": "למה החורים נקראים 'יושבי הארץ'?",
+    "pasuk": {
+     "text": "הַחֹרִ֔י יֹשְׁבֵ֖י הָאָ֑רֶץ",
+     "ref": "Genesis 36:20",
+     "label": "בראשית לו, כ"
+    },
+    "question": "כל אדם יושב בארץ כלשהי, וגם בני עשו התיישבו בשעיר. מה מוסיף התואר 'יושבי הארץ' על החורים?",
+    "asked_by": [
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 36:20:3",
+      "era": "chazal",
+      "quote": "וכי יושבי שמים היו"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 36:20:1",
+      "era": "acharon",
+      "quote": "דאל\"כ מאי יושבי הארץ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שהיו יושביה קודם שבא עשו לשם; ורבותינו דרשו שהיו בקיאים בישובה של ארץ ויודעים איזו נטיעה ראויה לכל קרקע.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:20:1",
+        "quote": "שֶׁהָיוּ יוֹשְׁבֶיהָ קֹדֶם שֶׁבָּא עֵשָׂו לְשָׁם. וְרַבּוֹתֵינוּ דָּרְשׁוּ (שבת פ\"ה) שֶׁהָיוּ בְּקִיאִין בְּיִשּׁוּבָהּ שֶׁל אֶרֶץ; מְלֹא קָנֶה זֶה לְזֵיתִים, מְלֹא קָנֶה זֶה לִגְפָנִים, שֶׁהָיוּ טוֹעֲמִין הֶעָפָר וְיוֹדְעִין אֵי זוֹ נְטִיעָה"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: היו מריחים את הארץ, ידעו את השדה הטובה והיו זורעים אותה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 36:20:3",
+        "quote": "אלא היו מריחין את הארץ וידעו השדה הטובה, והיו זורעין אותה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: ישבו בה מתחילה, ובני עשו יירשום.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 36:20:1",
+        "quote": "יושבי הארץ - מתחלה, ובני עשו יירשום"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהפסוק רומז מי החזיק בארץ תחילה ומדוע הם נזכרים."
+   },
+   {
+    "title": "האם ענה הוא אחי צבעון או בנו?",
+    "pasuk": {
+     "text": "ה֣וּא עֲנָ֗ה אֲשֶׁ֨ר מָצָ֤א",
+     "ref": "Genesis 36:24",
+     "label": "בראשית לו, כד"
+    },
+    "question": "בפסוק כ ענה הוא אחי צבעון, ובפסוק כד הוא בנו של צבעון. מי הוא?",
+    "asked_by": [
+     {
+      "name": "רש\"י",
+      "ref": "Rashi on Genesis 36:24:2",
+      "era": "rishon",
+      "quote": "הָאָמוּר לְמַעְלָה שֶׁהוּא אָחִיו שֶׁל צִבְעוֹן וְכָאן הוּא קוֹרֵא אוֹתוֹ בְּנו"
+     },
+     {
+      "name": "גור אריה",
+      "ref": "Gur Aryeh on Bereishit 36:24:1",
+      "era": "acharon",
+      "quote": "דאם לא כן קשה מאי \"הוא ענה אשר מצא הימים"
+     },
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 36:25:1",
+      "era": "rishon",
+      "quote": "כי אילו היה הוא מה צורך להזכירו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הוא אותו ענה; מלמד שבא צבעון על אמו והוליד את ענה, ונמצא אחיו ובנו.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:24:2",
+        "quote": "מְלַמֵּד שֶׁבָּא צִבְעוֹן עַל אִמּוֹ וְהוֹלִיד אֶת עֲנָה"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: אין זה ענה הנזכר בראש הפסוק, שאם כן מה צורך להזכירו; הוא ענה הנזכר בפסוק הראשון.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 36:25:1",
+        "quote": "אין זה ענה הנזכר בראש הפסוק כי אילו היה הוא מה צורך להזכירו רק הוא ענה הנזכר בפסוק הראשון"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: ענה בן צבעון נבדל מענה דודו, אחי צבעון אביו.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 36:24:1",
+        "quote": "לְהַבְדִּיל בֵּינוֹ וּבֵין עֲנָה דּוֹדוֹ אֲחִי צִבְעוֹן אָבִיו"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: זה ענה אחר, כי הראשון בן שעיר וזה בן צבעון.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 36:24:1",
+        "quote": "וְזֶה עֲנָה הוּא עֲנָה אַחֵר לֹא הַנִּזְכָּר לְמַעְלָה, כִּי אוֹתוֹ הָיָה בֶּן שֵׂעִיר וְזֶה בֶּן צִבְעוֹן"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הפסוקים מספרים על מעשה מכוער במשפחת החורים או רק על שני אנשים בשם אחד."
+   },
+   {
+    "title": "מה בדיוק מצא ענה במדבר?",
+    "pasuk": {
+     "text": "אֲשֶׁ֨ר מָצָ֤א אֶת־הַיֵּמִם",
+     "ref": "Genesis 36:24",
+     "label": "בראשית לו, כד"
+    },
+    "question": "מהם ה'ימם' שמצא ענה כשרעה את חמורי אביו, ומדוע מוזכרים החמורים?",
+    "asked_by": [
+     {
+      "name": "אבן עזרא",
+      "ref": "Ibn Ezra on Genesis 36:24:2",
+      "era": "rishon",
+      "quote": "ואילו היו הימים צמחים כאשר פי' רבים מה טעם להזכיר החמורים"
+     },
+     {
+      "name": "מדרש אגדה",
+      "ref": "Midrash Aggadah, Genesis 36:24:1",
+      "era": "chazal",
+      "quote": "ולמה נקראו ימים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: פרדים; הרביע חמור על סוס נקבה, ונולד פרד. נקראו ימים מפני שאימתן מוטלת על הבריות.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:24:3",
+        "quote": "פְּרָדִים, הִרְבִּיעַ חֲמוֹר עַל סוּס נְקֵבָה וְיָלְדָה פֶּרֶד, וְהוּא הָיָה מַמְזֵר וְהֵבִיא פְסוּלִין לָעוֹלָם; וְלָמָּה נִקְרָא שְׁמָם יֵמִים? שֶׁאֵימָתָן מֻטֶּלֶת עַל הַבְּרִיּוֹת"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: ייתכן ש'מצא' פירושו שהמציא תחילה את החכמה הזאת, שהרי מין אחד אינו מוליד עם מין אחר; וזה מתאים להזכרת החמורים.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 36:24:2",
+        "quote": "ויתכן להיות מצא שהוא מצא בתחלה זאת החכמה, כי מין אחד עם מין אחר לא יולידו, ויחזיק זה הפירוש שאמר הכתוב ברעותו את החמורים"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: גיבורים או חיות רעות שניצחם; לפי פשוטו אין לדקדק יותר.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 36:24:3",
+        "quote": "הגיבורים או חיות רעות ונצחם. לפי פשוטו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אונקלוס תרגם 'גבריא'; ענה הציל את חמורי אביו מאומה שנקראה אימים שרצו לגזלם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 36:24:2",
+        "quote": "וְאוּנְקְלוֹס (תרגום אונקלוס על בראשית ל\"ו:כ\"ד) תִּרְגֵּם \"גִּבָּרַיָּא\""
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד קוראים חז\"ל ופרשני הפשט מילה סתומה."
+   },
+   {
+    "title": "למה 'ואיה' נכתב עם ו' יתרה?",
+    "pasuk": {
+     "text": "בְנֵֽי־צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה",
+     "ref": "Genesis 36:24",
+     "label": "בראשית לו, כד"
+    },
+    "question": "בשאר הרשימה אין ו' מיותרת, ובדברי הימים כתוב ללא ו'. מדוע כתבה התורה 'ואיה וענה'?",
+    "asked_by": [
+     {
+      "name": "רשב\"ם",
+      "ref": "Rashbam on Genesis 36:24:1",
+      "era": "rishon",
+      "quote": "והמפרש לו' יתירה יש לתמוה"
+     },
+     {
+      "name": "מזרחי",
+      "ref": "Mizrachi, Genesis 36:20:1",
+      "era": "acharon",
+      "quote": "ואיה וענה וי\"ו יתירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: ו' יתרה, והרבה כמוה יש במקרא.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:24:1",
+        "quote": "וָי\"ו יְתֵרָה, וְהוּא כְּמוֹ אַיָּה וַעֲנָה, וְהַרְבֵּה יֵשׁ בַּמִּקְרָא, תֵּת וְקֹדֶשׁ וְצָבָא מִרְמָס (דניאל ח'), נִרְדָּם וְרֶכֶב וָסוּס"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: הוי\"ו יתרה, כמו 'עבד אביך ואני' ורבים כמותם.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 36:24:1",
+        "quote": "הַוָּי\"ו יְתֵרָה, וְכֵן \"עֶבֶד אָבִיךָ וַאֲנִי מֵאָז וְעַתָּה וַאֲנִי עַבְדֶּךָ\" (שמו\"ב טו לד) דִּין שְׁנֵיהֶם אֲנִי, \"וְאֵלֶּה רָאשֵׁי בֵית אֲבוֹתָם וְעֵפֶר וְיִשְׁעִי\" (דהי\"א ה כד), וּכְמוֹהֶם רַבִּים"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: אביו כתב שאין הווין האלה יתרות אלא מורות על מילה חסרה; היו לצבעון בנים אחרים קודם ולא נזכרו.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 36:24:1",
+        "quote": "אֲבָל הֵם מוֹרוֹת עַל מִלָּה חֲסֵרָה, כְּעִנְיַן וָי״ו שֶׁל ״וַיִּשָּׂא אַבְרָהָם״, רוֹצֶה לוֹמַר הִשְׁכִּים בַּיּוֹם הַשְּׁלִישִׁי וַיִּשָּׂא אֶת עֵינָיו. וּפֵרַשׁ וְאַיָּה וַעֲנָה, כִּי הָיוּ לוֹ בָּנִים אֲחֵרִים קֹדֶם אֵלֶּה וְלֹא זְכָרָם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך פרט דקדוקי קטן מוליך לשאלה על בני משפחה שלא נזכרו."
+   },
+   {
+    "title": "איזה מלך בישראל בא אחרי מלכי אדום?",
+    "pasuk": {
+     "text": "לִפְנֵ֥י מְלׇךְ־מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל",
+     "ref": "Genesis 36:31",
+     "label": "בראשית לו, לא"
+    },
+    "question": "משה כתב את התורה לפני שהיה לישראל מלך; איך כתוב 'לפני מלך מלך לבני ישראל'?",
+    "asked_by": [
+     {
+      "name": "טור הארוך",
+      "ref": "Tur HaArokh, Genesis 36:31:2",
+      "era": "rishon",
+      "quote": "מפני שהקשה לו האיך כתב משה שמות אלה המלכים ועדיין לא מלכו"
+     },
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 36:31:1",
+      "era": "acharon",
+      "quote": "ויש שאולים והלא מיעקב ועשו עד משה לא היו אלא ד' דורות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: הכוונה למשה מלך ישראל, כמו 'ויהי בישורון מלך'.",
+      "sources": [
+       {
+        "name": "אבן עזרא",
+        "ref": "Ibn Ezra on Genesis 36:31:1",
+        "quote": "והאמת שפי' לפני מלך מלך על משה מלך ישראל, וכן כתוב ויהי בישורון מלך"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: לפני משה שהושיע את ישראל.",
+      "sources": [
+       {
+        "name": "רשב\"ם",
+        "ref": "Rashbam on Genesis 36:31:1",
+        "quote": "לפני מלך מלך - לפני משה שהושיע את ישראל"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: קודם שימלוך משה עליהם במצוות האל.",
+      "sources": [
+       {
+        "name": "ספורנו",
+        "ref": "Sforno on Genesis 36:31:2",
+        "quote": "קוֹדֶם שֶׁיִּמְלוֹךְ מֹשֶׁה עֲלֵיהֶם בְּמִצְוַת הָאֵל"
+       }
+      ]
+     },
+     {
+      "text": "רד\"ק: מלכי אדום קדמו למלכות ישראל, שהיא מלך בן מלך.",
+      "sources": [
+       {
+        "name": "רד\"ק",
+        "ref": "Radak on Genesis 36:31:1",
+        "quote": "זָכַר מַלְכֵי אֱדוֹם לִפְנֵי מְלָךְ־מֶלֶךְ בִבְנֵי יִשְׂרָאֵל"
+       }
+      ]
+     }
+    ],
+    "why": "נוגע לשאלה איך נקרא הטקסט כפי שניתן בימי משה."
+   },
+   {
+    "title": "היכן בצרה, עירו של יובב בן זרח?",
+    "pasuk": {
+     "text": "יוֹבָ֥ב בֶּן־זֶ֖רַח מִבׇּצְרָֽה",
+     "ref": "Genesis 36:33",
+     "label": "בראשית לו, לג"
+    },
+    "question": "האם בצרה היא עיר של אדום או של מואב?",
+    "asked_by": [
+     {
+      "name": "שד\"ל",
+      "ref": "Shadal on Genesis 36:33:1",
+      "era": "acharon",
+      "quote": "עיר באדום, עיין ישעיה ל\"ד ו', וס\"ג א'. ועמוס א' י\"ב (הרמב\"ן) ולדעת חז\"ל ורש\"י היא בצרה אשר במואב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: בצרה מערי מואב היא, ומפני שהעמידה מלך לאדום עתידה ללקות עמהם.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:33:1",
+        "quote": "בָּצְרָה מֵעָרֵי מוֹאָב הִיא, שֶׁנֶּאֱמַר וְעַל קְרִיּוֹת וְעַל בָּצְרָה וגו' (ירמיהו מ\"ח); וּלְפִי שֶׁהֶעֱמִידָה מֶלֶךְ לֶאֱדוֹם, עֲתִידָה לִלְקוֹת עִמָּהֶם"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: בצרה לאדום היא, כמו 'כי זבח לה' בבצרה וטבח גדול בארץ אדום'.",
+      "sources": [
+       {
+        "name": "רמב\"ן",
+        "ref": "Ramban on Genesis 36:31:1",
+        "quote": "כִּי בָּצְרָה לֶאֱדוֹם הִיא, כְּמוֹ שֶׁכָּתוּב (ישעיהו לד ו) \"כִּי זֶבַח לַה' בְּבָצְרָה וְטֶבַח גָּדוֹל בְּאֶרֶץ אֱדוֹם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שתי קריאות של אותו פסוק בגאוגרפיה של אדום."
+   },
+   {
+    "title": "למה התורה מזכירה את אשת הדר ואת הוריה?",
+    "pasuk": {
+     "text": "וְשֵׁ֨ם אִשְׁתּ֤וֹ מְהֵֽיטַבְאֵל֙ בַּת־מַטְרֵ֔ד בַּ֖ת מֵ֥י זָהָֽב",
+     "ref": "Genesis 36:39",
+     "label": "בראשית לו, לט"
+    },
+    "question": "מכל מלכי אדום רק על האחרון נאמר שם אשתו ואביה. מדוע?",
+    "asked_by": [
+     {
+      "name": "רד\"ק",
+      "ref": "Radak on Genesis 36:39:1",
+      "era": "rishon",
+      "quote": "לֹא יָדַעְנוּ לָמָּה הִזְכִּיר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: 'מי זהב' - מהו זהב; עשיר היה, ולא היה הזהב חשוב בעיניו לכלום.",
+      "sources": [
+       {
+        "name": "רש\"י",
+        "ref": "Rashi on Genesis 36:39:1",
+        "quote": "מַהוּ זָהָב? עָשִׁיר הָיָה, וְאֵין זָהָב חָשׁוּב בְּעֵינָיו לִכְלוּם"
+       }
+      ]
+     },
+     {
+      "text": "מדרש אגדה: מהיטבאל - שעצמן היו מטיבים לעבודה זרה.",
+      "sources": [
+       {
+        "name": "מדרש אגדה",
+        "ref": "Midrash Aggadah, Genesis 36:39:1",
+        "quote": "שעצמן היו מטיבים לע\"ז"
+       }
+      ]
+     },
+     {
+      "text": "שד\"ל: אולי הייתה אשה מפורסמת בגלל מעלותיה או ייחוסיה, והאחרון קרוב יותר כי האריך ביחוסה.",
+      "sources": [
+       {
+        "name": "שד\"ל",
+        "ref": "Shadal on Genesis 36:39:1",
+        "quote": "ואולי היתה אשה מפורסמת בעבור מעלותיה או בעבור ייחוסיה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך פרט תמוה אחד מקבל קריאה מוסרית, אגדית והיסטורית."
+   }
+  ],
+  "sources_consulted": [
+   "אבן עזרא",
+   "אור החיים",
+   "רד\"ק",
+   "רש\"י",
+   "מדרש אגדה",
+   "מזרחי",
+   "רשב\"ם",
+   "גור אריה",
+   "רמב\"ן",
+   "טור הארוך",
+   "שד\"ל",
+   "ספורנו"
+  ]
+ }
+}
