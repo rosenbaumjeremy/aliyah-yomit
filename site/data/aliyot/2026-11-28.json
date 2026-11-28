@@ -1,0 +1,1279 @@
+{
+ "date": "2026-11-28",
+ "reading": {
+  "en": "Vayeshev",
+  "he": "וישב",
+  "ref": "Genesis 37:1-40:23",
+  "slugs": [
+   "vayeshev"
+  ]
+ },
+ "aliyah": 1,
+ "aliyah_name": {
+  "en": "Rishon",
+  "he": "ראשון"
+ },
+ "range": "Genesis 37:1-37:11",
+ "hebrew_date": {
+  "hebrew": "י״ח בְּכִסְלֵו תשפ״ז",
+  "english": "18 Kislev 5787"
+ },
+ "english": {
+  "summary": "Jacob settles in Canaan, and the Torah turns to his family: the line of Jacob begins with Joseph, seventeen years old, who tends the flock with the sons of Bilhah and Zilpah and brings a bad report of them to their father. Israel loves Joseph more than all his sons and makes him an ornamented tunic, and his brothers hate him so much that they cannot speak peacefully to him. Joseph dreams that his sheaf stands upright while theirs bow to it, and the brothers answer, 'Will you reign over us?' A second dream has the sun, moon and eleven stars bowing to him. His father rebukes him, yet keeps the matter in mind, while the brothers are jealous.",
+  "questions": [
+   {
+    "title": "Why does the verse say both 'his father's sojourning' and 'the land of Canaan'?",
+    "pasuk": {
+     "text": "וישב יעקב בארץ מגורי אביו בארץ כנען",
+     "ref": "Genesis 37:1",
+     "label": "Genesis 37:1"
+    },
+    "question": "Jacob's return to his father Isaac's home was already told. The verse now says he 'settled in the land of his father's sojourning' and then adds 'in the land of Canaan'. The mefarshim ask what each phrase adds.",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 37:1",
+      "era": "acharon",
+      "quote": "ועוד למה אחרי שאמר בארץ מגורי אביו חזר לומר בארץ כנען"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 37:1:1",
+      "era": "acharon",
+      "quote": "ועוד בארץ כנען למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: both phrases are needed. Without 'the land of his father's sojourning' we would not know in which city he lived, and without 'the land of Canaan' we might think it means Avraham's Ur Kasdim.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 37:1:2",
+        "quote": "אם לא נאמר בארץ מגורי אביו לא ידענו באיזו עיר"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Esau's chiefs settled in a land of their own possession, but Jacob lived as a sojourner like his father, in a land that was not theirs but Canaan's, so that 'your seed shall be a stranger' would be fulfilled through him alone.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 37:1:1",
+        "quote": "אבל יעקב ישב גר כאביו בארץ לא להם אלא לכנען"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: the verse is hinting at a fault: Jacob sought a settled, permanent life in this world, where his father had lived as a stranger.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:1:1",
+        "quote": "אלא לפי שמאשים את יעקב על שבקש לישב בעולם הזה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: after Esau inherited Mount Seir, the verse tells Jacob's goodness, that he conducted himself in the land only as a sojourner, as if it were not his.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:1:2",
+        "quote": "לא התנהג בארץ אלא בגרות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah frames Jacob's dwelling just before the Joseph story begins."
+   },
+   {
+    "title": "Is a tzaddik really punished for wanting to live in peace?",
+    "pasuk": {
+     "text": "אלה תולדות יעקב יוסף",
+     "ref": "Genesis 37:2",
+     "label": "Genesis 37:2"
+    },
+    "question": "Chazal say that when Jacob sought to dwell in tranquility, Joseph's trouble 'leapt upon him'. Alshekh asks how a righteous person is punished for seeking calm in this world.",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 37:1:1-6",
+      "era": "acharon",
+      "quote": "עדיין קשה במאמרם כי הלא ענוש לצדיק על בקשו שלוה בעוה\"ז"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bereshit Rabbah: when the righteous want to sit in tranquility in this world, the Satan comes and accuses them: is it not enough that the world to come is prepared for them?",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 84:3",
+        "quote": "בשעה שהצדיקים יושבים בשלוה ומבקשים לישב בשלוה בעולם הזה השטן בא ומקטרג"
+       }
+      ]
+     },
+     {
+      "text": "Midrash Lekach Tov: in this world there is no rest for the righteous; Jacob rested neither from Esau nor in Lavan's house, and when he came to sit quietly, Joseph's adversary met him.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 37:1:6",
+        "quote": "בעוה\"ז אין מנוחה לצדיקים"
+       }
+      ]
+     },
+     {
+      "text": "Alshekh: he quotes an answer that the Midrash says he 'sought' (bikesh), not that he 'wanted' (ratzah): the fault is in the seeking.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 37:1:1-6",
+        "quote": "כי זה תירץ באומרו לשון בקשה באומרו בקש ולא אמר רצה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: the verse teaches that a person causes to himself all that comes upon him, since nothing bad comes from the good Master.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:2:3",
+        "quote": "כי האדם גורם לעצמו את כל אשר תבאנה עליו"
+       }
+      ]
+     }
+    ],
+    "why": "It frames the whole Joseph story as something Jacob's own settling brought about."
+   },
+   {
+    "title": "Why is Joseph called a 'naar' at seventeen?",
+    "pasuk": {
+     "text": "והוא נער את בני בלהה ואת בני זלפה",
+     "ref": "Genesis 37:2",
+     "label": "Genesis 37:2"
+    },
+    "question": "The verse already gave his age, seventeen, and then calls him a 'naar'. Gur Aryeh asks why the Torah writes it at all, and Or HaChaim asks what the word means here.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:2:4",
+      "era": "acharon",
+      "quote": "למה כתב לך בקרא כלל והוא נער"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:2:9",
+      "era": "acharon",
+      "quote": "עוד צריך לדעת הכונה באמרו והוא נער"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he did the deeds of a youth, fixing his hair and touching up his eyes so that he would look good.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:2:2",
+        "quote": "מתקן בשערו ממשמש בעיניו"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: because of his youth he sinned by bringing their evil report, for he did not consider the end of the matter.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 37:2:3",
+        "quote": "ומפני נערותו חטא להביא דבת אחיו"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: 'naar' means a servant; Joseph served them and they served him.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 37:2:1",
+        "quote": "שהיה יוסף משמש אותם והם היו משמשים אותו"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: in his youthful spirit he kept apart from the sons of Leah and stayed with the sons of the maidservants.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 37:2:6",
+        "quote": "ובשמחת נערותו היה נבדל מהם ורגיל עם בני השפחות"
+       }
+      ]
+     }
+    ],
+    "why": "How the word is read decides whether Joseph's report was youthful folly or something more."
+   },
+   {
+    "title": "What exactly was the evil report Joseph brought?",
+    "pasuk": {
+     "text": "ויבא יוסף את דבתם רעה אל אביהם",
+     "ref": "Genesis 37:2",
+     "label": "Genesis 37:2"
+    },
+    "question": "The verse does not say what the report was. Mefarshim ask what it was, why it was said 'to their father', and, as Ramban asks, why the maidservants' sons did not save Joseph later.",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:2:9",
+      "era": "acharon",
+      "quote": "מה היא דבתם רעה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 37:2:4",
+      "era": "acharon",
+      "quote": "ועוד קשה אל אביהם אל אביו מבעי ליה"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 37:2:2",
+      "era": "rishon",
+      "quote": "ואם כן למה לא הצילוהו בני השפחות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he told their father that they ate a limb from a living animal, belittled the maidservants' sons by calling them slaves, and were suspected of immorality.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:2:4",
+        "quote": "שהיו אוכלין אבר מן החי ומזלזלין בבני השפחות לקרותן עבדים"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: the evil report was only that the sons of the maidservants made him serve them; the limb from a living animal is a drash.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:2:2",
+        "quote": "וטעם אבר מן החי דרש הוא"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: he told his father that his brothers erred and lost money through lack of knowledge in the work of the flock.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 37:2:4",
+        "quote": "שאחיו היו טועים ומפסידים בבלי דעת כראוי במלאכת המקנה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: he told his father how the sons of the maidservants were being shamed, while he honored them.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 37:2:7",
+        "quote": "כך מבזים הם בני השפחות אבל אני מכבדם"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: all the sons of the mistresses spread this talk about the maidservants' sons, calling them slaves; Joseph brought that very report to their father.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:2:5",
+        "quote": "שכל בני הגבירה הוציאו דבה על בני השפחות לקרותן עבדים"
+       }
+      ]
+     }
+    ],
+    "why": "The answer sets the moral weight of Joseph's part in what follows."
+   },
+   {
+    "title": "In what sense was Joseph a 'son of old age'?",
+    "pasuk": {
+     "text": "כי בן זקנים הוא לו",
+     "ref": "Genesis 37:3",
+     "label": "Genesis 37:3"
+    },
+    "question": "Benjamin was born after Joseph, and Issachar and Zevulun were only a year or two older, so 'child of his old age' needs explaining. Ramban rejects the plain reading and the others offer their own.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 37:3:1",
+      "era": "rishon",
+      "quote": "ואיננו נכון בעיני כי הכתוב אמר שאהב את יוסף מכל בניו בעבור שהוא בן זקוני"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:3:1",
+      "era": "acharon",
+      "quote": "והקשה הרמב\"ן והלא יששכר וזבולן אינם גדולים ממנו רק בשנה או בשנתים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: 'the child of his old age' means he was born in his old age; or, with Onkelos, 'a wise son', since Jacob handed him all he learned from Shem and Ever; or his features resembled Jacob's.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:3:1",
+        "quote": "כל מה שלמד משם ועבר מסר לו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: it means as it sounds, he was born when Jacob was ninety-one, and Benjamin is also called a child of old age.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:3:1",
+        "quote": "כמשמעו כי הולידו והוא בן תשעים ואחת שנה"
+       }
+      ]
+     },
+     {
+      "text": "Rashbam: he was the last of the eleven sons, and Benjamin was not born until much later; Joseph was already the 'child of old age' for a long time.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 37:3:2",
+        "quote": "אבל בנימין לא נולד אחרי כן עד זמן מרובה"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: any child born last is called 'zekunim' because he ends the fathering, old or not.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 37:3:1",
+        "quote": "כל ילד שנולד לו אחרון נקרא זקונים בעבור שהוא פוסק עמו מלהוליד"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: it says 'to him', because with his father Joseph acted like an elder, while with his brothers he acted like a youth.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:3:1",
+        "quote": "בהיותו אצל אביו הזקן היה עושה מעשה זקנה"
+       }
+      ]
+     }
+    ],
+    "why": "It names the reason for Jacob's love, which the brothers then felt."
+   },
+   {
+    "title": "Why did Jacob make Joseph the striped coat, knowing the brothers' feelings?",
+    "pasuk": {
+     "text": "ועשה לו כתנת פסים",
+     "ref": "Genesis 37:3",
+     "label": "Genesis 37:3"
+    },
+    "question": "Why does the verse say Jacob 'made' him a coat, and what was it for? Sforno says Jacob erred by showing his love so openly.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:3:2",
+      "era": "acharon",
+      "quote": "למה הוצרך למכתב מה שעשה לו"
+     },
+     {
+      "name": "Sforno",
+      "ref": "Sforno on Genesis 37:4:1",
+      "era": "rishon",
+      "quote": "ובזה טעה יעקב לשנות לבן בין הבנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Gur Aryeh: the verse says 'he made' to teach that by this he made his own troubles, and one should not set a son apart among the sons.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 37:3:2",
+        "quote": "שלא ישנה אדם בנו בין הבנים"
+       }
+      ]
+     },
+     {
+      "text": "Sforno: the garment was a sign that Joseph would lead in the house and the field.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 37:3:1",
+        "quote": "לאות שיהיה הוא המנהיג בבית ובשדה"
+       }
+      ]
+     },
+     {
+      "text": "Kli Yakar: after Reuven disturbed his father's bed the firstborn rights were taken from him and given to Joseph, so Jacob made him a garment like the priestly tunic.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:3:3",
+        "quote": "נטלה ממנו הבכורה ועכשיו מסרה ליוסף"
+       }
+      ]
+     },
+     {
+      "text": "Rashi (another view): 'pasim' alludes to his troubles, since he was sold to Potiphar, merchants, Ishmaelites and Midianites.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:3:2",
+        "quote": "שנמכר לפוטיפר ולסוחרים ולישמעאלים ולמדינים"
+       }
+      ]
+     }
+    ],
+    "why": "It is the visible spark of the brothers' hatred."
+   },
+   {
+    "title": "Why did Joseph tell his dreams to brothers who already hated him?",
+    "pasuk": {
+     "text": "ויחלם יוסף חלום ויגד לאחיו",
+     "ref": "Genesis 37:5",
+     "label": "Genesis 37:5"
+    },
+    "question": "Joseph knew they hated him, yet he told them dreams of rule. Or HaChaim asks why he increased the hatred, and Sforno calls it the lack of judgment of a youth.",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:5:1",
+      "era": "acharon",
+      "quote": "צריך לדעת למה היה יוסף מגדיל השנאה במה שהיה מספר חלומות"
+     },
+     {
+      "name": "Sforno",
+      "ref": "Sforno on Genesis 37:5:1",
+      "era": "rishon",
+      "quote": "גם זה עשה מחסרון העצה כנער"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Or HaChaim: perhaps he meant to tell them that he was raised by Heaven, so that they would stop hating him.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:5:1",
+        "quote": "נתכון להודיע אותם כי מן השמים העלוהו למעלה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: he thought that by telling them his dreams they would interpret them as loving brothers do.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:5:3",
+        "quote": "ויוסף חשב שבספרו חלומותיו להם ידונו בעצמן כי לבו שלם עמהם"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: a dream is told only to a friend, so by telling them he showed he regarded them as friends.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 37:5:1",
+        "quote": "שאין להגיד חלום אלא לאוהב"
+       }
+      ]
+     },
+     {
+      "text": "Gur Aryeh: Joseph's whole intent was that the brothers would interpret the dream for him.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 37:10:1",
+        "quote": "כל כוונת יוסף שיהיו האחים פותרים לו החלום"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether Joseph was naive, careless, or hoping to make peace."
+   },
+   {
+    "title": "Why do the brothers say 'rule' twice, as king and as ruler?",
+    "pasuk": {
+     "text": "המלך תמלך עלינו אם משול תמשל בנו",
+     "ref": "Genesis 37:8",
+     "label": "Genesis 37:8"
+    },
+    "question": "The brothers' reply uses two double expressions, 'hamalokh timlokh' and 'im mashol timshol'. Why both kinds of rule?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:8:1",
+      "era": "acharon",
+      "quote": "טעם כפל המלך אם משול"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ibn Ezra: 'shall we make you king over us, or will you rule over us by force?'",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:8:1",
+        "quote": "אנהנו נשימך מלך או אתה תמשול בנו בחזקה"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: Onkelos is more correct: both mean bowing, so 'you will never be over us, neither king nor ruler'.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 37:8:1",
+        "quote": "לא תהיה עלינו לעולם לא מלך ולא מושל"
+       }
+      ]
+     },
+     {
+      "text": "Haamek Davar: kingship is by will and honor, rulership is by force; they said even if you rule us, will we accept you as king?",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 37:8:1",
+        "quote": "מלוכה הוא ברצון ובכבוד וממשלה הוא בע\"כ"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: kingship is doubtful in the dream's interpretation, rulership is certain, so they answered the doubt of kingship with 'hamalokh' and the certainty of rule with 'im mashol'.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:8:1",
+        "quote": "כנגד מלכות אמרו המלך המסתפק אתה למלך"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the brothers heard in the dream."
+   },
+   {
+    "title": "Why does Jacob say 'I and your mother' when Rachel was dead?",
+    "pasuk": {
+     "text": "הבוא נבוא אני ואמך ואחיך להשתחות לך ארצה",
+     "ref": "Genesis 37:10",
+     "label": "Genesis 37:10"
+    },
+    "question": "Rachel had died, so Jacob's rebuke 'shall I and your mother come to bow to you' seems to rest on a mistake. Rashi, Ramban and others ask who 'your mother' is.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 37:10:3",
+      "era": "rishon",
+      "quote": "והלא אמך כבר מתה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:10:3",
+      "era": "acharon",
+      "quote": "מה היה התימה שאמר הבא נבא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi: he did not know the words reach Bilhah, who raised him like a mother; and Chazal learn that no dream is without some nonsense; Jacob meant to remove the matter from his sons' hearts.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:10:3",
+        "quote": "והוא לא היה יודע שהדברים מגיעין לבלהה שגדלתו כאמו"
+       }
+      ]
+     },
+     {
+      "text": "Ibn Ezra: 'I and your mother' refers to Bilhah, his mother's maidservant, who raised him.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:10:2",
+        "quote": "על בלהה שפחת אמו שגדלה אותו"
+       }
+      ]
+     },
+     {
+      "text": "Ramban: by Jacob's descent to Egypt Bilhah and Zilpah had already died.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 37:10:2",
+        "quote": "כי בעת שירד יעקב למצרים כבר מתה בלהה גם זלפה"
+       }
+      ]
+     },
+     {
+      "text": "Or HaChaim: it cannot be that the sons of Jacob would be exalted over the mothers, only over their father, so no one could bow to Joseph, and the dream fell before the brothers.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:10:1",
+        "quote": "לא יעלה על הדעת כי בני יעקב תשיגם הגדלה מהאמות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Jacob himself read the dream and tried to quiet his sons."
+   }
+  ],
+  "sources_consulted": [
+   "Abarbanel",
+   "Kli Yakar",
+   "Chizkuni",
+   "Ramban",
+   "Or HaChaim",
+   "Alshekh",
+   "Bereshit Rabbah",
+   "Midrash Lekach Tov",
+   "Gur Aryeh",
+   "Rashi",
+   "Sforno",
+   "Haamek Davar",
+   "Rashbam",
+   "Ibn Ezra"
+  ]
+ },
+ "hebrew": {
+  "summary": "יעקב יושב בארץ כנען, והתורה עוברת לתולדותיו: תולדות יעקב מתחילות ביוסף, בן שבע עשרה, שרועה את הצאן עם בני בלהה ובני זלפה ומביא את דבתם רעה אל אביהם. ישראל אוהב את יוסף מכל בניו ועושה לו כתונת פסים, ואחיו שונאים אותו ואינם יכולים לדבר אתו לשלום. יוסף חולם שאלומתו קמה וגם נצבה ואלומות אחיו משתחוות לה, והאחים משיבים: 'המלך תמלוך עלינו?' בחלום השני השמש והירח ואחד עשר כוכבים משתחווים לו. אביו גוער בו אך שומר את הדבר, והאחים מקנאים בו.",
+  "questions": [
+   {
+    "title": "למה הכתוב אומר גם 'מגורי אביו' וגם 'בארץ כנען'?",
+    "pasuk": {
+     "text": "וישב יעקב בארץ מגורי אביו בארץ כנען",
+     "ref": "Genesis 37:1",
+     "label": "בראשית לז, א"
+    },
+    "question": "שיבת יעקב אל בית אביו כבר סופרה. עכשיו נאמר 'וישב יעקב בארץ מגורי אביו' ואחר כך נוסף 'בארץ כנען'. המפרשים שואלים מה מוסיפה כל לשון.",
+    "asked_by": [
+     {
+      "name": "Abarbanel",
+      "ref": "Abarbanel on Torah, Genesis 37:1",
+      "era": "acharon",
+      "quote": "ועוד למה אחרי שאמר בארץ מגורי אביו חזר לומר בארץ כנען"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 37:1:1",
+      "era": "acharon",
+      "quote": "ועוד בארץ כנען למה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Chizkuni: שתי הלשונות נצרכות. בלי 'בארץ מגורי אביו' לא היינו יודעים באיזו עיר, ובלי 'בארץ כנען' היינו אומרים שהכוונה לאור כשדים של אברהם.",
+      "sources": [
+       {
+        "name": "Chizkuni",
+        "ref": "Chizkuni, Genesis 37:1:2",
+        "quote": "אם לא נאמר בארץ מגורי אביו לא ידענו באיזו עיר"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: אלופי עשו ישבו בארץ אחוזתם, ויעקב ישב גר כאביו בארץ שאינה שלהם אלא של כנען, כדי שיתקיים בו לבדו 'כי גר יהיה זרעך'.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 37:1:1",
+        "quote": "אבל יעקב ישב גר כאביו בארץ לא להם אלא לכנען"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: הכתוב מרמז לאשמה, שיעקב ביקש ישיבת קבע בעולם הזה במקום שאביו חי כגר.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:1:1",
+        "quote": "אלא לפי שמאשים את יעקב על שבקש לישב בעולם הזה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: אחרי שעשו ירש את הר שעיר, הכתוב מודיע את מידת טובו של יעקב, שלא התנהג בארץ אלא בגרות, כאילו אינה שלו.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:1:2",
+        "quote": "לא התנהג בארץ אלא בגרות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך התורה מציגה את ישיבת יעקב ערב פרשת יוסף."
+   },
+   {
+    "title": "האם באמת נענש צדיק על שביקש לישב בשלווה?",
+    "pasuk": {
+     "text": "אלה תולדות יעקב יוסף",
+     "ref": "Genesis 37:2",
+     "label": "בראשית לז, ב"
+    },
+    "question": "חז\"ל אמרו שכשביקש יעקב לישב בשלווה קפץ עליו רוגזו של יוסף. האלשיך שואל איך נענש צדיק על שביקש שלווה בעולם הזה.",
+    "asked_by": [
+     {
+      "name": "Alshekh",
+      "ref": "Alshekh on Torah, Genesis 37:1:1-6",
+      "era": "acharon",
+      "quote": "עדיין קשה במאמרם כי הלא ענוש לצדיק על בקשו שלוה בעוה\"ז"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בראשית רבה: בשעה שהצדיקים מבקשים לישב בשלווה בעולם הזה, בא השטן ומקטרג ואומר: לא דיין שהוא מתקן להם לעולם הבא?",
+      "sources": [
+       {
+        "name": "Bereshit Rabbah",
+        "ref": "Bereshit Rabbah 84:3",
+        "quote": "בשעה שהצדיקים יושבים בשלוה ומבקשים לישב בשלוה בעולם הזה השטן בא ומקטרג"
+       }
+      ]
+     },
+     {
+      "text": "מדרש לקח טוב: בעולם הזה אין מנוחה לצדיקים; יעקב לא נח מפני עשו ולא שקט בבית לבן, וכשבא לשקוט נזדווג לו שטנו של יוסף.",
+      "sources": [
+       {
+        "name": "Midrash Lekach Tov",
+        "ref": "Midrash Lekach Tov, Genesis 37:1:6",
+        "quote": "בעוה\"ז אין מנוחה לצדיקים"
+       }
+      ]
+     },
+     {
+      "text": "אלשיך: הוא מביא תירוץ שחז\"ל אמרו 'בקש' ולא 'רצה' - האשמה היא בעצם הבקשה.",
+      "sources": [
+       {
+        "name": "Alshekh",
+        "ref": "Alshekh on Torah, Genesis 37:1:1-6",
+        "quote": "כי זה תירץ באומרו לשון בקשה באומרו בקש ולא אמר רצה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: הכתוב מלמד שהאדם גורם לעצמו את כל אשר תבאנה עליו, כי אין דבר רע בא מהאדון הטוב.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:2:3",
+        "quote": "כי האדם גורם לעצמו את כל אשר תבאנה עליו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מציג את כל פרשת יוסף כדבר שנגרם מישיבת יעקב עצמה."
+   },
+   {
+    "title": "למה יוסף נקרא 'נער' בן שבע עשרה?",
+    "pasuk": {
+     "text": "והוא נער את בני בלהה ואת בני זלפה",
+     "ref": "Genesis 37:2",
+     "label": "בראשית לז, ב"
+    },
+    "question": "הכתוב כבר אמר שהוא בן שבע עשרה, ואז קורא לו 'נער'. הגור אריה שואל למה כתבה התורה זאת, והאור החיים שואל מה הכוונה כאן.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:2:4",
+      "era": "acharon",
+      "quote": "למה כתב לך בקרא כלל והוא נער"
+     },
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:2:9",
+      "era": "acharon",
+      "quote": "עוד צריך לדעת הכונה באמרו והוא נער"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: היה עושה מעשה נערות, מתקן בשערו וממשמש בעיניו כדי שיהיה נראה יפה.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:2:2",
+        "quote": "מתקן בשערו ממשמש בעיניו"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: מפני נערותו חטא להביא דבת אחיו, כי לא התבונן לאחרית דבר.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 37:2:3",
+        "quote": "ומפני נערותו חטא להביא דבת אחיו"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: 'נער' משמעו משרת, ויוסף היה משמש אותם והם משמשים אותו.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 37:2:1",
+        "quote": "שהיה יוסף משמש אותם והם היו משמשים אותו"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: בשמחת נערותו היה נבדל מהם ורגיל עם בני השפחות.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 37:2:6",
+        "quote": "ובשמחת נערותו היה נבדל מהם ורגיל עם בני השפחות"
+       }
+      ]
+     }
+    ],
+    "why": "הבנת המילה קובעת אם דיבת יוסף הייתה קלות ראש של נער או יותר מזה."
+   },
+   {
+    "title": "מהי בדיוק הדיבה הרעה שיוסף הביא?",
+    "pasuk": {
+     "text": "ויבא יוסף את דבתם רעה אל אביהם",
+     "ref": "Genesis 37:2",
+     "label": "בראשית לז, ב"
+    },
+    "question": "הכתוב לא אומר מהי הדיבה. המפרשים שואלים מה היא, למה נאמר 'אל אביהם', וכפי שהרמב\"ן שואל, למה בני השפחות לא הצילוהו אחר כך.",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:2:9",
+      "era": "acharon",
+      "quote": "מה היא דבתם רעה"
+     },
+     {
+      "name": "Kli Yakar",
+      "ref": "Kli Yakar on Genesis 37:2:4",
+      "era": "acharon",
+      "quote": "ועוד קשה אל אביהם אל אביו מבעי ליה"
+     },
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 37:2:2",
+      "era": "rishon",
+      "quote": "ואם כן למה לא הצילוהו בני השפחות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: הגיד לאביו שהיו אוכלין אבר מן החי, ומזלזלין בבני השפחות לקרותן עבדים, וחשודים על העריות.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:2:4",
+        "quote": "שהיו אוכלין אבר מן החי ומזלזלין בבני השפחות לקרותן עבדים"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: הדיבה הרעה היא שבני השפחות שמוהו שמש להם; ואבר מן החי הוא דרש.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:2:2",
+        "quote": "וטעם אבר מן החי דרש הוא"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: אמר לאביו שאחיו היו טועים ומפסידים בבלי דעת כראוי במלאכת המקנה.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 37:2:4",
+        "quote": "שאחיו היו טועים ומפסידים בבלי דעת כראוי במלאכת המקנה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: אמר לאביו שכך מבזים הם את בני השפחות, אבל הוא מכבדם.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 37:2:7",
+        "quote": "כך מבזים הם בני השפחות אבל אני מכבדם"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: כל בני הגבירה הוציאו דבה על בני השפחות לקרותן עבדים, ויוסף הביא אותה דבה אל אביהם.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:2:5",
+        "quote": "שכל בני הגבירה הוציאו דבה על בני השפחות לקרותן עבדים"
+       }
+      ]
+     }
+    ],
+    "why": "התשובה קובעת את משקל חלקו של יוסף במה שבא אחר כך."
+   },
+   {
+    "title": "באיזה מובן היה יוסף 'בן זקונים'?",
+    "pasuk": {
+     "text": "כי בן זקנים הוא לו",
+     "ref": "Genesis 37:3",
+     "label": "בראשית לז, ג"
+    },
+    "question": "בנימין נולד אחרי יוסף, ויששכר וזבולן גדולים ממנו רק בשנה או שנתיים, ולכן 'בן זקונים' טעון הסבר. הרמב\"ן דוחה את הפשט וכל אחד מציע את שלו.",
+    "asked_by": [
+     {
+      "name": "Ramban",
+      "ref": "Ramban on Genesis 37:3:1",
+      "era": "rishon",
+      "quote": "ואיננו נכון בעיני כי הכתוב אמר שאהב את יוסף מכל בניו בעבור שהוא בן זקוני"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:3:1",
+      "era": "acharon",
+      "quote": "והקשה הרמב\"ן והלא יששכר וזבולן אינם גדולים ממנו רק בשנה או בשנתים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: שנולד לו לעת זקנתו; או כתרגום אונקלוס 'בר חכים', כל מה שלמד משם ועבר מסר לו; או שזיו איקונין שלו דומה לו.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:3:1",
+        "quote": "כל מה שלמד משם ועבר מסר לו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: כמשמעו, שהולידו והוא בן תשעים ואחת שנה, וגם בנימין נקרא 'ילד זקונים'.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:3:1",
+        "quote": "כמשמעו כי הולידו והוא בן תשעים ואחת שנה"
+       }
+      ]
+     },
+     {
+      "text": "רשב\"ם: הוא היה אחרון לי\"א בנים, ובנימין נולד הרבה אחר כך, ולכן יוסף כבר היה בן זקונים זמן רב.",
+      "sources": [
+       {
+        "name": "Rashbam",
+        "ref": "Rashbam on Genesis 37:3:2",
+        "quote": "אבל בנימין לא נולד אחרי כן עד זמן מרובה"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: כל ילד שנולד אחרון נקרא 'זקונים' כי הוא פוסק עמו מלהוליד, זקן או לא.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 37:3:1",
+        "quote": "כל ילד שנולד לו אחרון נקרא זקונים בעבור שהוא פוסק עמו מלהוליד"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: נאמר 'לו' כי אצל אביו נהג יוסף כזקן, ואצל אחיו כנער.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:3:1",
+        "quote": "בהיותו אצל אביו הזקן היה עושה מעשה זקנה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את סיבת אהבת יעקב, שהאחים הרגישו בה."
+   },
+   {
+    "title": "למה יעקב עשה ליוסף כתונת פסים?",
+    "pasuk": {
+     "text": "ועשה לו כתנת פסים",
+     "ref": "Genesis 37:3",
+     "label": "בראשית לז, ג"
+    },
+    "question": "למה נאמר 'ועשה לו כתנת פסים', ולשם מה? ספורנו אומר שיעקב טעה בכך שהראה את אהבתו בגלוי.",
+    "asked_by": [
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:3:2",
+      "era": "acharon",
+      "quote": "למה הוצרך למכתב מה שעשה לו"
+     },
+     {
+      "name": "Sforno",
+      "ref": "Sforno on Genesis 37:4:1",
+      "era": "rishon",
+      "quote": "ובזה טעה יעקב לשנות לבן בין הבנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "גור אריה: נאמר 'ועשה' כדי ללמד שעל ידי זה עשה לו צרותיו, ולא ישנה אדם בנו בין הבנים.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 37:3:2",
+        "quote": "שלא ישנה אדם בנו בין הבנים"
+       }
+      ]
+     },
+     {
+      "text": "ספורנו: הכתונת הייתה אות שיוסף יהיה המנהיג בבית ובשדה.",
+      "sources": [
+       {
+        "name": "Sforno",
+        "ref": "Sforno on Genesis 37:3:1",
+        "quote": "לאות שיהיה הוא המנהיג בבית ובשדה"
+       }
+      ]
+     },
+     {
+      "text": "כלי יקר: אחר שבלבל ראובן יצועי אביו נטלה ממנו הבכורה ומסרה ליוסף, ועשה לו כתנת דומה לבגדי כהונה.",
+      "sources": [
+       {
+        "name": "Kli Yakar",
+        "ref": "Kli Yakar on Genesis 37:3:3",
+        "quote": "נטלה ממנו הבכורה ועכשיו מסרה ליוסף"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י (דבר אחר): 'פסים' על שם צרותיו, שנמכר לפוטיפר ולסוחרים ולישמעאלים ולמדינים.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:3:2",
+        "quote": "שנמכר לפוטיפר ולסוחרים ולישמעאלים ולמדינים"
+       }
+      ]
+     }
+    ],
+    "why": "זה הניצוץ הגלוי של שנאת האחים."
+   },
+   {
+    "title": "למה יוסף סיפר את חלומותיו לאחים ששנאו אותו?",
+    "pasuk": {
+     "text": "ויחלם יוסף חלום ויגד לאחיו",
+     "ref": "Genesis 37:5",
+     "label": "בראשית לז, ה"
+    },
+    "question": "יוסף ידע ששנאו אותו, ובכל זאת סיפר להם חלומות על שלטון. האור החיים שואל למה הגדיל את השנאה, והספורנו אומר שזו חסרון עצה של נער.",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:5:1",
+      "era": "acharon",
+      "quote": "צריך לדעת למה היה יוסף מגדיל השנאה במה שהיה מספר חלומות"
+     },
+     {
+      "name": "Sforno",
+      "ref": "Sforno on Genesis 37:5:1",
+      "era": "rishon",
+      "quote": "גם זה עשה מחסרון העצה כנער"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אור החיים: אולי נתכוון להודיע להם שמן השמים העלוהו למעלה, ובכך יחדלו משנוא אותו.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:5:1",
+        "quote": "נתכון להודיע אותם כי מן השמים העלוהו למעלה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: יוסף חשב שבספרו להם את חלומותיו ידונו בהם כאחים אוהבים.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:5:3",
+        "quote": "ויוסף חשב שבספרו חלומותיו להם ידונו בעצמן כי לבו שלם עמהם"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: אין להגיד חלום אלא לאוהב, ובכך הראה שהוא חושב אותם לאוהביו.",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 37:5:1",
+        "quote": "שאין להגיד חלום אלא לאוהב"
+       }
+      ]
+     },
+     {
+      "text": "גור אריה: כל כוונת יוסף שיהיו האחים פותרים לו את החלום.",
+      "sources": [
+       {
+        "name": "Gur Aryeh",
+        "ref": "Gur Aryeh on Bereishit 37:10:1",
+        "quote": "כל כוונת יוסף שיהיו האחים פותרים לו החלום"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל אם יוסף היה תמים, רשלן, או מקווה לשלום."
+   },
+   {
+    "title": "למה האחים אומרים פעמיים: 'מלך' ו'משול'?",
+    "pasuk": {
+     "text": "המלך תמלך עלינו אם משול תמשל בנו",
+     "ref": "Genesis 37:8",
+     "label": "בראשית לז, ח"
+    },
+    "question": "תשובת האחים כוללת שני כפלים, 'המלך תמלך' ו'אם משול תמשל'. למה שני סוגי שלטון?",
+    "asked_by": [
+     {
+      "name": "Or HaChaim",
+      "ref": "Or HaChaim on Genesis 37:8:1",
+      "era": "acharon",
+      "quote": "טעם כפל המלך אם משול"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבן עזרא: אנחנו נשימך מלך, או אתה תמשול בנו בחזקה.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:8:1",
+        "quote": "אנהנו נשימך מלך או אתה תמשול בנו בחזקה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: דעת אונקלוס נכונה יותר: לשניהם אדם משתחווה, ולכן 'לא תהיה עלינו לעולם לא מלך ולא מושל'.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 37:8:1",
+        "quote": "לא תהיה עלינו לעולם לא מלך ולא מושל"
+       }
+      ]
+     },
+     {
+      "text": "העמק דבר: מלוכה היא ברצון ובכבוד וממשלה בעל כורחו; אמרו: אם תמשול בנו, האם נקבל אותך למלך?",
+      "sources": [
+       {
+        "name": "Haamek Davar",
+        "ref": "Haamek Davar on Genesis 37:8:1",
+        "quote": "מלוכה הוא ברצון ובכבוד וממשלה הוא בע\"כ"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: מלכות היא ספק בפתרון וממשלה היא החלט, ולכן השיבו על ספק המלכות 'המלך' ועל החלט הממשלה 'אם משול'.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:8:1",
+        "quote": "כנגד מלכות אמרו המלך המסתפק אתה למלך"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מה האחים שמעו בחלום."
+   },
+   {
+    "title": "למה יעקב אומר 'אני ואמך' ורחל כבר מתה?",
+    "pasuk": {
+     "text": "הבוא נבוא אני ואמך ואחיך להשתחות לך ארצה",
+     "ref": "Genesis 37:10",
+     "label": "בראשית לז, י"
+    },
+    "question": "רחל כבר מתה, ולכן נראה שגערת יעקב 'הבוא נבוא אני ואמך' נשענת על טעות. רש\"י, רמב\"ן ואחרים שואלים מי היא 'אמך'.",
+    "asked_by": [
+     {
+      "name": "Rashi",
+      "ref": "Rashi on Genesis 37:10:3",
+      "era": "rishon",
+      "quote": "והלא אמך כבר מתה"
+     },
+     {
+      "name": "Gur Aryeh",
+      "ref": "Gur Aryeh on Bereishit 37:10:3",
+      "era": "acharon",
+      "quote": "מה היה התימה שאמר הבא נבא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י: לא ידע שהדברים מגיעין לבלהה שגדלתו כאמו; ורבותינו למדו שאין חלום בלא דברים בטלים; ויעקב נתכוון להוציא הדבר מלב בניו.",
+      "sources": [
+       {
+        "name": "Rashi",
+        "ref": "Rashi on Genesis 37:10:3",
+        "quote": "והוא לא היה יודע שהדברים מגיעין לבלהה שגדלתו כאמו"
+       }
+      ]
+     },
+     {
+      "text": "אבן עזרא: 'אני ואמך' הוא על בלהה שפחת אמו שגדלה אותו.",
+      "sources": [
+       {
+        "name": "Ibn Ezra",
+        "ref": "Ibn Ezra on Genesis 37:10:2",
+        "quote": "על בלהה שפחת אמו שגדלה אותו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ן: לדעתו בעת שירד יעקב למצרים כבר מתו בלהה וזלפה.",
+      "sources": [
+       {
+        "name": "Ramban",
+        "ref": "Ramban on Genesis 37:10:2",
+        "quote": "כי בעת שירד יעקב למצרים כבר מתה בלהה גם זלפה"
+       }
+      ]
+     },
+     {
+      "text": "אור החיים: לא יעלה על הדעת שבני יעקב תשיגם הגדלה מהאמות אלא מאביהם, ומעתה אין מציאות שישתחווה לו אביו, וסתר את החלום בפני האחים.",
+      "sources": [
+       {
+        "name": "Or HaChaim",
+        "ref": "Or HaChaim on Genesis 37:10:1",
+        "quote": "לא יעלה על הדעת כי בני יעקב תשיגם הגדלה מהאמות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך יעקב קרא את החלום וניסה להרגיע את בניו."
+   }
+  ],
+  "sources_consulted": [
+   "Abarbanel",
+   "Kli Yakar",
+   "Chizkuni",
+   "Ramban",
+   "Or HaChaim",
+   "Alshekh",
+   "Bereshit Rabbah",
+   "Midrash Lekach Tov",
+   "Gur Aryeh",
+   "Rashi",
+   "Sforno",
+   "Haamek Davar",
+   "Rashbam",
+   "Ibn Ezra"
+  ]
+ }
+}
